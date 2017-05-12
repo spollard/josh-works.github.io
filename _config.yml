@@ -19,9 +19,9 @@ permalink:           pretty
 # Setup
 title:               Josh Thompson
 tagline:             "#{self.tagline}"
-url:                 www.josh.works
+url:                 keeptryinghard.com
 paginate:            5
-baseurl:             ""
+baseurl:             "keeptryinghard.com"
 
 # pages in nav bar
 pages_list:
