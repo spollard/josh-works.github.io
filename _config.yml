@@ -13,20 +13,30 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Josh Thompson
-email: thompsonjoshd@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Josh Thompson's musings on climbing, tech, and other things.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: josh_works
-github_username:  josh-works
+# Permalinks
+permalink:           pretty
 
-# Build settings
-markdown: redcarpet
-theme: minima
-gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+# Setup
+title:               Poole
+tagline:             The Jekyll Butler
+url:                 http://getpoole.com
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
