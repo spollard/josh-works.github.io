@@ -23,7 +23,7 @@ twitter_username: josh_works
 github_username:  josh-works
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 theme: minima
 gems:
   - jekyll-feed
