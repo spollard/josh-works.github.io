@@ -38,11 +38,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Josh Thompson
+  url:               https://twitter.com/josh_works
+  email:             thompsonjoshd@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/josh-works/josh-works.github.io
