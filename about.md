@@ -18,7 +18,7 @@ You, too, have a theology. Statistically, it's probably "I don't care if there i
 
 This is totally fine with me. I'm not writing about theology, but in an effort to be "intellectually humble", I must outline my assumptions about the world, so you can evaluate them, weigh them, glean any possible value from them, then discard the rest.
 
-Here's my stab at a personal mission statement (though I'm only partially sold that I should have one):
+Here's my stab at a [personal mission statement](https://www.fastcompany.com/3026791/dialed/personal-mission-statements-of-5-famous-ceos-and-why-you-should-write-one-too) (though I'm only partially sold that I should have one):
 
 > Learn and apply as much as I can in all domains, embracing any failure as a learning opportunity, and humbly share my experiences with others to inspire them to do the same. I will expose myself to difficulty and risk in a wise fashion, knowing that this exposure is one of the best ways to learn.
 
@@ -26,7 +26,7 @@ Here's my stab at a personal mission statement (though I'm only partially sold t
 
 ## Relationships I
 
-My relationships are simple. I'm married, and it's the coolest thing. I don't know how to best sum it up, but far and away the best thing I've got going for me is Kristi. This relationship far outweighs other things that I spend a lot of time writing about, like money, travel, work, jobs, side projects, all combined. I don't know much about marriage, or relationships, but please fight fair.
+My relationships are simple. I'm married, and it's the coolest thing. I don't know how to best sum it up, but far and away the best thing I've got going for me is Kristi. This relationship far outweighs other things that I spend a lot of time writing about, like money, travel, work, jobs, side projects, all combined. I don't know much about marriage, or relationships, but please [fight fair](http://josh.works/home/2013/07/18/rules-for-fighting-fair/).
 
 
 
@@ -58,11 +58,11 @@ My primary side-project is [The Climber's Guide](http://www.climbersguide.co/), 
 
 ## Books and Wisdom
 
-My own thinking is severely limited, and the best way to learn to think better is to learn from those who think clearly.
+[My own thinking is severely limited](http://josh.works/2015/11/05/limitations-of-my-own-thinking/), and the best way to learn to think better is to learn from those who think clearly.
 
-Wise men and women pour themselves into writing a good book, which you can consume for mostly-free, and a few hours of your time. Books are doors into other people's heads and hearts, or into entirely new worlds. I cannot state concisely all the reasons that I think you should read, but here's a good starting point.
+Wise men and women pour themselves into writing a good book, which you can consume for mostly-free, and a few hours of your time. Books are doors into other people's heads and hearts, or into entirely new worlds. I cannot state concisely all the reasons that I think you should read, but [here's a good starting point](http://josh.works/growth/money/2016/03/31/everything-i-do-and-think-ive-read-in-a-book-or-exploring-the-relationship-between-books-and-money/).
 
-Oh, and I use a Kindle. I think you should too, but whatever it takes to help you read is fine with me.
+Oh, and I use a Kindle. [I think you should too](http://josh.works/2013/07/22/2013-07-22-why-i-use-a-kindle/), but whatever it takes to help you read is fine with me.
 
 
 
@@ -74,19 +74,19 @@ There are people out there who love exercise for the sake of exercise. While som
 
 I love to be miserable, but only on my terms. (My "suffering of choice" is almost entirely focused on rock climbing. I write about it on [climbersguide.co](http://climbersguide.co/). Join me.)
 
-There's no magic bullet, but there's a convenient way to get amazing exercise in just a few minutes, in the comfort of your own home. And body-weight anything doesn't cut it, unless it's related to pull-ups. Allow me to introduce Russian Kettlebell Swings.
+There's no magic bullet, but there's a convenient way to get amazing exercise in just a few minutes, in the comfort of your own home. And body-weight anything doesn't cut it, unless it's related to pull-ups. Allow me to introduce [Russian Kettlebell Swings](http://josh.works/growth/climbing/2013/05/09/2013-05-09-daily-exercise-russian-kettlebells/).
 
 If you were to do no other exercise for the rest of your life, but swing heavy kettle bells, you'd be in better shape than almost everyone you know, for only a modest time investment of 5-10 minutes, every other day.
 
 Food is the other half of the fitness equation. It is also the more important part of the equation. They say "bodies are built in the kitchen", and they're right.
 
-I don't know much about food, but I sure do have some opinions. The FDA's food pyramid is complete crap, and you should probably be eating more fatty stuff and butter. Stop drinking sugar.
+I don't know much about food, [but I sure do have some opinions](http://josh.works/home/2014/04/08/2014-04-08-why-i-eat-bacon-every-day-and-you-should-too/). The FDA's food pyramid is complete crap, and you should probably be eating more fatty stuff and butter. Stop drinking sugar.
 
 
 
 ## Miscellaneous
 
-Writing here is purely an exercise to improve my own thinking. It'll be ugly. I'm OK with this.
+Writing here is purely an exercise to improve my own thinking. It'll be ugly. [I'm OK with this](http://josh.works/2015/07/23/2015-7-22-type-publish-done/).
 
 Comments/questions/criticisms? I'm thompsonjoshd at google's popular email service.
 

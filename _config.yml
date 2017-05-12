@@ -18,8 +18,8 @@ permalink:           pretty
 
 # Setup
 title:               Josh Thompson
-tagline:             "#{self.tagline}"
-url:                 keeptryinghard.com
+tagline:             "Words about things"
+url:                 josh.works
 paginate:            5
 baseurl:             ""
 excerpt_separator:   <!--more-->
@@ -28,10 +28,9 @@ excerpt_separator:   <!--more-->
 pages_list:
   About: '/about'
   Archive: '/archive'
-  Subscribe: '/atom.xml'
+  # Subscribe: '/atom.xml'
 
 # Assets
-#
 # We specify the directory for Jekyll so we can use @imports.
 sass:
   sass_dir:          _sass
