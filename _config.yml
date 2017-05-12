@@ -21,7 +21,7 @@ title:               Josh Thompson
 tagline:             "#{self.tagline}"
 url:                 keeptryinghard.com
 paginate:            5
-baseurl:             "keeptryinghard.com"
+baseurl:             ""
 
 # pages in nav bar
 pages_list:
