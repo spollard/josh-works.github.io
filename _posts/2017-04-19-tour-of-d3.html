@@ -1,0 +1,150 @@
+---
+layout: post
+title: Tour of D3 for Clueless Folk Like Me
+categories:
+- programming
+tags:
+- d3
+- programming
+status: publish
+type: post
+published: true
+meta: {}
+---
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>D3 stands for <a href="https://en.wikipedia.org/wiki/D3.js">Data Driven Documents</a>, and it's the coolest thing ever.</p>
+<p>Check out a few examples:</p>
+<ul>
+<li>
+<a href="https://www.jasondavies.com/animated-bezier/">Animated, interactive curves</a>(dynamic)</li>
+<li>
+<a href="https://bl.ocks.org/mbostock/9539958">OMG Particles II</a>(dynamic)</li>
+<li>
+<a href="https://bl.ocks.org/mbostock/885fffe88d72b2a25c090e0bbbef382f">simple map of the us</a>(static) &lt;= data-preserve-html-node="true" very little code</li>
+<li>
+<a href="https://bl.ocks.org/mbostock/4739610f6d96aaad2fb1e78a72b385ab">Radial Dendrogram</a>(static)</li>
+<li>
+<a href="https://bl.ocks.org/mbostock/2d466ec3417722e3568cd83fc35338e3">circle wave</a>(dynamic)</li>
+<li>
+<a href="https://bl.ocks.org/mbostock/95aa92e2f4e8345aaa55a4a94d41ce37">Force-directed tree</a>(dynamic) &lt;= data-preserve-html-node="true" super cool</li>
+</ul>
+<p>So, this is the kind of stuff you can do with D3. The Front-end track at Turing gave a short lesson on D3, and I was one of two back-end folks participating. This was actually really encouraging, because they didn't know much about d3 either. </p>
+<p>So, lets dig into D3 a bit, and do two things:</p>
+<ol>
+<li>Get a running d3 map running locally (we're gonna use <a href="https://bl.ocks.org/mbostock/2d466ec3417722e3568cd83fc35338e3">circle wave</a>)</li>
+<li>Deconstruct a simple d3 project to it's minimum components, expecting that we'll learn something along the way.</li>
+</ol>
+<p>_Note to the reader: I know <em>almost nothing</em> about frontend tools. If you're comfortable on the front-end, bear with my ignorance. If you, too, know nothing about the front-end, great! This should be at your level._</p>
+<h1 id="running-circle-wave-locally">Running circle-wave locally</h1>
+<ul>
+<li>you'll need a text editor and a browser. I'm using Chrome and Atom.</li>
+<li>you'll need to be able to open up various files on your computer in Chrome and your text editor. My tool of choice is the command line + iterm + zsh. </li>
+</ul>
+<p>First, have a folder you can stick this all in. I've got <code>/d3/circle-wave/</code></p>
+<p>Next, open up the <a href="https://bl.ocks.org/mbostock/2d466ec3417722e3568cd83fc35338e3">circle wave project</a>. </p>
+<p>See where it says "index.html" on the page, followed by the code?</p>
+<p>Copy and paste all that into <code>index.html</code>. </p>
+<p>Save the file, and open it in chrome. <code>open -a "Google Chrome" index.html</code> or <code>open index.html</code>, run from the folder holding the file, should get it opened up for you. If it's opening it in finder or something, google around to figure out what works for you.</p>
+<p>At this point, you <em>should</em> have opened up the file on your machine. You'll know this because the URL is something like <code>file:///Users/joshthompson/turing/2mod/self_study/d3/circle_wave/index.html</code>, and you should see the circle-wave animation running.</p>
+<h2 id="breaking-things">Breaking things</h2>
+<p>Lets deconstruct what's going on a bit. Open up Chrome's Dev Tools (cmd+shift+i) and look at the code. Tab over to <code>elements</code>, and it should look pretty simple, pretty static.</p>
+<p>Next, lets <em>inspect</em> just the circle wave itself. Open up the "selection tool" (it's the mouse icon in a box on the top left side of your dev-tools toolbar. The shortcut is <code>cmd+shft+c</code> and mouseover <em>just</em> the circle itself. </p>
+<p>Now it's a bit strange. You should get a slowly-moving box with rapidly-changing x/y values:</p>
+<p><img src="https://cl.ly/3t2B3j0E450X/Screen%20Recording%202017-04-01%20at%2003.17%20PM.gif" alt="box doing stuff"></p>
+<p>When you click on it, you'll see the values in your HTML going bananas: </p>
+<p><img src="https://cl.ly/0m1p151z0u0p/index_html.png" alt="crazy scrolling values"></p>
+<p>it looks like all that is happening inside of the <code>&lt;path stroke="cyna" style="mix-blend-mode: darken;" d= {crazy values here}</code></p>
+<p>Lets play with these values for a bit. In the browser, double-click on the "cyan" element. (you might not be seeing cyan, but have a different color. it depends on which line you managed to click on above.) </p>
+<p>Change it to red, or green, or whatever. When I changed it (a few times) at one point the element got centered way away from everything else, and looked super crazy.</p>
+<p><img src="https://cl.ly/162A1j3O3d0O/index_html.png" alt="broke this line's centering"></p>
+<h2 id="d3-docs-console-changing-values">D3 Docs, console, changing values</h2>
+<p>Looking through the code, there's a few things that jump out at me:</p>
+<p>&lt;?prettify? data-preserve-html-node="true"&gt;</p>
+<pre data-preserve-html-node="true" class="prettyprint">  var t = d3.now() / 1000;
+</pre>
+
+<p>What's the <code>.now</code> method on d3? The <a href="https://github.com/d3/d3-timer/blob/master/README.md#now">docs</a> say it just picks the current time value, sorta like <code>Time.now</code> in Ruby. </p>
+<p>Popping into the dev tools console, lets try <code>d3.now()</code>. </p>
+<p>Ah, interesting. values. And in the code, it's calling <code>d3.now() / 1000;</code></p>
+<p>Looks like that returns a random number between (maybe) 1..100, with many decimal points. </p>
+<p>I'm gonna try "hardcoding" the <code>t</code> value in the code I've copied into Atom.</p>
+<p>When I changed</p>
+<pre><code class="lang-javascript">var t = d3.now() / 1000;</code></pre>
+<p>to </p>
+<pre><code class="lang-javascript">var t = 44.328915;</code></pre>
+<p>the animation is frozen. It just starts and doesn't move. So I think d3.now is pulling an <em>always new</em> value for time. This must be what makes the circle move at a consistent pace. (Or I'm totally wrong. who knows)</p>
+<p>That makes sense, though. Here's where that time variable is being used:</p>
+<pre><code class="lang-js">.radius(function(a) {
+   var t = d3.now() / 1000;
+   return 200 + Math.cos(a * 8 - i * 2 * Math.PI / 3 + t) * Math.pow((1 + Math.cos(a - t)) / 2, 3) * 32;
+   });</code></pre>
+<p>So <code>t</code> is talking to both <code>cos</code> functions. </p>
+<p>Digging into that <code>cos</code> function, I looked in the D3 docs, and it doesn't have a Math module. Turns out that's just JavaScript. <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/cos">JavaScript's Math.cos()</a> for the curious. </p>
+<h2 id="d3-curvelinearclosed">d3.curveLinearClosed</h2>
+<pre><code class="lang-js">return d3.radialLine()
+    .curve(d3.curveLinearClosed)
+    .angle(function(a) { return a; })
+    .radius(function(a) {
+      var t = d3.now() / 1000;
+      return 200 + Math.cos(a * 8 - i * 2 * Math.PI / 3 + t) * Math.pow((1 + Math.cos(a - t)) / 2, 3) * 32;
+    });</code></pre>
+<p>That <code>curveLinearClosed</code> is interesting. D3's docs indicate that <code>curveLinear</code> is also a valid option. Lets try it out.</p>
+<p><img src="https://cl.ly/2S153W1b1N36/index_html.png" alt="non-connected lines"></p>
+<p>Makes sense. The <a href="https://github.com/d3/d3-shape/blob/master/README.md#curveLinear">docs</a> say the difference between curveLinear and curveLinearClosed is if there's a line drawn between the first and last element in the line. </p>
+<p>the first var block looks interesting:</p>
+<pre><code class="lang-js">var svg = d3.select("svg"),
+    width = +svg.attr("width"),
+    height = +svg.attr("height"),
+    angles = d3.range(0, 2 * Math.PI, Math.PI / 200);</code></pre>
+<p>I'm curious about that <code>angles</code> value. d3.range(something complicated) gives... what exactly?</p>
+<p>Over to the console:</p>
+<pre><code>d3.range(0, 2 * Math.PI, Math.PI / 200);
+=&gt; Array[400]</code></pre>
+<p>Well, what's in the array?</p>
+<pre><code>x.forEach(
+    console.log)</code></pre>
+<p>(pardon my bad JavaScript syntax. I've not done much with it before today...)</p>
+<p>And that printed a <em>ton</em> of stuff to the console. </p>
+<p>Turns out theres a better way to see what's in an array. Just click the arrow next to it, and you can open it up.</p>
+<p>So, looks like this array is composed of four ranges: <code>[0...99],[100...199],[200...299],[300...399]</code>. Each of those has a bunch more values inside, like:</p>
+<pre><code>1: 0.015707963267948967
+2: 0.031415926535897934
+3: 0.0471238898038469
+4: 0.06283185307179587
+5: 0.07853981633974483
+6: 0.0942477796076938
+7: 0.10995574287564278
+8: 0.12566370614359174</code></pre>
+<p>Crazy. There's some mad mathing going on in here.</p>
+<p>OK, in <code>svg.append("g")</code>, that's how D3 talks to (or about) SVGs. it's "Grouping", I believe. </p>
+<p>Lets see how much we can delete and still have something working:</p>
+<p>&lt;?prettify? data-preserve-html-node="true"&gt;</p>
+<pre data-preserve-html-node="true" class="prettyprint">var path = svg.append("g")
+    .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")") // this centers the graphic inside of the viewable pane
+    .attr("fill", "none") // this fills the enter of the graphic with white. Loots really cool if you take it away.
+    .attr("stroke-width", 10) // width of the lines
+    .attr("stroke-linejoin", "round")
+  .selectAll("path")
+  .data(["cyan", "magenta", "yellow"])
+  .enter().append("path")
+    .attr("stroke", function(d) { return d; })
+
+    .datum(function(d, i) {
+      return d3.radialLine()
+          .curve(d3.curveLinearClosed)
+          .angle(function(a) { return a; })
+          .radius(function(a) {
+            var t = d3.now() / 1000;
+            return 200 + Math.cos(a * 8 - i * 2 * Math.PI / 3 + t) * Math.pow((1 + Math.cos(a - t)) / 2, 3) * 32;
+          });
+    });
+</pre>
+
+<p>That's it for now. Lots more to learn, but I think I'm ready to dig into some uber-basic D3 tutorials. It helps to know how to use the docs and look up anything uncertain.</p>
+<h3 id="further-reading-studying">Further reading/studying</h3>
+<ul>
+<li>Mike Bostock's <a href="https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c">command line cartography</a>
+</li>
+</ul>
+</body></html>
