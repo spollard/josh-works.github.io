@@ -89,3 +89,5 @@ I don't know much about food, but I sure do have some opinions. The FDA's food p
 Writing here is purely an exercise to improve my own thinking. It'll be ugly. I'm OK with this.
 
 Comments/questions/criticisms? I'm thompsonjoshd at google's popular email service.
+
+{% include newsletter.html %}

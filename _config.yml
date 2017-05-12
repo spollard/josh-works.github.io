@@ -22,12 +22,13 @@ tagline:             "#{self.tagline}"
 url:                 keeptryinghard.com
 paginate:            5
 baseurl:             ""
+excerpt_separator:   <!--more-->
 
 # pages in nav bar
 pages_list:
   About: '/about'
   Archive: '/archive'
-  Feed: '/atom.xml'
+  Subscribe: '/atom.xml'
 
 # Assets
 #

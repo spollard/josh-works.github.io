@@ -3,9 +3,8 @@ layout: post
 title:  "Finding an Edge"
 date:   2017-05-09 06:18:52 -0600
 categories: programming struggle
+permalink: finding-an-edge
 ---
-
-# I found a limit
 
 These last two weeks have been the hardest, or the most frustrating, of my time at Turing so far.
 
@@ -16,6 +15,9 @@ Several different people warned me that
 > Mod 3 is just like mod 1 in terms of difficulty
 
 I wasn't sure what to make of that, because Mod 1 wasn't too bad of a struggle. I think I gave myself a bad case of the "mismatched expectations".
+
+<!--more-->
+
 
 ## Expectations
 
@@ -54,3 +56,6 @@ Embrace uncertainty.
 Expect to learn a lot.
 
 Write it all down.
+
+
+{% include newsletter.html %}

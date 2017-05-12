@@ -1,17 +1,21 @@
 ---
 layout: post
-title: Tour of D3 for Clueless Folk Like Me
+title: Playing with the HTTP send/response cycle in Ruby, without Faraday
 categories:
 - programming
 tags:
-- d3
-- programming
+- ruby
+- gists
+- turing
 status: publish
 type: post
 published: true
 meta: {}
-permalink: tour-of-d3
+permalink: playing-with-http-send-response
+
 ---
+
+_note (that's me): I've written a lot over the last few months of Turing, but my <a href="https://gist.github.com/josh-works">list of public gists</a> is getting so long I can barely keep track of it. So, as I write longer things that I think might be useful to others (especially Turing students) I'm going to stick it here. If you're not interested in Turing or programming, it's safe to skip this particular post._
 D3 stands for [Data Driven Documents](https://en.wikipedia.org/wiki/D3.js), and it's the coolest thing ever.
 
 Check out a few examples:
@@ -31,7 +35,6 @@ So, lets dig into D3 a bit, and do two things:
 1. Get a running d3 map running locally (we're gonna use [circle wave](https://bl.ocks.org/mbostock/2d466ec3417722e3568cd83fc35338e3))
 2. Deconstruct a simple d3 project to it's minimum components, expecting that we'll learn something along the way.
 
-<!--more-->
 _Note to the reader: I know _almost nothing_ about frontend tools. If you're comfortable on the front-end, bear with my ignorance. If you, too, know nothing about the front-end, great! This should be at your level._
 
 # Running circle-wave locally
@@ -40,6 +43,8 @@ _Note to the reader: I know _almost nothing_ about frontend tools. If you're com
 - you'll need to be able to open up various files on your computer in Chrome and your text editor. My tool of choice is the command line + iterm + zsh.
 
 First, have a folder you can stick this all in. I've got `/d3/circle-wave/`
+
+<!--more-->
 
 Next, open up the [circle wave project](https://bl.ocks.org/mbostock/2d466ec3417722e3568cd83fc35338e3).
 
@@ -180,3 +185,32 @@ Crazy. There's some mad mathing going on in here.
 OK, in `svg.append("g")`, that's how D3 talks to (or about) SVGs. it's "Grouping", I believe.
 
 Lets see how much we can delete and still have something working:
+
+
+```js
+var path = svg.append("g")
+    .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")") // this centers the graphic inside of the viewable pane
+    .attr("fill", "none") // this fills the enter of the graphic with white. Loots really cool if you take it away.
+    .attr("stroke-width", 10) // width of the lines
+    .attr("stroke-linejoin", "round")
+  .selectAll("path")
+  .data(["cyan", "magenta", "yellow"])
+  .enter().append("path")
+    .attr("stroke", function(d) { return d; })
+
+    .datum(function(d, i) {
+      return d3.radialLine()
+          .curve(d3.curveLinearClosed)
+          .angle(function(a) { return a; })
+          .radius(function(a) {
+            var t = d3.now() / 1000;
+            return 200 + Math.cos(a * 8 - i * 2 * Math.PI / 3 + t) * Math.pow((1 + Math.cos(a - t)) / 2, 3) * 32;
+          });
+    });
+ ```
+
+That's it for now. Lots more to learn, but I think I'm ready to dig into some uber-basic D3 tutorials. It helps to know how to use the docs and look up anything uncertain.
+
+### Further reading/studying
+
+- Mike Bostock's [command line cartography](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c)
