@@ -46,3 +46,6 @@ author:
 version:             2.0.0
 github:
   repo:              https://github.com/josh-works/josh-works.github.io
+
+  # twitter plugin gem
+gems: ['jekyll-twitter-plugin']

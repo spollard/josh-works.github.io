@@ -11,6 +11,7 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
    gem 'redcarpet'
    gem 'jekyll-paginate'
+   gem 'jekyll-twitter-plugin'
 end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
