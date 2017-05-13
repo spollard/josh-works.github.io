@@ -49,4 +49,5 @@ github:
   repo:              https://github.com/josh-works/josh-works.github.io
 
   # twitter plugin gem
-gems: ['jekyll-twitter-plugin']
+gems:
+  - jekyll-twitter-plugin
