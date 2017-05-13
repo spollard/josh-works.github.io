@@ -23,6 +23,7 @@ url:                 josh.works
 paginate:            5
 baseurl:             ""
 excerpt_separator:   <!--more-->
+future: true
 
 # pages in nav bar
 pages_list:
