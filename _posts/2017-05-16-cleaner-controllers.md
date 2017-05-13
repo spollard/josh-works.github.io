@@ -129,7 +129,6 @@ We'll have to update a few files for each of these changes:
 
 So, swap everything around, and all the tests still pass, and our routes are way more readable:
 
-![tests pass](https://cl.ly/2w2R2D0s2s15/1__joshthompson_Joshs-MBP-55____turing_3mod_projects_rails_engine__zsh_.jpg)
 
 
 ## Update
@@ -257,6 +256,9 @@ I didn't pull out the last few references to merchants, because, well, I'm short
 
 
 
+![tests pass](https://cl.ly/2w2R2D0s2s15/1__joshthompson_Joshs-MBP-55____turing_3mod_projects_rails_engine__zsh_.jpg)
+
+Tests still pass! Wahoo
 
 
 
