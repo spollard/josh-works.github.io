@@ -135,7 +135,7 @@ So, swap everything around, and all the tests still pass, and our routes are way
 
 So someone suggested a way to refactor even more.
 
-(I'd embedded the tweet, but getting build failures for a liquid tag that works locally but not on GH, seemingly...)
+![DRY out routes](https://d3vv6lp55qjaqc.cloudfront.net/items/0u2z2e1g131u0z450Q0I/%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BD%89%EF%BD%86%EF%BD%89%EF%BD%85%EF%BD%84_%EF%BC%A1%EF%BD%83%EF%BD%83%EF%BD%8F%EF%BD%95%EF%BD%8E%EF%BD%94_on_Twitter____josh_works__sehurlburt_Nice__Btw__to_make_it_more_DRY__you_can_omit_path_reference__Rails_will_use_the_route_name_by_default__.png?v=036b7b13)
 
 What's that? A chance for even *more* refactoring?
 
