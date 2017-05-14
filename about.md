@@ -90,4 +90,12 @@ Writing here is purely an exercise to improve my own thinking. It'll be ugly. [I
 
 Comments/questions/criticisms? I'm thompsonjoshd at google's popular email service.
 
+I'm other places, too:
+
+- [Twitter](https://twitter.com/josh_works)
+- [Github](https://github.com/josh-works)
+- [GoodReads](https://www.goodreads.com/review/list/27372191?shelf=read&sort=date_read)
+- [Instagram](https://www.instagram.com/josh.works/)
+- [LinkedIn](https://www.linkedin.com/in/joshworks/)
+
 {% include newsletter.html %}
