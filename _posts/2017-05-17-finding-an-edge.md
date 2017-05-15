@@ -71,6 +71,3 @@ This week did not do irreparable damage to my employability (I don't think) so t
 - Expect to learn a lot
 - Write it all down
 - Repetition repetition repetition
-
-
-{% include newsletter.html %}

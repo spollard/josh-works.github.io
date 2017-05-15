@@ -259,7 +259,3 @@ I didn't pull out the last few references to merchants, because, well, I'm short
 ![tests pass](https://cl.ly/2w2R2D0s2s15/1__joshthompson_Joshs-MBP-55____turing_3mod_projects_rails_engine__zsh_.jpg)
 
 Tests still pass! Wahoo
-
-
-
-{% include newsletter.html %}
