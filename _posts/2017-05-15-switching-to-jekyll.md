@@ -8,7 +8,7 @@ permalink: switching-to-jekyll
 
 A few days ago, I was _really_ feeling the urge to write a short little blog post. So, I put it in a [gist](https://gist.github.com/josh-works) on Github.
 
-I'm an advocate of writing publicly, and making it a habit, so why was I putting it in a gist?
+I'm an advocate of writing publicly, and making it a habit, so why was I putting it in a gist, instead of here, on my website, where I theoretically can write and publish _anything I want_?
 
 _Friction_
 
