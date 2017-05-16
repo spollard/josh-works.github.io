@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![A picture of Josh Thompson](/images/2016_litmus_9.jpg)
+
 When I die (or, rather, a little before I die, if I have time to be contemplative about my death) I plan on reflecting back on my life.
 
 I expect that my peace with life will be based not on how much I've worked, or how much money I've made, but will be based on a mix of my relationships and experiences as informed by my theology.
