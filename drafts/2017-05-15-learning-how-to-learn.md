@@ -9,17 +9,25 @@ permalink: learning-how-to-learn-programming
 
 I've recently been thinking about learning how to learn, specifically in the context of software development.
 
-I am a bit hyperactive when it comes to trying to learn new things. Over the years, I've done a lot of _inneffective_ learning, and at least a little bit of _effective_ learning. The good news is that even as I've not learned most of the topics I've originally set out to learn, I have learned quite a bit about _learning_. (Does this make it "metalearning"?)
+I am a bit hyperactive when it comes to trying to learn new things. Over the years, I've done plenty of ineffective learning, and at least a little bit of _effective_ learning. The good news is that even as I've not learned most of the topics I've originally set out to learn, I have learned a bit about _learning_. (Does this make it "metalearning"?)
 
 I'm defining "learning" or "learning a topic" as _to be able to rearrange or reorganize or reuse the idea in new ways to resolve unstructured problems I face_.
 
-This "rearranging/reorganizing" and "unstructured problems" explicitly excludes the kind of learning most of us have done when we were young, where we just tried to have the right answer for fill-in-the-blank questions like "In _____(year) Christopher Columbus sailed the ocean blue"
+<!--more-->
 
-If you have to learn things that you don't know now, read on.
+This "rearranging/reorganizing" and "unstructured problems" explicitly excludes the kind of learning most of us have done when we were young, where we just tried to have the right answer for fill-in-the-blank questions like "In _____(year) Christopher Columbus sailed the ocean blue".
 
 ## Overview of Process
 
 All things worth doing should fit into some sort of process. If there's no process, I'm just shooting in the dark, hoping to hit something. That said, the right process is almost always not the first thing I try, and I'm usually skeptical of "expert advice", for many reasons. So, I like to try to pick a reasonable starting point, and experiment with process from there.
+
+Additionally, even a loosely-defined process reduces friction to attempting the thing. If, every time I came across a difficult concept in programming, I had to decide how to approach learning it, I'd waste time and energy deciding how to learn the thing.
+
+But, since I have a process, as imperfect as it is, I can just say "ah, a hard thing. Time to attack it with my six-step process to learning difficult things".
+
+[The difficult work of making it easy](link to blog post)
+[Make hard things easy by removing friction](link to post by the same name)
+[if you can learn anything should you](post by same name) (I've been trying to learn since 2013!!!)
 
 Here's my _current_ iteration of "how to learn difficult things"
 
@@ -51,7 +59,7 @@ The arrows are the core piece of finding and identifying _relationships_ inside 
 
 The process of writing code out, by hand, helps me identify the many wrong assumptions I make about the code as I am reading it. It's critical to me, but most people don't take these sorts of paper notes, so I might be an outlier. Everyone in the class is learning the same stuff, and learning it well.
 
-### Write down again, at a higher level, the involved pieces.
+### 4. Write down again, at a higher level, the involved pieces.
 
 At this point, I might just be writing down the involved object types, and their associated methods. I.E. I am for a "cheat cheet" of notes that I can look at and refresh my entire knowledge of the topic. This means instead of individual code blocks, I might list the flow or progression of the code execution through the application, noting what are the involved files and pieces.
 
@@ -67,11 +75,11 @@ For user authentication, it will touch:
 
 I capture each of these pieces on paper. This way I've got a detailed and higher-level mental model of what is happening.
 
-### Get a few "reps" of implementation.
+### 5. Get a few "reps" of implementation.
 
 If I was following a tutorial, I'll delete the work I just did and implement again, without referring to anything but my paper notes. (This is a sanity check to make sure I captured the right information on paper. Often I've not caught enough, so I modify my notes.)
 
-### Capture some of the high and low level details in Anki.
+### 6. Capture some of the high and low level details in Anki.
 
 (more on that below, but... I love Anki.)
 
@@ -106,8 +114,16 @@ I put all sorts of information in Anki. At the moment I have about 850 programmi
 
 I am completely confident that I have not found the ideal workflow around creating and memorizing Anki cards. I'm still trying to improve this process, but the benefit from using Anki far outweighs for me any cost of having less-than-perfect cards.
 
+My Anki workflow has two steps:
 
+1. Make the Anki cards (on my laptop)
+2. Review the Anki cards (on my phone)
 
+I can review my Anki cards anywhere. In line for something, in the bathroom (yes), on the train, while I'm waiting for my food to microwave, etc.
+
+I normally hate to be the person staring at his phone all day, but since I'm usually on Anki, I now embrace it.
+
+I spend about 30 minutes (sometimes 45) studying Anki, per [this app](app url), and it's all in little snippets of time grabbed here and there
 
 
 ### Resources
@@ -118,3 +134,4 @@ I am completely confident that I have not found the ideal workflow around creati
 - [Mind for Numbers(book)](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X)
 - [Detailed summary of the above book](http://www.fullerton.edu/LearningAssistance/Review-and-Summary-of-A-Mind-for-Numbers.pdf)
 - [JANKI METHOD: Using spaced repetition systems to learn and retain technical knowledge.](http://www.jackkinsella.ie/articles/janki-method)
+- [Learning without a Mentor: how to become an expert programmer on your own](https://codewithoutrules.com/2017/04/17/learning-without-a-mentor/)
