@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  "Workflow for developers"
-date:   17-05-27-06:18:52 -0600
+title:  "Workflow for developers (AKA My current tools)"
+date:   17-05-29-06:18:52 -0600
 categories: [programming tools]
 permalink: developer-workflow
 ---
+
+  I'm a huge fan of "a good workflow". Makes you think better.
+
+  This is still under construction, but I'm fleshing out all the tools, tidbits, and other things that serve me well every day as I build my skills as a developer. It will always be a work in progress, but will hopefully serve others.
 
 Sections
 
