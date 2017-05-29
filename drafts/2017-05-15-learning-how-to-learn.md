@@ -3,7 +3,7 @@ layout: post
 title:  "On Learning"
 date:   2017-05-14 06:18:52 -0600
 categories: programming learning
-permalink: learning-how-to-learn-programming
+permalink: learning-how-to-learn
 ---
 
 
