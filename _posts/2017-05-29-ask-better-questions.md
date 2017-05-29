@@ -12,7 +12,7 @@ permalink: better-questions
 > - asking good questions
 > - having a good workflow
 >
-> After the session, I promised an overview of what we discussed. Here's that overview for "Asking good questions". [Get info on "having a good workflow" here](/developer-workflow/)
+> After the session, I promised an overview of what we discussed. Here's that overview for "Asking good questions". [Get info on "having a good workflow" here](/developer-workflow)
 >
 
 

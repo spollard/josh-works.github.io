@@ -10,6 +10,8 @@ permalink: developer-workflow
 
   This is still under construction, but I'm fleshing out all the tools, tidbits, and other things that serve me well every day as I build my skills as a developer. It will always be a work in progress, but will hopefully serve others.
 
+  <!--more-->
+
 Sections
 
 - Small desktop/OS tweaks
@@ -18,6 +20,8 @@ Sections
 - tab management
   - "the great suspender" <- chrome
   - cmd+shft+[] to cycle tabs (chrome/atom)
+- clipboard management
+  - jumpcut
 - iterm
   - cmd+d/cmd+shft+d
   - optimize prompt for useful information (current branch, PWD)
