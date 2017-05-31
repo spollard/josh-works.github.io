@@ -10,6 +10,8 @@ I'm a huge fan of "a good workflow". Makes you think better.
 
 This is still under construction, but I'm fleshing out all the tools, tidbits, and other things that serve me well every day as I build my skills as a developer. It will always be a work in progress, but will hopefully serve others.
 
+Last updated 05/31/17. If you're curious, version history [here](https://github.com/josh-works/josh-works.github.io/commits/master/_posts/2017-05-27-developer-workflow.md)
+
 <!--more-->
 
 Workflow is more than just tools. It encompasses [how you ask questions](/better-questions) and [how you integrate new knowledge](/learning-how-to-learn). This page will be a running list of tools and workflows that I use regularly.
@@ -29,13 +31,13 @@ Workflow is more than just tools. It encompasses [how you ask questions](/better
   - [`!foo` pulls last command that started with `foo`](#pulling-up-previous-commands)
   - [keybindings to allow quick cursor movement](#navigate-iterm-output-quickly)
   - [global key binding to open iTerm from anywhere](#global-key-binding)
-  - [set new tabs/panes to open from current working directory](#reuse-current-working-directory-for-new-tabs-panes)
+  - [set new tabs/panes to open from current working directory](#reuse-current-working-directory-for-new-tabspanes)
 
 ### Git/Github
   - [on group projects that need a "stable" branch at all times - set default branch to "staging"](#use-a-staging-branch-for-group-work)
   - PR Template
   - [Minimize unnecessary merge conflicts by pulling in `staging/master` before making PR](#always-merge-staging-into-your-branch-before-making-a-pull-request)
-  - [Display current branch in terminal prompt]((#optimize-for-information))
+  - [Display current branch in terminal prompt](#optimize-for-information))
 
 ### Chrome
   - [Chrome Extensions, like The Great Suspender, Vimium, etc](#extensions)
@@ -43,8 +45,8 @@ Workflow is more than just tools. It encompasses [how you ask questions](/better
 
 
 ### applications (some free, some not)
-  - Dash: offline (and instant) documentation
-  - Alfred w/Powerpack: do all the things
+  - [Dash: offline (and instant) documentation](#dash-documentation-that-doesnt-suck)
+  - [Alfred w/Powerpack: do all the things](#alfred-do-anything-on-your-computer)
   - Flux (free)
   - TextExpander: expand commonly used chunks of text
   - Skitch (screenshots)
@@ -97,7 +99,7 @@ Copy-paste makes the world go around. What if you want to copy two things to you
 
 Or what if you copied a URL, and then a few minutes later (and after putting more stuff on your clipboard) you decided you wanted that URL again?
 
-Enter "Clipboard buffering". With [JumpCut]() (it's free), you can cycle back through the last 40 items you've copied to your clipboard.
+Enter "Clipboard buffering". With [JumpCut](http://jumpcut.sourceforge.net/) (it's free), you can cycle back through the last 40 items you've copied to your clipboard.
 
 _I use this tool many times a day_
 
@@ -109,9 +111,9 @@ _I use this tool many times a day_
 
 We spend all day moving between programs and windows. Surprise surprise, there are some great tools for customizing how your desktop looks.
 
-I use [Moom](), others use [Spectacle](). I prefer Moom because it has a bit more customization, but it's up to you. Both are free.
+I use [Moom](https://manytricks.com/moom/), others use [Spectacle](https://www.spectacleapp.com/). I prefer Moom because it has a bit more customization, but it's up to you. Both are free.
 
-<img src="/images/17-05-31-moom.jpg" alt="Moom defaults" style="width: 400px; margin: 0 auto; display: block;">
+<img src="/images/17-05-31-moom.jpg" alt="Moom defaults" style="width: 650px; margin: 0 auto; display: block;">
 
 #### Spectacle video
 [Regis gives a great overview of using Atom and Spectacle shortcuts (YouTube)](https://www.youtube.com/watch?v=uulWZVXOuxs&list=PLwJTr6-X6O0SX5YOVZx_c7GkZPOM-eTwN&index=1)
@@ -255,29 +257,29 @@ There's some keyboard shortcuts I use all the time for Chrome. Don't try to use 
 
 ## Extensions
 
-- [The Great Suspender]() will "put to sleep" inactive tabs. Chrome is a bit of a resource hog, and this seems to help it consume less energy.
-- [Vimium]() gets you Vim-like navigation around your browser. I use it mostly to move up/down a page and to "click" links with the keyboard, but it can do much more than that.
-- [uBlock]() is an Ad-blocker, closely related to uBlock origin. I love it. Cuts down on the visual clutter that tends to crop up on pages, and has some other cool tools. (Similar to Chrome's "element selector", you can click an element with uBlock and add it to a black-list, so you'll never see that pop-up/interstitial again)
+- [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en) will "put to sleep" inactive tabs. Chrome is a bit of a resource hog, and this seems to help it consume less energy.
+- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en) gets you Vim-like navigation around your browser. I use it mostly to move up/down a page and to "click" links with the keyboard, but it can do much more than that.
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) is an Ad-blocker, closely related to (but very much distinct) [uBlock](https://www.reddit.com/r/ublock/comments/32mos6/ublock_vs_ublock_origin/). I love it. Cuts down on the visual clutter that tends to crop up on pages, and has some other cool tools. (Similar to Chrome's "element selector", you can click an element with uBlock and add it to a black-list, so you'll never see that pop-up/interstitial again)
 
 # Applications
 
 ### Dash: Documentation that doesn't suck
 
-[Dash]() is an application that lets you download documentation for just about anything with documentation. I regularly use docs for Ruby, Rails, HTML, CSS, Sass, JavaScript, and more. With Dash, I don't have to hop into a browser and google for things, because it's already installed locally, and is searchable.
+[Dash](https://kapeli.com/dash) is an application that lets you download documentation for just about anything with documentation. I regularly use docs for Ruby, Rails, HTML, CSS, Sass, JavaScript, and more. With Dash, I don't have to hop into a browser and google for things, because it's already installed locally, and is searchable.
 
 It's not free, but I find it worth it. (It has a free-to-use mode that makes you wait a short period of time before using it.)
 
 ### Alfred: Do anything on your computer
 
-[AlfredApp]() is my favorite program on my computer, by miles. It replaces your "omnibar", or whatever pops up when you hit `cmd-space`. Alfred's workflows are where the real power shows.
+[AlfredApp](https://www.alfredapp.com/) is my favorite program on my computer, by miles. It replaces your "omnibar", or whatever pops up when you hit `cmd-space`. Alfred's workflows are where the real power shows.
 
 I can't give it a fraction of the praise it deserves, so here's some "getting started with Alfred" guides that might convince you to give it a whirl.
 
 The powerpack extension is not free, but the base application is free. It's a big step up from the default mac omnisearch thing.
 
-- []()
-- []()
-- []()
+- [Beginners guide to Alfred](https://www.alfredapp.com/blog/tips-and-tricks/beginners-guide-to-alfred-searching-your-mac-and-the-web/)
+- [Lifehacker: Beginners guide to Alfred](http://lifehacker.com/a-beginners-guide-to-mouseless-computing-with-alfred-1596198655)
+- [Some Starter Workflows](https://www.maketecheasier.com/alfred-workflows-mac/)
 
 
 
