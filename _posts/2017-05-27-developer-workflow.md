@@ -35,9 +35,9 @@ Workflow is more than just tools. It encompasses [how you ask questions](/better
 
 ### Atom
   - [Misc valuable (to me) packages](#atom)
-  - [split screen](#splitting-screens-for-fun-and-profit)
-  - [insert new line above/below](#new-lines-where-you-want-them)
-  - [global find](#find-all-the-things)
+  - [Split screens](#splitting-screens-for-fun-and-profit)
+  - [Insert new line above/below](#new-lines-where-you-want-them)
+  - [Global Find](#find-all-the-things)
 
 ### Git/Github
   - [on group projects that need a "stable" branch at all times - set default branch to "staging"](#use-a-staging-branch-for-group-work)
