@@ -10,7 +10,7 @@ I'm a huge fan of "a good workflow". Makes you think better.
 
 This is still under construction, but I'm fleshing out all the tools, tidbits, and other things that serve me well every day as I build my skills as a developer. It will always be a work in progress, but will hopefully serve others.
 
-Last updated 05/31/17. If you're curious, version history [here](https://github.com/josh-works/josh-works.github.io/commits/master/_posts/2017-05-27-developer-workflow.md)
+Last updated 06/02/17. If you're curious, version history [here](https://github.com/josh-works/josh-works.github.io/commits/master/_posts/2017-05-27-developer-workflow.md)
 
 <!--more-->
 
@@ -216,17 +216,18 @@ First, check out [Regis' Atom/Spectacle shortcuts video](https://www.youtube.com
 
 Next, a few packages I like:
 
-- [Advanced-open-file](): Create new directories/files inside of Atom. No need to jump to your terminal.
-- [indent-guide-improved]()
-- [minimap]()
-- [minimap-autohide]
-- [sublime-style-column-selection]()
+- [Advanced-open-file](https://atom.io/packages/advanced-open-file): Create new directories/files inside of Atom. No need to jump to your terminal.
+- [indent-guide-improved](https://atom.io/packages/indent-guide-improved)
+- [minimap](https://atom.io/packages/minimap)
+- [multi-cursor](https://atom.io/packages/multi-cursor)
+
 
 ### Splitting Screens for fun and profit
 
-[link to gist talking about drills]()
-A few other guides to split screens
-Nav between split screens/panes
+- [Split screens/panes and move between them](http://flight-manual.atom.io/using-atom/sections/panes/)
+- [Atom getting started guide](https://readwrite.com/2014/05/20/github-atom-5-tips-getting-started-tutorial-corey-johnson/)
+- [Regis' Atom/Spectacle shortcuts video](https://www.youtube.com/watch?v=uulWZVXOuxs&list=PLwJTr6-X6O0SX5YOVZx_c7GkZPOM-eTwN&index=1)
+
 
 ### New lines where you want them
 
