@@ -33,9 +33,15 @@ Workflow is more than just tools. It encompasses [how you ask questions](/better
   - [global key binding to open iTerm from anywhere](#global-key-binding)
   - [set new tabs/panes to open from current working directory](#reuse-current-working-directory-for-new-tabspanes)
 
+### Atom
+  - [Misc valuable (to me) packages](#atom)
+  - [split screen](#splitting-screens-for-fun-and-profit)
+  - [insert new line above/below](#new-lines-where-you-want-them)
+  - [global find](#find-all-the-things)
+
 ### Git/Github
   - [on group projects that need a "stable" branch at all times - set default branch to "staging"](#use-a-staging-branch-for-group-work)
-  - PR Template
+  - Pull Request Template
   - [Minimize unnecessary merge conflicts by pulling in `staging/master` before making PR](#always-merge-staging-into-your-branch-before-making-a-pull-request)
   - [Display current branch in terminal prompt](#optimize-for-information))
 
@@ -47,23 +53,9 @@ Workflow is more than just tools. It encompasses [how you ask questions](/better
 ### applications (some free, some not)
   - [Dash: offline (and instant) documentation](#dash-documentation-that-doesnt-suck)
   - [Alfred w/Powerpack: do all the things](#alfred-do-anything-on-your-computer)
-  - Flux (free)
-  - TextExpander: expand commonly used chunks of text
-  - Skitch (screenshots)
-  - Cloudapp (gifs, sharing files)
-  - PIA (VPN)
-  - Barkeeper (control menu items)
+  - [Flux (free)](#flux-save-your-eyes)
+  - [PIA (VPN)](#browsing-securely-with-pia)
 
-### atom
-  - create directories/files from inside of Atom
-  - "lightweight" ruby linter
-  - show whitespace
-  - toggle tree view
-  - split screen
-  - move between panes (and tabs)
-  - insert new line above/below
-  - cmd+d/u
-  - global find
 
 --------------------
 
@@ -213,6 +205,43 @@ The fix is easy. Set iTerm to use your "Present Working Directory" for new panes
 
 <img src="/images/17-05-30-iterm_2.jpg" alt="Keyboard Settings" style="width: 400px; margin: 0 auto; display: block;">
 
+### Misc
+- [Regis' iTerm tutorial (YouTube)](https://www.youtube.com/watch?v=d3gujjfzAfw&list=PLwJTr6-X6O0SX5YOVZx_c7GkZPOM-eTwN&index=3)
+
+# Atom
+
+I spend quite a bit of time in Atom every day. It's a big piece to bite off, so I'm not going to go into too much depth, and will let others do most of the talking.
+
+First, check out [Regis' Atom/Spectacle shortcuts video](https://www.youtube.com/watch?v=uulWZVXOuxs&list=PLwJTr6-X6O0SX5YOVZx_c7GkZPOM-eTwN&index=1)
+
+Next, a few packages I like:
+
+- [Advanced-open-file](): Create new directories/files inside of Atom. No need to jump to your terminal.
+- [indent-guide-improved]()
+- [minimap]()
+- [minimap-autohide]
+- [sublime-style-column-selection]()
+
+### Splitting Screens for fun and profit
+
+[link to gist talking about drills]()
+A few other guides to split screens
+Nav between split screens/panes
+
+### New lines where you want them
+
+`cmd-enter` makes a new line under your cursor, and places your cursor there. `cmd-shift-enter` makes a new line above your cursor, also places your cursor there.
+
+### Find all the things
+
+Have you ever had a spelling error, but you're not sure where in your project it is?
+
+You're familiar with `cmd-f`, or "find within document". You should also use the related `cmd-shift-f`, or "find within project". Atom will search your entire project (everything that is in the sidebar) for whatever criteria you give it.
+
+If you misspelled a method somewhere and don't recall where, use global find to get find it.
+
+It's got many, many uses. You'll find them all.
+
 # Git/Github
 
 Oh boy. Git. It's the most amazing thing ever, but it can be intimidating.
@@ -281,8 +310,15 @@ The powerpack extension is not free, but the base application is free. It's a bi
 - [Lifehacker: Beginners guide to Alfred](http://lifehacker.com/a-beginners-guide-to-mouseless-computing-with-alfred-1596198655)
 - [Some Starter Workflows](https://www.maketecheasier.com/alfred-workflows-mac/)
 
+### Flux: Save your eyes
 
+[Flux]() is a neat little utility that increases the "warmth" of your laptop screen at night. It will save you a bunch of eye strain.
+
+### Browsing securely with PIA
+
+Do you use coffee shop wifi? If so, especially once you're working on someone else's product, you should consider using a Virtual Private Network.
+
+It secures your traffic from snooping, even from others who are using the network, and the network provider itself. I've been using [PIA]() for two years (it's ~$30/year) and am quite happy with it.
 
 ### Links
-- [Regis' iTerm tutorial (YouTube)](https://www.youtube.com/watch?v=d3gujjfzAfw&list=PLwJTr6-X6O0SX5YOVZx_c7GkZPOM-eTwN&index=3)
 - [Regis' Atom/Spectacle shortcuts (YouTube)](https://www.youtube.com/watch?v=uulWZVXOuxs&list=PLwJTr6-X6O0SX5YOVZx_c7GkZPOM-eTwN&index=1)
