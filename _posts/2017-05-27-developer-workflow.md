@@ -16,6 +16,8 @@ Last updated 06/02/17. If you're curious, version history [here](https://github.
 
 Workflow is more than just tools. It encompasses [how you ask questions](/better-questions) and [how you integrate new knowledge](/learning-how-to-learn). This page will be a running list of tools and workflows that I use regularly.
 
+-------------------
+
 ## Topics
 
 ### Small desktop/OS tweaks, misc utilities
@@ -34,7 +36,7 @@ Workflow is more than just tools. It encompasses [how you ask questions](/better
   - [set new tabs/panes to open from current working directory](#reuse-current-working-directory-for-new-tabspanes)
 
 ### Atom
-  - [Misc valuable (to me) packages](#atom)
+  - [Misc valuable (to me) packages](#useful-packages)
   - [Split screens](#splitting-screens-for-fun-and-profit)
   - [Insert new line above/below](#new-lines-where-you-want-them)
   - [Global Find](#find-all-the-things)
@@ -54,7 +56,7 @@ Workflow is more than just tools. It encompasses [how you ask questions](/better
   - [Dash: offline (and instant) documentation](#dash-documentation-that-doesnt-suck)
   - [Alfred w/Powerpack: do all the things](#alfred-do-anything-on-your-computer)
   - [Flux (free)](#flux-save-your-eyes)
-  - [PIA (VPN)](#browsing-securely-with-pia)
+  - [PIA (VPN)](#browsing-securely-with-a-vpn)
 
 
 --------------------
@@ -108,7 +110,11 @@ I use [Moom](https://manytricks.com/moom/), others use [Spectacle](https://www.s
 <img src="/images/17-05-31-moom.jpg" alt="Moom defaults" style="width: 650px; margin: 0 auto; display: block;">
 
 #### Spectacle video
-[Regis gives a great overview of using Atom and Spectacle shortcuts (YouTube)](https://www.youtube.com/watch?v=uulWZVXOuxs&list=PLwJTr6-X6O0SX5YOVZx_c7GkZPOM-eTwN&index=1)
+
+- [Regis gives a great overview of using Atom and Spectacle shortcuts (YouTube)](https://www.youtube.com/watch?v=uulWZVXOuxs&list=PLwJTr6-X6O0SX5YOVZx_c7GkZPOM-eTwN&index=1)
+
+
+-----------------------
 
 # iTerm
 
@@ -208,11 +214,18 @@ The fix is easy. Set iTerm to use your "Present Working Directory" for new panes
 ### Misc
 - [Regis' iTerm tutorial (YouTube)](https://www.youtube.com/watch?v=d3gujjfzAfw&list=PLwJTr6-X6O0SX5YOVZx_c7GkZPOM-eTwN&index=3)
 
+----------------------------
+
 # Atom
 
 I spend quite a bit of time in Atom every day. It's a big piece to bite off, so I'm not going to go into too much depth, and will let others do most of the talking.
 
-First, check out [Regis' Atom/Spectacle shortcuts video](https://www.youtube.com/watch?v=uulWZVXOuxs&list=PLwJTr6-X6O0SX5YOVZx_c7GkZPOM-eTwN&index=1)
+Here's some useful starting points if you're getting up and running with Atom:
+
+- [Regis' Atom/Spectacle shortcuts video](https://www.youtube.com/watch?v=uulWZVXOuxs&list=PLwJTr6-X6O0SX5YOVZx_c7GkZPOM-eTwN&index=1)
+- [Atom getting started guide](https://readwrite.com/2014/05/20/github-atom-5-tips-getting-started-tutorial-corey-johnson/)
+
+### Useful packages
 
 Next, a few packages I like:
 
@@ -225,8 +238,6 @@ Next, a few packages I like:
 ### Splitting Screens for fun and profit
 
 - [Split screens/panes and move between them](http://flight-manual.atom.io/using-atom/sections/panes/)
-- [Atom getting started guide](https://readwrite.com/2014/05/20/github-atom-5-tips-getting-started-tutorial-corey-johnson/)
-- [Regis' Atom/Spectacle shortcuts video](https://www.youtube.com/watch?v=uulWZVXOuxs&list=PLwJTr6-X6O0SX5YOVZx_c7GkZPOM-eTwN&index=1)
 
 
 ### New lines where you want them
@@ -242,6 +253,8 @@ You're familiar with `cmd-f`, or "find within document". You should also use the
 If you misspelled a method somewhere and don't recall where, use global find to get find it.
 
 It's got many, many uses. You'll find them all.
+
+---------------------
 
 # Git/Github
 
@@ -271,13 +284,15 @@ THEN make your pull request. If you do this every time you make a PR, you should
 
 Then, whenever `staging` is in good shape, and you want to update `master`, just merge `staging` to `master`, and you're good to go!
 
+------------------------------
+
 # Chrome
 
 You'll spend a lot of time in your browser.
 
 There's some keyboard shortcuts I use all the time for Chrome. Don't try to use all at once, but test each one once or twice, decide if you like it, and then use it for a few days.
 
-## Shortcuts for Chrome
+### Shortcuts for Chrome
 
 - `cmd-l` puts the "focus" on the address bar. You can copy the address, paste a different one in, etc.
 - `cmd-shift-[` and `cmd-shift-]` cycles left and right through your current tabs. (This tab movement works in Atom too!)
@@ -285,11 +300,13 @@ There's some keyboard shortcuts I use all the time for Chrome. Don't try to use 
 - the above shortcut pairs well with `cmd-opt-i`, which toggles your dev tools. I often hit the element selector shortcut, click the item I want to inspect, and then toggle dev tools closed again, all in a second or two.
 - `cmd-w` closes the current tab.
 
-## Extensions
+### Extensions
 
 - [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en) will "put to sleep" inactive tabs. Chrome is a bit of a resource hog, and this seems to help it consume less energy.
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en) gets you Vim-like navigation around your browser. I use it mostly to move up/down a page and to "click" links with the keyboard, but it can do much more than that.
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) is an Ad-blocker, closely related to (but very much distinct) [uBlock](https://www.reddit.com/r/ublock/comments/32mos6/ublock_vs_ublock_origin/). I love it. Cuts down on the visual clutter that tends to crop up on pages, and has some other cool tools. (Similar to Chrome's "element selector", you can click an element with uBlock and add it to a black-list, so you'll never see that pop-up/interstitial again)
+
+------------------------------
 
 # Applications
 
@@ -313,13 +330,23 @@ The powerpack extension is not free, but the base application is free. It's a bi
 
 ### Flux: Save your eyes
 
-[Flux]() is a neat little utility that increases the "warmth" of your laptop screen at night. It will save you a bunch of eye strain.
+[Flux](https://justgetflux.com/) is a neat little utility that increases the "warmth" of your laptop screen at night. It will save you a bunch of eye strain.
 
-### Browsing securely with PIA
+### Browsing securely with a VPN
 
 Do you use coffee shop wifi? If so, especially once you're working on someone else's product, you should consider using a Virtual Private Network.
 
-It secures your traffic from snooping, even from others who are using the network, and the network provider itself. I've been using [PIA]() for two years (it's ~$30/year) and am quite happy with it.
+It secures your traffic from snooping, even from others who are using the network, and the network provider itself. I've been using [PIA](https://www.privateinternetaccess.com/) for two years (it's ~$30/year) and am quite happy with it.
 
-### Links
-- [Regis' Atom/Spectacle shortcuts (YouTube)](https://www.youtube.com/watch?v=uulWZVXOuxs&list=PLwJTr6-X6O0SX5YOVZx_c7GkZPOM-eTwN&index=1)
+
+# Master your tools
+
+This list is simultaneously wide-ranging, and barely scratches the surface.
+
+I aim to always improve how I use my tools and my development environment, both out of respect for the "craft" of software development, and to minimize friction between me and the things I want to do.
+
+This list barely touches all of the tools and keyboard shortcuts and small workflow modifications I use, or anyone else uses, but I hope it might help get you on the same path to efficiency.
+
+My _opinion_ on the matter is a well-organized workspace and environment will free up cognitive resources to spend on the programming challenge at hand.
+
+I'm sensitive to friction, and anytime something seems like it's too clunky to navigate or use, I expect that there's a better way to do it.
