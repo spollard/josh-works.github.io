@@ -26,7 +26,7 @@ Anki is a flashcard application that makes use of the concept of "memory decay" 
 
 If you learn something today, you might remember it tomorrow. If you don't have to recall the fact again, you might forget it in two or three days. If you review it before you forget it, it'll "stick around" in your head a bit longer than the first time interval.
 
-![the famous forgetting curve]()
+![the famous forgetting curve, from Wired Magazine](images/ff_wozniak_graph_f.jpg)
 
 The goal here is to create well-formatted bits of knowledge, and then get them in Anki and review it the minimum amount of times to ensure that we'll remember it for a very, very long time. (> 1 year).
 
@@ -139,3 +139,4 @@ Next, read a bunch of these articles below, and go forth and prosper!
 - [Markdown code formatting in Anki](https://ankiweb.net/shared/info/162313389)
 - [Spaced Repetition](https://www.gwern.net/Spaced%20repetition)
 - [Anki tips](http://rs.io/anki-tips/)
+- [Wired Magazine: Want to Remember Everything You’ll Ever Learn? Surrender to This Algorithm](https://www.wired.com/2008/04/ff-wozniak/)
