@@ -284,7 +284,7 @@ So, when you make a pull request, I'd strongly recommend getting in the habit of
 
 This helps your learning, this helps their learning, and this habit will serve you well for the rest of your life.
 
-[It's very easy to setup a PR template](), and you're welcome to copy the [PR template my group is using right now]().
+[It's very easy to setup a PR template](https://github.com/blog/2111-issue-and-pull-request-templates), and you're welcome to copy the [PR template my group is using right now](https://github.com/josh-works/corkboard/tree/master/.github).
 
 ### Always merge `staging` into your branch before making a pull request
 
