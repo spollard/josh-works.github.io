@@ -43,9 +43,9 @@ Workflow is more than just tools. It encompasses [how you ask questions](/better
 
 ### Git/Github
   - [on group projects that need a "stable" branch at all times - set default branch to "staging"](#use-a-staging-branch-for-group-work)
-  - Pull Request Template
-  - [Minimize unnecessary merge conflicts by pulling in `staging/master` before making PR](#always-merge-staging-into-your-branch-before-making-a-pull-request)
-  - [Display current branch in terminal prompt](#optimize-for-information))
+  - [Use a PR template for fun and for profit](#pull-request-template)
+  - [Avoid merge conflicts by pulling in `staging/master` before making a PR](#always-merge-staging-into-your-branch-before-making-a-pull-request)
+  - [Display your current branch in terminal prompt](#optimize-for-information))
 
 ### Chrome
   - [Chrome Extensions, like The Great Suspender, Vimium, etc](#extensions)
@@ -273,6 +273,18 @@ Many others have written about Git and how to use it far better than I ever coul
 If you've got a group project and you need the `master` branch to always be stable (because Heroku is always running on it, or something) change the repo settings to make a branch besides master the default branch.
 
 Just make `staging` the default branch for your repo, and now all your PRs will (by default) be against this branch. This is perfect, because you might find yourself often squashing bugs when merging in other's work, and it's way better to hotfix bugs on something that is not `master`.
+
+### Pull Request Template
+
+When we're first starting, a good pull request is the last thing that is on our mind. We just wanna merge in our branch without merge conflicts.
+
+As soon as you start doing group work, though, the value of explaining to the rest of the team what you're working on will rival the importance of the actual code that you're writing.
+
+So, when you make a pull request, I'd strongly recommend getting in the habit of giving a summary of what the new code does, making a few other standard comments, and then also adding comments to your code, calling out interesting bits and pieces.
+
+This helps your learning, this helps their learning, and this habit will serve you well for the rest of your life.
+
+[It's very easy to setup a PR template](), and you're welcome to copy the [PR template my group is using right now]().
 
 ### Always merge `staging` into your branch before making a pull request
 

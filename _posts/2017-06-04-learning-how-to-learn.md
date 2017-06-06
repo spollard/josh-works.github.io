@@ -1,21 +1,20 @@
 ---
 layout: post
 title:  "On Learning"
-date:   2017-05-14 06:18:52 -0600
+date:   2017-06-05 06:18:52 -0600
 categories: programming learning
 permalink: learning-how-to-learn
 ---
 
-
-I've recently been thinking about learning how to learn, specifically in the context of software development.
+As a student at Turing, I've recently been thinking about learning how to learn, specifically in the context of software development.
 
 I am a bit hyperactive when it comes to trying to learn new things. Over the years, I've done plenty of ineffective learning, and at least a little bit of _effective_ learning. The good news is that even as I've not learned most of the topics I've originally set out to learn, I have learned a bit about _learning_. (Does this make it "metalearning"?)
 
-I'm defining "learning" or "learning a topic" as _to be able to rearrange or reorganize or reuse the idea in new ways to resolve unstructured problems I face_.
+I'm defining "learning" or "learning a topic" as _to be able to rearrange or reorganize or reuse the idea or pieces of the idea in new ways to resolve unstructured problems I face_.
 
 <!--more-->
 
-This "rearranging/reorganizing" and "unstructured problems" explicitly excludes the kind of learning most of us have done when we were young, where we just tried to have the right answer for fill-in-the-blank questions like "In _____(year) Christopher Columbus sailed the ocean blue".
+This "rearranging/reorganizing" and "unstructured problems" explicitly _excludes_ the kind of learning most of us have done when we were young, where we just tried to have the right answer for fill-in-the-blank questions like "In _____(year) Christopher Columbus sailed the ocean blue".
 
 ## Overview of Process
 
@@ -25,17 +24,21 @@ Additionally, even a loosely-defined process reduces friction to attempting the 
 
 But, since I have a process, as imperfect as it is, I can just say "ah, a hard thing. Time to attack it with my six-step process to learning difficult things".
 
-[The difficult work of making it easy](link to blog post)
-[Make hard things easy by removing friction](link to post by the same name)
-[if you can learn anything should you](post by same name) (I've been trying to learn since 2013!!!)
+I've been thinking about friction, and learning, and the relationship between the two, for quite some time:
+
+- [The difficult work of making it easy](/2013/06/10/2013-06-10-the-difficult-work-of-making-it-easy/)
+- [Make hard things easy by removing friction](http://localhost:4000/growth/2013/12/07/2013-12-07-make-hard-things-easy-removing-friction/)
 
 Here's my _current_ iteration of "how to learn difficult things"
 
 ## Steps to try to learn something
 
-### 1. Find the boundaries of the topic
+### 1. Define the boundaries of the topic
 
-**Software development** has no boundaries. **Session management in conjunction with OmniAuth** is better-bounded.
+
+If you want to learn **Software development**, that has no boundaries.
+
+If you want to learn **Session management in conjunction with OmniAuth**, you can actually figure out what you need to learn. It's better-bounded.
 
 The more specific I can be about what I am trying to learn, the better I can approach the process. I also always try to find the smallest viable chunk of the topic, and start there. So even session management with OmniAuth is contingent upon having a notion of how session management works, so I would start with just understanding sessions, and THEN move to OAuth, and THEN move to OmniAuth, and THEN roll everything together.
 
@@ -81,57 +84,24 @@ If I was following a tutorial, I'll delete the work I just did and implement aga
 
 ### 6. Capture some of the high and low level details in Anki.
 
-(more on that below, but... I love Anki.)
+_This section was getting longer and longer, so I split it into it's own post. [Read on about memorization and spaced repetition software here -->](/anki-spaced-repetition-system)_
 
-At this point, I can usually say I've attained my goal of learning the topic. I certainly have not learned everything about the given topic, but I have a mental framework on which I can hang further learning, _and_ I can take the low and high-level knowledge and either apply it in other similar projects, or recognize the patterns of others using it in their projects. My goal is to get the minimum effective dose of learning so I can move on, but not lose what I've just spent a while working on.
+## Conclusion
+
+After working through these steps, I can usually say I've attained my goal of learning the topic. If I have not learned the topic, I've probably bitten off more than I can chew, and should revisit my original learning goal.
+
+I've certainly have not learned everything about the given topic, but I have a mental framework on which I can hang further learning, _and_ I can take the low and high-level knowledge and either apply it in other similar projects, or recognize the patterns of others using it in their projects.
+
+My goal is to get the minimum effective dose of learning so I can move on, but not lose what I've just spent a while working on.
 
 The notes and implementation practice helps me learn the thing, and Anki keeps me from losing it, so it's quick to bring to mind weeks and months later.
 
-
-# Anki SRS
-
-Anki has been one of my favorite tools I've encountered in the last few years. I started using it initially for learning Spanish vocabulary, but as I started learning to program, it became as much a part of that workflow as my language learning.
-
-![Anki's unassuming UI](/images/17-05-16-anki.jpg)
-
-Anki's unassuming UI
-
-Continuing the above example, here's one of my flashcards:
-
-![Anki card for using omniauth to manage user session](/images/17-05-16-anki_1.jpg)
-
-_This card is easy_. You'll notice that I basically gave myself the answer in the question setup.
-
-the answer is:
-
-`if user = User.from_omniauth(request.env["omniauth.auth"])`
-
-This is still testing me, and helping me build a mental model of what is going on.
-
-And I prefer easy flashcards (more work to make, less to memorize) than difficult flashcards.
-
-I put all sorts of information in Anki. At the moment I have about 850 programming-related cards, which covers everything related to software development. I've got cards related to Ruby and Rails, of course, but also general tools and worklow, like Github, iTerm and Atom usage/shortcuts, Regex, SQL, RSpec, Terminal commands (Like `grep` and `xargs`, which are powerful tools, but took some work to become comfortable with).
-
-I am completely confident that I have not found the ideal workflow around creating and memorizing Anki cards. I'm still trying to improve this process, but the benefit from using Anki far outweighs for me any cost of having less-than-perfect cards.
-
-My Anki workflow has two steps:
-
-1. Make the Anki cards (on my laptop)
-2. Review the Anki cards (on my phone)
-
-I can review my Anki cards anywhere. In line for something, in the bathroom (yes), on the train, while I'm waiting for my food to microwave, etc.
-
-I normally hate to be the person staring at his phone all day, but since I'm usually on Anki, I now embrace it.
-
-I spend about 30 minutes (sometimes 45) studying Anki, per [this app](app url), and it's all in little snippets of time grabbed here and there
-
+Full disclosure - this is a time consuming and difficult process. I don't do it every day, though I wish I did. To buckle down on a topic like this necessarily requires NOT attending to other topics I could be studying. Life is full of trade-offs, but in general I'd rather learn one thing well than four things poorly.
 
 ### Resources
 
-- [Effective learning: Twenty rules of formulating knowledge](https://www.supermemo.com/en/articles/20rules)
-- [Spaced repetition: Never forget vocabulary ever again](https://www.fluentin3months.com/spaced-repetition/)
-- [Memorizing a programming language using spaced repetition software](https://sivers.org/srs)
-- [Mind for Numbers(book)](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X)
+- [Mind for Numbers (book)](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X)
 - [Detailed summary of the above book](http://www.fullerton.edu/LearningAssistance/Review-and-Summary-of-A-Mind-for-Numbers.pdf)
-- [JANKI METHOD: Using spaced repetition systems to learn and retain technical knowledge.](http://www.jackkinsella.ie/articles/janki-method)
+- [Deep Work (book)]()
+- [Peak: The Science of Human Achievement]()
 - [Learning without a Mentor: how to become an expert programmer on your own](https://codewithoutrules.com/2017/04/17/learning-without-a-mentor/)

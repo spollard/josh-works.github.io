@@ -130,7 +130,9 @@ They say "bodies are built in the kitchen", and they're right.
 
 I don't know much about food, [but I sure do have some opinions](http://josh.works/home/2014/04/08/2014-04-08-why-i-eat-bacon-every-day-and-you-should-too/). The FDA's food pyramid is complete crap, and you should probably be eating more fatty stuff and butter. Stop drinking sugar.
 
-[Intermittent Fasting](https://www.nerdfitness.com/blog/a-beginners-guide-to-intermittent-fasting/) is pretty cool, and speeds up the mornings nicely.
+Intermittent fasting is pretty cool, and speeds up the mornings nicely. Been doing this since late 2015, have had nothing but a positive experience
+- [Nerd Fitness's guide](https://www.nerdfitness.com/blog/a-beginners-guide-to-intermittent-fasting/)
+- [James Clear's guide]()
 
 --------------------
 
