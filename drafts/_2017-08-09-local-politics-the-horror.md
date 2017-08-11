@@ -204,3 +204,20 @@ To that end, I have already started talking with people who care deeply about ho
 I've attempted to paint my political leaning in the most critical way possible, and I'm going to keep this post easy to find.
 
 As I *shudder* _campaign_ later, I plan on driving as many people as I can to this post. If I actually get appointed to the city council, I don't want anyone to claim I tricked them or misled them on what I plan on doing.
+
+### Misc resources (link to these above)
+
+- https://www.strongtowns.org/journal/2016/12/14/best-of-2016-affordable-urban-lifestyles-for-millennials-with-children
+- https://www.strongtowns.org/journal/2017/6/28/a-history-of-zoning-in-three-acts-part-i
+- https://www.strongtowns.org/journal/2017/8/10/a-history-of-zoning-part-iii-missing-the-trees-for-the-forest
+- https://www.cnu.org/resources/tools
+- https://www.strongtowns.org/journal/2017/6/12/the-power-of-growing-incrementally
+- https://www.strongtowns.org/journal/2016/6/1/antifragile-ecosystem-cities
+
+
+#### goals:
+
+- Abolish maximum housing units. If I can fit three units in the footprint of a typical single family home there’s no reason I shouldn’t be allowed to.
+- Eliminate minimum lot sizes.
+- Remove side yard setbacks. These create a powerful financial incentive to assemble large parcels for the development of monolithic structures.
+- Eliminate maximum lot coverages for small lots.
