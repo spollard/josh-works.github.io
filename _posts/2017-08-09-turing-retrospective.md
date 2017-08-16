@@ -6,6 +6,8 @@ categories: programming learning
 permalink: turing-retrospective
 ---
 
+# Collection of thoughts on Turing
+
 It's the last week of [Turing](https://www.turing.io/). I went through the [backend software engineering program](https://www.turing.io/programs/back-end-engineering), and it's been a journey.
 
 In no particular order, I'm throwing down thoughts in three general categories:
