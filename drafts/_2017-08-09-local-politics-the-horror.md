@@ -217,52 +217,6 @@ I'm not going to pretend like I'm going to donate my salary out of a sense of al
 It's too little money to support someone full-time, and I think it's too much money to pay professional rule-makers, but my argument for why this "election process" isn't actually fair and open will have to wait for another time.
 
 
-
-# Things I'm not
-
-## 1. I'm not "qualified"
-
-(list the other candidates, their pages)
-
-The other folks running in the ward are extremely accomplished. There's vice presidents, CEOs, etc. They are undoubtadly skilled at the very challenging tasks for running large organizations.
-
-But local government shouldn't model the board of a company. If it did, the board would have dictatorial power over how everything should be done in the city.
-
-My concerns is people who are domain experts are used to creating *new* solutions to problems.
-
-A group of smart people are fundamentally unable to run the lives of their citizens as well as the citizens themselves are. I would spend my efforts exploring the issues at hand and understanding the incentives aligning the different interested groups.
-
-I expect this to be an unpleasent process.
-
-## 2. I'm not interested in long chats with concerned citizens who want me to exert some power in their favor
-
-I'm afraid that being a city councilor will ruin my relationships with most people, because now any conversation someone has with me will go through the lens of trying to impact how I might vote on something.
-
-This is unfortunate, because:
-
-1. I'm not going to be changing my opinions on things based on other people's input, unless they're able to fundamentally shift how I view the world. (That's a very high bar)
-2. I certainly won't participate in [regulatory capture](https://en.wikipedia.org/wiki/Regulatory_capture), and am aware of [the dictatorship of the small minority](https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15)
-
-If "the small minority" is pushing for something that either uses government coercion to achieve some end state beneficial to them, or is trying to do something that could be sorted out without the use of government at all, I will vehemently oppose the use of state power in that situation.
-
-So, professional busy-bodies will not be pleased with anything I have to offer. This shouldn't be a surprise, though, and I don't really want their support anyway.
-
-## 3. I'm not a big believer in the efficacy of a democratic republic
-
-Many people in America believe a democratic republic is the highest expression of group organization available to man.
-
-I disagree. I think it's great at some things (like helping people feel good about their government) and terrible at other things. (Like protecting the rights of low-power/status groups and individuals.)
-
-I think and hope that my grandkids will breathlessly ask me questions like
-
-> Grandpa, did you *really* let complete strangers living thousands of miles away orchestrate almost every aspect of your life???
-
-And I'll say
-
-> Yes, and it was just as ridiculous as it sounds. Fortunately, we all wised up to the mistake.
-
-
-
 ## 4.
 
 To get on the ballot, I had to collect twenty-five signatures from people who live in the ward I'm competing for. Since I live in a condo association with three buildings filled with a few hundred people each, I just went door to door, asking people to sign.
@@ -330,6 +284,11 @@ The government is incapable of effective operation in this space, and I would en
 If I were dictator for a day, I'd eliminate every barrier to business the city has imposed, and then shut down any job related to economic development. No more permits or licenses required to operate a business, no city inspection required on new construction, etc.
 
 All the harms that come from poor work quality can be handled via insurance and arbitration.
+
 ## Municipal code
 
-Most of the [municipal code](https://library.municode.com/co/golden/codes/municipal_code) is... crap. Stuff like that is why it's very hard for people to build and improve their own property.
+Most of the [municipal code](https://library.municode.com/co/golden/codes/municipal_code) is crap. Stuff like that is why it's very hard for people to build and improve their own property.
+
+We've all seen rising property values. Usually what happens is someone acquires property when it's cheap, then, because of increased demand, the value of the property goes up, and they then can capture this value by selling it to someone else.
+
+That buyer either leaves the property as is, or does cosmetic upgrades (a new kitchen, takes out some walls, etc), or knocks the entire structure down and builds something larger in it's stead, and earns return on his investment by renting it out at a higher price.
