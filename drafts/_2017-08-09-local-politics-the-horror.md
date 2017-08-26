@@ -6,7 +6,7 @@ categories: golden politics
 permalink: local-politics-and-self-loathing
 ---
 
-**[TL;DR]() I'm running for political office, and I believe I'll be a terrible "politician", for many reasons, and this post will in part absolve me of guilt about that fact even as I pursue the opportunity.**
+**[TL;DR]() I'm running for political office, and I believe I'll be a terrible politician, for many reasons, and this post will absolve me of guilt about this, even as I pursue the opportunity.**
 
 This hurts to write, and I'm dancing around feeling incredible embarrassment.
 
@@ -14,52 +14,62 @@ The above feelings are further complicated because I don't know if I *should* fe
 
 Here's the gist: **I'm running for Golden's City Council.**
 
-I feel like throwing up a little. Maybe that's just because the flight I'm on is hitting some turbulance, but I think it's partially guided by some healthy revulsion.
+I feel like throwing up a little. Maybe that's because the flight I'm on is hitting some turbulence, but I think it's partially guided by healthy revulsion.
 
 Why do I feel conflicted about this? Why is it disgusting?
 
-There are certainly *some* people who think getting involved in local politics is a good thing, and there's another group of people who thing they're being _public servants_ by "shouldering the burden of providing wise rule".
-
 # Reasons for disgust
 
-## I don't think that government is the right solution to _anything_
+## 1. There's a strong case to be made for "the government" being an immoral and harmful use of force
 
-Not only am I *not* sold that we ("the citizens") _need_ a government, I've been reluctantly forced to the conclusion that we ("the citizens") would be better off without _any_ government.
+Our current democratic republic is better than the governments most people have lived under for most of the time humans have been around, but it's a far cry from the ideal form of government.
+
+For many reasons, most of which I won't touch on right now, I've been reluctantly forced to the conclusion that we ("the citizens") would be better off without _any_ government.
 
 Yes. You read that correctly. You're reading the words of a real, bonafide, tin-foil-hat-wearing _anarchist_.
 
-Before you get yourself in a dither, (or is it too late?) scan the Amazon reviews of the following books (or read the books themselves!):
+Before you get yourself in a dither, (or is it too late?) scan the Amazon reviews of the following books (or read the books themselves!).
+
+The ideas and histories contained within these books have led me to my present views on politics.
 
 - [The Problem of Political Authority]()
 - [American Healthcare Killed My Father]()
+- [Practical Anarchy]()
+- [Prohibition: (the book)]()
 
-I'm not here to convince you that I'm right, I'd just like you to be open to the notion that I'm not insane and dangerous to society.
+I'm not here to convince you that I'm right, I'd just like you to be open to the notion that I'm not insane and dangerous to society. Most of the time, in most ways, the way I live my life is indistinguishable from the way millions of people around the country live their lives.
 
 In light of that preamble, this means that (to me) the notion of a "public servant" is a logical contradiction. The government relies upon a special kind of authority to function. The "authority" is mostly circular reasoning, moving between:
 
-> respect our rules because we're the government
+> adhere to our rules because we're the government
 
 and
 
-> we're the government because we make the rules
+> we're the government because we can enforce our rules
 
-## The Overton Window dictates no original thought will come from a politician, including myself, no matter how well intentioned
+The government uses a unique form of coercion in society, in that it's the only body we ("society") have decided can legally *initiate* violence against others in society.
+
+I don't support this method of existence, so I cannot support the existence of the government.
+
+## 2. The very function of the political process dictates that all "solutions" tend to be an ugly mix of the ideals and preferences of the most involved parties (The Overton Window).
 
 [The Overton Window](https://en.wikipedia.org/wiki/Overton_window) is a notion that any possible political outcome is always one that is tolerable to all parties. Usually, the thing that is tolerable to both parties is also dispised by both, because "compromise" is never actually an effective solution, but it's the one that gets forced through via the vote, so that's what we get.
 
 Activists' role in politics is to move the Ovarton window, so that (hopefully) a good solution becomes palatable to all sides, and gets chosen.
 
-Politicians are rational, self-interested creatures. They're not better than anyone, they might be worse than most. Nothing that good will come from them. The best we can hope for is for the population to move enough in the right direction that it becomes socially acceptible for the average politician to support healthy ideas. 
+Politicians are rational, self-interested creatures. They're not better than anyone, nor are they exempt from the weaknesses of the human condition. The best political outcome we can hope for is for the population to move enough in the right direction that it becomes socially acceptible for the average politician to support healthy ideas.
 
-## Bureaucrats are extremely risk averse
+This means legislation is always a [lagging indicator]() of politically acceptable ideas.
 
-I don't know the difference between a politician and a bureaucrat, but I lump them in the same category.
+## 3. Bureaucrats are extremely risk averse
 
-All my feelings on bureaucrats can be summed up by [Bureaucrats]() by [Author?](), but it lays out a strong case for why it's a utopian ideal to expect much beyond _risk management within a very narrow domain_ from the average "public servant".
+All my feelings on bureaucrats can be summed up by [Bureaucracy](https://www.amazon.com/Bureaucracy-Lib-Works-Ludwig-Mises/dp/0865976643) by Ludwig Von Mises. It lays out a strong case for why it's a utopian ideal to expect much beyond _risk management within a very narrow domain_ from the average "public servant".
 
-## Politicians are professional rule makers
+I'm not a utopian, so I don't expect an entire organization founded on the lawful initiation of force to selflessly and tirelessly serve its subjects.
 
-Given the [growth of the Federal Register](http://dailycaller.com/2013/05/21/the-towering-federal-register/), politicians are _exceptional_ at making new rules for people to follow. (The government cranks out 286 pages of regulation _per workday_)
+## 4. Politicians are professional rule makers
+
+Given the [growth of the Federal Register](http://dailycaller.com/2013/05/21/the-towering-federal-register/), politicians are _exceptional_ at making new rules for people to follow. (On average, the government cranks out 286 new pages of regulation _per workday_.)
 
 ![the federal register is HUGE](https://regulatorystudies.columbian.gwu.edu/sites/regulatorystudies.columbian.gwu.edu/files/downloads/CFR_pages.JPG)
 
@@ -69,11 +79,68 @@ I'm pretty bad at following rules, and (childishly) often go out of my way to br
 
 Most of this "rule of law" thing we talk about in America is mostly the "rule of rules", and the rules themselves cannot be arrived at from [first principles](https://en.wikipedia.org/wiki/First_principle). If a "law" is really just a "rule", and the rule cannot be arrived at from first principles, in my mind, it's invalid and has no weight, and we'd all be better off as a society if we ignored it. (Looking at you, prohibition).
 
-If I'm successful running for city council (and I might well be... stranger things have happened, right?) one of the only ways I could tolerate my own presence on the council would be to consistently oppose the creation of new rules, and be the annoying guy arguing for the endless simplification of rules, and removal of rules. 
+If I'm successful running for city council one of the only ways I could tolerate my own presence on the council would be to consistently oppose the creation of new rules, and I'd be the annoying guy arguing for the endless simplification of rules, and removal of rules.
 
-This approach would earn me a functional failing grade as a politician, since they're mostly judged on making new rules, but I'd be able to maintain my dignity (maybe) and my self-respect, so that's what I'll do. 
+This approach would earn me a functional failing grade as a politician, since they're mostly judged on making new rules and satisfying small groups of single-interest citizens, but I'd like to able to maintain my dignity (maybe) and my self-respect, so that's what I'll do.
 
-Phew.
+--------------
+
+# Reasons I _am_ pursuing political office
+
+Given the above diatribe, why am I willing to run for local government, and more importantly, _will I be a tolerable contributor to the city council?_
+
+I've got a few reasons:
+
+1. I am most interested in balance sheets and budgets than disagreement and fighting.
+2. One of my driving interests is antifragility and economic self-reliance
+3. I *love* walkable, diverse, fractal geographies/cities that reflect the desires and interests of the people who live there
+4. I'm skeptical of silver-bullet solutions
+5. I'm not very susceptible to [regulatory capture]() or special interests (be they businesses, corporate finance types, or groups assembled around a single political goal)
+6. I have low expectations
+7. Make some $$$
+
+## 1. I am most interested in balance sheets and budgets than disagreement and fighting.
+
+If you ask someone
+
+>would you prefer a 40" plasma TV, or a 9" iPad
+
+it's impossible to know which one they'd choose. If they want to watch a movie on a plane, the 40" TV isn't a good fit. On the flip side, if they'd rather watch something in their living room, the iPad is less amenable to having friends over to watch a movie. They'd choose the TV.
+
+Politics is full of constraints, so recognizing and embracing those constraints is one of the best ways to make a decision.
+
+There's a final constraint that many political types forget about. In the above question, it might be rephrased as:
+
+> Given your current income and expenses, are you in a position to buy anything? If not, you don't get to buy either a TV, or an iPad, and certainly not both.
+
+For this reason, I'm endlessly interested in the finances behind decisions. Infrastructure is expensive, and much of what we build in America is not financially sustainable. So, if something comes before the board that isn't actually capable of paying for itself in the long term, I cannot (and will not) vote in support of it.
+
+
+## 2. One of my driving interests is antifragility and economic self-reliance
+
+
+
+## 3. I *love* walkable, diverse, fractal geographies/cities that reflect the desires and interests of the people who live there
+
+Americans love to visit Europe, and walk around their narrow, winding streets and sit in sidewalk cafes drinking coffee/beer/wine/whatever.
+
+Most of what we like about European cities is illegal in most of America, including Golden.
+
+I'd like it to be legal here, and would pursue opportunities to do that.
+
+
+## 4. I'm skeptical of silver-bullet solutions
+## 5. I'm not very susceptible to [regulatory capture]() or special interests (be they businesses, corporate finance types, or groups assembled around a single political goal)
+## 6. I have low expectations
+## 7. Make some $$$
+
+
+
+
+
+
+
+
 
 ## City council often decides matters related to zoning
 
@@ -153,15 +220,50 @@ It's too little money to support someone full-time, and I think it's too much mo
 
 # Things I'm not
 
-## 1. Qualified
+## 1. I'm not "qualified"
 
 (list the other candidates, their pages)
 
-## 2. That interested in long chats with concerned citizens who want me to exert some power in their favor
+The other folks running in the ward are extremely accomplished. There's vice presidents, CEOs, etc. They are undoubtadly skilled at the very challenging tasks for running large organizations.
 
-## 3. A big believer in the efficacy of a democratic republic
+But local government shouldn't model the board of a company. If it did, the board would have dictatorial power over how everything should be done in the city.
 
-## 4. 
+My concerns is people who are domain experts are used to creating *new* solutions to problems.
+
+A group of smart people are fundamentally unable to run the lives of their citizens as well as the citizens themselves are. I would spend my efforts exploring the issues at hand and understanding the incentives aligning the different interested groups.
+
+I expect this to be an unpleasent process.
+
+## 2. I'm not interested in long chats with concerned citizens who want me to exert some power in their favor
+
+I'm afraid that being a city councilor will ruin my relationships with most people, because now any conversation someone has with me will go through the lens of trying to impact how I might vote on something.
+
+This is unfortunate, because:
+
+1. I'm not going to be changing my opinions on things based on other people's input, unless they're able to fundamentally shift how I view the world. (That's a very high bar)
+2. I certainly won't participate in [regulatory capture](https://en.wikipedia.org/wiki/Regulatory_capture), and am aware of [the dictatorship of the small minority](https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15)
+
+If "the small minority" is pushing for something that either uses government coercion to achieve some end state beneficial to them, or is trying to do something that could be sorted out without the use of government at all, I will vehemently oppose the use of state power in that situation.
+
+So, professional busy-bodies will not be pleased with anything I have to offer. This shouldn't be a surprise, though, and I don't really want their support anyway.
+
+## 3. I'm not a big believer in the efficacy of a democratic republic
+
+Many people in America believe a democratic republic is the highest expression of group organization available to man.
+
+I disagree. I think it's great at some things (like helping people feel good about their government) and terrible at other things. (Like protecting the rights of low-power/status groups and individuals.)
+
+I think and hope that my grandkids will breathlessly ask me questions like
+
+> Grandpa, did you *really* let complete strangers living thousands of miles away orchestrate almost every aspect of your life???
+
+And I'll say
+
+> Yes, and it was just as ridiculous as it sounds. Fortunately, we all wised up to the mistake.
+
+
+
+## 4.
 
 To get on the ballot, I had to collect twenty-five signatures from people who live in the ward I'm competing for. Since I live in a condo association with three buildings filled with a few hundred people each, I just went door to door, asking people to sign.
 
@@ -179,7 +281,7 @@ I got many variations of the same few questions:
 
 My answer was pretty simple:
 
-> I'm neither democratic or republican, and while I lean libertarian, I'm pretty displeased with that party too. I don't have a "platform", because I don't think it's the government's job to try to do even MORE to/for it's subjects/citizens.
+> I'm neither democratic or republican, and have yet to find a political party that I can tolerate. I don't have a "platform", because I don't think it's the government's job to try to do even MORE to/for it's subjects/citizens.
 >
 > I'm not trustworthy, and don't claim to be a good or selfless person, but I personally wouldn't trust someone who claimed to be those things.
 >
@@ -189,13 +291,13 @@ My answer was pretty simple:
 
 I think I've laid out a pretty strong reason why I shouldn't be trusted in political office. I think democracy/a democratic republic is the last-bad system of rule we've found so far, but I have zero reflexive trust in "the process".
 
-Believe it or not, I believe there is *enormous* value you people in a community "coming together" to decide how something should be handled, but if one of those people happens to exercise the [only legitimate use of physical violence against someone else](), it's not a fair meeting.
+Believe it or not, I believe there is *enormous* value you people in a community "coming together" to decide how something should be handled, but if one of those people happens to have a [monopoly on violence](https://en.wikipedia.org/wiki/Monopoly_on_violence), it's not a fair meeting.
 
 To that end, I have already started talking with people who care deeply about how Golden develops as a community. I love their input, I love running ideas by them, and how their set of concerns and interests balances my obviously-insane ideas about how the world should work.
 
 I've attempted to paint my political leaning in the most critical way possible, and I'm going to keep this post easy to find.
 
-As I *shudder* _campaign_ later, I plan on driving as many people as I can to this post. If I actually get appointed to the city council, I don't want anyone to claim I tricked them or misled them on what I plan on doing.
+As I *shudder* campaign later, I plan on driving as many people as I can to this post. If I actually get appointed to the city council, I don't want anyone to claim I tricked them or misled them on what I plan on doing.
 
 ### Misc resources (link to these above)
 
@@ -211,9 +313,23 @@ As I *shudder* _campaign_ later, I plan on driving as many people as I can to th
 - [Practical Anarchy](https://www.amazon.com/Practical-Anarchy-Freedom-Stefan-Molyneux-ebook/dp/B004Z7ZT0A)
 
 
-#### goals:
+# goals:
+
+
+## Zoning
 
 - Abolish maximum housing units. If I can fit three units in the footprint of a typical single family home there’s no reason I shouldn’t be allowed to.
 - Eliminate minimum lot sizes.
 - Remove side yard setbacks. These create a powerful financial incentive to assemble large parcels for the development of monolithic structures.
 - Eliminate maximum lot coverages for small lots.
+
+## Economic Development
+
+The government is incapable of effective operation in this space, and I would encourage extreme skepticism anytime a politician talks to you about making jobs.
+
+If I were dictator for a day, I'd eliminate every barrier to business the city has imposed, and then shut down any job related to economic development. No more permits or licenses required to operate a business, no city inspection required on new construction, etc.
+
+All the harms that come from poor work quality can be handled via insurance and arbitration.
+## Municipal code
+
+Most of the [municipal code](https://library.municode.com/co/golden/codes/municipal_code) is... crap. Stuff like that is why it's very hard for people to build and improve their own property.
