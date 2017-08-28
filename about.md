@@ -12,10 +12,10 @@ I expect that my peace with life will be based not on how much I've worked, or h
 
 ### Sections
 
+- [Programming](#programming)
 - [Theology](#theology)
 - [Relationships I](#relationships-i)
 - [Relationships II](#relationships-ii)
-- [Programming](#programming)
 - [Work I](#work-i)
 - [Work II](#work-ii)
 - [Books and Wisdom](#books-and-wisdom)
@@ -63,9 +63,14 @@ I used to believe that personal relationships were of little value. I was a fool
 
 ## Programming
 
-I'm a quick-learning but still-junior developer. I study [backend software development](https://www.turing.io/programs/back-end-engineering) at [the Turing school](https://www.turing.io/) in Denver, and have loved the process.
+I'm a quick-learning developer. I studied [backend software development](https://www.turing.io/programs/back-end-engineering) at [the Turing school](https://www.turing.io/) in Denver, and have loved the process.
 
-[I care about my tools](/developer-workflow) and believe that [good questions lead to understanding, not just answers](/better-questions).
+While at Turing, I wrote lots of random things. Some are published here, some are gists and notes. [I built this collection]({{site.baseurl}} {% link turing.md %}) so I can easily point others to the same resources.
+
+[I care about my tools]({{site.baseurl}} {% link _posts/2017-05-27-developer-workflow.md %}) and believe that [good questions lead to understanding, not just answers]({{site.baseurl}}{% link _posts/2017-05-29-ask-better-questions.md %}).
+
+- [My Turing portfolio](https://www.turing.io/alumni/josh-thompson)
+
 
 
 --------------------
