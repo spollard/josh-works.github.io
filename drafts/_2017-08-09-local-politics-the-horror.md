@@ -6,6 +6,11 @@ categories: golden politics
 permalink: local-politics-and-self-loathing
 ---
 
+
+https://en.wikipedia.org/wiki/Jerry_Pournelle#Iron_Law_of_Bureaucracy
+
+> ...in any bureaucratic organization there will be two kinds of people: those who work to further the actual goals of the organization, and those who work for the organization itself. Examples in education would be teachers who work and sacrifice to teach children, vs. union representatives who work to protect any teacher including the most incompetent. The Iron Law states that in all cases, the second type of person will always gain control of the organization, and will always write the rules under which the organization functions.
+
 **[TL;DR]() I'm running for political office, and I believe I'll be a terrible politician, for many reasons, and this post will absolve me of guilt about this, even as I pursue the opportunity.**
 
 This hurts to write, and I'm dancing around feeling incredible embarrassment.

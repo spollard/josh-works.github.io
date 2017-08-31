@@ -8,88 +8,68 @@ permalink: /golden/
 
 I live in Golden. More technically, Ward 2, District 1.
 
-![I live in these apartments]()
+This page is under construction.
 
-On this page, you'll find:
+In the mean time, read this:
 
-- [Reasons you should not vote for me](#reasons-you-should-not-vote-for-me)
-- [Reasons you should vote for me]()
-- [The way I'll vote and approach every issue brought to the city council]()
-- [Issues and my stance on them]()
+-----------------
+You probably shouldn’t vote for me.
 
-I think I'm supposed to convince you to vote for me, but I'm not going to do that.
+Here’s some reasons you might want to vote for me, followed by some reasons you shouldn’t:
 
-I am going to convince you why you *shouldn't* vote for me. If, after reading through all of the following, you've not run away screaming, maybe you and I could get along well.
+## Qualification 1
+
+**My wife and I adore Golden.**
+
+Whenever friends and family visit from out of town, my wife and I play “tour guide” and excitedly take them around town, and try to convince them (often, successfully) that Golden is the coolest place ever.
+
+## Qualification 2
+
+**I’m sensitive to the range of perspectives on Golden’s affordability, because I want to someday see both my in-laws and children be able to live in Golden.**
+
+A plan that eliminates the option for people to move to Golden wouldn’t work - it would drive housing prices even higher.
+
+A plan that lets Golden be “suburbanized” and become like Lakewood wouldn’t work either - it would kill what makes Golden special.
+
+A community that fits only one demographic, or one income level, is one of hopeless uniformity. If you like Golden, and would like family and friends to be able to afford to live nearby, we’ve got the same goals.
+
+## Anti-qualification 1
+
+**I know very little, and am even worse at telling the future.**
+
+The way legislation tends to work is by codifying the current opinions of the majority (or a vocal minority), and making everyone live by those new laws.
+
+These laws, born out of a desire to avoid some harm, lead to a rigid, inflexible, unbending solution that forces the community to conform to the law, instead of the law conforming the the community.
+
+In contrast to this “opinions as law” approach, I love flexibility and experimentation, and dislike sterile, managed environments. Therefore, I will in support of experimentation, instead of in a way that assumes we have perfect knowledge and know the future.
+
+## Anti-qualification 2
+
+**I’m pessimistic on the ability of a bureaucratic organization to bring about new value to the world.**
+
+If “believing that governments can solve all of the problems and can make everyone happy” is a prerequisite to run for city council, you would not be reading these words right now.
+
+Some people think governments can solve all our problems. These people may be better suited to functioning within a bureaucratic organization than myself.
+
+## Anti-qualification 3
+
+**I don’t actually enjoy politics.**
+
+I love being involved in the local community, but unfortunately, so much of what our local community looks like is completely dictated by local politics. So, if I want to be an active member of the community, it stands to reason I should be involved in the politics.
+
+---------------------
+
+You might now be thinking:
+> OK, Josh. I’ve read this far, but tell me how you’d vote on (topic X).
+
+Good question. My opinions on issues related to local government are informed by people/books/organizations like:
+
+- [Within Walking Distance: Creating Livable Communities for All](https://www.amazon.com/Within-Walking-Distance-Creating-Communities/dp/1610917715), Philip Langdon
+- [A Better Way to Zone: Ten Principles to Create More Livable Cities](https://www.amazon.com/Better-Way-Zone-Principles-Livable/dp/1597261815), Donald Elliott
+- [Antifragile](https://www.amazon.com/dp/B0083DJWGO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), Nassim Taleb
+- [strongtowns.org](http://strongtowns.org/)
 
 
-# Reasons you should not vote for me
+Questions? Send them to thompsonjoshd@gmail.com.
 
-## 1. I'm not "qualified" for public office
-
-(list the other candidates, their pages)
-
-The other folks running in the ward are accomplished. They are vice presidents, CEOs, business men and women. They are skilled at the  challenging task of running large organizations.
-
-I find the base premise of the political authority of the state to be flawed, and it is the functional equivalent of pouring sand into an engine. Therefore, instead of trying to figure out how to run the government "in the best interests of the citizens", or "in a democratic fashion", my aims would be to reduce the influence the local government has on the rights of the residents.
-
-## 2. I'm not interested in long chats with concerned citizens who want me to exert political power in their favor
-
-I'm afraid that being a city councilor will ruin my relationships with most people, because now any conversation someone has with me will go through the lens of trying to impact how I might vote on something.
-
-This is unfortunate, because:
-
-1. I'm not going to be changing my opinions on things based on other people's input, unless they're able to fundamentally shift [how I view the world]().
-2. I certainly won't participate in [regulatory capture](https://en.wikipedia.org/wiki/Regulatory_capture), and am aware of [the dictatorship of the small minority](https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15)
-
-If "the small minority" is pushing for something that either uses government coercion to achieve some end state beneficial to them, or is trying to do something that could be sorted out without the use of government at all, I will vehemently oppose the use of state power in that situation.
-
-So, professional busy-bodies will not be pleased with anything I have to offer. This shouldn't be a surprise, though, and I don't really want their support anyway.
-
-## 3. I'm not a big believer in the efficacy of a democratic republic
-
-Many people in America believe a democratic republic is the highest expression of group organization available to man.
-
-I disagree. I think it's great at some things (like helping people feel good about their government) and terrible at other things. (Like protecting the rights of low-power/status groups and individuals.)
-
-I think and hope that my grandkids will breathlessly ask me questions like
-
-> Grandpa, did you *really* let complete strangers living thousands of miles away dictate almost every aspect of your life to their own benefit?
-
-And I'll say
-
-> Yes, and it was just as ridiculous as it sounds. Fortunately, we all wised up to the mistake, and stopped supporting their coercive power.
-
-By it's very definition, a democracy can cause harm to minorities. A "minority group" could be determined by race, spoken language, income level, political affiliation, sexual orientation, or dozens of any other factors. A minority group could be as large as 49% of the population, or as small as a single individual.
-
-Our democratic republic has historically done great harm to the current unpopular group.
-
-The political process will always be managed for the benefits of some groups at the expense of others. Since I find this immoral, I would reject and fight against any proposal that favors one group at the expense of the other.
-
-
-
-
-# Issues and my stance on them
-
-I love questions about tactical matters. It's easy to be pie-in-the-sky and talk about hope and change and all that, and people can have massive disagreement over many things, though it might turn out that when it comes to the actual decisions to be made, or the outcomes they're looking for, everyone is much more likely to be in agreement than they thought.
-
-So, here's the issues:
-
-- Growth
-- Schools
-- Zoning
-
-## 1. "Golden is growing too quickly! We need to stop it!"
-
-Golden's growing quickly. My wife and I are as much of the problem as anyone else. We moved here three years ago, and are part of the masses that are driving up rent and housing prices.
-
-"Stopping growth" is a bad idea, but more importantly, it's a horrible use of the authority of a government.
-
-The way a government stops growth is by saying "no more people can live here", but since you can't legally throw new residents out of their homes, the roundabout method of getting there is by putting a limit on new housing units to be constructed, or by making it too expensive for most people to build more housing units.
-
-Both of these are an unjust use of political authority. Here's why:
-
-If I own property, and I want to finish my basement so my in-laws can move in, or so I can rent it to college students, I cannot do that without seeking permission from the state. (by "the state" I mean someone representing the government, not the state of Colorado).
-
-The state can reject my request if they so choose, and if I add to my property without permission, I face fines and sanctions.
-
-I reject out of hand the notion that someone should be able to dictate what I can and cannot do to my property. If what I do doesn't directly violate the rights of someone else, there is no sound moral bases for using the power of the state to prohibit me from taking those actions.
+Unless you say otherwise, I'll take the core of your question, and my answer, and post it here as a bit of a FAQ section. I won't include your name or identifying question unless you give permission.
