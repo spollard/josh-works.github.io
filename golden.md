@@ -4,16 +4,25 @@ title: Golden City Council
 permalink: /golden/
 ---
 
+
+Hi there. My name is Josh Thompson.
+
 ![A picture of Josh Thompson](/images/2016_litmus_9.jpg)
+
 
 I live in Golden. More technically, Ward 2, District 1.
 
-This page is under construction.
+![this part of Golden](/images/grca_2d.jpg)
 
-In the mean time, read this:
+My wife and I live in these apartments, and love 'em. (I like to rock climb. There's a climbing gym a 2 minute walk away. It's perfect!)
+
+![These apartments](/images/grca_3d.jpg)
+
+
+The following is going to be published in the Golden Informer soon. It's my "why you should/shouldn't vote for me" pitch.
 
 -----------------
-You probably shouldn’t vote for me.
+# You probably shouldn’t vote for me.
 
 Here’s some reasons you might want to vote for me, followed by some reasons you shouldn’t:
 
