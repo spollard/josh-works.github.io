@@ -77,8 +77,13 @@ Good question. My opinions on issues related to local government are informed by
 - [A Better Way to Zone: Ten Principles to Create More Livable Cities](https://www.amazon.com/Better-Way-Zone-Principles-Livable/dp/1597261815), Donald Elliott
 - [Antifragile](https://www.amazon.com/dp/B0083DJWGO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), Nassim Taleb
 - [strongtowns.org](http://strongtowns.org/)
+- [The Problem with Political Authority](https://www.amazon.com/Problem-Political-Authority-Examination-Coerce/dp/1137281650/ref=sr_1_1?ie=UTF8&qid=1505430865&sr=8-1&keywords=the+problem+with+political+authority), Michael Huemer
+- [Seeing Like a State](https://www.amazon.com/Seeing-Like-State-Condition-Institution-ebook/dp/B00D8JJYWA/ref=sr_1_1?ie=UTF8&qid=1505430830&sr=8-1&keywords=seeing+like+a+state), James C. Scott
 
 
 Questions? Send them to thompsonjoshd@gmail.com.
 
 Unless you say otherwise, I'll take the core of your question, and my answer, and post it here as a bit of a FAQ section. I won't include your name or identifying question unless you give permission.
+
+
+{% include newsletter.html %}
