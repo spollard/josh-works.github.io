@@ -3,6 +3,7 @@ layout: post
 title:  "A Retrospective on Seven Months at Turing"
 date:   17-08-08 06:18:52 -0600
 categories: programming learning
+tags: [programming, learning, turing]
 permalink: turing-retrospective
 ---
 

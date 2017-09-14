@@ -3,6 +3,7 @@ layout: post
 title:  "On Learning"
 date:   2017-06-05 06:18:52 -0600
 categories: programming learning
+tags: [programming, learning, turing, anki]
 permalink: learning-how-to-learn
 ---
 

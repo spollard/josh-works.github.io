@@ -5,7 +5,6 @@ categories:
 - programming
 tags:
 - ruby
-- gists
 - turing
 status: publish
 type: post

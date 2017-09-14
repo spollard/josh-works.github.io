@@ -3,6 +3,7 @@ layout: post
 title:  "On Cleaner Controllers"
 date:   2017-05-09 06:18:52 -0600
 categories: programming rails refactoring
+tags: [programming, learning, turing, ruby, rails]
 permalink: cleaner-controllers
 ---
 

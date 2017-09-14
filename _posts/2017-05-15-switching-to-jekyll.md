@@ -3,6 +3,7 @@ layout: post
 title:  "Switching to Jekyll"
 date:   2017-05-15 06:18:52 -0600
 categories: writing
+tags: [blogging, jekyll]
 permalink: switching-to-jekyll
 ---
 

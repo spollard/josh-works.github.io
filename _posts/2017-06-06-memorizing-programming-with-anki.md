@@ -3,6 +3,7 @@ layout: post
 title:  "On Memorization with Spaced Repetition"
 date:   17-06-06 06:18:52 -0600
 categories: programming learning
+tags: [programming, learning, turing, anki]
 permalink: anki-spaced-repetition-system
 ---
 

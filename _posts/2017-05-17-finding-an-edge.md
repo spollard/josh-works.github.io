@@ -3,6 +3,7 @@ layout: post
 title:  "Finding an Edge"
 date:   2017-05-09 06:18:52 -0600
 categories: programming struggle
+tags: [programming, learning, turing]
 permalink: finding-an-edge
 ---
 
