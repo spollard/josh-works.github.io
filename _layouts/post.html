@@ -5,12 +5,9 @@ layout: default
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
 
-  <ul class="tags">
-     {% for tag in page.tags %}
-       <li><a href="{{site.baseurl}}tags#{{tag}}" class="tag">{{ tag }}</a></li>
-     {% endfor %}
-   </ul>
-   
+  <p class="entry-tags">{% for tag in page.tags %}<a href="{{ site.url }}/tags#{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag | downcase }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor %}</p>
+
+
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
   {{ content }}
 </article>
