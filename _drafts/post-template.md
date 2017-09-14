@@ -1,8 +1,12 @@
 ---
 layout: post
 title:  "Title"
-date:   yy-mm-dd
+date:   17-09-14
 categories: []
 tags: []
 permalink: post-permalink
 ---
+
+
+
+<!--more-->
