@@ -2,8 +2,8 @@
 layout: post
 title:  "The How and Why of BlockValue"
 date:   17-09-14
-categories: []
-tags: []
+categories: [programming, turing]
+tags: [programming, side_projects]
 permalink: block-value
 ---
 
@@ -46,6 +46,8 @@ Maybe it would be nice if we could color-code the map by land use?
 Lets take another look, through the lens of crowd-sourced GIS data:
 
 ![Red is parking, blue is building](/images/17-09-14-BlockValue.jpg)
+<!--more-->
+
 
 Red is parking lots, blue is buildings. This is downtown Golden, or almost everything that everyone loves about downtown is blue, and the red stuff is (again, just my opinion) counter-productive.
 
@@ -53,7 +55,7 @@ The concept of this app is dead-simple. Almost paint-by-numbers so.
 
 It's still a bit clunky to use, but here's the gist:
 
-![Painting on the map](/images/Screen Recording 2017-09-14 at 04.03 PM.gif)
+![Painting on the map](/images/17-09-14Screen Recording 2017-09-14 at 04.03 PM.gif)
 
 # The technology
 
@@ -92,7 +94,7 @@ Every time the user draws a path, an AJAX call fires, sending`UserPaths` (these 
 
 It's hard to draw closed paths on top of HTML5 canvas. These screenshots make it look like someone is drawing a continuous line, but there's not. Here's what a quick mouse movement looks like:
 
-![drawing paths](/images/Screen Recording 2017-09-14 at 04.26 PM.gif)
+![drawing paths](/images/17-09-14Screen Recording 2017-09-14 at 04.26 PM.gif)
 
 Here's my "draw stuff" function:
 
@@ -153,14 +155,26 @@ The data's stored in a standard PostGres Database. Watching the logs when others
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-
 # The challenges
+
+I'd not done much with JavaScript or AJAX calls before this project.
+
+Most of my time was spent wrestling with the HTML5 canvas overlay, getting it to play correctly with the Google Maps layer underneath.
+
+When a user toggles the "draw" function, I'm just changing the z-index of the canvas to go "below" the google maps layer. I can't imagine this is best practice, but it is what it is.
+
+It was hard converting x/y data from the canvas to lat/long coordinates to store in the database, and to bring it back out when I need to load up the data.
+
+There were lots of challenges, but it's been very educational!
+
 
 # What's next
 
 
-Links:
+I desperately need to set up caching all over the place, and localize the data that I return in my database to contain only about what is visible on the screen.
 
-https://waffle.io/josh-works/block_value
-https://block-value.herokuapp.com/
-https://github.com/josh-works/block_value/
+There's a few UI tweaks I need to get in place, too. It's hard to move between drawing and moving the map.
+
+Finally, I'd like to be able to "do math" against the colored portions of the screen. To say "50% of the visible region is parking lot" or something like that. Then I can start comparing it against popular urban areas in other cities, and other countries.
+
+I think this stage will be when the real value is visible.
