@@ -8,7 +8,6 @@ description: "An archive of posts sorted by tag."
 {% assign tag_words = site_tags | split:',' | sort %}
 <h5> Tags in Blog</h5>
 <div id="tags">
-  <!--  find (and add) styling for .tag-box and .inline -->
   <ul class="tag-box inline">
 <!--  cycles through tag list and creates header row of all tags used in site with accompanying per-tag counts...-->
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}

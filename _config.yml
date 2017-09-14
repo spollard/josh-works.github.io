@@ -21,7 +21,7 @@ title:               Josh Thompson
 tagline:             "Words about things"
 url:                 josh.works
 paginate:            5
-baseurl:             "http://josh.works"
+baseurl:             ""
 excerpt_separator:   <!--more-->
 future: true
 
