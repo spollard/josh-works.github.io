@@ -50,7 +50,7 @@ The way legislation tends to work is by codifying the current opinions of the ma
 
 These laws, born out of a desire to avoid some harm, lead to a rigid, inflexible, unbending solution that forces the community to conform to the law, instead of the law conforming the the community.
 
-In contrast to this “opinions as law” approach, I love flexibility and experimentation, and dislike sterile, managed environments. Therefore, I will in support of experimentation, instead of in a way that assumes we have perfect knowledge and know the future.
+In contrast to this “opinions as law” approach, I love flexibility and experimentation, and dislike sterile, managed environments. Therefore, I will vote in support of experimentation, instead of in a way that assumes we have perfect knowledge and know the future.
 
 ## Anti-qualification 2
 
