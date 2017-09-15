@@ -5,6 +5,8 @@ date:   17-09-14
 categories: [programming, turing]
 tags: [programming, side_projects]
 permalink: block-value
+published: true
+crosspost_to_medium: true
 ---
 
 I've been sketching out an app that "crowdsources" GIS data.

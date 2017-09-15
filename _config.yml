@@ -19,7 +19,7 @@ permalink:           pretty
 # Setup
 title:               Josh Thompson
 tagline:             "Words about things"
-url:                 josh.works
+url:                 https://josh.works/
 paginate:            5
 baseurl:             ""
 excerpt_separator:   <!--more-->
@@ -52,6 +52,13 @@ github:
 gems:
   - jekyll-twitter-plugin
   - jekyll-feed
+  - jekyll-crosspost-to-medium
 
 
-# MEDIUM_INTEGRATION_TOKEN: 2fe0bb76520d30b98af4a67a206326c78da4d4f970bda7ac997ff9928a2bbb586
+jekyll-crosspost_to_medium:
+  enabled: true
+  cache: .jekyll-crosspost_to_medium
+  status: public
+  license: all-rights-reserved
+  text: <p><i>This article was originally posted <a href=\"https://josh.works/" rel=\"canonical\">on my own site</a>.</i></p>
+  backdate: true

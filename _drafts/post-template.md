@@ -3,6 +3,7 @@ layout: post
 title:  "Title"
 date:   17-09-14
 published: false
+crosspost_to_medium: false
 categories: []
 tags: []
 permalink: post-permalink
