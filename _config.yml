@@ -28,7 +28,10 @@ future: true
 # pages in nav bar
 pages_list:
   About: '/about'
+  Golden: '/golden'
   Archive: '/archive'
+  Tags: '/tags'
+
   # Subscribe: '/atom.xml'
 
 # Assets
