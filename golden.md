@@ -18,10 +18,64 @@ My wife and I live in these apartments, and love 'em. (I like to rock climb. The
 
 ![These apartments](/images/grca_3d.jpg)
 
+## Why am I running for office, and what will I do once I get there?
 
-The following is going to be published in the Golden Informer soon. It's my "why you should/shouldn't vote for me" pitch.
+A little over a year ago, my wife and I moved back to Golden. (We were gone for about 18 months, and couldn't wait to return.)
+
+
+### Why I am running
+
+About the same time I got back, I started reading up on how American cities and towns had grown over the last hundred years.
+
+And then I encountered [the growth Ponzi scheme](https://www.strongtowns.org/the-growth-ponzi-scheme), and the more I investigated it, the more I got frustrated by it.
+
+In most cases, we (average people) are allowed to live in a very small range of living arrangements, and those arrangements also set us on the road to bankruptcy.
+
+In August of 2016, I wrote [this short piece]({{ site.baseurl }}{% link _posts/2016-08-24-wrapping-my-head-around-local-politics-001.html %}).
+
+Since then, I've been marinating in interesting ideas, like the ones contained in the following books:
+
+- [Money, Bank Credit, and Economic Cycles](https://www.goodreads.com/book/show/54388.Money_Bank_Credit_and_Economic_Cycles)
+- [Happy City: Transforming Our Lives through Urban Design](https://www.goodreads.com/book/show/13330588-happy-city)
+- [The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey](https://www.goodreads.com/book/show/15794037-the-problem-of-political-authority)
+- [Everything I Want to Do Is Illegal: War Stories from the Local Food Front](https://www.goodreads.com/book/show/835344.Everything_I_Want_to_Do_Is_Illegal)
+- [The Market for Liberty](https://www.goodreads.com/book/show/998062.The_Market_for_Liberty)
+- [The Righteous Mind: Why Good People are Divided by Politics and Religion](https://www.goodreads.com/book/show/11324722-the-righteous-mind)
+- [The Privatization of Roads and Highways](https://www.goodreads.com/book/show/12720771-the-privatization-of-roads-and-highways)
+- [Folks, This Ain't Normal: A Farmer's Advice for Happier Hens, Healthier People, and a Better World](https://www.goodreads.com/book/show/11521956-folks-this-ain-t-normal)
+
+And much, much more.
+
+There is basically a large group of thoughtful people who believe that with experimentation and freedom, we (humans) can slowly discover better ways of doing things, and, assuming good solutions earn money and bad ones lose money, the better solutions will win and spread.
+
+This process of experimentation is *extremely delicate* and can be broken in many ways:
+
+- Legislate against certain kinds of experimentation
+- Subsidize potentially bad ideas
+- Penalize potentially good ideas
+- Calcify all of the above so we can never differentiate good ideas from bad
+
+I, like many people who are reading this, am regularly frustrated by events in the world around me. I can't do anything about that, though. I can impact my family, and the few people that read this and that I talk to.
+
+### What will I do if I win
+
+I attended a few city council events, and found over and over themes of doing *more* of what got us into a bad spot, instead of less. I think there are so many *incredible* people who care so much about Golden, and the community, but I find the looming power of the state overshadowing it so much, it makes the stakes for every single decision so high, that all of the concern and interest is directed to what the government can or will do.
+
+I'd *prefer* to see the balance of power tipped more towards individuals in the community, and away from a rule-heavy government.
+
+For example, the Golden Historic Preservation Board is a group of people who care a lot about Golden. They're working hard to preserve valuable bits of Golden's history, but because all of the power channels through the state (by "the state" I mean "the government"), most of the interest groups think first about how to influence the government, because that's the biggest bang for their buck.
+
+But like I've said before - I'd be a terrible politician.
+
+(For a frame of reference, the flier's I've been passing out are not normal. One person who looked at it said "I can't tell if this is a joke or not, but you should never let a voter see this.")
+
+All I can promise is that, per the style of everything else I do, I'll write about it on here a lot, and explain my reasoning for various decisions. I suspect that in most cases, my answer will be some variation of "I don't think this is an appropriate domain for government to be involved."
+
 
 -----------------
+
+_The following is going to be published in the Golden Informer soon. It's my "why you should/shouldn't vote for me" pitch._
+
 # You probably shouldn’t vote for me.
 
 Here’s some reasons you might want to vote for me, followed by some reasons you shouldn’t:
