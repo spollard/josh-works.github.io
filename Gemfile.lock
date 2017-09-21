@@ -1,3 +1,9 @@
+PATH
+  remote: ../tmp/html2markdown
+  specs:
+    html2markdown (0.0.3)
+      nokogiri
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -34,6 +40,9 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
+    mini_portile2 (2.2.0)
+    nokogiri (1.8.0)
+      mini_portile2 (~> 2.2.0)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
@@ -50,6 +59,7 @@ PLATFORMS
 
 DEPENDENCIES
   figaro
+  html2markdown!
   jekyll (= 3.4.3)
   jekyll-crosspost-to-medium
   jekyll-feed (~> 0.6)

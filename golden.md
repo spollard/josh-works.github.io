@@ -31,7 +31,7 @@ And then I encountered [the growth Ponzi scheme](https://www.strongtowns.org/the
 
 In most cases, we (average people) are allowed to live in a very small range of living arrangements, and those arrangements also set us on the road to bankruptcy.
 
-In August of 2016, I wrote [this short piece]({{ site.baseurl }}{% link _posts/2016-08-24-wrapping-my-head-around-local-politics-001.html %}).
+In August of 2016, I wrote [this short piece]({{ site.baseurl }}{% link _posts/2016-08-24-wrapping-my-head-around-local-politics-001.md %}).
 
 Since then, I've been marinating in interesting ideas, like the ones contained in the following books:
 
