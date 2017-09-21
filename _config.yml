@@ -29,10 +29,10 @@ future: true
 include: ['_pages']
 
 pages_list:
-  About: '/about'
-  Golden: '/golden'
-  Archive: '/archive'
-  Tags: '/tags/'
+  about: '/about'
+  golden: '/golden'
+  archive: '/archive'
+  tags: '/tags/'
 
   # Subscribe: '/atom.xml'
 
