@@ -175,3 +175,8 @@ If you don't provide this information, the first thing the other person will ask
 > Can I look at some code?
 
 Good luck!
+
+## Additional reading
+
+- [How to ask good questions](https://jvns.ca/blog/good-questions/) by Julia Evans
+- [How to answer questions in a helpful way](https://jvns.ca/blog/answer-questions-well/), also by Julia Evans
