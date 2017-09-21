@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: about
+permalink: /about/
 ---
 
 ![A picture of Josh Thompson](/images/2016_litmus_9.jpg)
@@ -66,7 +66,7 @@ I used to believe that personal relationships were of little value. I was a fool
 
 I'm a quick-learning developer. I studied [backend software development](https://www.turing.io/programs/back-end-engineering) at [the Turing school](https://www.turing.io/) in Denver, and have loved the process.
 
-While at Turing, I wrote lots of random things. Some are published here, some are gists and notes. [I built this collection]({{site.baseurl}}{% link turing.md %}) so I can easily point others to the same resources.
+While at Turing, I wrote lots of random things. Some are published here, some are gists and notes. [I built this collection]({{site.baseurl}}{% link _pages/turing.md %}) so I can easily point others to the same resources.
 
 [I care about my tools]({{site.baseurl}} {% link _posts/2017-05-27-developer-workflow.md %}) and believe that [good questions lead to understanding, not just answers]({{site.baseurl}}{% link _posts/2017-05-29-ask-better-questions.md %}).
 
@@ -80,7 +80,7 @@ I'm running for Golden's City Council. I still feel conflicted on this, given my
 The work-in-progress landing page for all that stuff lives here:
 
 
-[josh.works/golden]({{site.baseurl}}{% link golden.md %})
+[josh.works/golden]({{site.baseurl}}{% link _pages/golden.md %})
 
 ____________________
 

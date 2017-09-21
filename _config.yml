@@ -26,11 +26,13 @@ excerpt_separator:   <!--more-->
 future: true
 
 # pages in nav bar
+include: ['_pages']
+
 pages_list:
   About: '/about'
   Golden: '/golden'
   Archive: '/archive'
-  Tags: '/tags'
+  Tags: '/tags/'
 
   # Subscribe: '/atom.xml'
 
