@@ -1,0 +1,14 @@
+Configuration file: /Users/joshthompson/josh-works.github.io/_config.yml
+            Source: /Users/joshthompson/josh-works.github.io
+       Destination: /Users/joshthompson/josh-works.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 5.481 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+Running ["ImageCheck", "ScriptCheck", "LinkCheck"] on ["./_site"] on *.html... 
+
+
+Checking 663 external links...
+Ran on 217 files!
+
+

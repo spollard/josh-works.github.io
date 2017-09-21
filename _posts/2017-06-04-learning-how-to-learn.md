@@ -27,8 +27,8 @@ But, since I have a process, as imperfect as it is, I can just say "ah, a hard t
 
 I've been thinking about friction, and learning, and the relationship between the two, for quite some time:
 
-- [The difficult work of making it easy](/2013/06/10/2013-06-10-the-difficult-work-of-making-it-easy/)
-- [Make hard things easy by removing friction](http://localhost:4000/growth/2013/12/07/2013-12-07-make-hard-things-easy-removing-friction/)
+- [The difficult work of making it easy]({{ site.baseurl }}{% link _posts/2013-06-10-the-difficult-work-of-making-it-easy.md %})
+- [Make hard things easy by removing friction]({{ site.baseurl }}{% link _posts/2013-12-07-make-hard-things-easy-removing-friction.md %})
 
 Here's my _current_ iteration of "how to learn difficult things"
 
