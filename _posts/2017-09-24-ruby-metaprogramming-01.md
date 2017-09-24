@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Metaprogramming in Ruby: Method Missing"
-date:   17-09-14
+date:   2017-09-24
 published: true
 crosspost_to_medium: true
 categories: [ruby, programming]
