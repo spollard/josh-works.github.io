@@ -71,6 +71,7 @@ While at Turing, I wrote lots of random things. Some are published here, some ar
 [I care about my tools]({{site.baseurl}} {% link _posts/2017-05-27-developer-workflow.md %}) and believe that [good questions lead to understanding, not just answers]({{site.baseurl}}{% link _posts/2017-05-29-ask-better-questions.md %}).
 
 - [My Turing portfolio](https://www.turing.io/alumni/josh-thompson)
+- [Everything I've written on the topic of programming](http://josh.works/tags#programming)
 
 --------------------
 ## Golden City Council
