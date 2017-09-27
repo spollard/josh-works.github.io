@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Lambdas, Blocks, Procs, and crocs"
+title:  "Blocks and Closures in Ruby"
 date:   2017-09-26
-published: false
-crosspost_to_medium: false
+published: true
+crosspost_to_medium: true
 categories: [programming, ruby]
 tags: [programming, ruby, metaprogramming]
-permalink: lambdas-blocks-procs-crocs
+permalink: blocks_and_closures
 ---
 
 _Continuing on from [yesterday's post about `method_missing`]({{ site.baseurl }}{% link _posts/2017-09-24-ruby-metaprogramming-01.md %}), I'm moving on to a part of Ruby's language that has been a bit of a mystery for me for quite some time. I'm still working through [Metaprogramming in Ruby](https://www.amazon.com/Metaprogramming-Ruby-Program-Like-Facets/dp/1941222129)._
@@ -15,10 +15,7 @@ It's the concept of _lambdas_, _procs_, _blocks_, and more. I also hope to bette
 
 I expect my first pass to be rocky, but to also lay a foundation for better understanding later. I'm writing this out because [this is how I learn]({{ site.baseurl }}{% link _posts/2017-06-04-learning-how-to-learn.md %}).  
 
-Oh, and I cannot promise how crocs (and crocks) will feature in the following words.
 
-
-<!--more-->
 
 ## yield
 
@@ -45,6 +42,7 @@ a_method do
 end
 => "i'm inside a do..end block"
 ```
+<!--more-->
 
 Enough on yielding.
 
@@ -121,17 +119,6 @@ end
 I feel like there's something important here, but I don't yet know what it is. But I'm not worrying about it - this is my first trip through closures in Ruby, and I'm only half way through the chapter!
 
 Per how I [like to learn]({{ site.baseurl }}{% link _posts/2017-06-04-learning-how-to-learn.md %}), I'm going to dig into some associated guides/tutorials for the concept of closures in Ruby. I know it's tied to functional programming, and I think it'll be useful to me to wrap my head around the idea.
-
-------------------
-
-Oh yeah, I promised crocs, right?
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/XJy7i9KfXxYyc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/statechamps-crocs-state-champs-XJy7i9KfXxYyc">via GIPHY</a></p>
-
-### May your code always look better than the shoes, and never bite you on the behind like a crocodile.
-
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/3skd1byCM2E4U" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/jump-interesting-crocodiles-3skd1byCM2E4U">via GIPHY</a></p>
-
 
 
 ## Further reading
