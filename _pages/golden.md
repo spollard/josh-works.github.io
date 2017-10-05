@@ -20,10 +20,7 @@ My wife and I live in these apartments, and love 'em. (I like to rock climb. The
 
 ## Why am I running for office, and what will I do once I get there?
 
-A little over a year ago, my wife and I moved back to Golden. (We were gone for about 18 months, and couldn't wait to return.)
-
-
-### Why I am running
+My wife and I moved to Golden in 2014. We then left for a year and a half, and spent the whole time itching to return. We've been back for a year and a few months.
 
 About the same time I got back, I started reading up on how American cities and towns had grown over the last hundred years.
 
@@ -59,7 +56,9 @@ I, like many people who are reading this, am regularly frustrated by events in t
 
 ### What will I do if I win
 
-I attended a few city council events, and found over and over themes of doing *more* of what got us into a bad spot, instead of less. I think there are so many *incredible* people who care so much about Golden, and the community, but I find the looming power of the state overshadowing it so much, it makes the stakes for every single decision so high, that all of the concern and interest is directed to what the government can or will do.
+I attended a few city council events, and found over and over themes of doing *more* of what got us into a bad spot, instead of less.
+
+There are so many *incredible* people who care so much about Golden, and the community, but I find the looming power of the state overshadowing it so much, it makes the stakes for every single decision so high, that all of the concern and interest is directed to what the government can or will do.
 
 I'd *prefer* to see the balance of power tipped more towards individuals in the community, and away from a rule-heavy government.
 
@@ -139,5 +138,6 @@ Questions? Send them to thompsonjoshd@gmail.com.
 
 Unless you say otherwise, I'll take the core of your question, and my answer, and post it here as a bit of a FAQ section. I won't include your name or identifying question unless you give permission.
 
+**[Here's a mostly-current list of questions and my answers.]({{ site.baseurl }}{% link _posts/2017-10-05-issues.md %})**
 
 {% include newsletter.html %}
