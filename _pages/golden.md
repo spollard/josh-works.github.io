@@ -66,7 +66,7 @@ For example, the Golden Historic Preservation Board is a group of people who car
 
 But like I've said before - I'd be a terrible politician.
 
-(For a frame of reference, the flier's I've been passing out are not normal. One person who looked at it said "I can't tell if this is a joke or not, but you should never let a voter see this.")
+(For a frame of reference, the fliers I've been passing out are not normal. One person who looked at it said "I can't tell if this is a joke or not, but you should never let a voter see this.")
 
 All I can promise is that, per the style of everything else I do, I'll write about it on here a lot, and explain my reasoning for various decisions. I suspect that in most cases, my answer will be some variation of "I don't think this is an appropriate domain for government to be involved."
 
