@@ -1,11 +1,6 @@
 ---
-layout: post
-title:  "Issues in Golden City Council"
-date: 2017-10-05 06:18:52 -0600
-published: true
-crosspost_to_medium: false
-categories: [politics, golden city council]
-tags: [golden city council, politics, local politics]
+layout: page
+title: Golden City Council
 permalink: the-issues
 ---
 

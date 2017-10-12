@@ -138,6 +138,6 @@ Questions? Send them to thompsonjoshd@gmail.com.
 
 Unless you say otherwise, I'll take the core of your question, and my answer, and post it here as a bit of a FAQ section. I won't include your name or identifying question unless you give permission.
 
-**[Here's a mostly-current list of questions and my answers.]({{ site.baseurl }}{% link _posts/2017-10-05-issues.md %})**
+**[Here's a mostly-current list of questions and my answers.]({{ site.baseurl }}{% link _pages/issues.md %})**
 
 {% include newsletter.html %}
