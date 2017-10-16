@@ -7,6 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: persistence
 ---
 
 

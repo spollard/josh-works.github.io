@@ -10,6 +10,7 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: typing-for-programmers
 ---
 
 
@@ -22,12 +23,12 @@ I can press these magical little keys on this little metal box here, and make th
 
 
 
-If you're reading these words, you don't care how these words actually 
+If you're reading these words, you don't care how these words actually
 got on this page. You don't care if I used speech-to-text, transcription, hunt-and-pecked, or if my keyboard layout is QWERTY, Dvorak , or Colemak.
 
 
 
-All that matters is that I can express reasonable ideas reasonably well. (Or, as I prefer, 
+All that matters is that I can express reasonable ideas reasonably well. (Or, as I prefer,
 unreasonable ideas, reasonably well.)
 
 
@@ -36,9 +37,9 @@ You, too, probably spend a bit of your time behind a keyboard.
 
 
 
-I've already spent time trying to improve my typing speed. After 
-[ill-fated attempts at converting myself to using the Colemak keyboard layout](https://josh.works/blog/2014/07/16/learn-to-type-again), but I gave up, except 
-[I kept my CAPS LOCK key mapped to DELETE](https://josh.works/blog/2014/07/16/stop-yelling-on-the-internet-or-a-better-use-for-the-caps-lock-key).
+I've already spent time trying to improve my typing speed. After
+[ill-fated attempts at converting myself to using the Colemak keyboard layout]({{ site.baseurl }}{% link _posts/2014-07-16-learn-to-type-again.md %}), but I gave up, except
+[I kept my CAPS LOCK key mapped to DELETE]({{ site.baseurl }}{% link _posts/2014-07-16-stop-yelling-on-the-internet-or-a-better-use-for-the-caps-lock-key.md %}).
 
 
 
@@ -56,13 +57,13 @@ Don't forget your symbols!
 
 
 
-I ultimately need to be able to use every single one of those keys without thinking about it, without looking at the keyboard, 
+I ultimately need to be able to use every single one of those keys without thinking about it, without looking at the keyboard,
 and without looking at what I'm typing to verify that it's correct.
 
 
 
-(For example, if you're reading documentation or code on one part of your screen, typing something into some other program, you cannot be looking at what you're typing 
-and what you're 
+(For example, if you're reading documentation or code on one part of your screen, typing something into some other program, you cannot be looking at what you're typing
+and what you're
 supposed to be typing simultaneously.)
 
 
@@ -92,7 +93,7 @@ Typing.io doesn't solve everything, though, because there are still common code 
 
 
 
-a lesson from the Ruby track. Have you EVER used the 
+a lesson from the Ruby track. Have you EVER used the
 | key? NO!
 
 
@@ -106,8 +107,8 @@ So, that brings us to method number 2:
 * Change commonly used passwords to require hard-to-type code snippets.
 
 
-I first got creative with changing my passwords after reading 
-[How a Password Changed My Life](https://medium.com/@manicho/how-a-password-changed-my-life-7af5d5f28038#.c43eyodf2). I'd remind myself to get up early, (when that was hard, I reminded myself to 
+I first got creative with changing my passwords after reading
+[How a Password Changed My Life](https://medium.com/@manicho/how-a-password-changed-my-life-7af5d5f28038#.c43eyodf2). I'd remind myself to get up early, (when that was hard, I reminded myself to
 go to bed early).
 
 
@@ -137,7 +138,7 @@ In the past, I've used it to train the #, %, **, && symbols, as well as [] and {
 
 
 
-As I get deeper into my studies, anytime I encounter a difficult key combination (like hitting 
-= right after my pinky is otherwise engaged with a 
-' or 
+As I get deeper into my studies, anytime I encounter a difficult key combination (like hitting
+= right after my pinky is otherwise engaged with a
+' or
 | key) I jot it down, to use next time I update my passwords.

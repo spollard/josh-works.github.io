@@ -12,6 +12,7 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: be-gentle-to-you
 ---
 
 There are many types of people in the world, all with different approaches to "getting stuff done". My approach to doing stuff is different from my wife's approach. (Who'da thunk?)

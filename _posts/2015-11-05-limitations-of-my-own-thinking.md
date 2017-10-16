@@ -12,6 +12,7 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: limitations-of-my-own-thinking
 ---
 
 
@@ -40,9 +41,9 @@ That's a rough way to write, and makes it hard to get a coherent thought down. S
 
 
 
-We're all suspicious of people who 
-say but do not 
-do. We're also eager to hear from people that 
+We're all suspicious of people who
+say but do not
+do. We're also eager to hear from people that
 do, so we can learn from them and improve our own situation.
 
 
@@ -51,7 +52,7 @@ We should be wary of people who have done great things and then talk about it. 
 
 
 
-When imparting advice, the advice giver 
+When imparting advice, the advice giver
 andthe audience face three dangers:
 
 
@@ -59,15 +60,15 @@ andthe audience face three dangers:
  This modification usually is not intentional.
 
 
-* **Mistaking the relationship between 
-what happened and 
+* **Mistaking the relationship between
+what happened and
 what was observed.  **
 Have you noticed that "plain facts" get interpreted in opposite ways? 
 
 
 * **Misattribute cause and effect. **
 "I started calling customers and changing the marketing to use the words and phrases they used, 
-and our company grew 20% month over month!" Possible, but keep in mind that 
+and our company grew 20% month over month!" Possible, but keep in mind that
 [the number of people who drowned by falling into pools correlates with the number of films featuring Nicolas Cage. ](http://www.tylervigen.com/spurious-correlations)
 
 
@@ -91,5 +92,5 @@ Don't trust most of what most people say.
 
 
 
-If you want a good starting point for trusting some people and distrusting others, I cannot recommend 
+If you want a good starting point for trusting some people and distrusting others, I cannot recommend
 [Antifragile](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) highly enough. Go read it.

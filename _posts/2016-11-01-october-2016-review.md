@@ -9,6 +9,7 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: october-2016-review
 ---
 
 
@@ -20,8 +21,8 @@ This month's review. In another few days I'll post the goals for November.
 
 
 
-I had 
-[three goals for October](https://josh.works/blog/october-2016-goals), as of about 12 days ago:
+I had
+[three goals for October]({{ site.baseurl }}{% link _posts/2016-11-01-october-2016-review.md %}), as of about 12 days ago:
 
 
 ## October goals:
@@ -31,7 +32,7 @@ I had
 
 
 
-I wanted to finish a certain Rails Tutorial, and move on to the next one. This project I made zero progress on. But I'm accepted into the 
+I wanted to finish a certain Rails Tutorial, and move on to the next one. This project I made zero progress on. But I'm accepted into the
 [Turing School's](https://www.turing.io/) January 2017 cohort, and have approval from my company for a long (unpaid) sabbatical for the course.
 
 
@@ -47,7 +48,7 @@ I'd like to reach a point of stability and completeness on my next bullet point 
 
 
 
-I made good progress here. I finally got 
+I made good progress here. I finally got
 [the website](http://climbersguide.co/) I'm using into a viewable form (the old theme I had was hideous).
 
 
@@ -66,7 +67,7 @@ boring. And I wouldn't take it any other way.
 
 
 
-I started fleshing out a bunch of blog posts, either moving over things I've written for 
+I started fleshing out a bunch of blog posts, either moving over things I've written for
 this website, or other ideas I had floating around in my head.
 
 
@@ -82,7 +83,7 @@ The email list and drip campaigns is where all the good stuff is, so I'll turn m
 
 
 
-Made great progress here. Just a few hours ago, I sent 
+Made great progress here. Just a few hours ago, I sent
 [Anarchitect (5.12d)](http://www.mountainproject.com/v/anarchitect/105750721).
 
 
@@ -105,7 +106,7 @@ Some of the lessons:
 
 
 **Lesson Two: I'm horrible at remembering my own beta.**
- A friend of mine who has an 
+ A friend of mine who has an
 excellent ability to recall his own beta, and others, and adjust it on the fly, upon seeing my climbing said "It's as if every time you climb a route, it's your first time."
 
 
@@ -119,7 +120,7 @@ So, this time around, I made a "beta map". I just jotted down every move of the 
 
 
 
-The process of recalling enough of my movement to make this map, as well as playing back through every move to recall the ideal sequence, is 
+The process of recalling enough of my movement to make this map, as well as playing back through every move to recall the ideal sequence, is
 exactly what I need. As I climbed the route again after making it (the next day) I was comparing every move I made with what I'd outlined in the map.
 
 
@@ -133,19 +134,19 @@ So, I'll keep making these maps. I hope to improve my "beta recall", and even on
 
 
 **Lesson Three: It's important to try hard.**
- I almost sent the route my fourth attempts, but I fell off because I simply didn't try on the last move. This is a horrible habit I've picked up in my climbing, and it's sneaky. See, you can always try to be stronger, or climb more efficiently, and these are good things, but at the end of the day - if you can try really 
+ I almost sent the route my fourth attempts, but I fell off because I simply didn't try on the last move. This is a horrible habit I've picked up in my climbing, and it's sneaky. See, you can always try to be stronger, or climb more efficiently, and these are good things, but at the end of the day - if you can try really
 really hard, you can make more progress than someone who doesn't.
 
 
 
 **Lesson Four: I've gotten better at rock climbing in the last few years.**
- It's been ages since I've had a solid indicator that I've improved as a climber. In the last five years, I've spent almost three of them not climbing regularly, and just trying to train a bit on my own. Due to seasons and travel, all of my "progress" has been inside, on gym routes. Gym routes have little relationship to outdoor climbs, and they're not internally consistent 
+ It's been ages since I've had a solid indicator that I've improved as a climber. In the last five years, I've spent almost three of them not climbing regularly, and just trying to train a bit on my own. Due to seasons and travel, all of my "progress" has been inside, on gym routes. Gym routes have little relationship to outdoor climbs, and they're not internally consistent
 or consistent across time.
 
 
 
-So, I know I've been 
-feeling stronger, but I didn't have proof. Now I do. I'm going to aim for a few more 5.12ds and 12cs, but I think I'm going to hop on 
+So, I know I've been
+feeling stronger, but I didn't have proof. Now I do. I'm going to aim for a few more 5.12ds and 12cs, but I think I'm going to hop on
 [Sonic Youth](https://www.mountainproject.com/v/sonic-youth/105749158) next. It might be a "soft" 5.13a, but supposedly some broken holds in 2010 made it solid for the grade.
 
 

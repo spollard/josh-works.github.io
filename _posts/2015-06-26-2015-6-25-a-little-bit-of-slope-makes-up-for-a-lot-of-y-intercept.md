@@ -9,6 +9,7 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: a-little-bit-of-slope-makes-up-for-a-lot-of-y-intercept
 ---
 
 
@@ -21,7 +22,7 @@ The following is recounted on 
 
 
 
-From a lecture by 
+From a lecture by
 [Professor John Ousterhout](http://web.stanford.edu/~ouster/cgi-bin/home.php):
 
 Here's today's thought for the weekend.  A little bit of slope makes up for a lot of Y-intercept.  
@@ -35,7 +36,7 @@ Here's today's thought for the weekend.  A little bit of slope makes up for a l
  
 
 
-      
+
 ![](/squarespace_images/static_556694eee4b0f4ca9cd56729_56035dbbe4b07ebf58d79d16_558ca9b4e4b0391692169928_1435281858196_y-intercept.pngy-intercept_)
 
 

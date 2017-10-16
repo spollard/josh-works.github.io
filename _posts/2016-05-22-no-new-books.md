@@ -10,6 +10,7 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: no-new-books
 ---
 
 
@@ -46,5 +47,5 @@ Want to read along, or at least know what I've finished reading most recently?
 
 
 
-I keep my 
+I keep my
 [Goodreads profile](https://www.goodreads.com/review/list/27372191?shelf=read&sort=date_added) current-ish with what I've finished reading, and at least right now, what I'm currently reading.

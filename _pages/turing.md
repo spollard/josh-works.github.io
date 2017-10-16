@@ -26,7 +26,7 @@ What follows below is a curated list of useful material, ordered by either the m
 *   [Deliberate Practice (Lightning Talk)](https://gist.github.com/josh-works/65802ebf3c90025b113b52cbf6a79c71)
 *   [outline of resources on GIS/d3/data vis](https://gist.github.com/josh-works/084d8aaa6ddb405236e293f485982e4e)
 *   [Example of how I ask a very knowledgable person for help (hint: make it easy for them to have the information, and respond in their time)](https://gist.github.com/josh-works/9a386cd033dec833b65257af6eaa4fbc)
-* [Learning how to learn](http://localhost:4000/learning-how-to-learn)
+* [Learning how to learn]({{ site.baseurl }}{% link _posts/2017-06-04-learning-how-to-learn.md %})
 
 ## Before Turing
 
@@ -40,7 +40,7 @@ What follows below is a curated list of useful material, ordered by either the m
 *   [Notes from HTTP Yeah_You_Know_Me](https://gist.github.com/josh-works/59b17f5aa8d3ab7ac899c7a4a2fae92d)
 
 ## Mod 2: Sinatra, Active Record, and Rails
-* [Tour of D3 for Clueless Folk like me](/tour-of-d3/)
+* [Tour of D3 for Clueless Folk like me]({{ site.baseurl }}{% link _posts/2017-04-19-tour-of-d3.md %})
 
 ## Mod 3: Consuming and Building APIs, brown-field projects, AJAX, caching, background workers
 

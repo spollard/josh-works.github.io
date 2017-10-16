@@ -48,7 +48,7 @@ My relationships are simple. I'm married, and it's the coolest thing. I don't kn
 
 The significance and importance of my marriage far outweighs other topics that I write about, like money, travel, work, jobs, side projects, programming, climbing, etc.
 
-I don't know much about marriage, or relationships, but please [fight fair](http://josh.works/home/2013/07/18/rules-for-fighting-fair/).
+I don't know much about marriage, or relationships, but please [fight fair]({{ site.baseurl }}{% link _posts/2013-07-18-rules-for-fighting-fair.md %}).
 
 --------------------
 
@@ -97,7 +97,7 @@ My job done well means our customers stay with us for a long time, and are reall
 
 My entire time at Litmus, I worked remotely, I saw most of my coworkers ~2x/year, and lived in the same time zone as almost none of them.
 
-I was [once interviewed on working remotely](http://josh.works/jobs/2016/03/16/my-interview-with-pajamasio/), and believe that in the right context, the constraints imposed by remote work can improve the quality of your work. (I'm in the habit of _writing everything down_ and summarize and itemize everything. See the top of this post, and that index? It's habit, made by working remotely. _You cannot over-communicate in a remote environment._)
+I was [once interviewed on working remotely]({{ site.baseurl }}{% link _posts/2016-03-16-my-interview-with-pajamasio.md %}), and believe that in the right context, the constraints imposed by remote work can improve the quality of your work. (I'm in the habit of _writing everything down_ and summarize and itemize everything. See the top of this post, and that index? It's habit, made by working remotely. _You cannot over-communicate in a remote environment._)
 
 Remote work is great when you live in one place, but also opens the door to [cool travel opportunities](http://teamthompsontravels.tumblr.com/post/145144220613/1-year-travelversary-exactly-one-year-ago-on-may)
 
@@ -115,11 +115,11 @@ This project pulls together a few different skill sets, only two of which I've h
 
 ## Books and Wisdom
 
-[My own thinking is severely limited](http://josh.works/2015/11/05/limitations-of-my-own-thinking/), and the best way to learn to think better is to learn from those who think clearly.
+[My own thinking is severely limited]({{ site.baseurl }}{% link _posts/2015-11-05-limitations-of-my-own-thinking.md %}), and the best way to learn to think better is to learn from those who think clearly.
 
-Wise men and women pour themselves into writing a good book, which you can consume for mostly-free, and a few hours of your time. Books are doors into other people's heads and hearts, or into entirely new worlds. I cannot state concisely all the reasons that I think you should read, but [here's a good starting point](http://josh.works/growth/money/2016/03/31/everything-i-do-and-think-ive-read-in-a-book-or-exploring-the-relationship-between-books-and-money/).
+Wise men and women pour themselves into writing a good book, which you can consume for mostly-free, and a few hours of your time. Books are doors into other people's heads and hearts, or into entirely new worlds. I cannot state concisely all the reasons that I think you should read, but [here's a good starting point]({{ site.baseurl }}{% link _posts/2016-03-31-everything-i-do-and-think-ive-read-in-a-book-or-exploring-the-relationship-between-books-and-money.md %}).
 
-Oh, and I use a Kindle. [I think you should too](http://josh.works/2013/07/22/2013-07-22-why-i-use-a-kindle/), but whatever it takes to help you read is fine with me.
+Oh, and I use a Kindle. [I think you should too]({{ site.baseurl }}{% link _posts/2013-07-22-why-i-use-a-kindle.md %}), but whatever it takes to help you read is fine with me.
 
 --------------------
 
@@ -135,7 +135,7 @@ Anytime I think about exercise, I think about the time requirements compared to 
 
 I love to be miserable and do difficult things, but on my own terms. (My "suffering of choice" is almost entirely focused on rock climbing. I write about it on [climbersguide.co](http://climbersguide.co/). Join me.)
 
-There's no magic bullet, but there's a convenient way to get amazing exercise in just a few minutes, in the comfort of your own home. And body-weight anything doesn't cut it, unless it's related to pull-ups. Allow me to introduce [Russian Kettlebell Swings](http://josh.works/growth/climbing/2013/05/09/2013-05-09-daily-exercise-russian-kettlebells/).
+There's no magic bullet, but there's a convenient way to get amazing exercise in just a few minutes, in the comfort of your own home. And body-weight anything doesn't cut it, unless it's related to pull-ups. Allow me to introduce [Russian Kettlebell Swings]({{ site.baseurl }}{% link _posts/2013-05-09-daily-exercise-russian-kettlebells.md %}).
 
 If you were to do no other exercise for the rest of your life, but swing heavy kettle bells, you'd be in better shape than almost everyone you know, for only a modest time investment of 5-10 minutes, every other day.
 
@@ -143,17 +143,17 @@ If you were to do no other exercise for the rest of your life, but swing heavy k
 
 They say "bodies are built in the kitchen", and they're right.
 
-I don't know much about food, [but I sure do have some opinions](http://josh.works/home/2014/04/08/2014-04-08-why-i-eat-bacon-every-day-and-you-should-too/). The FDA's food pyramid is complete crap, and you should probably be eating more fatty stuff and butter. Stop drinking sugar.
+I don't know much about food, [but I sure do have some opinions]({{ site.baseurl }}{% link _posts/2014-04-08-why-i-eat-bacon-every-day-and-you-should-too.md %}). The FDA's food pyramid is complete crap, and you should probably be eating more fatty stuff and butter. Stop drinking sugar.
 
 Intermittent fasting is pretty cool, and speeds up the mornings nicely. Been doing this since late 2015, have had nothing but a positive experience
 - [Nerd Fitness's guide](https://www.nerdfitness.com/blog/a-beginners-guide-to-intermittent-fasting/)
-- [James Clear's guide]()
+- [James Clear's guide](https://jamesclear.com/the-beginners-guide-to-intermittent-fasting)
 
 --------------------
 
 ## Miscellaneous
 
-Writing here is purely an exercise to improve my own thinking. It'll be ugly. [I'm OK with this](http://josh.works/2015/07/23/2015-7-22-type-publish-done/).
+Writing here is purely an exercise to improve my own thinking. It'll be ugly. [I'm OK with this]({{ site.baseurl }}{% link _posts/2015-07-23-2015-7-22-type-publish-done.md %}).
 
 Comments/questions/criticisms? I'm thompsonjoshd at google's popular email service.
 

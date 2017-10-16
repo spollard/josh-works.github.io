@@ -12,7 +12,7 @@ meta: {}
 
 
 
-Recently I deleted a bunch of old notes I had in 
+Recently I deleted a bunch of old notes I had in
 [Evernote](https://evernote.com). Some of the notes were almost immediately unneeded, like old receipts and confirmations. 
 
 
@@ -66,4 +66,4 @@ The same way that it matters to me. Do things that matter. But don't lose sleep 
 
 
 
-[It's the slope, not the Y-intercept. ](http://josh.works/blog/2015/6/25/a-little-bit-of-slope-makes-up-for-a-lot-of-y-intercept)
+[It's the slope, not the Y-intercept. ]({{ site.baseurl }}{% link _posts/2015-06-26-2015-6-25-a-little-bit-of-slope-makes-up-for-a-lot-of-y-intercept.md %})

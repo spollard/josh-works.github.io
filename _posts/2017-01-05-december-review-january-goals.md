@@ -9,8 +9,9 @@ permalink: 2017-december-review
 type: post
 published: true
 meta: {}
+permalink: december-review-january-goals
 ---
-This is a follow-up from [last month's goals](https://josh.works/blog/december-2016-goals)
+This is a follow-up from [last month's goals]({{ site.baseurl }}{% link _posts/2016-12-20-december-2016-goals.md %})
 
 ## 1\. Deepen Knowledge of Back-end Development
 
@@ -55,7 +56,7 @@ Turns out I'd not counted my books that I've read this year correctly. I was aim
 
 Turing School starts Jan 23rd. I'm trying to pack in as much prep as I can before it starts. I'm working through some Exercism exercises, and trying to wrap my head around ruby basics, like manipulating/combining arrays and hashes, and understanding Enumerators.
 
-I've been using [Anki SRS](https://ankiweb.net/about) for a long time now, in a variety of ways in my life. Mostly [vocabulary memorization](https://josh.works/blog/2-things-spanish), but lots of other things too. Derek Sivers [uses it to improve as a programmer](https://sivers.org/srs).
+I've been using [Anki SRS](https://ankiweb.net/about) for a long time now, in a variety of ways in my life. Mostly [vocabulary memorization]({{ site.baseurl }}{% link _posts/2016-01-20-2-things-spanish.md %}), but lots of other things too. Derek Sivers [uses it to improve as a programmer](https://sivers.org/srs).
 
 If it's good enough for him, it's good enough for me!
 

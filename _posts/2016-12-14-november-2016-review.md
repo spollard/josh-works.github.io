@@ -16,8 +16,7 @@ Note to the reader: The words that follow are all about me. This is naval-gaze-i
 
 
 
-My 
-[November goals](https://josh.works/blog/f23wrr3boior18oo14ih6v2lo0suz6) were an extension of October's goals. I feel comfortable with long-term unchanging goals.
+My [November goals]({{ site.baseurl }}{% link _posts/2016-11-09-november-2016-goals.md %}) were an extension of October's goals. I feel comfortable with long-term unchanging goals.
 
 
 
@@ -121,7 +120,7 @@ Still doing good. I'm at ~70 for the year, should cross the 75 book mark by end 
 
 
 
-I just finished 
+I just finished
 [The 4 Disciplines of Execution](https://www.amazon.com/Disciplines-Execution-Achieving-Wildly-Important/dp/1491517751), and want to apply some of those lessons to my own projects.
 
 
@@ -133,11 +132,11 @@ Still low. (Which is good). I'm rolling Anki back into my life with gusto, which
 
 
 
-I've written about using Anki for Spanish 
-[here](https://josh.works/blog/learning-spanish-conversation-connectors) and 
-[here](https://josh.works/blog/2-things-spanish), but now I'm using it for programming.
+I've written about using Anki for Spanish
+[here]({{ site.baseurl }}{% link _posts/2016-01-25-learning-spanish-conversation-connectors.md %}) and
+[here]({{ site.baseurl }}{% link _posts/2016-01-20-2-things-spanish.md %}), but now I'm using it for programming.
 
 
 
-I'll expand on that soon, but here's the best summary: 
+I'll expand on that soon, but here's the best summary:
 [Derek Sivers on SRS for Programmers](https://sivers.org/srs)

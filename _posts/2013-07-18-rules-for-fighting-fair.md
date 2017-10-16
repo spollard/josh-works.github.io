@@ -11,6 +11,7 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: rules-for-fighting-fair
 ---
 
 
@@ -28,8 +29,8 @@ more
 
 
 
-Anyone can be nice to someone when they are "in love", or when they feel it is good for them. It takes skill and character to argue fairly, and it will tell you a lot about a person in a very short amount of time. For the same reason you should pay attention to how someone treats waiters, janitors, and others who they don't 
-have to be nice to. 
+Anyone can be nice to someone when they are "in love", or when they feel it is good for them. It takes skill and character to argue fairly, and it will tell you a lot about a person in a very short amount of time. For the same reason you should pay attention to how someone treats waiters, janitors, and others who they don't
+have to be nice to.
 It reveals a depth of character that you can't otherwise see.
 
 
@@ -51,7 +52,7 @@ This list I put down is the rules Kristi and I try to abide by. We don't always 
 
 * Stopfighting
 , and startdiscussing
-. People 
+. People
 can discuss things with angry tones and mean looks. Tell the person you were arguing with that you don't want to fight, you want to figure out what's going on and make it right. A discussion can be productive, a fight cannot be.
 
 
@@ -60,7 +61,7 @@ can discuss things with angry tones and mean looks. Tell the person you were arg
 Example 1: Her reaction to your feedback on her driving is not about driving, it's about a sense of control, and a desire to not feel out of control. She knows how to drive, but feels like her life is out of control, and your feedback makes it feel like one more thing - driving - is out of her control.
 
 
-Example 2: His procrastination is not about being lazy, but a deep, deep fear of rejection and a sense of perfectionism, which is motivated by a fear of rejection. You can nag about doing something, or you can help him understand why he is equipped to go forth and 
+Example 2: His procrastination is not about being lazy, but a deep, deep fear of rejection and a sense of perfectionism, which is motivated by a fear of rejection. You can nag about doing something, or you can help him understand why he is equipped to go forth and
 [JFDI](http://www.bothsidesofthetable.com/2009/11/19/what-makes-an-entrepreneur-four-lettersjfdi/).
 
  
@@ -71,8 +72,8 @@ Example 2: His procrastination is not about being lazy, but a deep, deep fear of
 Reaffirm long-term goals. (Also known as "keep your eye on the prize".) Are you trying to score rhetorical points and tear them down? If so, 
 you are the problem, not them. Are you trying to love them and you want good things for them? Let them know. When you're fighting, it's easy to think they hate you, and that they are a miserable excuse for a person. Inform them that they are wrong. You do, in fact, love them and are committed to them. (That's true, right?)
 
-Don't call them names, or ascribe negative character traits. They are not stupid, they 
-did something that you need help understanding. They are not disrespectful, they did something that 
+Don't call them names, or ascribe negative character traits. They are not stupid, they
+did something that you need help understanding. They are not disrespectful, they did something that
 seemed disrespectful. Encourage them even in the way you bring up "problems". Give them the benefit of the doubt.
 
 You bring just as many warped perspectives and screwed up ideas to the table that they do. Don't put the blame all on them.
@@ -113,12 +114,12 @@ These are Kristi's additions to the above list:
 * Pause - remind each other that you love each other.
 
 
-This entire list can be summarized in one rule: 
+This entire list can be summarized in one rule:
 **When fighting, be respectful and loving.**
 
 
 
-This is a tall order, for the record. We certainly don't have it figured out, but we're working on improving the quality of our fights. Already they are pretty good, and we want them to be better. I would recommend you talk with your significant other 
+This is a tall order, for the record. We certainly don't have it figured out, but we're working on improving the quality of our fights. Already they are pretty good, and we want them to be better. I would recommend you talk with your significant other
 regularly about the quality of your arguments. It is time well spent.
 
 

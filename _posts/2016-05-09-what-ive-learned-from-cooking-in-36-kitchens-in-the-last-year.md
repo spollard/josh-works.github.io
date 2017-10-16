@@ -11,6 +11,7 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: what-ive-learned-from-cooking-in-36-kitchens-in-the-last-year
 ---
 
 
@@ -35,14 +36,14 @@ Then I think "well, we all spend a lot of time in a kitchen, and depending on ho
 
 
 
-So, a kitchen is where you apply your 
-skills to your 
+So, a kitchen is where you apply your
+skills to your
 ingredients to fuel your body, and hopefully do all of this in a frustration-free way.
 
 
 
 **First, skills**
-. Go read 
+. Go read
 [The Four Hour Chef](http://www.amazon.com/4-Hour-Chef-Cooking-Learning-Anything/dp/0547884591).
 
 
@@ -52,7 +53,7 @@ Great! Now you've got skills, and if you followed along with his recommendations
 
 
 **Next, ingredients.**
- I can't help you with. I still find grocery shopping for 
+ I can't help you with. I still find grocery shopping for
 new meals to be quite challenging. So, I generally cook the same few things over and over. Breakfast and lunch is always the exact same, every day. Omelet with a meat and veggies. Dinner varies through four meals or so.
 
 
@@ -74,30 +75,30 @@ Most of the items on our list (and there are many items on that list) fall under
 ## Hang as much from walls as possible.
 
 
-* Pots and pans take up space in cabinets, and you are always nesting the one you use most often under the other two you don't use as much, so you move the same items 2x/day for no good reason. So, hang them from a wall, like with one of 
-[these](http://www.ikea.com/us/en/catalog/products/30202092/) or ideas from 
+* Pots and pans take up space in cabinets, and you are always nesting the one you use most often under the other two you don't use as much, so you move the same items 2x/day for no good reason. So, hang them from a wall, like with one of
+[these](http://www.ikea.com/us/en/catalog/products/30202092/) or ideas from
 [here](http://www.thekitchn.com/hang-pots-on-the-wall-week-2-choosing-the-best-hanging-system-spring-projects-from-the-kitchn-202229).
 
 
-* A magnetic knife rack saves your knives from banging against each other in a drawer, and from bacteria in a knife block. Plus they look cool. Here's 
+* A magnetic knife rack saves your knives from banging against each other in a drawer, and from bacteria in a knife block. Plus they look cool. Here's
 [The Kitchn](http://www.thekitchn.com/10-places-to-hang-your-magnetic-knife-rack-200833) on knife racks.
 
 
-* Mount a paper towel dispenser on the wall, or under a counter, but 
-mount it securely or you'll rip it out of the wall/counter some day. I used 
+* Mount a paper towel dispenser on the wall, or under a counter, but
+mount it securely or you'll rip it out of the wall/counter some day. I used
 [this one](http://www.amazon.com/Simplehuman-Mount-Paper-Holder-Stainless/dp/B002YI653C) for ages, and loved it.
 
 
-If these three things are mounted on a wall (and extra rack space given to spatulas, spoons, etc) you've made HUGE progress in creating more space in your cabinets, 
+If these three things are mounted on a wall (and extra rack space given to spatulas, spoons, etc) you've made HUGE progress in creating more space in your cabinets,
 and you can easily get to the pots and pans you use the most without struggling to free them from under other pans.
 
 
 >Josh, this is all well and good, but I'm in an apartment, I can't be putting big holes in walls.
 
 
-* They don't need to be big. Everything that was really heavy I mounted with either 
-[this](http://www.homedepot.com/p/E-Z-Ancor-Stud-Solver-7-x-1-1-4-in-Alloy-Flat-Head-Self-Drilling-Drywall-Anchors-with-Screws-4-Pack-29503/100234590) or 
-[some of these](http://www.homedepot.com/p/Crown-Bolt-1-8-in-x-2-in-Zinc-Plated-Mushroom-Head-Toggle-Bolt-Anchor-10242/100349321). You can repair the holes yourself, if you want, after you move out. 
+* They don't need to be big. Everything that was really heavy I mounted with either
+[this](http://www.homedepot.com/p/E-Z-Ancor-Stud-Solver-7-x-1-1-4-in-Alloy-Flat-Head-Self-Drilling-Drywall-Anchors-with-Screws-4-Pack-29503/100234590) or
+[some of these](http://www.homedepot.com/p/Crown-Bolt-1-8-in-x-2-in-Zinc-Plated-Mushroom-Head-Toggle-Bolt-Anchor-10242/100349321). You can repair the holes yourself, if you want, after you move out.
 [Here's a good guide to hanging stuff](http://www.naturalhandyman.com/iip/inffastener/infanchor/infanchor.html).
 
 
@@ -107,7 +108,7 @@ and you can easily get to the pots and pans you use the most without struggling 
 
 
 
-When you're cooking, you need cutting boards, or space for jars, or bags of various things. You can 
+When you're cooking, you need cutting boards, or space for jars, or bags of various things. You can
 always use more space. So, don't cause yourself frustration by leaving non-essential items on your countertops. Common offenders are:
 
 
@@ -167,7 +168,7 @@ Cooking is not easy, but doing a huge pile of dishes in a space that is not cond
 
 
 
-The first offender here is a split sink. I don't know why split sinks are so common. It seems to be that people like using the 2nd side as a drying rack, but I think that's sacrificing a huge amount of valuable space for something that can be had on the counter next to the sink. If you're remodeling a kitchen, just buy a $20 drying mat (I used 
+The first offender here is a split sink. I don't know why split sinks are so common. It seems to be that people like using the 2nd side as a drying rack, but I think that's sacrificing a huge amount of valuable space for something that can be had on the counter next to the sink. If you're remodeling a kitchen, just buy a $20 drying mat (I used
 [this one](http://www.amazon.com/OXO-Grips-Silicone-Drying-Square/dp/B002UTG7WY) for years, loved it) and get an extra large, extra deep sink.
 
 
@@ -180,7 +181,7 @@ They cost almost nothing, but are the thing that does all the work of cleaning. 
 
 
 * **Don't scorn rubber gloves.**
- When I can, I use dishwashing gloves. The ones I own are usually yellow or pink. Some people laugh, and then I explain: I like hot water, and all the soap and water and grease is rough on my hands. I rock climb, a lot, so unhealthy skin is 
+ When I can, I use dishwashing gloves. The ones I own are usually yellow or pink. Some people laugh, and then I explain: I like hot water, and all the soap and water and grease is rough on my hands. I rock climb, a lot, so unhealthy skin is
 deeply frustrating. Once I started doing dishes with rubber gloves, I never wanted to go back. They cost a dollar or three, last ages.
 
 
@@ -202,13 +203,13 @@ deeply frustrating. Once I started doing dishes with rubber gloves, I never want
 
 
 * **Have a good place to dry dishes.**
- I've mentioned 
+ I've mentioned
 [this drying mat](http://www.amazon.com/OXO-Grips-Silicone-Drying-Square/dp/B002UTG7WY) before, I'll mention it again. I've found drying rack preferences to be deeply personal and contentious, so... you do you. 
 
 
-* **Wipe down your counters 
+* **Wipe down your counters
 with one hand.**
- Cleanup is way more than just dishes, you need to clean work surfaces. 
+ Cleanup is way more than just dishes, you need to clean work surfaces.
 [This soap dispenser](http://www.amazon.com/Windex-Antibacterial-Cleaner-Kitchen-Glistening/dp/B00AJLYILM/ref=pd_bxgy_121_img_2?ie=UTF8&refRID=0AARTN3B53KCFHCECE1S) allows you to press a folded paper towel into the top of it, and it dispenses lysol. This was one of two things we kept on our counters full-time, and it made wiping down the counters SO EASY.
 
 
@@ -237,7 +238,7 @@ Good luck.
 ## **Resources**
 
 
-* Ikea's 
+* Ikea's
 [kitchen guide](http://www.ikea.com/gb/en/catalog/categories/departments/kitchen/roomset/) is a great place for ideas
 
 

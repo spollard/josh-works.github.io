@@ -10,11 +10,12 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: learn-to-type-again
 ---
 
 
 
-Yesterday, we talked about why the 
+Yesterday, we talked about why the
 [Caps Lock key should be converted into a delete key](/blog/2014/07/16/stop-yelling-on-the-internet-or-a-better-use-for-the-caps-lock-key).
 
 
@@ -40,17 +41,17 @@ All the programs I've used give immediate visual and audible feedback when I hit
 
 
 
-Started with 
+Started with
 [KeyZen](http://first20hours.github.io/keyzen-colemak/), to learn the finger positions. I struggled (and still do) to get R and S straightened out. I keep hitting the wrong one. I finished the KeyZen stage after about 45 minutes of practice, or two sessions. (I just went through the whole lower-case alphabet.
 
 
 
-Next, I went on to 
+Next, I went on to
 [TypeFu](http://type-fu.com/). I started with words for one session, and went to proverbs the next. I was feeling like I was not making much progress, since I kept making the same mistakes, over and over, and was typing slowly.
 
 
 
-So I went to 
+So I went to
 [Amphetype](https://code.google.com/p/amphetype/), to focus on the most common words in the English language. This was my first lesson:
 
 

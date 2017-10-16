@@ -69,4 +69,4 @@ _Yes, but for the sake of roles, lets keep it simple and assume divisions. Phew.
 
 * [Sixteen Ventures](http://sixteenventures.com/) - Lincoln Murphy is THE go-to expert on this.
 * [Customer Success: How Innovative Companies Are Reducing Churn and Growing Recurring Revenue](http://www.amazon.com/Customer-Success-Innovative-Companies-Recurring/dp/1119167965) (By Lincoln and others)
-* [More that I've written on Customer Success](http://localhost:4000/tags#customer+success)
+* [More that I've written on Customer Success](https://josh.works/tags#customer+success)

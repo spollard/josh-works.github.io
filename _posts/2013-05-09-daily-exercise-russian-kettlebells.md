@@ -11,6 +11,7 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: daily-exercise-russian-kettlebells
 ---
 
 
@@ -23,7 +24,7 @@ Those of you who love exercising for the sake of exercising - you can stop readi
 
 
 
-Those of you who don't like to exercise, but know you really 
+Those of you who don't like to exercise, but know you really
 should exercise regularly - keep reading!
 
 
@@ -39,7 +40,7 @@ For most of the last six years any time I exercised, it was to get better at cli
 I hated being miserable, even though the feeling that comes after running (and sometimes during) is not so bad. Besides, I climbed. I did not need any more life-consuming sports.
 
 
-      
+
 [![](/squarespace_images/static_556694eee4b0f4ca9cd56729_56035dbbe4b07ebf58d79d16_5586fe4fe4b0278244ce9f71_1434910432064_pic-05062013-005.jpg_)](http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe4fe4b0278244ce9f71/1434910432064/pic-05062013-005.jpg)
 
 
@@ -53,7 +54,7 @@ It sounds pretty relaxing, and it is. I love it.
 
 
 
-I am getting stronger on an extremely modest time investment. When I climbed indoors, I usually wouldn't even have my climbing shoes on within the first ten minutes, and once I did get them on, it would take two hours to get in a good session, 
+I am getting stronger on an extremely modest time investment. When I climbed indoors, I usually wouldn't even have my climbing shoes on within the first ten minutes, and once I did get them on, it would take two hours to get in a good session,
 and I was never confident that I was getting stronger.
 
 
@@ -62,18 +63,18 @@ I did many different things in a gym, most of them probably useless, and a few t
 
 
 
-As I was planning my climbing training, another exercise came to my attention. It's called "The Swing", referring to Russian Kettlebells. I first read about it in 
-The Four Hour Body, and on 
-[Tim Ferriss' blog](http://fourhourworkweek.com/2011/01/08/kettlebell-swing/), and then I learned about the huge (cult-ish) following kettlebells have. I read long 
+As I was planning my climbing training, another exercise came to my attention. It's called "The Swing", referring to Russian Kettlebells. I first read about it in
+The Four Hour Body, and on
+[Tim Ferriss' blog](http://fourhourworkweek.com/2011/01/08/kettlebell-swing/), and then I learned about the huge (cult-ish) following kettlebells have. I read long
 [lists of reasons](http://www.riversidekettlebells.com/2009/03/top-10-benefits-of-kettlebell-training.html)why they were great, and then I learned how to make one myself.
 
 
 
-I swung by Home Depot, and bought the necessary pipe fittings.  There are plenty of 
+I swung by Home Depot, and bought the necessary pipe fittings.  There are plenty of
 [good tutorials](http://www.youtube.com/watch?v=Zq9Yxn5a9D8) on how to build your own kettlebell, so I won't go through it here. One note, however, is this: I originally used 4" pipe nipples, but the handle was so large I was hitting my legs when I was doing the swings, so as you can see, I used 3" pipe nipples. (Stop giggling)
 
 
-      
+
 [![](/squarespace_images/static_556694eee4b0f4ca9cd56729_56035dbbe4b07ebf58d79d16_5586fe4fe4b0278244ce9f74_1434910432154_pic-05062013-010.jpg_)](http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe4fe4b0278244ce9f74/1434910432154/pic-05062013-010.jpg)
 
 
@@ -103,7 +104,7 @@ There were two primary reasons I decided to pursue this single exercise using th
 
 
 
-1. 
+1.
 It is convenient - I keep the kettlebell in our apartment, sitting out of the way next to our dresser. I can exercise barefoot, in my boxers, any time of the day, with zero prep time or drive time. Total time spent on this exercise, including travel time: seven minutes.
 
 
@@ -113,7 +114,7 @@ It is effective (and moderately interesting) - the return on time invested is hu
 
 
 
-Some of the most exciting strength benefits from this exercise has to do with my lower back - I've often had lower back pain, like most Americans, and couldn't ever do anything about it. Once, a long time ago, I started doing 
+Some of the most exciting strength benefits from this exercise has to do with my lower back - I've often had lower back pain, like most Americans, and couldn't ever do anything about it. Once, a long time ago, I started doing
 [deadlifts](http://en.wikipedia.org/wiki/Deadlift)(wearing a onesie, just like that guy) and found that my lower back pain disappeared. I was thrilled. When the pain came back, I had looked into exercises that were similar to the deadlift, so I could eliminate that pain. I then stumbled onto Kettlebells.
 
 
@@ -125,7 +126,7 @@ Much ink has been spilled writing about kettlebells, and crossfitters love them.
 **Results and progress tracking**
 
 
-      
+
 [![](/squarespace_images/static_556694eee4b0f4ca9cd56729_56035dbbe4b07ebf58d79d16_5586fe4fe4b0278244ce9f7a_1434910431074_screenshot_5_9_13_7_51_am.jpg_)](http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe4fe4b0278244ce9f7a/1434910431074/screenshot_5_9_13_7_51_am.jpg)
 
 
@@ -139,7 +140,7 @@ This graph on the right shows my time, from the first attempt, to the most recen
 
 
 
-As you can see, I barely spend any time at all on this particular exercise. The 
+As you can see, I barely spend any time at all on this particular exercise. The
 firstsession took six minutes. That's all the exercise I do on my Kettlebell days.
 
 

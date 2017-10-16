@@ -11,6 +11,7 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: thoughts-on-money-from-2013
 ---
 
 
@@ -21,15 +22,15 @@ I was looking through some draft posts I have lying around, and found one from t
 * Old Josh (from July 2013) wasn't a train wreck. As soon as I think about myself in highschool and college, I usually cringe thinking about the way I acted/thought. I don't feel complete shame thinking about 2013 Josh.
 
 
-* The goals I had in 2013 have pretty much all happened. We didn't have much knowledge over our finances then, but we do now. (I discovered 
+* The goals I had in 2013 have pretty much all happened. We didn't have much knowledge over our finances then, but we do now. (I discovered
 [YNAB](http://www.youneedabudget.com/learn/guide/learn-to-prioritize), which completely transformed our relationship with our money)
 
 
-* This affirms my suspicion that 
+* This affirms my suspicion that
 lots of small steps taken over a long time can make good things happen. 
 
 
-I've been reading and thinking a lot about money over the last two years. I'll compile a recommended reading list here soon, but the cool thing is this: I 
+I've been reading and thinking a lot about money over the last two years. I'll compile a recommended reading list here soon, but the cool thing is this: I
 enjoymanaging our finances. I'm no longer embarrassed or shamed by them. 
 
 
@@ -37,7 +38,7 @@ enjoymanaging our finances. I'm no longer embarrassed or shamed by them. 
 And if we got to that place in 2.5 years, I think most people can. Here's what I wrote then:
 
 
-## Josh's thoughts on finances 
+## Josh's thoughts on finances
 circa July 2013
 
 
@@ -48,17 +49,17 @@ circa July 2013
 
 
 
-I write this July 27th, 2013, and I don't know when I will publish it. 
+I write this July 27th, 2013, and I don't know when I will publish it.
 **[2016 Josh notes**
 : Perhaps in January, 2016]
 
 
 
-Currently, I have no plans of publishing this within six months, but eventually I hope this post meets the internet. Money scares me. Having it is scary, but losing it is even worse. Kristi and I have been married for 13 months, and we have alternated between me being the sole income-earner (on less than $30,000 a year, in one of the most expensive cities in America) to us 
-both working (she's a kindergarten teacher in PG county - not lucrative, but way more money than zero dollars) to 
+Currently, I have no plans of publishing this within six months, but eventually I hope this post meets the internet. Money scares me. Having it is scary, but losing it is even worse. Kristi and I have been married for 13 months, and we have alternated between me being the sole income-earner (on less than $30,000 a year, in one of the most expensive cities in America) to us
+both working (she's a kindergarten teacher in PG county - not lucrative, but way more money than zero dollars) to
 Kristi being the sole income-earner (I got fired). [
 **2016 Josh notes**
-: I could write extensively about being fired, but right now I'll summarize it as 
+: I could write extensively about being fired, but right now I'll summarize it as
 the best work-thing that has ever happened to me. It was an opportunity for enormous growth.]
 
 
@@ -74,22 +75,22 @@ Ifound us spending more. I'm in charge of managing our finances, and sometimes i
 
 
 
-During the summer, Kristi's not receiving a paycheck, so we're temporarily back down to one income. But we're used to spending like we had two incomes. A few large expenses have come through (a few plane tickets, an 
+During the summer, Kristi's not receiving a paycheck, so we're temporarily back down to one income. But we're used to spending like we had two incomes. A few large expenses have come through (a few plane tickets, an
 awesome family vacation with 15 extended family members, but it was a half-block from Rehoboth Beach, and cost what you would expect - a lot)
 
 
 
 So, right now, I've dipped into our savings to cover our expenses. There's nothing wrong here - we knew she was not going to be earning money over the summer. [
 **2016 Josh notes**
-: Partial lie. We 
+: Partial lie. We
 thoughtshe was going to be paid over the summer, but turns out PGCO bobbled the paperwork. We "knew" this when her paychecks stopped in April.] 
 
 
 
 I still have this inexplicable sense of discomfort, because I don't know some pretty basic details of our own spending. I'm embarrassed even as I write this. Income in per month (easy to know) compared to spending per month - also fairly easy, but the afore-mentioned big-ticket items have drastically skewed our "average spending". [
 **2016 Josh notes**
-: We knew our expenses 
-retroactively, I.E I could look at a credit card statement, but we never had 
+: We knew our expenses
+retroactively, I.E I could look at a credit card statement, but we never had
 planned our expenses, or managed our spending based on goals or expenses. Yikes.]
 
 

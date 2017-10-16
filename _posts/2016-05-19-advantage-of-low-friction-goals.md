@@ -9,6 +9,7 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: advantage-of-low-friction-goals
 ---
 
 

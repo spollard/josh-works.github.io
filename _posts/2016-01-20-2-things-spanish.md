@@ -11,17 +11,18 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: 2-things-spanish
 ---
 
 
 
-Kristi and I are in Costa Rica for the month of January. We spent two months in Buenos Aires this summer. That means in the space of six months, I'll have spent three months in a Spanish-speaking country, yet 
+Kristi and I are in Costa Rica for the month of January. We spent two months in Buenos Aires this summer. That means in the space of six months, I'll have spent three months in a Spanish-speaking country, yet
 I've not made significant progress on my spanish.
 
 
 
 
-That's not to say I've made 
+That's not to say I've made
 no progress, just that I have not made as much progress as I'd have liked. I've got a big list of excuses ready to go for why I didn't improve, but those are meaningless to you and I.
 
 
@@ -34,7 +35,7 @@ Two things made a difference for me slowly making progress in the language:
 * Anki.app's Spaced Repition Software
 
 
-* Memorizing only what I understood, but then 
+* Memorizing only what I understood, but then
 memorizing it well.
 
 
@@ -103,7 +104,7 @@ So, when I came across a word I wanted to learn, like "dispertarse", I had to ma
 * all the conjugations in the present tense (five conjugations)
 
 
-* meaning of the ending "-se" (reflexive singular, but I need to know all the reflexive conjugations, so that introduces another six individual verb endings, 
+* meaning of the ending "-se" (reflexive singular, but I need to know all the reflexive conjugations, so that introduces another six individual verb endings,
 at least)
 
 
@@ -123,8 +124,8 @@ This all felt a bit circular at first (and still does). I want to memorize only 
 
 
 
-A small win under "memorize only what I can understand" is that I feel happy to 
-[delete cards as I see fit](http://www.hackingchinese.com/is-your-flashcard-deck-too-big-for-your-own-good/). If I have not learned the card, am not learning it well, and don't want to learn it, 
+A small win under "memorize only what I can understand" is that I feel happy to
+[delete cards as I see fit](http://www.hackingchinese.com/is-your-flashcard-deck-too-big-for-your-own-good/). If I have not learned the card, am not learning it well, and don't want to learn it,
 why should I learn it?
 
 

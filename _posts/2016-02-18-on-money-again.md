@@ -10,12 +10,13 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: on-money-again
 ---
 
 
 
-Recently I posted 
-[thoughts about money](http://josh.works/blog/thoughts-on-money-from-2013) I'd written from back in 2013. 
+Recently I posted
+[thoughts about money]({{ site.baseurl }}{% link _posts/2016-01-29-thoughts-on-money-from-2013.md %}) I'd written from back in 2013. 
 
 
 
@@ -91,8 +92,8 @@ It's miserable math to do, because your current effective hourly wage may be rea
 * Spend less money on work-things. 
 
 
-I'm paraphrasing 
-[Your Money or your Life](http://www.amazon.com/gp/product/B0052MD8VO/ref=dp-kindle-redirect?ie=UTF8&btkr=1), which you should read. Here's a 
+I'm paraphrasing
+[Your Money or your Life](http://www.amazon.com/gp/product/B0052MD8VO/ref=dp-kindle-redirect?ie=UTF8&btkr=1), which you should read. Here's a
 [good Amazon review](http://www.amazon.com/review/RKC0S5T9HHK36/ref=cm_cr_dp_title?ie=UTF8&ASIN=B0052MD8VO&channel=detail-glance&nodeID=133140011&store=digital-text) to whet your appetite. 
 
 
@@ -161,13 +162,13 @@ Money: If I want to buy something impulsively, as long as I've budgeted for it, 
 These rules may look insane, so here's the background:
 
 
-When getting groceries, Kristi and I almost never buy cookies/crackers/processed foods, and we don't drink soda. There are 21 meals in a week, and in a normal week, 20 of these meals are healthy, filling, and don't have much sugar. I "fight" for my diet in the grocery store. If I'm at a friends house and they have brownies, I'm loading up, because I know that the vast majority of the food I consume is healthy and good. There is 
-friction to us eating poorly at home, because 
+When getting groceries, Kristi and I almost never buy cookies/crackers/processed foods, and we don't drink soda. There are 21 meals in a week, and in a normal week, 20 of these meals are healthy, filling, and don't have much sugar. I "fight" for my diet in the grocery store. If I'm at a friends house and they have brownies, I'm loading up, because I know that the vast majority of the food I consume is healthy and good. There is
+friction to us eating poorly at home, because
 unhealthy food doesn't exist in our house. If it does, I gladly eat it, and feel no guilt. I follow the path of least resistance, and I'm fine with that.
 
 
 
-Similarly, most of our finances are automated. Every time I get paid, a percentage of that money goes straight to retirement accounts. Every time I get a raise, that percentage goes up. It's difficult and time consuming to change that percentage, so unless we fell on very hard times financially, I will not ever decrease how much of my income goes to savings. There is friction between me and saving 
+Similarly, most of our finances are automated. Every time I get paid, a percentage of that money goes straight to retirement accounts. Every time I get a raise, that percentage goes up. It's difficult and time consuming to change that percentage, so unless we fell on very hard times financially, I will not ever decrease how much of my income goes to savings. There is friction between me and saving
 less money, so I follow the path of least resistance.
 
 
@@ -207,7 +208,7 @@ Phew. Good questions. Others have said this better than me (I'll link out to the
 * Money isn't the point. Manage it well and with responsibility, and you can move on to other, more significant parts of life, like living. 
 
 
-* The 
+* The
 [Hedonic Treadmill](https://en.wikipedia.org/wiki/Hedonic_treadmill) will suck all sense of happiness out of your life. Don't play that game.
 
 ## Additional Reading
@@ -222,7 +223,7 @@ Phew. Good questions. Others have said this better than me (I'll link out to the
 * [r/personalfinance](http://www.reddit.com/r/personalfinance/). Ditto.
 
 
-* [You Need A Budget](http://www.youneedabudget.com/learn). This tool is a game changer. I actually 
+* [You Need A Budget](http://www.youneedabudget.com/learn). This tool is a game changer. I actually
 enjoy managing money now. Whoa. 
 
 

@@ -8,6 +8,7 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: november-2016-goals
 ---
 
 
@@ -19,13 +20,13 @@ Note to the reader: The words that follow are all about me. Very naval-gaze-ish.
 
 
 
-My November goals are an extension of my 
-[October goals](https://josh.works/blog/october-2016-goals).
+My November goals are an extension of my
+[October goals]({{ site.baseurl }}{% link _posts/2016-11-01-october-2016-review.md %}).
 
 
 
 October was good (
-[October review](https://josh.works/blog/october-2016-review)) - I made progress on two of three projects, and one of those projects need to conclude to make space for the third. (I want to wrap up a course from 
+[October review]({{ site.baseurl }}{% link _posts/2016-11-01-october-2016-review.md %})) - I made progress on two of three projects, and one of those projects need to conclude to make space for the third. (I want to wrap up a course from
 [www.climbersguide.co](http://www.climbersguide.co), and once that hits a stable finish state, I'll switch to prep for Turing School.)
 
 
@@ -33,7 +34,7 @@ October was good (
 
 
 
-Same goal as last year - finish up the current tutorial, and then sketch out small next steps and start studying. 
+Same goal as last year - finish up the current tutorial, and then sketch out small next steps and start studying.
 [exercism.io](http://exercism.io/) is a good place to work on little problems and practice a bit.
 
 
@@ -56,7 +57,7 @@ I'm still trying to figure out what my weaknesses are, in order to train my weak
 
 
 
-I'm building out an email drip campaign that concludes with a 
+I'm building out an email drip campaign that concludes with a
 hard sale(after delivering amazingly valuable guides), pointing people to a sales page (er, I need to write that, too), for the course.
 
 
@@ -65,7 +66,7 @@ I've worked with some lead climbers in person, working through the basics of the
 
 
 
-I'm working on working with a larger group of people, and I'd like to get some video from them doing the exercises, so others can follow along on their own, but it's 
+I'm working on working with a larger group of people, and I'd like to get some video from them doing the exercises, so others can follow along on their own, but it's
 really encouraging, the kind of feedback I'm getting.
 
 
@@ -84,7 +85,7 @@ Random self-reflections.
 
 
 
-I've disabled my Twitter account. I changed the password to a random string, and then 
+I've disabled my Twitter account. I changed the password to a random string, and then
 [wrote an email to my future self](http://lettertomyfutureself.net/) with the password enclosed. Delivery date is sometime in August 2017. I know I could force a password reset, but knowing the password is coming, and introducing friction to the system makes me pay way less attention to the app.
 
 
@@ -96,7 +97,7 @@ I deleted Instagram as well.
 Both of these changes have helped me spend a LOT less time on my phone every day.
 
 
-       
+
 ![Screenshot thanks to PhoneUsage app (Android). It's gamified not spending time on my phone. (Moment for iPhone looks like a nice equivalent.)](/squarespace_images/static_556694eee4b0f4ca9cd56729_56035dbbe4b07ebf58d79d16_58226b35e4fcb51f79318995_1478650686507__img.png_) Screenshot thanks to PhoneUsage app (Android). It's gamified not spending time on my phone. (Moment for iPhone looks like a nice equivalent.)
 
 

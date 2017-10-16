@@ -10,11 +10,12 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: intentional-habit-building
 ---
 
 
 
-The top New Years resolutions indicate that Americans know they need to make changes. The top three resolutions always relate to getting in shape, eating better, spending time better, and spending money better. 
+The top New Years resolutions indicate that Americans know they need to make changes. The top three resolutions always relate to getting in shape, eating better, spending time better, and spending money better.
 
 Everyone is aware that change is good, even necessary, but given the rate of failed attempts to implement new habits, it's harder to implement than to plan. I've spent the last few months slowly learning about how to get better at the implementation side of things - thus far, I'm not too good at it, but I've been learning a lot along the way, and I have very high hopes for the future. I'm going to try to explain how I see the relationship between habit building, will-power/motivation, and self-evaluation. This could be lengthy - it's probably not for everyone - but I hope it will be helpful to some.
 
@@ -33,30 +34,30 @@ I have no idea if this is true - I've tried to reach that magical 30 day mark a 
 
 
 
-Not only did I not reach the 30 day mark, but my attempts were comically short-lived, but not for lack of effort or desire. From my attempts to wake up early (didn't happen once, and I've tried a lot of times) to my attempts to floss (it worked great, until I forgot completely to even try to make it a habit), I've had almost zero success at 
+Not only did I not reach the 30 day mark, but my attempts were comically short-lived, but not for lack of effort or desire. From my attempts to wake up early (didn't happen once, and I've tried a lot of times) to my attempts to floss (it worked great, until I forgot completely to even try to make it a habit), I've had almost zero success at
 intentionally creating habits.
 
 
 
-Now, how much success have I had 
-unintentionally creating habits? I've achieved a 100% success rate, 
+Now, how much success have I had
+unintentionally creating habits? I've achieved a 100% success rate,
 without even trying! Some habits are good, and others are bad, but just about every habit I have has spontaneously arisen. And I run my life by habit - far more than I like to consider.
 
 
 
-Habits are a lot like instincts - it's what we do without thinking about it. If someone raises their hand to slap you, you cringe, or put your hands up, or fall in a heap on the floor. All without thinking. Instincts can save your life or kill you, just like habits. By examining how our 
+Habits are a lot like instincts - it's what we do without thinking about it. If someone raises their hand to slap you, you cringe, or put your hands up, or fall in a heap on the floor. All without thinking. Instincts can save your life or kill you, just like habits. By examining how our
 current habits have arisen, we can learn how to take control of that process for our own benefit.
 
 
 
-**Willpower - Never there when you 
+**Willpower - Never there when you
 really want it**
 
 
 
 ****
 Forget natural gas, coal, water, or cute baby seals - willpower is man's most important resource, and it is in awful short supply. We (mankind) used to think that those who got a lot done had more self-control, or willpower, or discipline, or motivation, or whatever. That seems to be the inescapable conclusion of t
-[his video.](http://www.youtube.com/watch?v=lsSC2vx7zFQ) Or, if you're into climbing, 
+[his video.](http://www.youtube.com/watch?v=lsSC2vx7zFQ) Or, if you're into climbing,
 [this video](https://www.youtube.com/watch?v=H0vOH_XGWFU) may be motivating.
 
 
@@ -69,7 +70,7 @@ These stories makes sense, right? If we want something, we'll work hard for it. 
 
 
 
-It all makes sense, except it is 
+It all makes sense, except it is
 dangerously wrong.
 
 
@@ -90,7 +91,7 @@ Unfortunately, if your motivation is very, very high, there is only one directio
 
 
 
-Humans are 
+Humans are
 meaning-makers. This means we find meaning  everywhere, and we often make our next choices based on what's recently happened. If your motivation evaporated, you want to stop trying. Trying is now making you miserable instead of motivated. You don't want to be miserable, right? The whole reason for trying this new thing was to be in a better place than you are now. So, you rightfully stop trying.
 
 
@@ -118,7 +119,7 @@ We tell ourselves we can't accomplish goals because we don't have enough motivat
 I propose an alternate method to building habits, and there are two important elements.
 
 
-* It must be 
+* It must be
 useful to fail during your attempt.
 
 
@@ -129,7 +130,7 @@ These criteria are so frustrating. It's like saying "you have to run a marathon,
 
 
 
-The reason failure must be 
+The reason failure must be
 useful is this: If your failure is an opportunity to feel shame and belittle yourself, you're learning, very quickly, that attempts to change lead to you feeling like s**t. It also means that all expended effort is wasted, and you're not only back where you started, but you're worse off. (Because of the shame and self-deprecating feedback.)
 
 

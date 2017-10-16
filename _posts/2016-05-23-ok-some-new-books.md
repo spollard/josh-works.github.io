@@ -9,12 +9,13 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: ok-some-new-books
 ---
 
 
 
 Yesterday, I proclaimed "
-[No new books](http://josh.works/blog/no-new-books)". I spent a lot of time today thinking about that proclamation.
+[No new books]({{ site.baseurl }}{% link _posts/2016-05-22-no-new-books.md %})". I spent a lot of time today thinking about that proclamation.
 
 
 
@@ -30,7 +31,7 @@ There's a kind of book I don't want to read any more of. That's the "get started
 
 
 
-Nate Eliason wrote 
+Nate Eliason wrote
 [Fighting Infomania: Why 80% of Your Reading is a Waste of Time](http://www.nateliason.com/infomania/), and I wholeheartedly agree.
 
 
@@ -55,7 +56,7 @@ So, in short, I'm trying to reduce books that are:
 * business related
 
 
-Nate 
+Nate
 [summarized](http://www.nateliason.com/infomania/) better than I can:
 
 

@@ -14,7 +14,7 @@ meta: {}
 
 
 
-I read 
+I read
 [The Slight Edge](http://www.amazon.com/Slight-Edge-Turning-Disciplines-Massive/dp/193594486X) a few months ago.
 
 
@@ -23,7 +23,7 @@ Since then, it's been the book I recommend most often to most people. (I don't m
 
 
 
-I joyfully recommend other books about career advice, money management, exercise, and I love fiction, so I've always got a bunch of those ready to recommend too, but usually 
+I joyfully recommend other books about career advice, money management, exercise, and I love fiction, so I've always got a bunch of those ready to recommend too, but usually
 The Slight Edge is the most appropriate recommendation.
 
 
@@ -36,13 +36,13 @@ Jeff Olson wrote the first version maybe ten years ago. It was a massive success
 
 
 
-The content of the most recent version is still 
+The content of the most recent version is still
 good, it's just filled with tons of fluff that doesn't need to be there.
 
 
 
-Go compare the Amazon reviews of the 
-[first version](http://www.amazon.com/Slight-Edge-Turning-Disciplines-Massive/dp/193594486X) to those of the 
+Go compare the Amazon reviews of the
+[first version](http://www.amazon.com/Slight-Edge-Turning-Disciplines-Massive/dp/193594486X) to those of the
 [second version](https://www.amazon.com/Slight-Edge-Turning-Disciplines-Happiness-ebook/dp/B00GDKN3T6?ie=UTF8&keywords=the%20slight%20edge&qid=1462964407&ref_=sr_1_1_ha&s=digital-text&sr=1-1)
 
 
@@ -58,13 +58,12 @@ Here's the premise of the book:
 
 
 
-Go read the book. The original edition costs $7 + shipping 
+Go read the book. The original edition costs $7 + shipping
 [via Amazon](http://www.amazon.com/Slight-Edge-Turning-Disciplines-Massive/dp/193594486X) (I don't do affiliate links, by the way.) and you can read it over the next month. That's about 10 minutes of reading a day.
 
 
 
-I referenced this book when I wrote that "
-[Everything I do and think I've read in a book](http://josh.works/blog/everything-i-do-and-think-ive-read-in-a-book-or-exploring-the-relationship-between-books-and-money)", and how the mentality outlined in this book trickle down through every part of your life, 
+I referenced this book when I wrote that [Everything I do and think I've read in a book]({{ site.baseurl }}{% link _posts/2016-03-31-everything-i-do-and-think-ive-read-in-a-book-or-exploring-the-relationship-between-books-and-money.md %}), and how the mentality outlined in this book trickle down through every part of your life, 
 whether you are aware of it or not.
 
 

@@ -14,6 +14,7 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: everything-i-do-and-think-ive-read-in-a-book
 ---
 
 
@@ -52,13 +53,13 @@ The 50% of my income thing is a whole long thought on it's own, but I'll take a 
 No. For two reasons.
 
 
-* I don't have 
-my income. 
-We have 
+* I don't have
+my income.
+We have
 our income.
 
 
-* It's hard to track that exact percentage, so I don't know 
+* It's hard to track that exact percentage, so I don't know
 what percentage we're living on. I think it's about 65% of our income.
 
 ### "My income" doesn't exist
@@ -90,7 +91,7 @@ I've got 30% of my paycheck going to retirement funds, and have a 4% match from 
 
 
 
-Beyond that, we've been putting money aside in our checking account, with the plan of investing it. The reason we have a lump sum of money sitting there is because of 
+Beyond that, we've been putting money aside in our checking account, with the plan of investing it. The reason we have a lump sum of money sitting there is because of
 friction. I've not set up an automatic investment strategy yet with Vanguard, and it's a pain in the butt to do, so I've just not done that. This is bad, and writing these words makes me want to fix that.
 
 
@@ -109,7 +110,7 @@ I still want to get to 50% saved, at least a few months this year.
 
 
 
-Just about everything I think in the world I've gained from a book. 
+Just about everything I think in the world I've gained from a book.
 I don't have original ideas. At best I might combine an idea about one thing with a new topic, and poof, it seems new. (To me, a coworker, a friend, et.) But it's really not new. It's the same old idea applied to a new thing.
 
 
@@ -178,8 +179,8 @@ Here's a list of topics I've read about in the last year or so:
 * Money (again)
 
 
-* Autobiographies of accomplished people (the 
-[two](http://www.amazon.com/gp/product/B000FBFMHU/ref=x_gr_w_bb?ie=UTF8&tag=x_gr_w_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000FBFMHU&SubscriptionId=1MGPYB6YW3HWK55XCGG2) 
+* Autobiographies of accomplished people (the
+[two](http://www.amazon.com/gp/product/B000FBFMHU/ref=x_gr_w_bb?ie=UTF8&tag=x_gr_w_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B000FBFMHU&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 [best](http://www.amazon.com/gp/product/0316037702/ref=x_gr_w_bb?ie=UTF8&tag=x_gr_w_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0316037702&SubscriptionId=1MGPYB6YW3HWK55XCGG2) autobiographies I've read were written by felons-turned-consultants)
 
 
@@ -219,7 +220,7 @@ Here's a list of topics I've read about in the last year or so:
 * etc.
 
 
-I said a moment ago that reading feels like a delightful obligation? Why did I say 
+I said a moment ago that reading feels like a delightful obligation? Why did I say
 obligation? Easy. If you boiled the themes of the above list down to just the basics, you could say that these books cover:
 
 
@@ -250,7 +251,7 @@ If Joe is average, his lifestyle inflates. He was living on $40k, but in six mon
 
 
 
-On the other hand, if Joe makes $40k, but lives as if he makes $35k, and gets a raise to $80k, 
+On the other hand, if Joe makes $40k, but lives as if he makes $35k, and gets a raise to $80k,
 and does not increase his spending, he can start putting away $45k a year in the bank. Whoa.
 
 
@@ -284,18 +285,18 @@ Sure. We'll start high level and go down from there:
 * [I Will Teach You To Be Rich](http://www.amazon.com/Will-Teach-You-Be-Rich/dp/0761147489/ref=sr_1_1?) Super sketchy title, but at the end, you'll angrily say "How has no one told me this before?" before overhauling your financial life.
 
 
-* [The Slight Edge](http://www.amazon.com/Slight-Edge-Turning-Disciplines-Happiness/dp/1626340463/ref=sr_1_1?ie=UTF8&qid=1459404389&sr=8-1&keywords=the+slight+edge) (about the long-term impact that trivial daily decisions can have. I.E. things that are 
+* [The Slight Edge](http://www.amazon.com/Slight-Edge-Turning-Disciplines-Happiness/dp/1626340463/ref=sr_1_1?ie=UTF8&qid=1459404389&sr=8-1&keywords=the+slight+edge) (about the long-term impact that trivial daily decisions can have. I.E. things that are
 easy to do, but just as easy not to do.) It's not specifically about money, but offers a very valuable framework for that kind of decision-making. Unfortunately, it does come across as self-helpy quite a bit, talking about how "readers of this book have changed their lives". I don't like that kind of stuff, but the content is quite good.
 
 
-* [Your Money or Your Life](http://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/ref=sr_1_1?ie=UTF8&qid=1459404423&sr=8-1&keywords=your+money+or+your+life) This book is sort of the bible of the "financial independence" crowd, and explains how it's possible to become financially independent without making millions. This gets into the "why" 
+* [Your Money or Your Life](http://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/ref=sr_1_1?ie=UTF8&qid=1459404423&sr=8-1&keywords=your+money+or+your+life) This book is sort of the bible of the "financial independence" crowd, and explains how it's possible to become financially independent without making millions. This gets into the "why"
 and the "how" of "make more money, avoid lifestyle inflation, save the rest."
 
 
 * [Fearless Salary Negotiation](http://www.amazon.com/Fearless-Salary-Negotiation-step---step/dp/0692568689/ref=sr_1_1?ie=UTF8&qid=1459404460&sr=8-1&keywords=fearless+salary+negotiation) Self-explanatory title. This is the "how to make more money" step in a very practical way.
 
 
-* [The Millionaire Next Door](http://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474/ref=sr_1_1?ie=UTF8&qid=1459404512&sr=8-1&keywords=the+millionaire+next+door) A encouraging reality check - most millionaires in America don't look like millionaires. They drive used vehicles, they live modest lifestyles. This is exactly 
+* [The Millionaire Next Door](http://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474/ref=sr_1_1?ie=UTF8&qid=1459404512&sr=8-1&keywords=the+millionaire+next+door) A encouraging reality check - most millionaires in America don't look like millionaires. They drive used vehicles, they live modest lifestyles. This is exactly
 how they have become millionaires, and nothing changes when they cross that seven-figure line. Of course, a million dollars in 1980 is worth $2.8MM today (
 [Bureau of Labor and Statistics](http://www.bls.gov/data/inflation_calculator.htm)), but it's still a nice round number to aim for.
 
@@ -311,7 +312,7 @@ Pick the most interesting looking title, go order it from Amazon. (And, none of 
 **Related**
 
 
-* [Thoughts On Money from 2013](http://josh.works/blog/thoughts-on-money-from-2013)
+* [Thoughts On Money from 2013]({{ site.baseurl }}{% link _posts/2016-01-29-thoughts-on-money-from-2013.md %})
 
 
-* [On Money Again](http://josh.works/blog/on-money-again)
+* [On Money Again]({{ site.baseurl }}{% link _posts/2016-02-18-on-money-again.md %})

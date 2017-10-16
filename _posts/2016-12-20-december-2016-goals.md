@@ -20,7 +20,7 @@ Nonetheless, I've had some, and I will still have them through the end of the mo
 
 
 
-I 
+I
 did post a review of November a few days ago. This should really be rolled into that. A "monthly review/going forward" evaluation makes way more sense than splitting it into two pieces.
 
 
@@ -29,10 +29,10 @@ See? There's value to these reviews. I'm streamlining my own workflow. :)
 
 
 
-My goals for December are 
-mostly an extension of my 
-[goals last month](https://josh.works/blog/f23wrr3boior18oo14ih6v2lo0suz6). 
-[November review here](https://josh.works/blog/november-2016-review)
+My goals for December are
+mostly an extension of my
+[goals last month]({{ site.baseurl }}{% link _posts/2016-11-09-november-2016-goals.md %}).
+[November review here]({{ site.baseurl }}{% link _posts/2016-12-14-november-2016-review.md %})
 
 
 * Deepen knowledge of front-end development*
@@ -51,13 +51,13 @@ mostly an extension of my
 
 
 
-Also, I've been working on general comfort around simple networking 
+Also, I've been working on general comfort around simple networking
 and my command line. I'm learning along through Vimtutor (open your terminal if you're on a Mac, type in "vimtutor" to see what it is.) Also, I'm writing this post using Vim. Admittedly, free-form typing in Vim is just the same as any other text editor, but moving around without the mouse and between modes takes some getting used to.
 
 
 
-I've been inspired on Vim by 
-[OverTheWire.org](http://overthewire.org/wargames/bandit/). Vim goes hand-in-hand with regular (or heavy) command line usage, and I want to get more fluid in the command line. I'm motivated by small, incremental challenges, so their "Bandit" wargame is perfect. I'm on 
+I've been inspired on Vim by
+[OverTheWire.org](http://overthewire.org/wargames/bandit/). Vim goes hand-in-hand with regular (or heavy) command line usage, and I want to get more fluid in the command line. I'm motivated by small, incremental challenges, so their "Bandit" wargame is perfect. I'm on
 [level 15](http://overthewire.org/wargames/bandit/bandit16.html) right now, to continue right after posting this.
 
 

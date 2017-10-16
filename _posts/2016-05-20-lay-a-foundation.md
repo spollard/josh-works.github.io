@@ -13,8 +13,8 @@ meta: {}
 
 
 
-Yesterday I mentioned that 
-[low friction goals are an advantage](http://josh.works/blog/advantage-of-low-friction-goals) over "high friction" goals.
+Yesterday I mentioned that
+[low friction goals are an advantage]({{ site.baseurl }}{% link _posts/2016-05-19-advantage-of-low-friction-goals.md %}) over "high friction" goals.
 
 
 
@@ -22,8 +22,8 @@ This is just another way of saying "easy things are easier to do than harder thi
 
 
 
-Similarly, 
-[I wrote a long time ago that](http://josh.works/blog/2013/05/03/intentional-habit-building):
+Similarly,
+[I wrote a long time ago that]({{ site.baseurl }}{% link _posts/2013-05-03-intentional-habit-building.md %}):
 
 
 >We tell ourselves we can't accomplish goals because we don't have enough motivation, but this is far too simple of an explanation... it must be useful to fail during your attempt, and you must not try very hard.

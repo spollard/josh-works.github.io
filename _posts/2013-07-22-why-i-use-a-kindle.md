@@ -7,12 +7,13 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: why-i-use-a-kindle
 ---
 
 
 
-[Amazon's e-reader](http://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU) is extremely functional. Most reasons to 
-not use one focus either on practical issues (depending on something with a battery) or on aesthetic reasons. These are valid issues, of course, but these pale in comparison to the many, many reasons 
+[Amazon's e-reader](http://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU) is extremely functional. Most reasons to
+not use one focus either on practical issues (depending on something with a battery) or on aesthetic reasons. These are valid issues, of course, but these pale in comparison to the many, many reasons
 to use a Kindle.
 more
 
@@ -47,11 +48,11 @@ more
 * You can read while eating without your book falling shut.
 
 
-* You can hold it with one hand 
+* You can hold it with one hand
 and turn pages. Simultaneously. Difficult to do with a regular book.
 
 
-* When not in use, fold the cover shut, and drop it in the thinnest pocket of whatever bag you're carrying with you. (You 
+* When not in use, fold the cover shut, and drop it in the thinnest pocket of whatever bag you're carrying with you. (You
 do have a cover for it, right?)
 
 

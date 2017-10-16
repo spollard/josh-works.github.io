@@ -10,11 +10,12 @@ type: post
 published: true
 meta:
   _thumbnail_id: '260'
+permalink: 62-lessons-learned-after-year-of-full-time-travel
 ---
 
 
 
-Kristi and I 
+Kristi and I
 [put together a non-comprehensive list of things we've learned while traveling full-time last year](http://teamthompsontravels.tumblr.com/post/145144220613/1-year-travelversary-exactly-one-year-ago-on-may). 
 
 
@@ -43,7 +44,7 @@ Finding a grocery store? Checking out at the grocery store? Buying a bus ticket?
 **4. Traveling light makes everything so much simpler.**
 
 
-      
+
 ![](/squarespace_images/static_556694eee4b0f4ca9cd56729_56035dbbe4b07ebf58d79d16_574cb2731bbee0675b539653_1464644218553__img.jpg_)
 
 

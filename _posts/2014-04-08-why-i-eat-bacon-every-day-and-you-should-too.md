@@ -12,12 +12,13 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: why-i-eat-bacon-every-day-and-you-should-too
 ---
 
 
 
 I love breakfast.
-Almost every morning for the last three years 
+Almost every morning for the last three years
 **I have had a frying pan full of bacon, and three eggs**
 .
 
@@ -40,7 +41,7 @@ Before you dismiss me out of hand, just look through two articles.
 * [Art of Manliness "Boost Your Testosterone - Naturally"](http://www.artofmanliness.com/2013/01/18/how-to-increase-testosterone-naturally/)
 
 
-I won't go into it all here, but know this: 
+I won't go into it all here, but know this:
 **There is a group of intelligent, scientifically literate people who believe it is goodfor you to eat bacon and eggs every day.**
 
 

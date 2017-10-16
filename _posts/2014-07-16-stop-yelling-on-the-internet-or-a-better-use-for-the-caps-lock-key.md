@@ -10,12 +10,13 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: stop-yelling-on-the-internet-or-a-better-use-for-the-caps-lock-key
 ---
 
 
 
 My current project is to learn to type using an alternative keyboard layout called Colemak.
-QWERTY has problems. Here are a few, shamelessly borrowed from 
+QWERTY has problems. Here are a few, shamelessly borrowed from
 [Colemak.com](http://colemak.com/FAQ)
 
 
@@ -60,11 +61,11 @@ I strongly recommend making this modification on your keyboard, even if you neve
 . This is a big one. Without this modification, if you want to click>delete, click>delete you need one hand on the mouse, and the other reaches across the keyboard. It's annoying. It's even worse on a laptop, where you have to move your right hand from mouse pad to delete and back, every time.
 
 
-So, how do you make the switch? I will give Mac users instructions. PC users, you are more or less 
+So, how do you make the switch? I will give Mac users instructions. PC users, you are more or less
 [on your own](http://bit.ly/1t1nCS0).
 
 
-* Download and install 
+* Download and install
 [Seil](https://pqrs.org/osx/karabiner/seil.html.en). Run it.
 
 
@@ -77,8 +78,8 @@ So, how do you make the switch? I will give Mac users instructions. PC users, yo
 * On the "Keyboard" tab, open "Modifier Keys". Under "Caps Lock Key" choose "No Action". If you don't do this, your new Delete key won't repeat. It would just delete one character per keystroke.
 
 
-OK. Now your caps lock key deletes. This was the easy part. Now you have to train your brain to use it. The only way I was successful was by remapping 
-another key. I changed the normal delete key to "Left Shift" This way, 
+OK. Now your caps lock key deletes. This was the easy part. Now you have to train your brain to use it. The only way I was successful was by remapping
+another key. I changed the normal delete key to "Left Shift" This way,
 I could not use it any more. I HAD to use the caps lock key if I wanted to delete anything.
 
 
