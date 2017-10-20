@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Golden City Council
-permalink: the-issues
+permalink: issues
 ---
 
 *Since [I'm running for Golden City Countil]({{ site.baseurl }}{% link _pages/golden.md %}), people have rightfully asked "how do you feel about {topic}."*
