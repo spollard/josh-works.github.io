@@ -79,6 +79,6 @@ The two themes of the next few months for me, as far as climbing progression, wi
 
 I've got tons of copy written, tons of ideas around this, I've worked out pricing, but some stupid fear keeps me from actually asking for money. I've been working regularly with a few folks in the gym that I've bumped into, and they've all seen massive improvement in their climbing.
 
-The URL will probably be something like [http://www.climbersguide.co/fear_course](http://www.climbersguide.co/fear_course) or something. We shall see!
+The URL will probably be something like [http://www.climbersguide.co/conquer-fear-course/](http://www.climbersguide.co/conquer-fear-course/) or something. We shall see!
 
 I'll also record and post lots of video, talking through some of the finer points. Scary!

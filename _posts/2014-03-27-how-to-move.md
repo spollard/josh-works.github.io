@@ -7,6 +7,7 @@ status: publish
 type: post
 published: true
 meta: {}
+permalink: how-to-move
 ---
 
 
@@ -16,18 +17,18 @@ We've taken three broad steps to make this move happen:
 
 
 * **We both are in process with new jobs**
-. I just started working remotely for 
+. I just started working remotely for
 [Litmus](http://www.litmus.com), which means I can seamlessly transition to Colorado this summer. Kristi spent a few days last week interviewing with public schools and attending a teachers fair in Colorado. We're moving, and we may even be gainfully employed!
 
 
 * **We're shedding as many of our possessions as we can**
-. We're moving to Colorado and don't want to drop $2k for a u-haul truck. We'll be towing the smallest enclosed u-haul trailer available behind our Toyota Corolla. This means limited cargo space. We're both excited about this, because as mentioned before, 
-[we're moving in the direction of minimalism](/blog/2013/07/04/simplify-simplify-simplify). We have a sofa bed that we love, and I really love our kitchen knives and one cast-iron skillet. Everything else is replaceable, so we're trimming down our wardrobes, getting rid of kick-knacks, ditching almost all of our physical books, and 
+. We're moving to Colorado and don't want to drop $2k for a u-haul truck. We'll be towing the smallest enclosed u-haul trailer available behind our Toyota Corolla. This means limited cargo space. We're both excited about this, because as mentioned before,
+[we're moving in the direction of minimalism]({{ site.baseurl }}{% link _posts/2013-07-04-simplify-simplify-simplify.md %}). We have a sofa bed that we love, and I really love our kitchen knives and one cast-iron skillet. Everything else is replaceable, so we're trimming down our wardrobes, getting rid of kick-knacks, ditching almost all of our physical books, and
 [experimenting with less](http://www.becomingminimalist.com/sample-living-with-less/).
 
 
 * **We're putting our money where our mouth is**
-. Moving is not 
+. Moving is not
 cheap, but it certainly doesn't have to be expensive. Beyond that, we're moving to Colorado for the lifestyle benefits, so we're putting our money in that direction as well. We have a few financial benchmarks that we're working on. We're almost done paying off our car, which we were unexpectedly forced into buying late last year. When we get to Colorado, we'll be able to enjoy the opportunities it offers to the fullest.
 
 ### Why Move?
@@ -47,7 +48,7 @@ Well - you can. If you accept certain sacrifices, and hustle to line up your car
 
 
 
-**One one end, you could quit your job tomorrow, load up your car, and move.**
+**On one end of the spectrum, you could quit your job tomorrow, load up your car, and move.**
  This would probably leave a few loose ends, and would be better if you just committed a crime and had to hustle out of town. Maybe you should just drive to Mexico if you're in this situation.
 
 
