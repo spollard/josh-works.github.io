@@ -2,7 +2,6 @@
 layout: post
 title:  "Title"
 date:   17-09-14 06:18:52 -0600
-published: false
 crosspost_to_medium: false
 categories: []
 tags: []
