@@ -29,30 +29,31 @@ pre code {
 }
 
 // Pygments via Jekyll
-.highlight {
-  padding: 1rem;
-  margin-bottom: 1rem;
-  font-size: .8rem;
-  line-height: 1.4;
-  background-color: #f6f8fa;
-  border-radius: .25rem;
-
-  // pre {
-  //   margin-bottom: 0;
-  //   overflow-x: auto;
-  // }
-
-  // .lineno {
-  //   display: inline-block; // Ensures the null space also isn't selectable
-  //   padding-right: .75rem;
-  //   padding-left: .25rem;
-  //   color: #999;
-  //   // Make sure numbers aren't selectable
-  //   -webkit-user-select: none;
-  //      -moz-user-select: none;
-  //           user-select: none;
-  // }
-}
+// .highlight {
+//   padding: 1rem;
+//   margin-bottom: 1rem;
+//   font-size: .8rem;
+//   line-height: 1.4;
+//   // background-color: #f6f8fa;
+//   background-color: black;
+//   border-radius: .25rem;
+//
+//   // pre {
+//   //   margin-bottom: 0;
+//   //   overflow-x: auto;
+//   // }
+//
+//   // .lineno {
+//   //   display: inline-block; // Ensures the null space also isn't selectable
+//   //   padding-right: .75rem;
+//   //   padding-left: .25rem;
+//   //   color: #999;
+//   //   // Make sure numbers aren't selectable
+//   //   -webkit-user-select: none;
+//   //      -moz-user-select: none;
+//   //           user-select: none;
+//   // }
+// }
 
 
 // // so that the line numbers are not selectable

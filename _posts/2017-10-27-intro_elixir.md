@@ -244,6 +244,6 @@ Randomized with seed 608206
 
 OK, again, I feel like all the setup steps are Significant, but don't yet know why.
 
-Onward...
+Onward!
 
 _this is a work in progress. I'll be adding to this piece as I go_
