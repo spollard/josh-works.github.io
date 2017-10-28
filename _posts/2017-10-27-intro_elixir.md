@@ -246,4 +246,73 @@ OK, again, I feel like all the setup steps are Significant, but don't yet know w
 
 Onward!
 
-_this is a work in progress. I'll be adding to this piece as I go_
+## Back to Routes/Routing
+
+Lets add:
+
+```elixir
+scope "/", HellowWeb do
+    pipe_through :browser # Use the default browser stack
+
+    get "/", PageController, :index
+    get "/hello", HellowController, :index # Adding this bad boy
+  end
+```
+
+When visiting `localhost:4000/hello`, we get a very Rails-esque error code, saying "I cannot find the controller you're asking for". Which is great, because `HellowController` doesn't exist.
+
+### A new Controller
+
+Jumping in to make a new controller file moves us along in error-driven development (EDD):
+
+```elixir
+# lib/hellow_web/controllers/hellow_controller.ex
+defmodule HellowWeb.HellowController do
+  use HellowWeb, :controller
+
+  def index(conn, _params) do
+    render conn, "index.html"
+  end
+end
+```
+
+And we get:
+```
+UndefinedFunctionError at GET /hello
+function HellowWeb.HellowView.render/2 is undefined (module HellowWeb.HellowView is not available)
+```
+
+Perfect. We are (I suspect) calling a non-existent file to render stuff to the browser. Phoenix complains.
+
+### A new View
+
+I put together a quick view, templated off an existing view, and for the first time my MVC background failed me. I assumed views would be for presentation, but it seems like Views in Phoenix are more analagous to Models in Rails.
+
+There's a `/templates` directory that contains presentation-related data, so I'll just run with "view == models" for now.
+
+> Phoenix views have several important jobs. They render templates. They also act as a presentation layer for raw data from the controller, preparing it for use in a template. Functions which perform this transformation should go in a view. ([hexdocks](https://hexdocs.pm/phoenix/adding_pages.html#a-new-view))
+
+
+### Templates
+
+
+Ah, interesting. As soon as I created `lib/hellow_web/templates/hellow/index.html.eex`, the errors in Mix went away, and I'm now loading an empty page.
+
+(Even though the file is empty)
+
+So, Phenix has live code-reloading (when I made the file, I saw the logs from `mix phx.server` show compiling and rendering data. The red went away.)
+
+Also, the view is obviously embedded inside of an application layout, because the header/footer/things-that-make-HTML-work-on-the-internet kicked in and rendered my three lines of HTML.
+
+A quick peek at `lib/hellow_web/templates/layout/app.html.eex`, and it's almost indistinguishable from `app/views/layouts/application.html.erb` in Rails.
+
+### A second new page
+
+The universally sound advice for education and training applies here quite well:
+
+> Do it again, faster
+
+
+
+
+_this is a WIP. I'll expand this or split it into a few more posts over the coming few days._
