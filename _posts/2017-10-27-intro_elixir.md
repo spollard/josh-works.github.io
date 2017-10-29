@@ -3,7 +3,7 @@ layout: post
 title:  "First pass with Elixir/Phoenix"
 date:   2017-10-27 01:18:52 -0600
 crosspost_to_medium: false
-categories: [programming]
+categories: [programming, elixir]
 tags: [elixir, programming, phoenix]
 permalink: first-pass-elixir-phoenix
 ---
@@ -29,6 +29,8 @@ Installation is super easy.
 The recommended tutorials + some clicking around was all I needed. Brew handled most of it, and [elixir-lang's installation guide](https://elixir-lang.org/install.html) pairs well with [the same for phoenix](https://hexdocs.pm/phoenix/installation.html)
 
 I just `cd`'ed into `workspace/elixir` (where my otherwise homeless bits of code lives) and test-drove Phoenix's equivalent of `rails new`. I'm taking a quick detour through [this guide](https://hexdocs.pm/phoenix/up_and_running.html) at the moment.
+
+_OK, it was more than a quick detour. The rest of this post is me familiarizing myself with the above guide. Read [Elixir/Phoenix part deux]({{ site.baseurl }}{% link _posts/2017-10-28-elixir-phoenix-part-deux.md %}) for more_
 
 <!--more-->
 
@@ -312,7 +314,8 @@ The universally sound advice for education and training applies here quite well:
 
 > Do it again, faster
 
+So, I did a quick trip through [adding another page](https://hexdocs.pm/phoenix/adding_pages.html#another-new-page), to do a standard "handle a dynamic URL and present the value from the URL in the browser". This is like the "hello world" of dynamic routing.
 
+----------------
 
-
-_this is a WIP. I'll expand this or split it into a few more posts over the coming few days._
+_That's the end of the tiny "getting started" tutorial. I'm ending this post here, and will continue with the slack clone in [part 2]({{ site.baseurl }}{% link _posts/2017-10-28-elixir-phoenix-part-deux.md %})_
