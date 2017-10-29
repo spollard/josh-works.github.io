@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Title"
-date:   17-09-14 06:18:52 -0600
+date:  2017-10-29 06:00:00 -0700
 crosspost_to_medium: false
 categories: []
 tags: []
