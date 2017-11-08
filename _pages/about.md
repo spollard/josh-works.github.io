@@ -13,7 +13,6 @@ I expect that my peace with life will be based not on how much I've worked, or h
 ### Sections
 
 - [Programming](#programming)
-- [Politics](#golden-city-council)
 - [Theology](#theology)
 - [Relationships I](#relationships-i)
 - [Relationships II](#relationships-ii)
@@ -72,16 +71,6 @@ While at Turing, I wrote lots of random things. Some are published here, some ar
 
 - [My Turing portfolio](https://www.turing.io/alumni/josh-thompson)
 - [Everything I've written on the topic of programming](http://josh.works/tags#programming)
-
---------------------
-## Golden City Council
-
-I'm running for Golden's City Council. I still feel conflicted on this, given my natural disdain for politics, but here we are.
-
-The work-in-progress landing page for all that stuff lives here:
-
-
-[josh.works/golden]({{site.baseurl}}{% link _pages/golden.md %})
 
 ____________________
 

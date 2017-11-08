@@ -30,7 +30,6 @@ include: ['_pages']
 
 pages_list:
   about: '/about'
-  golden: '/golden'
   archive: '/archive'
   tags: '/tags'
 
