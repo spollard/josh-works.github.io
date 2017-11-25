@@ -1,0 +1,309 @@
+
+- ./_site/_pages/2017-05-11-epic-quest/index.html
+  *  External link http://josh.works/blog/2013/06/03/training-for-climbing-progress-update failed: 404 No error
+  *  External link http://josh.works/blog/2013/07/04/simplify-simplify-simplify failed: 404 No error
+- ./_site/_pages/2017-05-11-read-along-with-josh/index.html
+  *  internally linking to Innovation%20and%20Entrepreneurship, which does not exist (line 132)
+     <a href="Innovation%20and%20Entrepreneurship"><em>Innovation and Entrepreneurship, </em>Peter Drucker</a>
+  *  internally linking to Season%20One%20Omnibus, which does not exist (line 121)
+     <a href="Season%20One%20Omnibus"><em>The Returners</em>, Mikey Neumann</a>
+- ./_site/about/index.html
+  *  External link https://www.linkedin.com/in/joshworks failed: 999 No error
+- ./_site/asheville-streets.html
+  *  internally linking to www.strongtowns.org, which does not exist (line 174)
+     <a href="www.strongtowns.org">StrongTowns</a>
+- ./_site/cleaner-controllers.html
+  *  External link https://d3vv6lp55qjaqc.cloudfront.net/items/0u2z2e1g131u0z450Q0I/Verified_Account_on_Twitter____josh_works__sehurlburt_Nice__Btw__to_make_it_more_DRY__you_can_omit_path_reference__Rails_will_use_the_route_name_by_default__.png?v=036b7b13 failed: 403 No error
+- ./_site/climbing/2013/05/12/how-to-be-an-awesome-belayer/index.html
+  *  internally linking to /blog/2013/05/17/friends-dont-let-friends-shortrope, which does not exist (line 64)
+     <a href="/blog/2013/05/17/friends-dont-let-friends-shortrope">Don’t shortrope your climber</a>
+  *  internally linking to /blog/2013/05/17/friends-dont-let-friends-shortrope, which does not exist (line 89)
+     <a href="/blog/2013/05/17/friends-dont-let-friends-shortrope">Do not short rope your climber.</a>
+  *  internally linking to /blog/2013/06/06/climbing-in-decking-range, which does not exist (line 62)
+     <a href="/blog/2013/06/06/climbing-in-decking-range">How to belay when your climber is in decking range</a>
+- ./_site/climbing/2013/05/17/friends-dont-let-friends-shortrope/index.html
+  *  internally linking to /blog/2013/05/12/how-to-be-an-awesome-belayer, which does not exist (line 61)
+     <a href="/blog/2013/05/12/how-to-be-an-awesome-belayer">be a better belayer.</a>
+- ./_site/climbing/2013/06/07/climbing-in-decking-range/index.html
+  *  internally linking to /blog/2013/05/12/how-to-be-an-awesome-belayer, which does not exist (line 63)
+     <a href="/blog/2013/05/12/how-to-be-an-awesome-belayer">series on lead belaying</a>
+- ./_site/developer-workflow.html
+  *  internally linking to link to study about github workflow on professional dev teams, which does not exist (line 332)
+     <a href="link%20to%20study%20about%20github%20workflow%20on%20professional%20dev%20teams">Even professional developers are not completely at home with git</a>
+  *  linking to internal hash #reuse-current-working-directory-for-new-tabs-panes that does not exist (line 193)
+     <a href="#reuse-current-working-directory-for-new-tabs-panes">configure iTerm to open new tabs to your current working directory</a>
+- ./_site/elixir-phoenix-part-deux.html
+  *  internally linking to _posts/2017-10-27-intro_elixir.md, which does not exist (line 60)
+     <a href="_posts/2017-10-27-intro_elixir.md">took a long detour</a>
+- ./_site/gcc.html
+  *  linking to internal hash # that does not exist (line 111)
+     <a href="#">Basecamp</a>
+- ./_site/growth/2013/06/17/krav-maga-or-crush-balls-gouge-eyes-and-break-bones/index.html
+  *  internally linking to /blog/2013/06/14/the-list, which does not exist (line 69)
+     <a href="/blog/2013/06/14/the-list">Epic List</a>
+- ./_site/growth/2013/06/21/do-things-that-matter/index.html
+  *  internally linking to /blog/2013/06/14/the-list, which does not exist (line 63)
+     <a href="/blog/2013/06/14/the-list">The List</a>
+- ./_site/growth/2013/07/31/dream-big-and-build-optionality/index.html
+  *  internally linking to /blog/2013/07/18/rules-for-fighting-fair, which does not exist (line 98)
+     <a href="/blog/2013/07/18/rules-for-fighting-fair">relationship stress</a>
+  *  internally linking to /read-along-with-josh, which does not exist (line 70)
+     <a href="/read-along-with-josh">read at least two books a week</a>
+- ./_site/growth/2013/08/12/20-things-20-year-olds-dont-get/index.html
+  *  internally linking to /blog/2013/07/25/my-good-friends-who-dont-know-me, which does not exist (line 192)
+     <a href="/blog/2013/07/25/my-good-friends-who-dont-know-me">Have mentors, friends, and role models</a>
+  *  internally linking to /read-along-with-josh, which does not exist (line 199)
+     <a href="/read-along-with-josh">you may enjoy these books.</a>
+- ./_site/growth/2014/03/25/falling-into-place/index.html
+  *  internally linking to www.litmus.com, which does not exist (line 63)
+     <a href="www.litmus.com">Litmus</a>
+- ./_site/growth/2014/07/27/tiny-habits-take-2/index.html
+  *  internally linking to /blog/2013/01/21/tiny-habits, which does not exist (line 65)
+     <a href="/blog/2013/01/21/tiny-habits">have done his course before</a>
+- ./_site/growth/climbing/2014/10/12/letter-to-two-climbers-part-1/index.html
+  *  internally linking to /blog/2014/10/18/letter-to-two-climbers-part-2, which does not exist (line 95)
+     <a href="/blog/2014/10/18/letter-to-two-climbers-part-2">Read Part Two</a>
+- ./_site/growth/climbing/2014/10/18/letter-to-two-climbers-part-2/index.html
+  *  internally linking to /blog/2014/10/12/letter-to-two-climbers-part-1, which does not exist (line 61)
+     <a href="/blog/2014/10/12/letter-to-two-climbers-part-1">I wrote you a letter</a>
+- ./_site/growth/home/2013/11/08/monthly-review-october/index.html
+  *  internally linking to /blog/2013/07/18/rules-for-fighting-fair, which does not exist (line 122)
+     <a href="/blog/2013/07/18/rules-for-fighting-fair">Conflict management is a key quality indicator</a>
+- ./_site/growth/home/2013/12/01/monthly-review-november/index.html
+  *  internally linking to /blog/2013/04/22/becoming-an-early-riser, which does not exist (line 117)
+     <a href="/blog/2013/04/22/becoming-an-early-riser">get up early</a>
+  *  internally linking to /blog/2013/05/09/daily-exercise-russian-kettlebells, which does not exist (line 127)
+     <a href="/blog/2013/05/09/daily-exercise-russian-kettlebells">kettlebell swings</a>
+- ./_site/growth/misc/2013/07/15/waking-up-early-2-0/index.html
+  *  internally linking to /blog/2013/05/07/how-to-wake-up-early, which does not exist (line 61)
+     <a href="/blog/2013/05/07/how-to-wake-up-early">waking up early.</a>
+- ./_site/home/2013/07/08/first-five-meals-from-the-4-hour-chef/index.html
+  *  internally linking to /blog/2013/07/10/crock-pots-are-foolproof-right, which does not exist (line 174)
+     <a href="/blog/2013/07/10/crock-pots-are-foolproof-right">Failure is not so bad.</a>
+- ./_site/home/2013/08/06/cancel-your-cable-seriously/index.html
+  *  internally linking to /blog/2013/04/22/becoming-an-early-riser, which does not exist (line 82)
+     <a href="/blog/2013/04/22/becoming-an-early-riser">wake up earlier every day</a>
+- ./_site/i-once-worked-hard.html
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe4ce4b0278244ce9f18/1434910427770/317757_286493088046326_1128649947_n.jpg failed: 404 No error
+- ./_site/index.html
+  *  internally linking to _posts/2017-10-27-intro_elixir.md, which does not exist (line 85)
+     <a href="_posts/2017-10-27-intro_elixir.md">took a long detour</a>
+  *  internally linking to _posts/2017-10-28-elixir-phoenix-part-deux.md, which does not exist (line 66)
+     <a href="_posts/2017-10-28-elixir-phoenix-part-deux.md">working through part 1</a>
+- ./_site/learn-to-type-again.html
+  *  internally linking to /blog/2014/07/16/stop-yelling-on-the-internet-or-a-better-use-for-the-caps-lock-key, which does not exist (line 61)
+     <a href="/blog/2014/07/16/stop-yelling-on-the-internet-or-a-better-use-for-the-caps-lock-key">Caps Lock key should be converted into a delete key</a>
+- ./_site/misc/2013/05/07/how-to-wake-up-early/index.html
+  *  internally linking to /blog/2013/05/01/habits-milestones-and-climbing, which does not exist (line 126)
+     <a href="/blog/2013/05/01/habits-milestones-and-climbing">climbing workout</a>
+  *  internally linking to /blog/2013/07/15/waking-up-early-2-0, which does not exist (line 63)
+     <a href="/blog/2013/07/15/waking-up-early-2-0">Read Part Two</a>
+  *  internally linking to /blog/2013/08/02/waking-up-early-part-3, which does not exist (line 65)
+     <a href="/blog/2013/08/02/waking-up-early-part-3">Part Three)</a>
+- ./_site/misc/2013/08/02/waking-up-early-part-3/index.html
+  *  internally linking to /blog/2013/05/07/how-to-wake-up-early, which does not exist (line 61)
+     <a href="/blog/2013/05/07/how-to-wake-up-early">wake up early before</a>
+  *  internally linking to /blog/2013/07/15/waking-up-early-2-0, which does not exist (line 64)
+     <a href="/blog/2013/07/15/waking-up-early-2-0">promised</a>
+- ./_site/page11/index.html
+  *  External link http://www.youneedabudget.com/blog/category/popular failed: 404 No error
+- ./_site/page14/index.html
+  *  External link http://climbingweekly.co failed: response code 0 means something's wrong.
+             It's possible libcurl couldn't connect to the server or perhaps the request timed out.
+             Sometimes, making too many requests at once also breaks things.
+             Either way, the return message (if any) from the server is: Couldn't resolve host name
+- ./_site/page16/index.html
+  *  External link http://www.belaybetter.com failed: 404 No error
+- ./_site/page17/index.html
+  *  External link https://twitter.com/thompsonjoshd failed: 404 No error
+- ./_site/page18/index.html
+  *  External link http://jenniferdthompson.com failed: response code 0 means something's wrong.
+             It's possible libcurl couldn't connect to the server or perhaps the request timed out.
+             Sometimes, making too many requests at once also breaks things.
+             Either way, the return message (if any) from the server is: Couldn't resolve host name
+  *  internally linking to /blog/2014/10/12/letter-to-two-climbers-part-1, which does not exist (line 343)
+     <a href="/blog/2014/10/12/letter-to-two-climbers-part-1">I wrote you a letter</a>
+- ./_site/page19/index.html
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe5de4b0278244cea1b8/1434910449380/2014-04-07-13-31-39.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe5ee4b0278244cea1bf/1434910447469/img_20140728_202954358.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe5ee4b0278244cea1d6/1434910449964/2014-09-01-16-08-14.jpg failed: 404 No error
+  *  internally linking to /blog/2014/10/18/letter-to-two-climbers-part-2, which does not exist (line 99)
+     <a href="/blog/2014/10/18/letter-to-two-climbers-part-2">Read Part Two</a>
+- ./_site/page2/index.html
+  *  linking to internal hash #anki-srs that does not exist (line 165)
+     <a href="#anki-srs">What is Anki, and Spaced Repetition Software?</a>
+  *  linking to internal hash #getting-started-your-first-card that does not exist (line 167)
+     <a href="#getting-started-your-first-card">How do you get started with it?</a>
+  *  linking to internal hash #two-primary-benefits that does not exist (line 166)
+     <a href="#two-primary-benefits">Why would you use it?</a>
+- ./_site/page20/index.html
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe5de4b0278244cea1aa/1434910447335/2014-07-17-10-59-50.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe5de4b0278244cea1ae/1434910444242/2014-07-23-20-33-22.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe5de4b0278244cea1b5/1434910446757/2014-07-25-15-21-28.jpg failed: 404 No error
+  *  External link http://us.icebreaker.com/en/mens-socks/lifestyle-ultra-lite-crew-stripey/100113K90L.html?prefn1=activity&start=18&cgid=mens-socks&prefv1=Travel%20&%20Lifestyle failed: 404 No error
+  *  External link https://josh-thompson-f385.squarespace.com/epic-quest failed: 404 No error
+  *  External link https://www.google.com/search?q=extrovert+introvert+test&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&channel=fflb failed: 503 No error
+  *  internally linking to /blog/2013/01/21/tiny-habits, which does not exist (line 148)
+     <a href="/blog/2013/01/21/tiny-habits">have done his course before</a>
+- ./_site/page21/index.html
+  *  External link http://cdn.shopify.com/s/files/1/0152/0433/products/Ultimate_hero_1024x1024.jpg?v=1371673491 failed: 404 No error
+  *  External link http://marshill.com/the-gospel failed: response code 0 means something's wrong.
+             It's possible libcurl couldn't connect to the server or perhaps the request timed out.
+             Sometimes, making too many requests at once also breaks things.
+             Either way, the return message (if any) from the server is: Couldn't resolve host name
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe5ce4b0278244cea182/1434910441851/2014-07-10-14-31-56.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe5ce4b0278244cea188/1434910440964/instagram.png failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe5ce4b0278244cea18b/1434910443726/2014-07-06-11-03-11.jpg failed: 404 No error
+  *  External link https://josh-thompson-f385.squarespace.com/blog/2014/07/17/a-40-hour-work-week failed: 404 No error
+  *  External link https://pqrs.org/osx/karabiner/seil.html.en failed: 404 No error
+- ./_site/page22/index.html
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe5be4b0278244cea151/1434910444311/2014-04-09-07-21-36.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe5be4b0278244cea15a/1434910449327/screenshot_7_10_14__10_07_pm.png failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe5be4b0278244cea15d/1434910452370/2014-05-04-20-53-18.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe5ce4b0278244cea161/1434910443673/img_20140326_075707.jpg failed: 404 No error
+  *  internally linking to /blog/2014/07/16/stop-yelling-on-the-internet-or-a-better-use-for-the-caps-lock-key, which does not exist (line 189)
+     <a href="/blog/2014/07/16/stop-yelling-on-the-internet-or-a-better-use-for-the-caps-lock-key">Caps Lock key should be converted into a delete key</a>
+- ./_site/page23/index.html
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/5586fe4be4b0278244ce9f01/5586fe5ae4b0278244cea13f/1404840689000/2014-07-06-10-31-29.jpg?format=original failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe59e4b0278244cea115/1434910452740/2014-06-28-11-30-43.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe5ae4b0278244cea11b/1434910448937/2014-07-05-18-00-27.jpg failed: 404 No error
+- ./_site/page24/index.html
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe59e4b0278244cea0f1/1434910444982/2014-04-11-12-58-21.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe59e4b0278244cea10e/1434910446386/2014-06-08-13-44-06.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe59e4b0278244cea111/1434910449017/2014-07-03-10-39-29.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe59e4b0278244cea118/1434910444248/2014-06-29-17-53-38.jpg failed: 404 No error
+- ./_site/page26/index.html
+  *  External link http://inboxzero.com/video failed: got a time out (response code 0)
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe58e4b0278244cea0e1/1434910436190/inbox_-_thompsonjoshd_gmail_com_-_gmail-10.jpg failed: 404 No error
+  *  internally linking to www.litmus.com, which does not exist (line 126)
+     <a href="www.litmus.com">Litmus</a>
+- ./_site/page27/index.html
+  *  internally linking to /blog/2013/04/22/becoming-an-early-riser, which does not exist (line 299)
+     <a href="/blog/2013/04/22/becoming-an-early-riser">get up early</a>
+  *  internally linking to /blog/2013/05/09/daily-exercise-russian-kettlebells, which does not exist (line 309)
+     <a href="/blog/2013/05/09/daily-exercise-russian-kettlebells">kettlebell swings</a>
+- ./_site/page28/index.html
+  *  internally linking to /blog/2013/07/18/rules-for-fighting-fair, which does not exist (line 126)
+     <a href="/blog/2013/07/18/rules-for-fighting-fair">Conflict management is a key quality indicator</a>
+- ./_site/page29/index.html
+  *  External link http://www.iwillteachyoutoberich.com/blog/video-how-to-use-natural-networking-to-connect-with-anyone failed: 404 No error
+- ./_site/page30/index.html
+  *  External link http://online.wsj.com/article/SB10001424127887323823004578595803296798048 failed: 404 No error
+  *  External link http://premium.docstoc.com/article/154782656/Online-Courses-for-Small-Businesses failed: response code 0 means something's wrong.
+             It's possible libcurl couldn't connect to the server or perhaps the request timed out.
+             Sometimes, making too many requests at once also breaks things.
+             Either way, the return message (if any) from the server is: Couldn't resolve host name
+  *  External link http://premium.docstoc.com/c/23/ch/80/l/328/Red-Flags-to-Look-Out-For failed: response code 0 means something's wrong.
+             It's possible libcurl couldn't connect to the server or perhaps the request timed out.
+             Sometimes, making too many requests at once also breaks things.
+             Either way, the return message (if any) from the server is: Couldn't resolve host name
+  *  External link http://premium.docstoc.com/c/38/ch/191/l/1015/Repeat-Own-then-Make-New-Mistakes failed: response code 0 means something's wrong.
+             It's possible libcurl couldn't connect to the server or perhaps the request timed out.
+             Sometimes, making too many requests at once also breaks things.
+             Either way, the return message (if any) from the server is: Couldn't resolve host name
+  *  External link http://premium.docstoc.com/c/38/ch/191/l/1019/Kaizen---Improve-Everyday failed: response code 0 means something's wrong.
+             It's possible libcurl couldn't connect to the server or perhaps the request timed out.
+             Sometimes, making too many requests at once also breaks things.
+             Either way, the return message (if any) from the server is: Couldn't resolve host name
+  *  External link http://premium.docstoc.com/c/46/ch/236/l/1163/Urgency-and-Momentum failed: response code 0 means something's wrong.
+             It's possible libcurl couldn't connect to the server or perhaps the request timed out.
+             Sometimes, making too many requests at once also breaks things.
+             Either way, the return message (if any) from the server is: Couldn't resolve host name
+  *  External link http://premium.docstoc.com/video/102271314/How-to-Address-Problems-in-the-Workplace failed: response code 0 means something's wrong.
+             It's possible libcurl couldn't connect to the server or perhaps the request timed out.
+             Sometimes, making too many requests at once also breaks things.
+             Either way, the return message (if any) from the server is: Couldn't resolve host name
+  *  internally linking to /blog/2013/04/22/becoming-an-early-riser, which does not exist (line 478)
+     <a href="/blog/2013/04/22/becoming-an-early-riser">wake up earlier every day</a>
+  *  internally linking to /blog/2013/07/25/my-good-friends-who-dont-know-me, which does not exist (line 421)
+     <a href="/blog/2013/07/25/my-good-friends-who-dont-know-me">Have mentors, friends, and role models</a>
+  *  internally linking to /read-along-with-josh, which does not exist (line 428)
+     <a href="/read-along-with-josh">you may enjoy these books.</a>
+- ./_site/page31/index.html
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/5586fe4be4b0278244ce9f01/5586fe9ee4b0278244ceab71/1434910366219/?format=original failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe52e4b0278244ce9fe9/1434910432146/raw-shank.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe52e4b0278244ce9fed/1434910432729/lamb-chops_300.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe53e4b0278244ce9fff/1434910433374/pic-01142013-004.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe54e4b0278244cea01f/1434910433999/pic-01142013-011.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe54e4b0278244cea038/1434910434726/pic-02032013-002.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe54e4b0278244cea040/1434910435144/pic-04192013-001.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe55e4b0278244cea052/1434910435306/pic-05112013-002.jpg failed: 404 No error
+  *  internally linking to /blog/2013/05/07/how-to-wake-up-early, which does not exist (line 65)
+     <a href="/blog/2013/05/07/how-to-wake-up-early">wake up early before</a>
+  *  internally linking to /blog/2013/07/15/waking-up-early-2-0, which does not exist (line 68)
+     <a href="/blog/2013/07/15/waking-up-early-2-0">promised</a>
+  *  internally linking to /blog/2013/07/18/rules-for-fighting-fair, which does not exist (line 169)
+     <a href="/blog/2013/07/18/rules-for-fighting-fair">relationship stress</a>
+  *  internally linking to /read-along-with-josh, which does not exist (line 141)
+     <a href="/read-along-with-josh">read at least two books a week</a>
+- ./_site/page32/index.html
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe50e4b0278244ce9f9c/1434910433809/pic-06242013-001.jpg failed: 404 No error
+  *  External link http://www.kravmagadc.com/www/index.php?p=home failed: got a time out (response code 302)
+  *  internally linking to /blog/2013/05/07/how-to-wake-up-early, which does not exist (line 65)
+     <a href="/blog/2013/05/07/how-to-wake-up-early">waking up early.</a>
+  *  internally linking to /blog/2013/07/10/crock-pots-are-foolproof-right, which does not exist (line 295)
+     <a href="/blog/2013/07/10/crock-pots-are-foolproof-right">Failure is not so bad.</a>
+- ./_site/page33/index.html
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe4fe4b0278244ce9f80/1434910431653/screenshot_6_2_13_4_02_pm-e1370203593168.jpg failed: 404 No error
+  *  External link http://www.petzl.com/us/outdoor/grigri-experience failed: 404 No error
+  *  internally linking to /blog/2013/05/12/how-to-be-an-awesome-belayer, which does not exist (line 172)
+     <a href="/blog/2013/05/12/how-to-be-an-awesome-belayer">series on lead belaying</a>
+  *  internally linking to /blog/2013/06/14/the-list, which does not exist (line 67)
+     <a href="/blog/2013/06/14/the-list">The List</a>
+  *  internally linking to /blog/2013/06/14/the-list, which does not exist (line 110)
+     <a href="/blog/2013/06/14/the-list">Epic List</a>
+- ./_site/page34/index.html
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe4de4b0278244ce9f1c/1434910429845/pic-04292013-003.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe4de4b0278244ce9f1f/1434910428370/pic-05012013-002.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe4de4b0278244ce9f23/1434910429539/pic-04292013-007.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe4ee4b0278244ce9f31/1434910429845/pic-05022013-0041.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe4ee4b0278244ce9f37/1434910429232/pic-05022013-0011.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe4ee4b0278244ce9f3d/1434910429743/pic-05032013-002.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe4fe4b0278244ce9f65/1434910430454/photo-on-5-5-13-at-1-35-pm.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe4fe4b0278244ce9f6b/1434910431076/screenshot_5_6_13_5_04_pm.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe4fe4b0278244ce9f71/1434910432064/pic-05062013-005.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe4fe4b0278244ce9f74/1434910432154/pic-05062013-010.jpg failed: 404 No error
+  *  External link http://static1.squarespace.com/static/556694eee4b0f4ca9cd56729/56035dbbe4b07ebf58d79d16/5586fe4fe4b0278244ce9f7a/1434910431074/screenshot_5_9_13_7_51_am.jpg failed: 404 No error
+  *  internally linking to /blog/2013/05/01/habits-milestones-and-climbing, which does not exist (line 343)
+     <a href="/blog/2013/05/01/habits-milestones-and-climbing">climbing workout</a>
+  *  internally linking to /blog/2013/05/12/how-to-be-an-awesome-belayer, which does not exist (line 99)
+     <a href="/blog/2013/05/12/how-to-be-an-awesome-belayer">be a better belayer.</a>
+  *  internally linking to /blog/2013/05/17/friends-dont-let-friends-shortrope, which does not exist (line 168)
+     <a href="/blog/2013/05/17/friends-dont-let-friends-shortrope">Do not short rope your climber.</a>
+  *  internally linking to /blog/2013/05/17/friends-dont-let-friends-shortrope, which does not exist (line 143)
+     <a href="/blog/2013/05/17/friends-dont-let-friends-shortrope">Don’t shortrope your climber</a>
+  *  internally linking to /blog/2013/06/06/climbing-in-decking-range, which does not exist (line 141)
+     <a href="/blog/2013/06/06/climbing-in-decking-range">How to belay when your climber is in decking range</a>
+  *  internally linking to /blog/2013/07/15/waking-up-early-2-0, which does not exist (line 280)
+     <a href="/blog/2013/07/15/waking-up-early-2-0">Read Part Two</a>
+  *  internally linking to /blog/2013/08/02/waking-up-early-part-3, which does not exist (line 282)
+     <a href="/blog/2013/08/02/waking-up-early-part-3">Part Three)</a>
+- ./_site/page5/index.html
+  *  External link https://fortheloveofclimbing.com/2016/09/13/a-reason-a-season-a-lifetime failed: 404 No error
+- ./_site/page7/index.html
+  *  External link http://airlines.org/data/annual-round-trip-fares-and-fees-domestic failed: 404 No error
+- ./_site/quick-dive-into-react.html
+  *  internally linking to _posts/2017-10-28-elixir-phoenix-part-deux.md, which does not exist (line 62)
+     <a href="_posts/2017-10-28-elixir-phoenix-part-deux.md">working through part 1</a>
+- ./_site/read.html
+  *  internally linking to Innovation%20and%20Entrepreneurship, which does not exist (line 185)
+     <a href="Innovation%20and%20Entrepreneurship">_Innovation and Entrepreneurship, _Peter Drucker</a>
+  *  internally linking to Season%20One%20Omnibus, which does not exist (line 165)
+     <a href="Season%20One%20Omnibus"><em>The Returners</em>, Mikey Neumann</a>
+- ./_site/rent-to-us.html
+  *  External link http://josh.works/blog failed: 404 No error
+  *  External link https://dogvacay.com/247-care-while-working-from-home-dog-boarding-355802 failed: 404 No error
+  *  External link https://www.linkedin.com/pub/josh-thompson/20/868/97 failed: 999 No error
+  *  External link https://www.linkedin.com/pub/kristi-thompson/44/4a9/60a failed: 999 No error
+  *  internally linking to /s/thompson_letter_of_recommendation.pdf, which does not exist (line 70)
+     <a href="/s/thompson_letter_of_recommendation.pdf">Here is a letter of recommendation from our last landlord in Golden, CO</a>
+- ./_site/so-you-want-to-work-remotely.html
+  *  External link http://firstnamelastname.is failed: response code 0 means something's wrong.
+             It's possible libcurl couldn't connect to the server or perhaps the request timed out.
+             Sometimes, making too many requests at once also breaks things.
+             Either way, the return message (if any) from the server is: Couldn't resolve host name
+  *  External link http://resources.dice.com/report/the-cost-of-bad-hiring-decisions failed: 404 No error
+  *  External link https://www.kissmetrics.com failed: got a time out (response code 0)
+rake aborted!
+HTML-Proofer found 149 failures!
+/Users/joshthompson/.rvm/gems/ruby-2.3.0/gems/html-proofer-3.7.4/lib/html-proofer/runner.rb:167:in `print_failed_tests'
