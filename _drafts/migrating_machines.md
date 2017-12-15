@@ -39,7 +39,7 @@ I had to re-signin to the desktop app, and I was good to go.
 
 ## Backblaze
 
-I use backblaze for backing up my machine. It detected a large change in the backup content, and asked that I uninstall, reinstall, and re-license the tool on my new machine. Pretty painless.
+I use backblaze for backing up my machine. It detected a large change in the backup content, and [asked that I uninstall, reinstall, and re-license the tool](https://help.backblaze.com/hc/en-us/articles/217666178-Safety-Freeze-Your-Backup-is-Safety-Frozen-) on my new machine. Pretty painless.
 
 ## Siel and Karabiner
 
@@ -57,4 +57,8 @@ I had to re-install X-Code's command line tools to use RVM.
 $ xcode-select --install
 ```
 
-and RVM was happy again to install new versions of Ruby. 
+and RVM was happy again to install new versions of Ruby.
+
+## Touchbar
+
+Oof. I don't like the touch bar so far. I like hitting buttons and feeling them work. More on this soon.
