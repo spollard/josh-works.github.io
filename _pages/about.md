@@ -63,14 +63,16 @@ I used to believe that personal relationships were of little value. I was a fool
 
 ## Programming
 
-I'm a quick-learning developer. I studied [backend software development](https://www.turing.io/programs/back-end-engineering) at [the Turing school](https://www.turing.io/) in Denver, and have loved the process.
+I'm work in software, which means I spend most of my day trying to do things that I don't currently know how to do.
+
+In 2017, I graduated from the backend software development program at [the Turing school](https://www.turing.io/) in Denver.
 
 While at Turing, I wrote lots of random things. Some are published here, some are gists and notes. [I built this collection]({{site.baseurl}}{% link _pages/turing.md %}) so I can easily point others to the same resources.
 
 [I care about my tools]({{site.baseurl}} {% link _posts/2017-05-27-developer-workflow.md %}) and believe that [good questions lead to understanding, not just answers]({{site.baseurl}}{% link _posts/2017-05-29-ask-better-questions.md %}).
 
-- [My Turing portfolio](https://www.turing.io/alumni/josh-thompson)
-- [Everything I've written on the topic of programming](http://josh.works/tags#programming)
+
+_[Everything I've written on the topic of programming](http://josh.works/tags#programming)_
 
 ____________________
 
@@ -78,13 +80,15 @@ ____________________
 
 I put work way down here because I aspire for it to belong way down here. I want it (and related side-projects) to not be the thing that provides my primary sense of meaning and satisfaction. I fail hard at this.
 
-Most recently, I worked at [Litmus](https://litmus.com/) on the Customer Success team. Litmus is a tool for email marketers, and I spent my days making sure all of our customers are getting as much value from the tool as possible. It is in some ways much more complicated than that, in others exactly that simple.
+I'm a developer at Wombat Security and do maintenance and development on one of the pieces of infrastructure there. I enjoy it deeply. Wombat is based in Pittsburgh, but I work 100% remotely.
 
-My job done well means our customers stay with us for a long time, and are really happy to be with us. Litmus' success as a company is directly tied to the success of our customers.
+Before that, I worked at [Litmus](https://litmus.com/) on the Customer Success team, and at various times wore hats labeled "enterprise sales", "inbound API sales", "customer success", "customer support", and many other things. I worked 100% remotely, though I got to see some or all of the company a few times a year.
+
+
 
 #### Remote and asynchronous
 
-My entire time at Litmus, I worked remotely, I saw most of my coworkers ~2x/year, and lived in the same time zone as almost none of them.
+My entire time at Wombat and Litmus, I worked remotely, most of my coworkers a few times a year, and lived in the same time zone as almost none of them.
 
 I was [once interviewed on working remotely]({{ site.baseurl }}{% link _posts/2016-03-16-my-interview-with-pajamasio.md %}), and believe that in the right context, the constraints imposed by remote work can improve the quality of your work. (I'm in the habit of _writing everything down_ and summarize and itemize everything. See the top of this post, and that index? It's habit, made by working remotely. _You cannot over-communicate in a remote environment._)
 
