@@ -4,12 +4,6 @@ title: Golden City Council
 permalink: issues
 ---
 
-*Since [I'm running for Golden City Countil]({{ site.baseurl }}{% link _pages/golden.md %}), people have rightfully asked "how do you feel about {topic}."*
-
-*These are those answers.*
-
-*Want to add your own questions to the mix? Shoot me an email: thompsonjoshd at google's popular email service.*
-
 I'm 100% in the camp of "give a detailed answer once, and copy it later", so, as people have asked questions, I aim for a detailed first answer, and will stick the whole thing here.
 
 ### Tell me about your involvement with bringing broadband coverage to Golden that covers Ward 2

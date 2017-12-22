@@ -146,7 +146,7 @@ Intermittent fasting is pretty cool, and speeds up the mornings nicely. Been doi
 
 ## Miscellaneous
 
-Writing here is purely an exercise to improve my own thinking. It'll be ugly. [I'm OK with this]({{ site.baseurl }}{% link _posts/2015-07-23-2015-7-22-type-publish-done.md %}).
+Writing here is purely an exercise to improve my own thinking. It'll be ugly. [I'm OK with this]({{ site.baseurl }}{% link _posts/2015-07-22-type-publish-done.md %}).
 
 Comments/questions/criticisms? I'm thompsonjoshd at google's popular email service.
 
