@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Be easily interested"
+title:  "Find Things Interesting"
 date:  2017-12-21 06:00:00 -0700
 crosspost_to_medium: false
 categories: [curiosity]
 tags: [curiosity, being_interested]
-permalink: be-easily-interested
+permalink: find-things-interesting
 ---
 
 I've been turning my attention to cultivating interest and curiosity in things that are, well, capable of sparking interest and curiosity.
