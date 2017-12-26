@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Parsing open data for voters in Golden"
-date:   17-08-28 06:18:52 -0600
+date:   2017-08-28 06:18:52 -0600
 categories: programming
 permalink: parse-data-for-voter-records
 ---

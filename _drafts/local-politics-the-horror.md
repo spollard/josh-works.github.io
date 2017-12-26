@@ -1,8 +1,7 @@
-m
 ---
 layout: post
 title:  "Getting Involved with Local Politics and Incredible Self-Loathing"
-date:   17-08-09 06:18:52 -0600
+date:   2017-08-09 06:18:52 -0600
 categories: golden politics
 permalink: local-politics-and-self-loathing
 ---
