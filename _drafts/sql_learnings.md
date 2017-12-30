@@ -8,7 +8,7 @@ tags: [MySql, sql_for_mere_mortals]
 permalink: sql_learnings
 ---
 
-I recently [set up my environment]({{ site.baseurl }}{% link /_posts/2017-12-22-sql_queries_for_mere_mortals_setup.md %}) for working through _SQL for Mere Mortals_.
+I recently [set up my environment]({{ site.baseurl }}{% link _posts/2017-12-22-sql_queries_for_mere_mortals_setup.md %}) for working through _SQL for Mere Mortals_.
 
 I'll record some interested tidbits here as I go.
 

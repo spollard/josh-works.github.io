@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Contributing to Open Source (As a newbie)"
-date:   17-08-01 06:18:52 -0600
+date:   2017-08-01 06:18:52 -0600
 categories: programming learning
 permalink: contribute-to-oss-as-a-newbie
 ---
