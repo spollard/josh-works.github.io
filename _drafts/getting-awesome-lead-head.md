@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Getting an Awesome Lead Head
+title: "Getting an Awesome Lead Head"
 categories: [climbing]
 tags: [climbing, belaying]
-date:   17-08-01 06:18:52 -0600
+date:   2017-08-01 06:18:52 -0600
 status: draft
 type: post
 published: false
