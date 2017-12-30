@@ -4,8 +4,8 @@ title: Archive
 permalink: /archive
 ---
 
-# Blog Posts
 
 {% for post in site.posts %}
-  * [ {{ post.title }} ]({{ post.url }}) _{{ post.date | date: '%b %Y' }}_
+  * [ {{ post.title }} ]({{ post.url }}) <time class="archive-date">{{ post.date | date: '%b %Y' }}</time>
+
 {% endfor %}
