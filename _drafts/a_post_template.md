@@ -7,3 +7,10 @@ categories: [category]
 tags: [tag1, tag2]
 permalink: perma_link
 ---
+
+
+Text
+
+<!--more-->
+
+More text
