@@ -11,8 +11,10 @@ permalink: setting-up-sql-queries-for-mere-mortals
 
 This tweet is from... a while ago. Turns out I didn't dig into this book, because the pace at Turing didn't allow for a few weeks of thinking _just_ about SQL.
 
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">yes, I&#39;m digging into sql to better my AR skills, and ultimately whatever I need to use next. <a href="https://t.co/UhjyGKv1FQ">pic.twitter.com/UhjyGKv1FQ</a></p>&mdash; Josh Thompson (@josh_works) <a href="https://twitter.com/josh_works/status/856596417095229441?ref_src=twsrc%5Etfw">April 24, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 I've got more time in my life now, and the company I work for makes _heavy_ use of SQL queries, so I'm spending a little time each day working through this book. The following started as a gist, and I'm putting here, so I can more easily share it with others.
 

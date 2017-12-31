@@ -30,7 +30,7 @@ Hah. A helpful-but-reluctant read through [48 Laws of Power](https://www.goodrea
 <!--more-->
 
 
-_New Josh_ is significantly more cynical, and in most situations much less inflamatory. I don't stand to gain anything from debates, and neither does the person I'm debating with.
+_New Josh_ is cynical, and in most situations much less inflammatory. I don't stand to gain anything from debates, and neither does the person I'm debating with.
 
 What DOES matter is action. No one really cares what I _think_ about anything, but as soon as I take _action_ on something, any potential conversation is dramatically shifted.
 
