@@ -22,7 +22,7 @@ I've got mixed feelings on annual reviews. I steadfastly refuse to set New Years
 
 However, I find review, reflection, and planning to be valuable. Here we are.
 
-Step 1 was "what have I written in past annual reviews?"
+Step 1 of "doing an annual review" is take a look at what I've written in past annual reviews.
 
  - 2016 review: [2016 - Biggest Lesson, Most Dangerous Books]({{ site.baseurl }}{% link _posts/2017-01-11-2016-biggest-lesson-most-dangerous-books.md %})
  - 2015 review: [2015: The year I didn't think much?]({{ site.baseurl }}{% link _posts/2016-01-23-2015-the-year-i-didnt-think-much.md %} ) (bonus screenshot of an earlier iteration of this website)
@@ -38,9 +38,11 @@ Further validation of this sentiment comes from [Patrick McKenzie](https://twitt
 
 Patrick McKenzie makes generally great recommendations. His recommendation pushed me over the edge.
 
-Step two is "reflect on last year".
+<!--more-->
 
 # Themes from 2017
+
+Step two is "reflect on the last year".
 
 #### Tactical Silence
 
@@ -82,7 +84,7 @@ We walked away ticking a bunch of the classic 5.11s, and I comfortably led route
 
 # 2018
 
-Step three of this review is "look forward into the coming year".
+Step three of an annual review is "look forward into the coming year".
 
 I don't do goals, but I do aim to cultivate good habits. If I'm not satisfied with my outcomes, I'll examine my habits.
 
@@ -109,6 +111,8 @@ I've got lots of thoughts on this domain floating around as well, and will addre
 
 
 # Reading
+
+Step four of doing (this) annual review is "write about books".
 
 I read a lot last year. (79 books!)
 

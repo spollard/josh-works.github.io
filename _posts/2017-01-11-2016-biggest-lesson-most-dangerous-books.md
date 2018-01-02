@@ -6,6 +6,7 @@ categories:
 tags:
 - books
 - monthly_review
+- annual_review
 status: publish
 type: post
 published: true
