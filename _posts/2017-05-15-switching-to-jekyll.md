@@ -41,6 +41,7 @@ I pulled from lots of articles others had written, to figure out all sorts of li
 - [Google Analytics setup for Jekyll](https://michaelsoolee.com/google-analytics-jekyll/)
 - [Add and manage post excerpts](https://coderwall.com/p/eazb7w/easily-create-blog-post-excerpts-for-jekyll-and-github-pages)
 - [Ruby script to parse SquareSpace XML archive into Jekyll-friendly posts (with images!)](https://gist.github.com/spiffytech/e73777e167dc5a8b6a87)
+- [Adding "related posts" tool](https://elliotekj.com/2016/12/05/jekyll-create-a-list-of-all-posts-in-the-same-category/) (I'm not currently satisfied w/my current implementation)
 
 
 And that's about it. It's been an amazing experience, porting everything over to Jekyll.
