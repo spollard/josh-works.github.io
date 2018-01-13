@@ -31,4 +31,4 @@ Before you dismiss me out of hand, just look through two articles.
 
 * [Art of Manliness "Boost Your Testosterone - Naturally"](http://www.artofmanliness.com/2013/01/18/how-to-increase-testosterone-naturally/)
 
-I won't go into it all here, but know this: **There is a group of intelligent, scientifically literate people who believe it is goodfor you to eat bacon and eggs every day.**
+I won't go into it all here, but know this: **There is a group of intelligent, scientifically literate people who believe it is good for you to eat bacon and eggs every day.**
