@@ -67,7 +67,7 @@ I'm work in software, which means I spend most of my day trying to do things tha
 
 In 2017, I graduated from the backend software development program at [the Turing school](https://www.turing.io/) in Denver.
 
-While at Turing, I wrote lots of random things. Some are published here, some are gists and notes. [I built this collection]({{site.baseurl}}{% link _pages/turing.md %}) so I can easily point others to the same resources.
+I wrote a lot while at Turing. Some are published here, some are Github gists. [I built this collection]({{site.baseurl}}{% link _pages/turing.md %}) so I can easily point others to the same resources.
 
 [I care about my tools]({{site.baseurl}} {% link _posts/2017-05-27-developer-workflow.md %}) and believe that [good questions lead to understanding, not just answers]({{site.baseurl}}{% link _posts/2017-05-29-ask-better-questions.md %}).
 
@@ -80,17 +80,17 @@ ____________________
 
 I put work way down here because I aspire for it to belong way down here. I want it (and related side-projects) to not be the thing that provides my primary sense of meaning and satisfaction. I fail hard at this.
 
-I'm a developer at Wombat Security and do maintenance and development on one of the pieces of infrastructure there. I enjoy it deeply. Wombat is based in Pittsburgh, but I work 100% remotely.
+I'm a developer at Wombat Security and do maintenance and development on one of the key pieces of infrastructure there. I enjoy it deeply. Wombat is based in Pittsburgh, and I work 100% remotely.
 
-Before that, I worked at [Litmus](https://litmus.com/) on the Customer Success team, and at various times wore hats labeled "enterprise sales", "inbound API sales", "customer success", "customer support", and many other things. I worked 100% remotely, though I got to see some or all of the company a few times a year.
+Before Wombat, I worked at [Litmus](https://litmus.com/), and was the founding member of their Customer Success team, and at various times wore hats labeled "enterprise sales", "inbound API sales", "customer success", "customer support", and many other things. I worked 100% remotely.
 
 
 
 #### Remote and asynchronous
 
-My entire time at Wombat and Litmus, I worked remotely, most of my coworkers a few times a year, and lived in the same time zone as almost none of them.
+While at Wombat and Litmus, I've worked 100% remotely, saw most of my coworkers a few times a year, and lived in the same time zone as almost none of them.
 
-I was [once interviewed on working remotely]({{ site.baseurl }}{% link _posts/2016-03-16-my-interview-with-pajamasio.md %}), and believe that in the right context, the constraints imposed by remote work can improve the quality of your work. (I'm in the habit of _writing everything down_ and summarize and itemize everything. See the top of this post, and that index? It's habit, made by working remotely. _You cannot over-communicate in a remote environment._)
+I was [once interviewed on working remotely]({{ site.baseurl }}{% link _posts/2016-03-16-my-interview-with-pajamasio.md %}), and believe that in the right context, the constraints imposed by remote work can improve the quality of your work. (I'm in the habit of _writing everything down_ and summarize and itemize everything. See the top of this post, that index? It's habit, made by working remotely. _You cannot over-communicate in a remote environment._)
 
 Remote work is great when you live in one place, but also opens the door to [cool travel opportunities](http://teamthompsontravels.tumblr.com/post/145144220613/1-year-travelversary-exactly-one-year-ago-on-may)
 
@@ -98,7 +98,7 @@ Remote work is great when you live in one place, but also opens the door to [coo
 
 ## Work II
 
-My primary side-project is [The Climber's Guide](http://www.climbersguide.co/), which currently has made, to date, $59.97, or "several pennies per hour of effort I've expended".  
+My primary side-project is [The Climber's Guide](http://www.climbersguide.co/), which has made, to date, less than $200, or "several pennies per hour of effort I've expended".  
 
 The process of building it out, talking to climbers, etc, has been _extremely_ educational.
 
@@ -120,7 +120,7 @@ Oh, and I use a Kindle. [I think you should too]({{ site.baseurl }}{% link _post
 
 The human body is amazing, and adaptable. If you could push a button and easily go through life with perfect physical health, you would. Statistically, most people are not in perfect physical health, so they deal with a huge range of maladies.
 
-#### exercise is 25% of the "fitness equation"
+#### Exercise is only 20% of the "fitness equation"
 
 There are people out there who love exercise for the sake of exercise. While sometimes I feel like I can relate, usually I cannot.
 
@@ -132,15 +132,18 @@ There's no magic bullet, but there's a convenient way to get amazing exercise in
 
 If you were to do no other exercise for the rest of your life, but swing heavy kettle bells, you'd be in better shape than almost everyone you know, for only a modest time investment of 5-10 minutes, every other day.
 
-### Food is the other 75% of the "fitness equation"
+### Food is the other 80% of the "fitness equation"
 
 They say "bodies are built in the kitchen", and they're right.
 
-I don't know much about food, [but I sure do have some opinions]({{ site.baseurl }}{% link _posts/2014-04-08-why-i-eat-bacon-every-day-and-you-should-too.md %}). The FDA's food pyramid is complete crap, and you should probably be eating more fatty stuff and butter. Stop drinking sugar.
+I don't know much about food, [<s>but I sure do have some opinions</s>]({{ site.baseurl }}{% link _posts/2014-04-08-why-i-eat-bacon-every-day-and-you-should-too.md %}) my opinions have been modified.
 
-Intermittent fasting is pretty cool, and speeds up the mornings nicely. Been doing this since late 2015, have had nothing but a positive experience
-- [Nerd Fitness's guide](https://www.nerdfitness.com/blog/a-beginners-guide-to-intermittent-fasting/)
-- [James Clear's guide](https://jamesclear.com/the-beginners-guide-to-intermittent-fasting)
+I'm mostly vegetarian now. The FDA's food pyramid is _still_ complete crap, and you should probably be eating more fatty stuff and butter. Stop drinking sugar.
+
+Intermittent fasting is pretty cool, and speeds up the mornings nicely. Been doing this since late 2015, have had nothing but a positive experience.
+
+- [Nerd Fitness's guide to intermittent fasting](https://www.nerdfitness.com/blog/a-beginners-guide-to-intermittent-fasting/)
+- [James Clear's guide to intermittent fasting](https://jamesclear.com/the-beginners-guide-to-intermittent-fasting)
 
 --------------------
 
