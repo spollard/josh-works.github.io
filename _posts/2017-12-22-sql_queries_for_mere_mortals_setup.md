@@ -46,6 +46,8 @@ So, I'm writing this guide as if _you_, dear reader, wanted to follow along thro
 
 ## Step 1 - install MySQL on your machine
 
+_note: I ended up wiping my entire MySQL local install and instead setting it on Docker. My company uses MySQL 5.6, which is a generation behind the current 5.7, and navigating between the two locally was a massive headache. The rest of this will still work, if you're good running MySQL 5.7._
+
 I don't have much help for you here. I struggled hard on this. Turns out I was using Brew to manage MySQL, and that wasn't playing nice with other tools, so I threw my hands in the air, and did a clean uninstall/re-install of MySQL on my machine.
 
 I followed [these instructions](https://coderwall.com/p/os6woq/uninstall-all-those-broken-versions-of-mysql-and-re-install-it-with-brew-on-mac-mavericks) to remove/reinstall.
