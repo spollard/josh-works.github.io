@@ -22,26 +22,24 @@ I wasn't sure what to make of that, because Mod 1 wasn't too bad of a struggle. 
 
 ## Expectations
 
-Often when something seems off, a good place to start is to check your assumptions. So, I figured I'd look through mine about how I thought the last two weeks would go
+Often when something seems off, a good place to start is to check your assumptions. So, I figured I'd look through mine about how I thought the last two weeks would go. What were my assumptions?
 
 ### My technical understanding is sufficient to grasp the new material and implement in a project
 
 This week we've unpacked a few sizable new topics:
 
-- Oauth/Omniauth for user authentication (against Twitter and Github)
-- Using Figaro to protect sensative environment variables
+- oAuth/OmniAuth for user authentication (against Twitter and Github)
+- Using Figaro to protect sensitive environment variables
 - Using Faraday to handle all the HTTP traffic
 - OmniAuth's stubs/testing tools
 - VCR to record API responses, so every time we run our tests we're not pounding a remote API
-- Stubbing out all the necessary user information so we can write really detailed tests, using OmniAuth config settings, VCRs, and more.
+- Stubbing out all the necessary user information so we can write detailed tests, using OmniAuth config settings, VCRs, and more.
 
 Turns out picking up this all, weaving it together, and applying to a project is hard.
 
 I've not mastered this content the same that I feel like I've mastered other notions in the program.
 
 This is not the end of the world, but it didn't match my (unreasonable) expectations.
-
-
 
 ### I'd be the "anchor" in any group work
 
