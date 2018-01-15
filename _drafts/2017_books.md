@@ -127,7 +127,7 @@ I read many books in 2017. I'm listing them out here, along with recommendations
 
 ### December
 
-- Oathbringer (The Stormlight Archive, \#3)
+- Oathbringer (The Stormlight Archive, \#3) 👍 😫
 - Charlie Wilson's War 👍 💵
 - The Omnivore's Dilemma: A Natural History of Four Meals 👍 🤔
 - Death Masks (The Dresden Files, \#5)
