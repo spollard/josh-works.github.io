@@ -17,7 +17,7 @@ _This page is now functionally "locked", as I've completed my time at Turing. I'
 
 Throughout my time at Turing, I try to teach what I learn, because _that helps me learn better_.
 
-As I write stuff, I've usually saved it as a gist on Github. Those are not searchable, and it's hard sometimes even for me to remember what I've written.
+As I write, I usually save it as a gist on Github. Those are not searchable, and it's hard sometimes even for me to remember what I've written.
 
 What follows below is a curated list of useful material, ordered by either the module it might best apply to, or a more general category. These are intended to benefit current/future Turing students, and encompass much of what I've written during my time at Turing.
 
@@ -32,20 +32,23 @@ What follows below is a curated list of useful material, ordered by either the m
 
 *   [An opinionated guide for those who finished mod1 prework](https://gist.github.com/josh-works/9366bece56a2b10a814ec727a8f6b45e)
 *   [Terminal fun, to be better with your command line](https://gist.github.com/josh-works/83fc75e684b4dd2d52b385a67ced4d9b)
-*   [Get set up on drills](https://gist.github.com/josh-works/ac68a974cb9e0d73d663ea6c8cf3e8d8)
+*   [Get set up on drills/mythical creatures](https://gist.github.com/josh-works/ac68a974cb9e0d73d663ea6c8cf3e8d8)
 *   [More terminal customization stuff](https://gist.github.com/josh-works/7f2e6c82d22dca6e9fbc029c8b17703d)
 
-## Mod 1: Ruby fundamentals
+## Mod 1: Ruby and other fundamentals
 
-*   [Notes from HTTP Yeah_You_Know_Me](https://gist.github.com/josh-works/59b17f5aa8d3ab7ac899c7a4a2fae92d)
+* [Practice with Github (I gave a 'github fundamentals' talk)](https://github.com/josh-works/git_practice)
+* [Notes from HTTP Yeah_You_Know_Me](https://gist.github.com/josh-works/59b17f5aa8d3ab7ac899c7a4a2fae92d)
 
 ## Mod 2: Sinatra, Active Record, and Rails
+
 * [Tour of D3 for Clueless Folk like me]({{ site.baseurl }}{% link _posts/2017-04-19-tour-of-d3.md %})
 
 ## Mod 3: Consuming and Building APIs, brown-field projects, AJAX, caching, background workers
 
 * [Ask Better Questions]({{site.baseurl}}{% link _posts/2017-05-29-ask-better-questions.md %})
 * [Opinionated thoughts on workflow and tooling]({{site.baseurl}} {% link _posts/2017-05-27-developer-workflow.md %})
+* [Finding an Edge]({{ site.baseurl }}{% link _posts/2017-05-17-finding-an-edge.md %})
 
 #### Better Prework
 

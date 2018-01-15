@@ -63,11 +63,11 @@ I used to believe that personal relationships were of little value. I was a fool
 
 ## Programming
 
-I'm work in software, which means I spend most of my day trying to do things that I don't currently know how to do.
+I work in the software industry. (Specifically, _backend software development_), which means I spend most of my day trying to do things that I don't currently know how to do.
 
 In 2017, I graduated from the backend software development program at [the Turing school](https://www.turing.io/) in Denver.
 
-I wrote a lot while at Turing. Some are published here, some are Github gists. [I built this collection]({{site.baseurl}}{% link _pages/turing.md %}) so I can easily point others to the same resources.
+I wrote a lot while at Turing. Some of that writing is published here, some are Github gists. [I built this collection]({{site.baseurl}}{% link _pages/turing.md %}) so I can easily point others to the same resources.
 
 [I care about my tools]({{site.baseurl}} {% link _posts/2017-05-27-developer-workflow.md %}) and believe that [good questions lead to understanding, not just answers]({{site.baseurl}}{% link _posts/2017-05-29-ask-better-questions.md %}).
 
