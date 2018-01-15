@@ -39,14 +39,14 @@ I ultimately need to be able to use every single one of those keys without think
 
 (For example, if you're reading documentation or code on one part of your screen, typing something into some other program, you cannot be looking at what you're typing and what you're supposed to be typing simultaneously.)
 
-## How have I learned to type all these crazy symbols?
+# How have I learned to type all these crazy symbols?
 
 Two methods:
 
 * Typing.io
 * Changed my passwords
 
-### Typing.io
+## Typing.io
 
 * [typing.io](https://typing.io/) bills itself as "Typing Practice for Programmers"
 
@@ -58,7 +58,7 @@ An example from the Ruby track: Have you _ever_ used the `|` key? NO!
 
 So, that brings us to method number 2:
 
-### Changing my passwords
+## Changing my passwords
 
 _Change commonly used passwords to require hard-to-type code snippets._
 
@@ -77,7 +77,6 @@ So, if I change both passwords to something incorporating difficult-to-use key c
 
 For both systems, I create unique passwords that require me to get good with different pieces of code.
 
-
 In the past, I've used it to train the `#`, `%`, `&&` symbols, as well as `[]` and `{}`. I'm now comfortable with `#{}` and `[&&]`. Soon, I'll rotate them again to incorporate more "sticky" keys that I struggle with.
 
 As I get deeper into my studies, anytime I encounter a difficult key combination (like hitting `=` right after my pinky is otherwise engaged with a `'` or `|` key) I jot it down, to use next time I update my passwords.
@@ -88,6 +87,7 @@ If you're getting into Ruby, here's some potential passwords to play with. Pleas
 - `@word.map do { |c| c[0] }`
 - `<%= variable_name_here %>`
 - `index[0][1]`
-- `/\Regex(.)\z/i`
+- `/\A*regex(.|,)\z/i`
+- `hashes = { curley_braces_everywhere }`
 
 Best of luck to you!
