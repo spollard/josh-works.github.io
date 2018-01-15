@@ -4,7 +4,7 @@ title:  "MySQL concatenation and casting"
 date:  2018-01-13 06:00:00 -0700
 crosspost_to_medium: false
 categories: [SQL]
-tags: [MySql, sql_for_mere_mortals, programming]
+tags: [mysql, sql_for_mere_mortals, programming]
 permalink: mysql-concat-cast
 ---
 
