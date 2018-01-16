@@ -4,7 +4,7 @@ title:  "Setting up for 'SQL Queries for Mere Mortals'"
 date:  2017-12-22 06:00:00 -0700
 crosspost_to_medium: false
 categories: [programming]
-tags: [sql, programming]
+tags: [sql, programming, databases]
 permalink: setting-up-sql-queries-for-mere-mortals
 ---
 
