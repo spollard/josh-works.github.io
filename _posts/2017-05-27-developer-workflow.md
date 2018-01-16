@@ -48,12 +48,12 @@ Workflow is more than just tools. It encompasses [how you ask questions](/better
   - [Avoid merge conflicts by pulling in `staging/master` before making a PR](#always-merge-staging-into-your-branch-before-making-a-pull-request)
   - [Display your current branch in terminal prompt](#optimize-for-information))
 
-### Chrome
+### Chrome/Firefox
   - [Chrome Extensions, like The Great Suspender, Vimium, etc](#extensions)
   - [Chrome shortcuts](#shortcuts-for-chrome)
 
 
-### applications (some free, some not)
+### Applications (some free, some not)
   - [Dash: offline (and instant) documentation](#dash-documentation-that-doesnt-suck)
   - [Alfred w/Powerpack: do all the things](#alfred-do-anything-on-your-computer)
   - [Flux (free)](#flux-save-your-eyes)
@@ -305,6 +305,8 @@ You'll spend a lot of time in your browser.
 
 There's some keyboard shortcuts I use all the time for Chrome. Don't try to use all at once, but test each one once or twice, decide if you like it, and then use it for a few days.
 
+_note: I've recently migrated to Firefox, for a few reasons. All of the extensions and shortcuts are available in, and apply to, Firefox, so I'm leaving this section otherwise untouched. I just wish Firefox had a hide/reveal bookmarks toolbar keyboard shortcut like Chrome._
+
 ### Shortcuts for Chrome
 
 - `cmd-l` puts the "focus" on the address bar. You can copy the address, paste a different one in, etc.
@@ -325,13 +327,15 @@ There's some keyboard shortcuts I use all the time for Chrome. Don't try to use 
 
 ### Dash: Documentation that doesn't suck
 
-[Dash](https://kapeli.com/dash) is an application that lets you download documentation for just about anything with documentation. I regularly use docs for Ruby, Rails, HTML, CSS, Sass, JavaScript, and more. With Dash, I don't have to hop into a browser and google for things, because it's already installed locally, and is searchable.
+[Dash](https://kapeli.com/dash) is an application that lets you download documentation for just about anything with documentation. I regularly use docs for Ruby, Rails, HTML, CSS, Sass, JavaScript, MySQL, Redis, etc. With Dash, I don't have to hop into a browser and google for things, because it's already installed locally, and is searchable.
 
 It's not free, but I find it worth it. (It has a free-to-use mode that makes you wait a short period of time before using it.)
 
 ### Alfred: Do anything on your computer
 
 [AlfredApp](https://www.alfredapp.com/) is my favorite program on my computer, by miles. It replaces your "omnibar", or whatever pops up when you hit `cmd-space`. Alfred's workflows are where the real power shows.
+
+I use Alfred, a lot. Since Dec 29, 2014, I've used Alfred 59,510 times. That actually seems a bit low.
 
 I can't give it a fraction of the praise it deserves, so here's some "getting started with Alfred" guides that might convince you to give it a whirl.
 
@@ -340,6 +344,20 @@ The powerpack extension is not free, but the base application is free. It's a bi
 - [Beginners guide to Alfred](https://www.alfredapp.com/blog/tips-and-tricks/beginners-guide-to-alfred-searching-your-mac-and-the-web/)
 - [Lifehacker: Beginners guide to Alfred](http://lifehacker.com/a-beginners-guide-to-mouseless-computing-with-alfred-1596198655)
 - [Some Starter Workflows](https://www.maketecheasier.com/alfred-workflows-mac/)
+
+#### My personal favorite workflows
+
+**First, I use Alfred to bind programs to "global hotkeys"**. I've got four global hotkeys, one each for: iTerm, Atom, Firefox, and Slack. (They're `cmd + shift + i|k|l|j`, respectively.)
+
+This means I don't use `cmd + tab` nearly as often, as I can quickly and confidently switch to whatever application I want. No guessing required. [Here's a guide on setting up your own application-toggling workflows](https://www.alfredapp.com/help/workflows/triggers/hotkey/creating-a-hotkey-workflow/)
+
+**Next, I use Alfred to do site-specific searches.** For example, at Wombat, we use Jira, and everything has a ticket number. Rather than be fumbling for bookmarks, or hand-editing URLs, I just set up a simple workflow to open a given ticket.
+
+I have at least seven site-specific search workflows. [Here's how to set up your own custom search](https://www.alfredapp.com/help/features/web-search/#custom)
+
+I open Alfred, type `ts[tab]`, enter the ticket number, and hit `return`. Boom. Ticket opens up in browser.
+
+**Toggle VPN.** I use a VPN while working, but when I shut my computer I have to re-start the VPN when I open it back up.  [I use this workflow](https://www.alfredforum.com/topic/191-workflow-for-vpn-services/)
 
 ### Flux: Save your eyes
 
