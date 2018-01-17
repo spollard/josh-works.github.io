@@ -138,9 +138,9 @@ They say "bodies are built in the kitchen", and they're right.
 
 I don't know much about food, [<s>but I sure do have some opinions</s>]({{ site.baseurl }}{% link _posts/2014-04-08-why-i-eat-bacon-every-day-and-you-should-too.md %}) my opinions have been modified.
 
-I'm mostly vegetarian now. The FDA's food pyramid is _still_ complete crap, and you should probably be eating more fatty stuff and butter. Stop drinking sugar.
+I'm mostly vegetarian now. The FDA's food pyramid is _still_ complete crap, and you should probably be eating more fatty stuff and butter. Stop eating (but especially drinking) sugar/sugar substitutes.
 
-Intermittent fasting is pretty cool, and speeds up the mornings nicely. Been doing this since late 2015, have had nothing but a positive experience.
+Intermittent fasting is pretty cool, and speeds up my mornings nicely. I've been "intermittent fasting" since late 2015, have had nothing but a positive experience.
 
 - [Nerd Fitness's guide to intermittent fasting](https://www.nerdfitness.com/blog/a-beginners-guide-to-intermittent-fasting/)
 - [James Clear's guide to intermittent fasting](https://jamesclear.com/the-beginners-guide-to-intermittent-fasting)
@@ -153,12 +153,12 @@ Writing here is purely an exercise to improve my own thinking. It'll be ugly. [I
 
 Comments/questions/criticisms? I'm thompsonjoshd at google's popular email service.
 
-I'm other places, too:
+I'm other places on the interwebz, too:
 
 - [Twitter](https://twitter.com/josh_works)
-- [Github](https://github.com/josh-works)
-- [GoodReads](https://www.goodreads.com/review/list/27372191?shelf=read&sort=date_read)
 - [Instagram](https://www.instagram.com/josh.works/)
+- [Github](https://github.com/josh-works)
+- [Goodreads](https://www.goodreads.com/review/list/27372191?shelf=read&sort=date_read)
 - [LinkedIn](https://www.linkedin.com/in/joshworks/)
 
 {% include newsletter.html %}
