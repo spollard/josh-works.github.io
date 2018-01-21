@@ -3,7 +3,7 @@ layout: post
 title:  "Take Back Your Attention"
 date:  2018-01-21 01:00:00 -0700
 crosspost_to_medium: false
-categories: [habits]
+categories: [habits, goals, tools]
 tags: [hard things, habits, goals, minimalism, willpower, clutter]
 permalink: take-back-your-attention
 ---
