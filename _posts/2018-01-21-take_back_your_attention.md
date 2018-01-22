@@ -131,7 +131,9 @@ Oh, and these rules usually apply to "promoted" content that's inserted in your 
 
 ## A few surprises that can happen with uBlock
 
-Since uBlock by default disables many unwanted scripts and resources, it can introduce some unexpected behavior on websites. If a website isn't behaving exactly as expected, turn off uBlock and see if the resource loads. (For example, some websites use untrustworthy javascript redirects to track your movement to third-party websites. if those redirects rely on untrusted third-party resources, they won't be loaded on the page. Ditto for some kinds of form submission behavior, etc.)
+Since uBlock by default disables many unwanted scripts and resources, it can introduce some unexpected behavior on websites. If a website isn't behaving exactly as expected, turn off uBlock and see if the resource loads.
+
+For example, some websites use untrustworthy javascript redirects to track your movement to third-party websites. if those redirects rely on untrusted third-party resources, they won't be loaded on the page. Ditto for some kinds of form submission behavior, image/video resources, etc.
 
 So, turning off uBlock is very easy:
 
@@ -173,11 +175,15 @@ I don't think it's overkill.
 
 A while back, [I wrote about a book called _Deep Work_, and the profound impact it had on me]({{ site.baseurl }}{% link _posts/2016-10-24-i-quit.md %}). I stepped off of social media completely, and made efforts to trim away other distractions in my life.
 
-Since taking those steps, I've become sensitive and attuned when I'm subjected to unwilling sources if distraction. It's as if my radar for "someone's trying to influence you" got much stronger.
+Since taking these steps, I've become sensitive and more attuned to when I'm subjected to unwilling sources of distraction. It's as if my "someone is trying to influence me" radar got much stronger.
 
-I suspect that if you start using uBlock to remove annoying elements from pages, you'll start developing a stronger radar for when someone is trying to monetize your attention, and you might become even more sensitive to those unwelcome attempts, and on and on.
+I suspect that if you start using uBlock to remove annoying elements from pages, you'll start developing a stronger radar for when someone is trying to monetize your attention, and and then you'll block those elements, but then become even more attuned to those unwanted influences, and then block them, and on and on.
 
+It is worth pointing out that _this very website_ is devoid of those sorts of elements I find annoying. No popups, no sidebar content, no click-baity headlines. If you want to share one of these posts on social media, you have to do it the old school way. Copy and paste the URL into your platform of choice. (But note how clean that URL is. www.domain.com/post-title. Positively peaceful.)
 
-### Related reading
+The only metric I pay attention to is email subscribers. Someone subscribing via email is basically the highest endorsement of trust I can imagine. I'm extremely judicious in subscribing to other people's websites, so I value other people trusting me with their email address.
 
-- [Use uBlock Origin to remove any element from a page permanently](https://www.ghacks.net/2017/02/21/ublock-origin-how-to-remove-any-element-from-a-page-permanently/)
+### Related Resources
+
+- [Use uBlock Origin to remove any element from a page permanently, _ghacks.net_](https://www.ghacks.net/2017/02/21/ublock-origin-how-to-remove-any-element-from-a-page-permanently/)
+- [Willpower is over-rated. Build systems to ensure desired behavior, _Vox.com_](https://www.vox.com/science-and-health/2018/1/15/16863374/willpower-overrated-self-control-psychology)
