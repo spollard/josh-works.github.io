@@ -11,20 +11,22 @@ I'm a huge fan of "a good workflow". Makes you think better.
 
 This is still under construction, but I'm fleshing out all the tools, tidbits, and other things that serve me well every day as I build my skills as a developer. It will always be a work in progress, but will hopefully serve others.
 
-Last updated 06/02/17. If you're curious, version history [here](https://github.com/josh-works/josh-works.github.io/commits/master/_posts/2017-05-27-developer-workflow.md)
+Your workflow is more than just tools. It encompasses [how you ask questions]({{ site.baseurl }}{% link _posts/2017-05-29-ask-better-questions.md %}) and [how you integrate new knowledge]({{ site.baseurl }}{% link _posts/2017-06-04-learning-how-to-learn.md %}). This page will be a running list of tools and workflows that I use regularly.
 
 <!--more-->
 
-Workflow is more than just tools. It encompasses [how you ask questions](/better-questions) and [how you integrate new knowledge](/learning-how-to-learn). This page will be a running list of tools and workflows that I use regularly.
+
+_Last updated 01/16/18. If you're curious, version history [here](https://github.com/josh-works/josh-works.github.io/commits/master/_posts/2017-05-27-developer-workflow.md)_
+
 
 -------------------
 
 ## Topics
 
 ### Small desktop/OS tweaks, misc utilities
-  - [max out key repeat speed + min wait on key hold](#key-repeat-speed)
-  - [Max resolution size on display](#see-more-code)
-  - [Jumpcut: Clipboard buffering](#jumpcut-for-clipboard-buffering)
+  - [max out "key repeat speed" and "min wait on key hold"](#key-repeat-speed)
+  - [See more code at once](#see-more-code)
+  - [Smarter copy/pasting with Jumpcut: Clipboard buffering](#jumpcut-for-clipboard-buffering)
   - [Moom/Spectacle: Window management](#manage-your-windows)
 
 
@@ -261,9 +263,9 @@ It's got many, many uses. You'll find them all.
 
 Oh boy. Git. It's the most amazing thing ever, but it can be intimidating.
 
-![Magical incantations](https://imgs.xkcd.com/comics/git.png))
+![Magical incantations](https://imgs.xkcd.com/comics/git.png)
 
-[Even professional developers are not completely at home with git](link to study about github workflow on professional dev teams)(Still trying to find this study...)
+Even professional developers are not completely at home with git. (I read a study about this, but now I can't find it...)
 
 This is good news! This means as intimidating is Git may seem, we're in good company. Any effort expended on better understanding Git will be well-spent.
 
@@ -287,7 +289,7 @@ This helps your learning, this helps their learning, and this habit will serve y
 
 [It's very easy to setup a PR template](https://github.com/blog/2111-issue-and-pull-request-templates), and you're welcome to copy the [PR template my group is using right now](https://github.com/josh-works/corkboard/tree/master/.github).
 
-### Always merge `staging` into your branch before making a pull request
+### Consider merging `staging` into your branch before making a pull request
 
 In group work, especially if you have a branch checked out for more than a few hours (or a day), it's possible that the "base branch" will change between when you check out your branch, and when you want to merge it back in.
 
