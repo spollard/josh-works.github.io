@@ -160,5 +160,6 @@ I'm other places on the interwebz, too:
 - [Github](https://github.com/josh-works)
 - [Goodreads](https://www.goodreads.com/review/list/27372191?shelf=read&sort=date_read)
 - [LinkedIn](https://www.linkedin.com/in/joshworks/)
+- [RSS feed](https://josh.works/feed)
 
 {% include newsletter.html %}
