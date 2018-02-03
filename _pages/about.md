@@ -151,7 +151,7 @@ Intermittent fasting is pretty cool, and speeds up my mornings nicely. I've been
 
 Writing here is purely an exercise to improve my own thinking. It'll be ugly. [I'm OK with this]({{ site.baseurl }}{% link _posts/2015-07-22-type-publish-done.md %}).
 
-Comments/questions/criticisms? I'm thompsonjoshd at google's popular email service.
+Comments/questions/criticisms? I'm `thompsonjoshd` at Google's popular email service.
 
 I'm other places on the interwebz, too:
 

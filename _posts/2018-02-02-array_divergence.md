@@ -10,6 +10,8 @@ permalink: array-divergence
 
 Lets say you have a list of valid items, and you want to run another array against it, and pull out the items that don't match.
 
+You don't want to iterate through all of the items in one array, calling `other_array.include?(item)`. (That's computationally expensive)
+
 ```ruby
 valid_people = ["Sarah Connor", "John Connor"]
 
@@ -61,3 +63,11 @@ list_2 = [2, 3, 4]
 [1, 2, 3] | [2, 3, 4]
 => [1, 2, 3, 4]
 ```
+
+
+
+
+### Additional Reading
+
+- [Stack Overflow: Find element not in common for two arrays](https://stackoverflow.com/questions/20205023/ruby-find-element-not-in-common-for-two-arrays)
+- [Christian Rolle: Array Coherences](http://www.chrisrolle.com/en/blog/array-coherences)
