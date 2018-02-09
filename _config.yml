@@ -64,7 +64,7 @@ jekyll-crosspost_to_medium:
   cache: .jekyll-crosspost_to_medium
   status: public
   license: all-rights-reserved
-  text: <p><i>This article was originally posted <a href=\"https://josh.works/" rel=\"canonical\">on my own site</a>.</i></p>
+  text: <p><i>This article was originally posted on <a href=\"https://josh.works/" rel=\"canonical\">https://josh.works</a>.</i></p>
   backdate: true
 
 
