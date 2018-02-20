@@ -16,7 +16,7 @@ Your workflow is more than just tools. It encompasses [how you ask questions]({{
 <!--more-->
 
 
-_Last updated 01/16/18. If you're curious, version history [here](https://github.com/josh-works/josh-works.github.io/commits/master/_posts/2017-05-27-developer-workflow.md)_
+_Last updated 02/20/18. If you're curious, version history [here](https://github.com/josh-works/josh-works.github.io/commits/master/_posts/2017-05-27-developer-workflow.md)_
 
 
 -------------------
@@ -26,7 +26,7 @@ _Last updated 01/16/18. If you're curious, version history [here](https://github
 ### Small desktop/OS tweaks, misc utilities
   - [max out "key repeat speed" and "min wait on key hold"](#key-repeat-speed)
   - [See more code at once](#see-more-code)
-  - [Smarter copy/pasting with Jumpcut: Clipboard buffering](#jumpcut-for-clipboard-buffering)
+  - [Smarter copy/pasting with Alfred: Clipboard buffering](#alfred-for-clipboard-buffering)
   - [Moom/Spectacle: Window management](#manage-your-windows)
 
 
@@ -90,17 +90,17 @@ Change your resolution under `System Preferences > Displays > Built-in Retina Di
 
 <img src="/images/17-05-29-display_3.jpg" alt="Keyboard Settings" style="width: 400px; margin: 0 auto; display: block;">
 
-### Jumpcut for clipboard buffering
+### Alfred for clipboard buffering
 
 Copy-paste makes the world go around. What if you want to copy two things to your clipboard, and then paste them both?
 
 Or what if you copied a URL, and then a few minutes later (and after putting more stuff on your clipboard) you decided you wanted that URL again?
 
-Enter "Clipboard buffering". With [JumpCut](http://jumpcut.sourceforge.net/) (it's free), you can cycle back through the last 40 items you've copied to your clipboard.
+Enter "Clipboard buffering". With Alfred's [Clipboard Buffering tool](https://www.alfredapp.com/help/features/clipboard/) (it's not free), you can cycle back through items you've copied to your clipboard.
 
 _I use this tool many times a day_
 
-`cmd-v` is the system default for pasting from the clipboard, so I've mapped my JumpCut toggle to `cmd-opt-v`.
+`cmd-v` is the system default for pasting from the clipboard, so I've mapped my Clipboard History toggle to `cmd-opt-v`.
 
 
 
@@ -307,7 +307,7 @@ You'll spend a lot of time in your browser.
 
 There's some keyboard shortcuts I use all the time for Chrome. Don't try to use all at once, but test each one once or twice, decide if you like it, and then use it for a few days.
 
-_note: I've recently migrated to Firefox, for a few reasons. All of the extensions and shortcuts are available in, and apply to, Firefox, so I'm leaving this section otherwise untouched. I just wish Firefox had a hide/reveal bookmarks toolbar keyboard shortcut like Chrome._
+**note:** I've recently migrated to Firefox, for a few reasons. All of the extensions and shortcuts are available in, and apply to, Firefox, so I'm leaving this section otherwise untouched. <del>I just wish Firefox had a hide/reveal bookmarks toolbar keyboard shortcut like Chrome.</del> [Here's how to hide/reveal bookmarks by keyboard shortcut in Firefox]({{ site.baseurl }}{% link _posts/2018-02-15-toggle_bookmarks_bar_in_firefox.md %}).
 
 ### Shortcuts for Chrome
 
