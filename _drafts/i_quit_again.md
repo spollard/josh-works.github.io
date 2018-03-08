@@ -8,18 +8,40 @@ tags: [reading, curiosity, habits]
 permalink: i-quit-again
 ---
 
-
 In late 2016, I [wrote a piece called 'I Quit']({{ site.baseurl }}{% link _posts/2016-10-24-i-quit.md %} ), where I outlined my reasons for stepping off social media.
 
-I was "gone" for about a year, during which I made almost no use of Twitter or Instagram, but I stayed active on Reddit, and I still had access to more than a few feeds and news aggregators, which I paid attention to.
+I was "gone" from social media for about a year, during which I made almost no use of Twitter or Instagram, but I stayed active on Reddit, and I still had access to more than a few feeds and news aggregators, which attended to.
 
-I've spent the last few months slowly culling distraction and interruption from my world a second time, but applying lessons gained from my first pass. 
+I've spent the last few months slowly culling distraction and interruption from my environment a second time, by applying lessons gained from my first pass, and mixing in some new ideas as well.
 
 My efforts to minimize distraction spill across a few domains, but primarily will focus on cutting out distraction when on my computer, and on my phone. Obviously, this is about my approach to these topics. Your milage may vary, as you might not struggle at all with wasting time on digital distractions. Or you'll waste more time on digital distractions.
 
 I'm hoping that somewhere in here, something will be of value to you.
 
 <!--more-->
+
+## On whose terms?
+
+We are entertained by our devices. A cell phone or laptop can help one pass hours and hours of time, but with little good to show for it.
+
+Even when we're "passive consumers" of media, we're being influenced by it. No living thing is _stable_ in any meaningful way - we're shaping and being shaped by the world around us every day.
+
+My rule of thumb is:
+
+> If I'm not shaping something, I'm being shaped by it.
+
+alternatively:
+
+> If I'm not intentional in how I interact with the world around me, my interactions default to those preferred by the counter-party in the interaction.
+
+Facebook/Instagram is a great example.
+
+> If you are not intentional in how you interact with Facebook/Instagram, your interaction is determined by their "user engagement" team.
+
+Engage in the world around you on your terms, or someone elses.
+
+
+
 
 Phone:
 
