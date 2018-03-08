@@ -13,7 +13,7 @@ In late 2016, I [wrote a piece called 'I Quit']({{ site.baseurl }}{% link _posts
 
 I was "gone" for about a year, during which I made almost no use of Twitter or Instagram, but I stayed active on Reddit, and I still had access to more than a few feeds and news aggregators, which I paid attention to.
 
-I've spent the last two months slowly culling distraction and interruption from my world.
+I've spent the last few months slowly culling distraction and interruption from my world a second time, but applying lessons gained from my first pass. 
 
 My efforts to minimize distraction spill across a few domains, but primarily will focus on cutting out distraction when on my computer, and on my phone. Obviously, this is about my approach to these topics. Your milage may vary, as you might not struggle at all with wasting time on digital distractions. Or you'll waste more time on digital distractions.
 
