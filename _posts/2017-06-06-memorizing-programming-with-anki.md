@@ -106,12 +106,33 @@ Still interested? OK.
 
 1. [Download the desktop app here](https://apps.ankiweb.net/).
 2. [Sign up for a new AnkiWeb account here](https://ankiweb.net/account/register)
-3. Download the app. [Android](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) [iPhone](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4)
+3. Download the phone app. [Android](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) [iPhone](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4)
 
 _The iPhone app costs $25. The Android app is free, the iPhone app is not. $25 seems like a lot. The author explains this price [here](https://anki.tenderapp.com/kb/anki-ecosystem/why-does-ankimobile-cost-more-than-a-typical-mobile-app). According to my phone's stats, I've spent 96 hours of active flashcard review time with Anki, which boils down to $0.25/hr. I consider this to be an extremely good use of my time and money. Look for the value, not the cost._
 
 
-Once you have the app on your computer, and the app on your phone, and youv'e created an AnkiWeb account, you're well on your way. Sign into your account on the desktop app and your phone app, and then open up Anki on your computer.
+Once you have the app on your computer, and the app on your phone, and you've created an AnkiWeb account, you're well on your way.
+
+Sign in on your desktop:
+
+<sign in>
+
+Sign in on your phone:
+
+Android:
+- Hamberger menu
+- settings
+- AnkiDroid general settings
+- sign in to account
+
+
+Desktop > Tools > Add-ons > browse and install
+
+https://ankiweb.net/shared/info/162313389
+
+tools > supplementary add-ons > options > enable markdown
+
+
 
 Make a card. On the front put "what is my name". On the "back" put your actual name.
 
@@ -127,6 +148,8 @@ I'd recommend two starting points before proceeding, and a few guiding principle
 
 1. [Install the Markdown package](https://ankiweb.net/shared/info/162313389). Syntax highlighting is gold.
 2. Go slow. I have a cap for ten new cards a day, even if I make twenty flashcards. Experiment with what works for you, but swamping yourself with cards makes it less likely that you'll stick with the tool.
+
+https://cl.ly/472s3u1G2y2D/Screen%20Recording%202018-04-30%20at%2008.51%20PM.gif
 
 Next, read a bunch of these articles below, and go forth and prosper!
 

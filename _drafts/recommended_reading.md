@@ -36,7 +36,7 @@ Finally, I try to avoid reading any book written in the last five years. I don't
 - The Sovereign Individual
 - Displaced homeless people book
 - The Color of Law
-- Money, Banking, and Credit 
+- Money, Banking, and Credit
 
 # Buildings
 
@@ -55,6 +55,13 @@ Finally, I try to avoid reading any book written in the last five years. I don't
 - Roughhousing book
 
 # Relationships
+
+# Money
+
+- your money or your life
+- i will teach you to be rich
+
+# emotional regulation
 
 
 More text

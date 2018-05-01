@@ -46,7 +46,7 @@ Time alone, in your own head, can rightfully be deeply uncomfortable. I posit th
 
 **Our phones help us escape boredom** Discomfort is "bad", but we're obviously expected to never be bored. Boredom can be good. Interesting things come from boredom. [link to resource about why boredom is good]().
 
-If you reframe your view of boredom from something to avoid to something to pursue, this whole smartphone addition thing becomes much more managable.
+If you reframe your view of boredom from something to avoid to something to pursue, this whole smartphone addition thing becomes much more manageable.
 
 **Our phones keep us from actual focus** Focus is sustained mental effort on something that is hard. The ability to maintain mental focus over extended time is a bit of a super power these days. [Deep work]() makes this point abundantly clear.
 
@@ -58,21 +58,27 @@ So, if you're aiming to improve your career, the best way to do this is with sus
 
 Does that annoy you? Great. Get off the platform.
 
-**Our phones will probably play a sadly prominent role in our children's lives** I don't have kids, but when I do, I fear them remembering me always having a phone out. I fear myself always having a phone out. I don't want the dependency. I hate the click-baity everything.
+**Our phones will probably play a sadly prominent role in our children's lives** I don't have kids, but when I do, I fear them remembering me always having a phone out. I fear myself always having a phone out. I don't want my children to expect that when they talk to me, I'll be looking at my phone and listening to them with a fraction of my attention and interest.
 
+Now is when you might think
 
-## Self-control
+> Yeah! I agree! This is all true! I'm going to start using my phone less _right now_!
+
+Don't do that. You're bound to fail. You're at a motivational peak right now, and when you're in a motivational trough (which could happen ten minutes from now, tomorrow, or in a month) you'll immediatly go to using your phone as much as before, you'll just feel guilty about it.
+
+_Don't rely on self control_
+
+## Self-control is an abysmal strategy
 
 Any system that requires _regular_ use of self-control is bound to fail. Self-control is an extremely finite resource, and it's not worth battling a habit with self-control. You might win for a while, and then you'll lose again when you're tired, or hungry, or anxious, or emotionally/mentally compromised in _any_ way.
 
 So, in my mind, if I am trying to make a change to how I live my life, and think it will depend upon my own will-power, I've failed to properly implement the change. _I do not rely on my own willpower, because it is quite unreliable_.
 
-
 So, how do you change phone habits without using self control?
 
 It's easy, and requires three steps:
 
-1. Decide firmly why you want to use your phone less
+1. Decide firmly why you want to use your phone less (we already did this part above)
 2. Determine how much you actually use your phone
 3. Make your phone so boring that even when you're bored, it doesn't have much to offer.
 
@@ -87,7 +93,15 @@ So, install an app that tracks your phone usage, and check it out every few days
 
 Now, let it run in the background and collect data for a week or two. Only then do you have enough of an idea of if you'd like to change your habits or not.
 
+[screenshots of app here]
+
+again, install [android version] for Android, [iphone version] for iPhone. Run it for a week or two. Only then should you move to this last step.
+
 # Make your phone boring
+
+We've established that using _willpower and self-control_ to reduce your phone usage is a poor strategy. By this point you should be installing the "track my usage" apps, and are reading on just for ideas. If you install an app that tracks your usage, and _simultaneously_ reduce your phone usage, you'll get inaccurate data on your own usage, understate the severity of the problem, and abandon the whole thing in a week or two.
+
+So, again, to reduce your usage you need to make your phone a less interesting place to be. For many of us, we lead such anxious, stressed, busy lives and have so little control over ourselves and our environment, our phones are a means of escape. I think instagram is healthier than alcoholism, so if that is your spot, don't just swap out one panacea (phone usage) with another panacea (drinking, TV, any other form of escapism.})
 
 This is a process. Don't go cold turkey and delete all your distracting apps. First, just sprinkle some friction into your phone usage.
 
