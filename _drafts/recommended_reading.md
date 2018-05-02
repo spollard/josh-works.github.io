@@ -55,6 +55,9 @@ Finally, I try to avoid reading any book written in the last five years. I don't
 - Roughhousing book
 
 # Relationships
+- what did you expect?
+- boundaries
+- getting to yes
 
 # Money
 
