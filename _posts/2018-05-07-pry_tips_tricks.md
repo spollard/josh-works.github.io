@@ -2,7 +2,7 @@
 layout: post
 title:  "Pry Tips and Tricks"
 date:  2018-05-07 06:00:00 -0700
-crosspost_to_medium: false
+crosspost_to_medium: true
 categories: [programming]
 tags: [ruby, rails, programming, wombat_security]
 permalink: pry-tips-and-tricks
