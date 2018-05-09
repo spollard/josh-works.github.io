@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby '2.3.0'
+ruby '2.3.3'
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "3.4.3"
