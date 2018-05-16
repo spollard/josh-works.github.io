@@ -5,7 +5,7 @@ date:  2018-05-01 06:00:00 -0700
 crosspost_to_medium: false
 categories: [programming]
 tags: [software_development, growth, career]
-permalink: growing_in_first_software_development_job
+permalink: growing-in-first-software-development-job
 ---
 
 

@@ -5,7 +5,7 @@ date:  2018-02-15 06:00:00 -0700
 crosspost_to_medium: false
 categories: [programming tools]
 tags: [firefox, programming]
-permalink: firefox_toggle_bookmark_bar_keyboard_shortcut
+permalink: firefox-toggle-bookmark-bar-keyboard-shortcut
 ---
 
 A few weeks ago, after [Firefox Quantum](https://www.mozilla.org/en-US/firefox/) came out, I decided to give it a go.

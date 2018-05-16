@@ -5,7 +5,7 @@ date:  2018-05-14 06:00:00 -0700
 crosspost_to_medium: false
 categories: [reading]
 tags: [books, reading]
-permalink: recommended_reading
+permalink: recommended-reading
 ---
 _this is a draft **page** that will be permanent, updated occasionally_
 
