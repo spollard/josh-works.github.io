@@ -65,3 +65,14 @@ pair above with ruby videos?
 We're also 100% remote, so anytime the internet dropped many packets, there would be lag and friction.
 
 All of this is balanced out against the need (for the benefit of the company) for me to get up and fully effective as quickly as possible.
+
+
+If you have input on any of the above, I'd love to hear it! Things like:
+
+- disagreements
+- suggestions
+- things I didn't think about but should
+
+I'll take 'em all!
+
+You can either send me an email at thompsonjoshd@gmail.com, or [create an issue on github for this post](link to github issue for this post, or issues page in general.)
