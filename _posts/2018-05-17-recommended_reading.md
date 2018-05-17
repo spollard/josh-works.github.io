@@ -223,11 +223,15 @@ If you've not encountered such a thing before, take a gander at [5 reasons you n
 
 Its easy to get into the weeds on the finer points of theology. I argue its mostly irrelevant unless it impacts how you live your life.
 
-A personal relationship with Jesus Christ is the most profound relationship you'll ever have. It's also a big ask, that he might actually exist.
+A personal relationship with Jesus Christ is the most profound relationship you'll ever have.
+
+It can seem like a big ask, right, to say that GOD HIMSELF walked around the planet a long time ago, said stuff, did stuff, etc.
+
+It seems like a big ask because it's a really big deal if he did or not. To that end, I recommend the following book:
 
 ### [The Reason for God: Belief in an Age of Skepticism](https://www.goodreads.com/book/show/1858013.The_Reason_for_God)
 
-This is my go-to book for someone who's curious to know more about my crazy beliefs about the world. The author is a pastor of a church in New York City, and does a great job unpacking the core pieces of Christianity, from a range of perspectives, in a way that would lead you to agree that it is internally consistent.
+This is my go-to book for someone who's curious to know more about my crazy beliefs about the world. The author was a pastor of a church in New York City, and does a great job unpacking the core pieces of Christianity, from a range of perspectives, in a way that would lead you to agree that it is internally consistent, and is respectful to the perspectives of skeptical people.
 
 By "internally consistent", I mean that if you are comfortable with a small number of starting assumptions, the implications of those assumptions are reasonable. One of those starting assumptions (indeed, the only important one) is:
 
