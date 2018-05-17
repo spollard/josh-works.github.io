@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Recommended Reading"
-date:  2018-05-16 06:00:00 -0700
+date:  2018-05-17 06:00:00 -0700
 crosspost_to_medium: false
 categories: [reading]
 tags: [books, reading]
@@ -227,7 +227,7 @@ Its easy to get into the weeds on the finer points of theology. I argue its most
 
 A personal relationship with Jesus Christ is the most profound relationship you'll ever have. It's also a big ask, that he might actually exist.
 
-### [The Reason for God](https://www.goodreads.com/book/show/1858013.The_Reason_for_God)
+### [The Reason for God: Belief in an Age of Skepticism](https://www.goodreads.com/book/show/1858013.The_Reason_for_God)
 
 This is my go-to book for someone who's curious to know more about my crazy beliefs about the world. The author is a pastor of a church in New York City, and does a great job unpacking the core pieces of Christianity, from a range of perspectives, in a way that would lead you to agree that it is internally consistent.
 
@@ -305,14 +305,14 @@ Most of the books in this section are written by Christians, and adopt a christi
 
 > All people are broken and selfish, and it's mostly fruitless to try to repair relationships with others and ourselves entirely independent of our relationship with God.
 
-
+(I don't make much effort to detangle my relationships from my theology, so you might want to [read that section](#theology) before proceeding.)
 
 
 ### [What Did You Expect?: Redeeming the Realities of Marriage](https://www.goodreads.com/book/show/7350849-what-did-you-expect)
 
 This is a book written to Christians. If you're a Christian, and married, I strongly recommend this.
 
-If you're not a Christian, go read [The Reason for God](https://www.goodreads.com/book/show/1858013.The_Reason_for_God) (recommended above), and then read this book.
+If you're not a Christian, go read [The Reason for God](#the-reason-for-god-belief-in-an-age-of-skepticism) (recommended above), and then read this book.
 
 Marriage is hard. Two broken sinners married each other, and live in a fallen world. Any illusions of perfection and endless honeymoon period will quickly be crushed under the reality of our own sinfulness.
 
