@@ -110,7 +110,7 @@ This project pulls together a few different skill sets, only two of which I've h
 
 [My own thinking is severely limited]({{ site.baseurl }}{% link _posts/2015-11-05-limitations-of-my-own-thinking.md %}), and the best way to learn to think better is to learn from those who think clearly.
 
-Wise men and women pour themselves into writing a good book, which you can consume for mostly-free, and a few hours of your time. Books are doors into other people's heads and hearts, or into entirely new worlds. I cannot state concisely all the reasons that I think you should read, but [here's a good starting point]({{ site.baseurl }}{% link _posts/2016-03-31-everything-i-do-and-think-ive-read-in-a-book-or-exploring-the-relationship-between-books-and-money.md %}).
+Wise men and women pour themselves into writing a good book, which you can consume for mostly-free, and a few hours of your time. Books are doors into other people's heads and hearts, or into entirely new worlds. I cannot state concisely all the reasons that I think you should read, but [here's a list of books I most commonly recommend to others]({{ site.baseurl }}{% link _posts/2018-05-17-recommended_reading.md %}).
 
 Oh, and I use a Kindle. [I think you should too]({{ site.baseurl }}{% link _posts/2013-07-22-why-i-use-a-kindle.md %}), but whatever it takes to help you read is fine with me.
 
