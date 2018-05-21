@@ -8,11 +8,10 @@ tags: [books, reading]
 permalink: recommended-reading
 ---
 
-I like to read, and I often often making book recommendations to others.
+I like to read, and I often recommend books to others.
 
 The recommendations below are entirely non-fiction, but have provided great value to me in very specific ways.
 
-I mention some books "pair well" with other books, just as certain wines pair well with a certain foods. The ideas contained within certain books may compliment (or contrast) the ideas listed in the "pairs with" book.
 
 I've got ~30 book recommendations grouped into following categories:
 
@@ -25,6 +24,7 @@ I've got ~30 book recommendations grouped into following categories:
 - [Money](#money)
 - [Uncomfortable books](#uncomfortable-books)
 
+I mention some books "pair well" with other books, just as certain wines pair well with a certain foods. The ideas contained within certain books may compliment (or contrast) the ideas listed in the "pairs with" book.
 <!--more-->
 
 # Thinking Well
