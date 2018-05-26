@@ -2,13 +2,13 @@
 layout: post
 title:  "Mocks & Stubs & Exceptions in Ruby"
 date:  2018-05-26 06:00:00 -0700
-crosspost_to_medium: false
+crosspost_to_medium: true
 categories: [programming]
 tags: [ruby, rails, testing]
 permalink: mocks-stubs-exceptions-ruby
 ---
 
-Some of my recent work at Wombat has been around improving error handling and logging.
+Some of my recent work has been around improving error handling and logging.
 
 We had some tasks that, if they failed to execute correctly, were _supposed_ to raise exceptions, log themselves, and re-queue, but they were not.
 
