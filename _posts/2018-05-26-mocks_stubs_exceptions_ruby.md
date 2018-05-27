@@ -26,6 +26,7 @@ This project took me through:
 - raising exceptions
 - rescuing exceptions
 - testing all of the above
+<!--more-->
 
 # What are mocks and stubs?
 
@@ -44,7 +45,6 @@ I decided to make up this `service` and `connection` class.
 
 Imagine I want to connect to a few different third-party services. I'll have a `connection` class into which I can pass a third-party service "object", and it should "connect".
 
-<!--more-->
 
 I will assume I can call `third_party_service.status` and get back `200`, `404`, `504`, etc.
 
