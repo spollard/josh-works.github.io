@@ -4,7 +4,7 @@ title:  "I Quit, Again."
 date:  2017-12-26 06:00:00 -0700
 crosspost_to_medium: false
 categories: [growth, news, habits]
-tags: [reading, curiosity, habits]
+tags: [reading, curiosity, habits, phone_usage]
 permalink: i-quit-again
 ---
 
