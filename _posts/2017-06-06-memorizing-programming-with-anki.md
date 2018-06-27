@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On Memorization with Spaced Repetition"
+title:  "Anki and Memorization with Spaced Repetition Software"
 date:   17-06-06 06:18:52 -0600
 categories: programming learning
 tags: [programming, learning, turing, anki, phone_usage]
@@ -24,11 +24,11 @@ TODO: modify index to include ['installation', 'configuration', 'building good f
 
 Anki has been one of my favorite tools I've encountered in the last few years. I started using it initially for learning Spanish vocabulary, but as I started learning programming, it really started to shine.
 
-Anki is a flashcard application that makes use of the concept of "memory decay" to retain and strengthen recall of anything you want.
+Anki is a flashcard application that attacks the issue of "memory decay" to retain and strengthen recall of anything you want.
 
 ### Spaced Repetition Software
 
-If you learn something today, you might remember it tomorrow, but will probably forget it in three or four days. However, if you review it before you forget it, it'll "stick" in your head for another five or six days.
+If you learn something today, you might remember it tomorrow, but will probably forget it in three or four days. However, if you review it before you forget it, it'll "stick" in your head for a bit longer than it did the first time you learned it. This "forgetting curve" can be bent exponentially in your favor. 
 
 Here's how remembering (and forgetting) over time tends to play out:
 
@@ -39,7 +39,7 @@ The goal here is to create relevant, well-formatted bits of knowledge, and then 
 <!--more-->
 
 
-TODO: update this picture to show whole desktop>
+TODO: update this picture to show whole desktop
 
 ![Anki's unassuming UI](/images/17-05-16-anki.jpg "Anki's unassuming user interface")
 
@@ -57,21 +57,22 @@ the answer is:
 
 `if user = User.from_omniauth(request.env["omniauth.auth"])`
 
-And I prefer easy flashcards (more work to make, less to memorize) than difficult flashcards.
+And I prefer easy flashcards (more work to make, less difficult to recall) than difficult flashcards.
 
 For Anki's basics, go check out this excellent guide: [Spaced Repetition](https://www.fluentin3months.com/spaced-repetition/).
 
-I put all sorts of information in Anki. At the moment I have about <strike>850</strike> 950 programming-related cards, which covers _many_ topics related to software development. 
+I put all sorts of information in Anki. At the moment I have about <strike>850</strike> 1200+ programming-related cards, which covers _many_ topics related to software development. 
 
 I've got cards related to:
 
-- Ruby and Rails, of course, 
-- Github
-- iTerm & Atom usage/shortcuts
-- Regular Expressions 
-- SQL 
-- RSpec/minitest, 
+- Ruby and Rails 
 - Linux terminal commands and their options, like `grep` and `xargs`
+- Git/Github
+- JavaScript
+- HTML/CSS
+- SQL
+- Regular Expressions 
+- iTerm & Atom keyboard shortcuts
 
 I am confident that I have _not_ found the ideal workflow around creating and memorizing Anki cards. I'm still trying to improve this process, but the benefit of using Anki far outweighs for me any cost of having less-than-perfect cards.
 
@@ -90,23 +91,33 @@ According to [PhoneUsage]({{ site.baseurl }}{% link _posts/2016-07-04-three-andr
 
 ## Two primary benefits
 
-Why pour all this time into making and memorizing notecards? More importantly, if you're on the fence about taking the plunge with Anki, why should you carve our your valuable and scarce time and resources to do flashcards?
+> Cool, Josh, all this sounds nice, but it is a lot of work, especially to spend 30 minutes or an hour every day building and reviewing note cards. I'm busy, and if I'm learning programming, I'll be even more busy than I am now. 
+>
+> Why is Anki better than just studying a topic more?
 
 ### 1. The process of recalling answers from memory solidifies subtle-but-important details
 
 There are lots of small-but-meaningful details we encounter when trying to make computers do our bidding. 
 
-The presence of a comma in a list of arguments, or if a method is a class or instance method, or if that `git reset` command uses `-hard` or `--hard` as an argument - these all can introduce tiny bits of friction in our goals. I see a lot of what I am memorizing as not necessarily just learning _new_ things, but making sure that the things I _have_ learned, I know very well. 
+The presence of a comma in a list of arguments, or if a method is a class or instance method, or if that `git reset` command uses `--HARD` as an argument - these all can introduce tiny bits of friction in our goals. I see a lot of what I am memorizing as not necessarily just learning _new_ things, but making sure that the things I _have_ learned, I know very well. 
 
 For example, if you're not sure how the params of a `post` request are formatted, once you've built and memorized a few cards related to this formatting, you can better access elements in that hash because you already know the basic structure to expect.
 
+Alternatively, are you 100% sure of the format for building a `.reduce` iterator? What's the difference between `[].reduce() do |result, item|` and `[].reduce({}) do |result, item|`? With a few note cards on building/using the `reduce` method, you'll spot the difference immediately, and know how to reason about it. 
+
+These are _subtle but important details_. Remember - computers are not that smart, they're just extremely literal. Details make or break everything you build. 
+
 ### 2. This memorization functions as a progress-capture device for new things you learn
 
-How often do you use a method, or try to implement a basic feature, and you are _positive_ you've encountered the topic before, but cannot remember what you actually did?
+How often do you use a new method, or try to implement a basic feature, and you are _positive_ you've encountered the topic before, but cannot remember what you actually did?
 
 You're off to the docs, or looking at previous projects, until you refresh your memory.
 
 This is fine, and even with Anki you'll be regularly referencing documentation and prior code, but you'll do it much less, because so much of what you've seen before you've memorized. It's just sitting in your brain, ready to be used again.
+
+Sometimes, even though I've memorized cards, I cannot quite reproduce the whole chunk of knowledge from scratch, so I just open up the deck and find the card that relates to the thing I'm trying to do. It's a bit like keeping detailed notes and always knowing exactly where to find the relevant information for what you're looking for. 
+
+Or, that one time I had to rename a branch in Git - what was the exact syntax for pushing the deleted branch? Did I actually _rename_ the branch, or did I use the `git branch -m` command to create a _new_ branch? (hint - the next step is `git push origin :old_branch_name`, then push the new one with `git push origin --set-upstream origin new_branch`. I just opened up Anki to check the steps. Super simple.)
 
 # Installing Anki 
 
@@ -114,9 +125,89 @@ TODO: Have Kristi test-drive a draft of this article, make sure she gets a sampl
 
 [Download the desktop app here](https://apps.ankiweb.net/).
 
-[Sign up for a new AnkiWeb account here](https://ankiweb.net/account/register)
+Lets hop into the application and make our first note card. 
 
-# Configuring Anki on your computer
+# Getting started: Your first card
+
+Make a new deck. Call it "programming" or "test deck" or whatever. Now click the "new card" button. 
+
+In the box labeled "front", put "what is my name". On the "back" put your actual name. Or perhaps a more relevant question, like: 
+
+```
+Front: "Who writes the most long-winded and rambling blog posts in the world, and embarrassingly, refers to himself in the third person every now and again?"
+
+Back: "Josh Thompson"
+```
+
+Make two or three cards. It will be easiest to see how Anki works with more than one card in the deck.
+
+Now, lets review your cards. Hit the "Study now" button, and think hard about the answer to the first card.
+
+For purposes of explanation, lets say you cannot remember either your name or my name. Admit defeat, and click the "show answer" button.
+
+Since you couldn't remember, click the left-most button on the bottom, that says `<10m, Again`.
+
+This button is how you signal to Anki that you didn't know the answer, and the card will immediately be re-queued for you to study within the next ten minutes.
+
+Once you click the button, the next card will show up. Lets say you _do_ know the answer to this question. Click "show answer", and then click the button labeled "good". 
+
+You've got three options when you've recalled the right answer. They are labeled "hard", "good", and "easy". Depending on which one you click, the time that will elapse between now and when you see the card again will change.
+
+If the answer was hard for you, you want to see the card again soon. If it was easy, you'd like it to be a longer period of time before seeing it again. 
+
+Depending on how many times you've reviewed the card, the time intervals associated with the card will change.
+
+Here's the intervals I am seeing on some of the cards I've reviewed today:
+
+![forty day range](/images/2018-06-27_memorizing_programming_01.jpg "a range of a month")
+
+If I click the "Hard" button, I'll see it again in 20 days. If I click easy, I'll see it in almost 60 days. 
+
+I tend to click the default "good" button, and thats what I did with this one.
+
+Here's another, older card, where I can decide if I want to see it again in six months, 11 months, or 14 months:
+
+![seven month range](/images/2018-06-27_memorizing_programming_03.jpg)
+
+You'll get a feel for how this works, and what are the best answers for you, as you go. 
+
+The next step is to hook up Anki and your phone
+
+## Configure Anki on your phone
+
+Since you'll be _building_ cards on your computer, but most likely _reviewing_ them on your phone, we'll go ahead and get Anki working on your phone. 
+
+Download the phone app: 
+- [Anki for Android](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en)
+- [Anki for iPhone](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4)
+
+_The iPhone app costs $25. The Android app is free, the iPhone app is not. $25 seems like a lot. The author explains this price [here](https://anki.tenderapp.com/kb/anki-ecosystem/why-does-ankimobile-cost-more-than-a-typical-mobile-app). According to my phone's stats, I've spent 96 hours of active flashcard review time with Anki at the time of this writing, which boils down to $0.25/hr. I consider this to be an extremely good use of my time and money. Look for the value, not the cost._
+
+### Create an AnkiWeb account
+
+- [Sign up for a new AnkiWeb account here](https://ankiweb.net/account/register)
+- Sign into your AnkiWeb account on the desktop Anki application
+
+<sign in, need pictures from different account>
+
+Next, sign in on the phone application. For Android, you'll do the following:
+
+ - Tap the hamburger menu > Settings > AnkiDroid general settings > Sign In to account
+ 
+ Now, in the desktop application, hit the "sync" button:
+ 
+ ![Sync Desktop app with AnkiWeb](/images/2018-06-27_memorizing_programming_04.jpg "sync desktop with Anki Web")
+ 
+ And do the same on your phone:
+ 
+ <phone screenshot here>
+ 
+ And you should see the info from your desktop showing up on your phone! 
+
+_Take a deep breath. This is a big accomplishment, and you're most of the way done with getting configured on Anki!_
+
+
+## Markdown and Anki
 
 Since we're doing _programming_ related flash cards, and one of the first rules of formulating knowledge is "specificity", we want code snippets in Anki to look like code snippets on our computer. 
 
@@ -191,40 +282,6 @@ TODO: Explain using Annotate.app
 ![Anki card to learn some markdown](/images/2018-06-03_memorizing_programming_05.jpg)
 
 What makes text `formatted and fixed-width`
-
-
-
-
-# Configure Anki on your phone
-
-Download the phone app. [Android](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) [iPhone](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4)
-
-_The iPhone app costs $25. The Android app is free, the iPhone app is not. $25 seems like a lot. The author explains this price [here](https://anki.tenderapp.com/kb/anki-ecosystem/why-does-ankimobile-cost-more-than-a-typical-mobile-app). According to my phone's stats, I've spent 96 hours of active flashcard review time with Anki, which boils down to $0.25/hr. I consider this to be an extremely good use of my time and money. Look for the value, not the cost._
-
-Sign in on your desktop:
-
-<sign in>
-
-Sign in on your phone:
-
-Android:
-- Hamberger menu
-- settings
-- AnkiDroid general settings
-- sign in to account
-
-
-# Getting started: Your first card
-
-Make a card. On the front put "what is my name". On the "back" put your actual name.
-
-Hit the sync button, and then sync the app on your phone, and make sure the card shows up.
-
-Once you've got that, you can review the card. Assuming you get it right, you'll see it only twice on the first day.
-
-Make another card, experiment with giving the "wrong" answer.
-
-Assuming all is running well, you're now able to start adding real life cards to your Anki deck.
 
 
 # Building programming-related flashcards!
