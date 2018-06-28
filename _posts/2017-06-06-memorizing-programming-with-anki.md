@@ -17,10 +17,13 @@ TODO: modify index to include ['installation', 'configuration', 'building good f
 
 1. [What is Anki, and Spaced Repetition Software?](#anki-srs)
 1. [Why would you use it?](#two-primary-benefits)
-1. [How do you get started with it?](#getting-started-your-first-card)
+1. [Getting started: Your first card](#getting-started-your-first-card)
+1. [Configure Anki on your phone](#configure-anki-on-your-phone)
+1. [Markdown and Anki](#markdown-and-anki)
+1. [Building a good first programming-related flashcard](#building-programming-related-flashcards)
 
 
-# Anki SRS
+# Anki Spaced Repetition Software
 
 Anki has been one of my favorite tools I've encountered in the last few years. I started using it initially for learning Spanish vocabulary, but as I started learning programming, it really started to shine.
 
@@ -133,11 +136,14 @@ Make a new deck. Call it "programming" or "test deck" or whatever. Now click the
 
 In the box labeled "front", put "what is my name". On the "back" put your actual name. Or perhaps a more relevant question, like: 
 
-```
-Front: "Who writes the most long-winded and rambling blog posts in the world, and embarrassingly, refers to himself in the third person every now and again?"
 
-Back: "Josh Thompson"
-```
+Front: 
+> Who writes the most long-winded and rambling blog posts in the world, and embarrassingly refers to himself in the third person every now and again?
+
+Back: 
+
+> Josh Thompson
+
 
 Make two or three cards. It will be easiest to see how Anki works with more than one card in the deck.
 
@@ -159,9 +165,9 @@ Depending on how many times you've reviewed the card, the time intervals associa
 
 Here's the intervals I am seeing on some of the cards I've reviewed today:
 
-![forty day range](/images/2018-06-27_memorizing_programming_01.jpg "a range of a month")
+![forty day range](/images/2018-06-28_memorizing_programming_01.jpg "a range of a month")
 
-If I click the "Hard" button, I'll see it again in 20 days. If I click easy, I'll see it in almost 60 days. 
+If I click the "Hard" button, I'll see it again in 12 days. If I click easy, I'll see it in almost 29 days. 
 
 I tend to click the default "good" button, and thats what I did with this one.
 
@@ -183,24 +189,33 @@ Download the phone app:
 
 _The iPhone app costs $25. The Android app is free, the iPhone app is not. $25 seems like a lot. The author explains this price [here](https://anki.tenderapp.com/kb/anki-ecosystem/why-does-ankimobile-cost-more-than-a-typical-mobile-app). According to my phone's stats, I've spent 96 hours of active flashcard review time with Anki at the time of this writing, which boils down to $0.25/hr. I consider this to be an extremely good use of my time and money. Look for the value, not the cost._
 
-### Create an AnkiWeb account
+### Create/sign in to your AnkiWeb account
 
-- [Sign up for a new AnkiWeb account here](https://ankiweb.net/account/register)
-- Sign into your AnkiWeb account on the desktop Anki application
+#### 1. [Sign up for a new AnkiWeb account](https://ankiweb.net/account/register)
+
+#### 2. Sign into your AnkiWeb account on the desktop Anki application
+
+_get screenshot of what it looks like not signed in to an account_
+
+In the desktop application, hit the "sync" button:
+
+![Sync Desktop app with AnkiWeb](/images/2018-06-27_memorizing_programming_04.jpg "sync desktop with Anki Web")
+
+#### 3. Sign in on the phone application. 
+
+For Android, you'll the following, in this order:
+
+
+- Tap the hamburger menu
+- Tap "Settings"
+- Tap "AnkiDroid general settings"
+- Tap "Sign In to account"
 
 <sign in, need pictures from different account>
 
-Next, sign in on the phone application. For Android, you'll do the following:
-
- - Tap the hamburger menu > Settings > AnkiDroid general settings > Sign In to account
+Now hit the "Sync" button on your phone:
  
- Now, in the desktop application, hit the "sync" button:
- 
- ![Sync Desktop app with AnkiWeb](/images/2018-06-27_memorizing_programming_04.jpg "sync desktop with Anki Web")
- 
- And do the same on your phone:
- 
- <phone screenshot here>
+ _phone screenshot here_
  
  And you should see the info from your desktop showing up on your phone! 
 
@@ -211,7 +226,7 @@ _Take a deep breath. This is a big accomplishment, and you're most of the way do
 
 Since we're doing _programming_ related flash cards, and one of the first rules of formulating knowledge is "specificity", we want code snippets in Anki to look like code snippets on our computer. 
 
-Lets say you want to make an Anki flashcard related to this chunk of code:
+Lets say you want to make an Anki flashcard related to the placement of this `begin` and `rescue` in this chunk of code:
 
 ![code snippet](/images/2018-06-03_memorizing_programming_01.jpg "a picture of some code")
 
@@ -225,31 +240,45 @@ Option two:
 
 ![more effective code](/images/2018-06-03_memorizing_programming_03.jpg "a more-effective format")
 
-The second option is much, much more readable and understandable. To format your code like this, you'll need to install (and use) a Markdown package. 
+The second option is much, much more readable and understandable. 
+
+To format your code like this, you'll need to install (and use) a Markdown package. 
 
 ## Install Markdown Package
 
-[Install the Markdown package](https://ankiweb.net/shared/info/162313389). Syntax highlighting is gold.
+We will be using this [markdown package](https://ankiweb.net/shared/info/162313389). 
+
+#### 1. Add the Markdown package to Anki
+
+Navigate through the following menu, and entering the number `162313389` when it's requested. (The number is the end of the URL of the package we want.)
 
 `Desktop > Tools > Add-ons > browse and install`
 
-https://ankiweb.net/shared/info/162313389
+![How to add packages](/images/2018-06-28_memorizing_programming_02.jpg "How to add packages")
 
-Restart Anki, per the instructions
+When you click the `Browse & Install` button, just enter `162313389`
 
-`tools > supplementary add-ons > options > enable markdown`
+![adding the markdown add-on](/images/2018-06-28_memorizing_programming_03.jpg "adding the markdown add-on")
 
-Restart Anki again?
+#### 2. Restart Anki, per the instructions
+
+#### 3. Enable the new Markdown package
+
+Check the "Enable Markdown" button. (It's very buried):
+
+`Tools > Power Format Pack add-on (options) > Options > Markdown > Enable Markdown`
+
+#### 4. Restart Anki again
 
 Now, open up the "make a new card" user interface, and on the far right side, you should have an `M` visible to you:
 
 ![Markdown Package, ready to go!](/images/2018-06-03_memorizing_programming_04.jpg "the Markdown package is ready to go!")
 
-If you can see that `M`, you're ready to go. 
+If you can see that `M`, you're ready to go. This means you can write in markdown, hit the `M`, and it'll get that beautiful Markdown formatting. 
 
 ## Using the Markdown package
 
-Markdown is great. I use it constantly. In fact, this entire post is written in Markdown. 
+Markdown is great. I use it constantly. In fact, this entire post is composed in Markdown - all of my text formatting, code blocks, links, and images are written in Markdown.
 
 If you don't know Markdown, _you can ease into using Anki by learning to use Markdown_. 
 
@@ -263,7 +292,7 @@ TODO: Screenshot slack conversation about `env` files:
 
 Imagine a card like "what does Array.sort do?"
 
-You can draw a little more attention to the specifics of the question (it's about an Array, and it's a class method!) by using:
+You can draw a little more attention to the specifics of the question (it's about an Array, and it's an instance method!) by using:
 
 > What does Array::sort do?
 
@@ -283,17 +312,72 @@ TODO: Explain using Annotate.app
 
 What makes text `formatted and fixed-width`
 
+Make a few more cards. For example, figure out how to make a large block of pre-formatted text, or give a block of code langage-specific syntax highlighting. 
 
 # Building programming-related flashcards!
 
-Wahoo! You've made it! The end goal is in sight!
+Wahoo! You've almost made it! The end goal is in sight!
 
 
-I'd recommend two starting points before proceeding, and a few guiding principles:
+I'd recommend keeping two points in mind before proceeding:
 
-2. Go slow. I have a cap for ten new cards a day, even if I make twenty flashcards. Experiment with what works for you, but swamping yourself with cards makes it less likely that you'll stick with the tool.
+1. Go slow. I have a cap for ten new cards a day, even if I make twenty flashcards. Experiment with what works for you, but swamping yourself with cards makes it less likely that you'll stick with the tool.
 
 https://cl.ly/472s3u1G2y2D/Screen%20Recording%202018-04-30%20at%2008.51%20PM.gif
+
+2. Build multiple cards around each discrete piece of knowledge you want to acquire. 
+
+If you want to remind yourself of how to use `.map` in Anki, make three or five different flashcards, testing it from different directions.
+
+For example, card 1 might be:
+
+Front:
+```
+What method can I call on an array to iterate through each item, 
+and it returns the mutated array?
+```
+Back:
+```
+Array.map
+```
+
+Card 2:
+
+front: 
+```
+what do I call to add 1 to each number?
+```
+```ruby
+[1, 2, 3].? do |num|
+  num + 1
+end
+```
+back:
+```ruby
+[1, 2, 3].map do |num|
+  num + 1
+end
+
+=> [2, 3, 4]
+```
+
+Card 3:
+
+Front:
+
+```
+letters = ['lkj', 'kwidk', 'wwid888']
+
+What's a one-liner to make all above letters capitalized, so that:
+
+big_letters = ["LKJ", "KWIDK", "WWID888"]
+```
+Back:
+
+```ruby
+big_letters = letters.map { |w| w.upcase }
+=> ["LKJ", "KWIDK", "WWID888"]
+```
 
 Next, read a bunch of these articles below, and go forth and prosper!
 
