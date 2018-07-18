@@ -20,6 +20,8 @@ TODO: modify index to include ['installation', 'configuration', 'building good f
 1. [Getting started: Your first card](#getting-started-your-first-card)
 1. [Configure Anki on your phone](#configure-anki-on-your-phone)
 1. [Markdown and Anki](#markdown-and-anki)
+1. [Install Markdown Package](#install-markdown-package)
+1. [Using the Markdown package](#using-the-markdown-package)
 1. [Building a good first programming-related flashcard](#building-programming-related-flashcards)
 
 
@@ -90,7 +92,7 @@ I normally hate to be the person staring at his phone all day, but since I'm usu
 
 TODO check following URL: 
 
-According to [PhoneUsage]({{ site.baseurl }}{% link _posts/2016-07-04-three-android-apps-i-use-every-day-and-maybe-youll-use-them-too.md#phone-usage-dont-waste-your-life %} ) I spend between 30 and 45 minutes on Anki review per day, and it's all in little snippets of time grabbed here and there.
+According to [PhoneUsage](https://play.google.com/store/apps/details?id=pt.aguiar.phoneusage) I spend between 30 and 45 minutes on Anki review per day, and it's all in little snippets of time grabbed here and there. ([a bit about how I manage my phone usage every day here]({{ site.baseurl }}{% link _posts/2016-07-04-three-android-apps-i-use-every-day-and-maybe-youll-use-them-too.md %}))
 
 ## Two primary benefits
 
