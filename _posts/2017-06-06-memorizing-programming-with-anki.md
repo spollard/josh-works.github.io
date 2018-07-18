@@ -13,8 +13,6 @@ I've not been able to find any comprehensive guides to using Anki to learn _prog
 
 We'll cover a few pieces:
 
-TODO: modify index to include ['installation', 'configuration', 'building good flashcards']
-
 1. [What is Anki, and Spaced Repetition Software?](#anki-srs)
 1. [Why would you use it?](#two-primary-benefits)
 1. [Getting started: Your first card](#getting-started-your-first-card)
@@ -44,15 +42,12 @@ The goal here is to create relevant, well-formatted bits of knowledge, and then 
 <!--more-->
 
 
-TODO: update this picture to show whole desktop
-
 ![Anki's unassuming UI](/images/17-05-16-anki.jpg "Anki's unassuming user interface")
 
 On first blush, Anki has an unassuming user interface. 
 
 Continuing the example from [learning how to learn](/learning-how-to-learn), here's the 'front' of one of my flashcards:
 
-TODO: expand screenshot to show entire desktop.
 
 ![Anki card for using OmniAuth to manage user session](/images/17-05-16-anki_1.jpg)
 
@@ -90,8 +85,6 @@ I can review my Anki cards anywhere. In line at the grocery store, in the bathro
 
 I normally hate to be the person staring at his phone all day, but since I'm usually on Anki, I now embrace it.
 
-TODO check following URL: 
-
 According to [PhoneUsage](https://play.google.com/store/apps/details?id=pt.aguiar.phoneusage) I spend between 30 and 45 minutes on Anki review per day, and it's all in little snippets of time grabbed here and there. ([a bit about how I manage my phone usage every day here]({{ site.baseurl }}{% link _posts/2016-07-04-three-android-apps-i-use-every-day-and-maybe-youll-use-them-too.md %}))
 
 ## Two primary benefits
@@ -125,8 +118,6 @@ Sometimes, even though I've memorized cards, I cannot quite reproduce the whole 
 Or, that one time I had to rename a branch in Git - what was the exact syntax for pushing the deleted branch? Did I actually _rename_ the branch, or did I use the `git branch -m` command to create a _new_ branch? (hint - the next step is `git push origin :old_branch_name`, then push the new one with `git push origin --set-upstream origin new_branch`. I just opened up Anki to check the steps. Super simple.)
 
 # Installing Anki 
-
-TODO: Have Kristi test-drive a draft of this article, make sure she gets a sample card set up, AND makes a mark-down formatted card. 
 
 [Download the desktop app here](https://apps.ankiweb.net/).
 
@@ -288,11 +279,22 @@ Let's start with something basic - using fixed-width color offset to draw attent
 
 ### Backticks to make text `formatted and fixed-width`
 
-TODO: Screenshot slack conversation about `env` files:
+"Visual hierarchy" is a huge way to help the human eye differentiate the important from the unimportant, or between things of different types. 
 
-> Question - what value do you use for `SIDEKIQ_PORT` in your `config/env`?
+Here's two was to write the same question. This is a question I asked someone on my team recently:
 
-Imagine a card like "what does Array.sort do?"
+
+> what value do you use for SIDEKIQ_PORT in config/application.yml?
+
+Compare that with:
+
+> what value do you use for `SIDEKIQ_PORT` in `config/application.yml`?
+
+The one with the text formatting is easier to understand. Lets extend this principle to building programming-related flashcards.
+
+Imagine an Anki card that says:
+
+> what does array.sort do?
 
 You can draw a little more attention to the specifics of the question (it's about an Array, and it's an instance method!) by using:
 
@@ -308,9 +310,8 @@ So, to off-set text like that, you just "wrap" it in backticks, the key to the l
 
 So, make a card like this in Anki:
 
-TODO: Explain using Annotate.app
 
-![Anki card to learn some markdown](/images/2018-06-03_memorizing_programming_05.jpg)
+![Anki card to learn some markdown](/images/2018-06-03_memorizing_programming_anki_05.jpg)
 
 What makes text `formatted and fixed-width`
 
@@ -323,11 +324,15 @@ Wahoo! You've almost made it! The end goal is in sight!
 
 I'd recommend keeping two points in mind before proceeding:
 
-1. Go slow. I have a cap for ten new cards a day, even if I make twenty flashcards. Experiment with what works for you, but swamping yourself with cards makes it less likely that you'll stick with the tool.
+#### 1. Go slow
 
-https://cl.ly/472s3u1G2y2D/Screen%20Recording%202018-04-30%20at%2008.51%20PM.gif
+I have a cap for ten new cards a day, even if I make twenty flashcards. Experiment with what works for you, but swamping yourself with cards makes it less likely that you'll stick with the tool.
 
-2. Build multiple cards around each discrete piece of knowledge you want to acquire. 
+Here's how to set the maximum number of new cards a day. I would set it to about seven:
+
+![seven new cards/day](/images/anki_set_new_card_limit.gif)
+
+#### 2. Build multiple cards around each discrete piece of knowledge you want to acquire. 
 
 If you want to remind yourself of how to use `.map` in Anki, make three or five different flashcards, testing it from different directions.
 
@@ -382,6 +387,8 @@ big_letters = letters.map { |w| w.upcase }
 ```
 
 Next, read a bunch of these articles below, and go forth and prosper!
+
+Oh, and if you're like me and love using _screenshots_ in Anki, go for it! I use [Annotate.app](https://itunes.apple.com/us/app/annotate-capture-and-share/id918207447?mt=12), but any tool will work. Make your screenshot, and drag it into Anki, and it'll be ready to use. 
 
 
 ### Resources on Memorization
