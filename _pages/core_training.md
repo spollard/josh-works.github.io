@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Core Training for Climbers
-permalink: /core-training/
+permalink: core-training
 ---
 
 
