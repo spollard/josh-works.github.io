@@ -211,6 +211,32 @@ The reason I'm doing this is because all my tests are passing, _without the side
 
 Everything to this point is on commit `38f5750`, if you're following along. 
 
+OK, so, Sidekiq is queuing the job as I'd expect it to, even though it's not doing anything. test another class that uses this worker!
+
+I've got it working. I spent an embarrassing amount of time "troubleshooting" why my worker wasn't doing what I thought it should do. Turns out _you need to restart sidekiq if you change a sidekiq job_. Maybe this isn't always true, but if you're saying "why isn't <new thing> showing up in sidekiq?", just restart sidekiq. 
+
+So, now I'm doing the job that I expect.
+
+## Watching Redis
+
+I want to make sure that this stuff is getting in and out of Redis as expected. to 
+
+use `redis-server` to start redis running. It's pretty boring to watch, and doesn't show you any information about data placed in/out of it, so not that helpful.
+
+Once you have `redis-server` running, you can run (in another terminal tab) `redis-cli monitor`, which dumps you into something that prints a TON of logs when it's not doing anything. 
+
+I found the signal-to-noise ratio of `redis-cli monitor` to make it near-useless. What we care about in Redis are `hset`, and `lpush`. Maybe more, but this is sufficient for finding what I want.
+
+So, once you've got redis running, to watch the logs for JUST `hset`s and `lpush`es, run: 
+
+`redis-cli monitor | grep -E ' "(hset|lpush)" '`
+
+- [redis docs for `hset`](https://redis.io/commands/hset)
+- [redis docs for `lpush`](https://redis.io/commands/lpush)
+
+Gif of differences
+
+talk about running redis-server as background process (`redis-server &`)
 
 ### To do, later
 
