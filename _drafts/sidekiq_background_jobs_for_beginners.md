@@ -22,9 +22,9 @@ I went back to Turing! I found the [background jobs lesson](http://backend.turin
 
 I very much enjoy seeing evidence of things working "under the hood", rather than just accepting that `BackgroundWorker.perform_later(foo.id)` works differently than `BackgroundWorker.new.perform(foo.id)`, etc. So, this post will focus not as much on _using_ Sidekiq, but _seeing that it's working_. 
 
-I worked through the tutorial, and now want to dig a bit deeper. 
-
 If you want to follow along, do the above tutorial. [This is what my repo looks like right now](https://github.com/josh-works/turing_sidekiq_tutorial/tree/eb5ef7eb34f8baefab9d763c469d9917c09c7d3f). I'll recap most of what's in the tutorial.
+
+--------------------
 
 To run the app, using multiple terminal tabs as needed:
 
@@ -33,10 +33,6 @@ redis-server
 mailcatcher
 rails s
 ```
-
-First thing to note is in the `MailersController`, we have
-
-(Later, we'll cover using `foreman` to manage all this.)
 
 OK, the app is working. Navigate to localhost:3000, and you should see Missy Elliot in all her glory.
 
@@ -77,7 +73,7 @@ end
 
 ### Make the test
 
-![tdd](https://imgflip.com/i/2eoan3)
+
 
 Since much of the point of this post is figuring out how to test and verify Sidekiq jobs, it makes sense to get a failing test.
 
@@ -178,8 +174,38 @@ end
 ### Making Sidekiq do stuff via the Rails Console
 
 Since the tests don't push _actual_ jobs to Sidekiq, I don't see any indication in Sidekiq web, or Redis, or the Sidekiq terminal window. :(
+  
+I updated the code to actually use Sidekiq (no failing test quite right now, sorry) and here's my worker:
 
-In `rails console`, I can do something like `SendGifToUserWorker.perform_async("test@test.com", "hello")`, and I get back some sort of GUID:
+```ruby
+# app/workers/send_gif_to_user_worker.rb
+class SendGifToUserWorker
+  include Sidekiq::Worker
+
+  def perform(email, thought)
+    UserNotifier.send_randomness_email(email, thought).deliver_now
+  end
+end
+```
+
+And it's getting called from the mailers controller, like so:
+
+```ruby
+# app/controllers/mailers_controller.rb
+class MailersController < ApplicationController
+  
+  def create
+    SendGifToUserWorker.perform_async(params[:mailers][:email], params[:mailers][:thought])
+    flash[:message] = "You did it! Email sent to #{params[:mailers][:email]}"
+    redirect_to "/sent"
+  end
+
+  def sent
+  end
+end
+```
+
+With that setup, igpn `rails console`, I can do something like `SendGifToUserWorker.perform_async("test@test.com", "hello")`, and I get back some sort of GUID:
 
 ```
 main:0> SendGifToUserWorker.perform_async("test@test.com", "hello")
@@ -209,9 +235,9 @@ OK, so it makes sense that the sidekiq worker test might assert JUST that jobs g
 
 The reason I'm doing this is because all my tests are passing, _without the sidekiq worker actually doing anything_. I'd feel great about a red test related to it. 
 
-Everything to this point is on commit `38f5750`, if you're following along. 
+Everything to this point [is on commit `38f5750`](https://github.com/josh-works/turing_sidekiq_tutorial/tree/38f5750293edf3198e11b114851c8d313608f334), if you're following along. 
 
-OK, so, Sidekiq is queuing the job as I'd expect it to, even though it's not doing anything. test another class that uses this worker!
+OK, so, Sidekiq is queuing the job as I'd expect it to, even though it's not doing anything.
 
 I've got it working. I spent an embarrassing amount of time "troubleshooting" why my worker wasn't doing what I thought it should do. Turns out _you need to restart sidekiq if you change a sidekiq job_. Maybe this isn't always true, but if you're saying "why isn't <new thing> showing up in sidekiq?", just restart sidekiq. 
 
@@ -219,25 +245,74 @@ So, now I'm doing the job that I expect.
 
 ## Watching Redis
 
-I want to make sure that this stuff is getting in and out of Redis as expected. to 
+I want to make sure that this stuff is getting in and out of Redis as expected. Redis is a super fast key:value store, and we should see stuff getting written to, and read from Redis. 
 
-use `redis-server` to start redis running. It's pretty boring to watch, and doesn't show you any information about data placed in/out of it, so not that helpful.
+Use `redis-server` to start Redis running. It's pretty boring to watch, and doesn't show you any information about data placed in/out of it, so not that helpful.
 
-Once you have `redis-server` running, you can run (in another terminal tab) `redis-cli monitor`, which dumps you into something that prints a TON of logs when it's not doing anything. 
+![boring redis](/images/2018-07-28_redis_01.jpg)
+
+Once you have `redis-server` running, you can run (in another terminal tab) `redis-cli monitor`, which dumps you into something that prints a TON of logs when it's not doing anything. (all of the `hmset macbookpro` stuff is still _me doing nothing_. It's reading "server status" details like a hyperactive chipmunk on crack.)
+
+![slow your roll, Redis](/images/2018-07-28_redis_02.gif)
 
 I found the signal-to-noise ratio of `redis-cli monitor` to make it near-useless. What we care about in Redis are `hset`, and `lpush`. Maybe more, but this is sufficient for finding what I want.
 
 So, once you've got redis running, to watch the logs for JUST `hset`s and `lpush`es, run: 
 
-`redis-cli monitor | grep -E ' "(hset|lpush)" '`
+`redis-cli monitor | grep -E "(hset|lpush)"`
+
+And you'll see nothing, until Sidekiq pushes jobs to Redis, and reads from it:
+
+![thank you, redis](/images/2018-07-28_redis_03.gif)
 
 - [redis docs for `hset`](https://redis.io/commands/hset)
 - [redis docs for `lpush`](https://redis.io/commands/lpush)
 
-Gif of differences
+Here's those lines, formatted for easier reading:
 
-talk about running redis-server as background process (`redis-server &`)
+#### lpush
+
+```
+1532784329.095661 [0 127.0.0.1:53832] lpush queue:default 
+  {
+    class:SendGifToUserWorker,
+    args:[flip,flop],
+    retry:true,
+    queue:default,
+    jid:adfa15f29ed6c09cda7f6973,
+    created_at:1532784329.095427,
+    enqueued_at:1532784329.095466
+  }
+```
+
+#### hset
+
+```
+1532784332.778327 [0 127.0.0.1:53803] hset MacBook-Pro-6715.local:32134:cc8d1568c5c6:workers ow3kb5tjc 
+  {
+    queue:default,
+    payload:
+      {
+        class:SendGifToUserWorker,
+        args:[flip,flop],
+        retry:true,
+        queue:default,
+        jid:adfa15f29ed6c09cda7f6973,
+        created_at:1532784329.095427,
+        enqueued_at:1532784329.095466
+      },
+    run_at:1532784329
+  }
+```
+
+By the way, Redis is a bit cleaner if you run the server as a background process:
+
+`redis-server &` (the `&` makes it a background process). To stop Redis, just do `redis-cli shutdown`
+
+
+
 
 ### To do, later
 
 add `ChatWorker`, Rails Logger, test all this?
+
