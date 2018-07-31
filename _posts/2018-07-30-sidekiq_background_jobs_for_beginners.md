@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Sidekiq and Background Jobs for Beginners"
-date:  2017-12-26 06:00:00 -0700
-crosspost_to_medium: false
+date:  2018-07-30 06:00:00 -0700
+crosspost_to_medium: true
 categories: [programming]
 tags: [ruby, rails, sidekiq, background_jobs]
 permalink: sidekiq-and-background-jobs-in-rails-for-beginners
@@ -14,11 +14,13 @@ I learned a lot. Much of it was *extremely* basic. Anyone who knows much at all 
 
 The reason I needed such basic overviews is because prior to my current job, I'd had just a few _hours_ of exposure to background jobs, and understood little of those hours. And I got dropped into a project that has dozens of jobs, handling hundreds of thousands of actions a day. 
 
-As is my style, when I don't understand something, I like to go to the very basics...
+As is my style, when I don't understand something, I like to go to the very basics.
+
+Most of the interesting stuff is way down at the bottom, on [watching Redis do it's thing](http://localhost:4000/sidekiq-and-background-jobs-in-rails-for-beginners#watching-redis )
 
 <!--more-->
 
-I went back to Turing! I found the [background jobs lesson](http://backend.turing.io/module3/lessons/intro_to_background_workers) from Mod 3, and worked through it. 
+In this case, I went back to Turing! I found the [background jobs lesson](http://backend.turing.io/module3/lessons/intro_to_background_workers) from Mod 3, and worked through it. 
 
 I very much enjoy seeing evidence of things working "under the hood", rather than just accepting that `BackgroundWorker.perform_later(foo.id)` works differently than `BackgroundWorker.new.perform(foo.id)`, etc. So, this post will focus not as much on _using_ Sidekiq, but _seeing that it's working_. 
 
@@ -26,19 +28,20 @@ If you want to follow along, do the above tutorial. [This is what my repo looks 
 
 --------------------
 
-To run the app, using multiple terminal tabs as needed:
+To run the app, run each of the following, using multiple terminal tabs as needed:
 
 ```
-redis-server
-mailcatcher
 rails s
+redis-server
+sidekiq
+mailcatcher
 ```
 
-OK, the app is working. Navigate to localhost:3000, and you should see Missy Elliot in all her glory.
+The app should now working. Navigate to [http://localhost:3000/](), and you should see Missy Elliot in all her glory.
 
-Open up http://localhost:3000/sidekiq/ to see the sidekiq dashboard, and then over to http://localhost:1080/ for mailcatcher. 
+Open up [http://localhost:3000/sidekiq/]() to see the sidekiq dashboard, and then over to [http://localhost:1080/]() for mailcatcher. 
 
-You'll notice that when sending emails via the app, nothing is happening on http://localhost:3000/sidekiq/, and the redis terminal window is untouched:
+You'll notice that when sending emails via the app, nothing is happening on [http://localhost:3000/sidekiq/], and the redis terminal window is untouched:
 
 ![redis](/images/2018-07-25_redis.jpg)
 
@@ -47,7 +50,7 @@ You'll notice that when sending emails via the app, nothing is happening on http
 
 The essence of a background job is to do stuff _in the background_, without making the Rails app sit around doing all the work. 
 
-So, to simulate the pain of waiting for synchronous jobs, when you use this app, it inserts a five-second `sleep`, by default.
+To simulate the pain of waiting for synchronous jobs, when you use this app, the "send email" method has a five-second `sleep` in it. 
 
 Lets make this a background job:
 
@@ -71,11 +74,7 @@ end
 
 (Deviated slightly from the docs with `ActiveJob::Base`. I'm working with Rails 4.2)
 
-### Make the test
-
-
-
-Since much of the point of this post is figuring out how to test and verify Sidekiq jobs, it makes sense to get a failing test.
+### Make a test
 
 Working through the [rubyonrails.org docs on testing jobs](https://edgeguides.rubyonrails.org/testing.html#testing-jobs), I'll set up the following:
 
@@ -96,18 +95,17 @@ end
 
 I've no idea what to assert just yet, but we'll get there. Lets run the test!
 
+...
+
 Unfortunately, this test passes. :(
 
 After taking a look at the [testing Sidekiq](https://github.com/mperham/sidekiq/wiki/Testing) docs, I've got some ideas. 
 
-
-OK, detangled some stuff. First, `ActiveJob` "workers" live in `/jobs`. So, if you want a worker, don't put it in the `/jobs` directory, put it in the `/workers` directory. 
-
 ### Messed up Sidekiq?
 
-After a bit of playing in the `rails console`, I had a bunch of bad jobs that sidekiq was trying to process. Every time I started sidekiq, it broke with a stack trace for "uninitalized constant", for a job/class/worker that didn't exist. 
+After a bit of playing in the `rails console`, I had a bunch of bad jobs that Sidekiq was trying to process. Every time I started Sidekiq, it broke with a stack trace for "uninitialized constant", for a job/class/worker that didn't exist. 
 
-To clear out everything in Sidekiq, I ran the following from the rails console:
+To clear out everything in Sidekiq, run the following from the rails console:
 
 ```
 Sidekiq::Queue.all.each(&:clear)
@@ -118,13 +116,21 @@ Sidekiq::DeadSet.new.clear
 
 As usual, I found the answer [on Stack Overflow](https://stackoverflow.com/a/47290191/3210178) (I could see this being a very dangerous command to run in any sort of production environment. Don't do that, please.)
 
-After clearing out the queue, I can run sidekiq just fine. 
+After clearing out the queue, I can run Sidekiq just fine. 
 
 ### Reworked the test and worker
 
-I had problems because of where I stuck these files, and some naming conventions. So, I threw away all the work and did `rails g sidekiq:worker SendGifToUserWorker`. 
+These are _workers_ and not _jobs_. `ActiveJob` _jobs_ live in `/jobs`. So, if you want a _worker_, don't put it in the `/jobs` directory, put it in the `/workers` directory. 
+
+Don't ask me why I know this. 
+
+I had problems because of where I stuck these files, and <s>had some other problems because of naming conventions</s> decided naming conventions are important. 
+
+So, I threw away all the work and did `rails g sidekiq:worker SendGifToUserWorker`. 
 
 Here's what I've got right now, after the `rails g` and taking some examples from the testing docs:
+
+My `SendGifToUserWorker`
 
 ```ruby
 # app/workers/send_gif_to_user_worker.rb
@@ -136,7 +142,11 @@ class SendGifToUserWorker
     # Do something
   end
 end
+```
 
+My `SendGifToUserWorkerTest`
+
+```ruby
 # test/workers/send_gif_to_user_worker_test.rb
 
 require 'test_helper'
@@ -173,9 +183,9 @@ end
 
 ### Making Sidekiq do stuff via the Rails Console
 
-Since the tests don't push _actual_ jobs to Sidekiq, I don't see any indication in Sidekiq web, or Redis, or the Sidekiq terminal window. :(
+Since the tests don't push _actual_ jobs to Sidekiq, I don't see any indication that anything interesting is happening in Sidekiq web, or Redis, or the Sidekiq terminal window. :(
   
-I updated the code to actually use Sidekiq (no failing test quite right now, sorry) and here's my worker:
+I updated the mail model in the application to actually use Sidekiq (no failing test quite right now, sorry) and here's my worker:
 
 ```ruby
 # app/workers/send_gif_to_user_worker.rb
@@ -205,7 +215,7 @@ class MailersController < ApplicationController
 end
 ```
 
-With that setup, igpn `rails console`, I can do something like `SendGifToUserWorker.perform_async("test@test.com", "hello")`, and I get back some sort of GUID:
+With that setup, in my `rails console`, I can do something like `SendGifToUserWorker.perform_async("test@test.com", "hello")`, and I get back some sort of GUID:
 
 ```
 main:0> SendGifToUserWorker.perform_async("test@test.com", "hello")
@@ -229,19 +239,27 @@ This is what it looks like, in the logs and sidekiq web, running the jobs from t
 
 So, cool. My job still isn't doing anything, but at least it's running. I guess.
 
-### Testing classes that use Sidekiq
+### Restart Sidekiq when you make a change to a worker
 
-OK, so it makes sense that the sidekiq worker test might assert JUST that jobs get queued correctly. I'll see about stepping "up" one level to the model that will implement the worker, and try to use that model (and it's tests) to confirm that this worker is doing what I expect.
+It makes sense that the Sidekiq worker test might assert JUST that jobs get queued correctly. 
 
-The reason I'm doing this is because all my tests are passing, _without the sidekiq worker actually doing anything_. I'd feel great about a red test related to it. 
+I'm still not content - my tests are passing, _without the sidekiq worker actually doing anything_. I'd feel great about a red test related to it. 
 
 Everything to this point [is on commit `38f5750`](https://github.com/josh-works/turing_sidekiq_tutorial/tree/38f5750293edf3198e11b114851c8d313608f334), if you're following along. 
 
-OK, so, Sidekiq is queuing the job as I'd expect it to, even though it's not doing anything.
+Sidekiq is queuing the job as I'd expect it to, even though it's not doing anything.
 
-I've got it working. I spent an embarrassing amount of time "troubleshooting" why my worker wasn't doing what I thought it should do. Turns out _you need to restart sidekiq if you change a sidekiq job_. Maybe this isn't always true, but if you're saying "why isn't <new thing> showing up in sidekiq?", just restart sidekiq. 
+.
 
-So, now I'm doing the job that I expect.
+.
+
+.
+
+I just spent an embarrassing amount of time "troubleshooting" why my worker wasn't doing what I thought it should do. Turns out _you need to restart Sidekiq if you change a Sidekiq job_. Maybe this isn't always true, but if you're saying 
+
+> why isn't <new thing> showing up in Sidekiq?
+
+just restart Sidekiq. 
 
 ## Watching Redis
 
@@ -272,7 +290,7 @@ Here's those lines, formatted for easier reading:
 
 #### lpush
 
-```
+```ruby
 1532784329.095661 [0 127.0.0.1:53832] lpush queue:default 
   {
     class:SendGifToUserWorker,
@@ -287,7 +305,7 @@ Here's those lines, formatted for easier reading:
 
 #### hset
 
-```
+```ruby
 1532784332.778327 [0 127.0.0.1:53803] hset MacBook-Pro-6715.local:32134:cc8d1568c5c6:workers ow3kb5tjc 
   {
     queue:default,
@@ -305,14 +323,55 @@ Here's those lines, formatted for easier reading:
   }
 ```
 
-By the way, Redis is a bit cleaner if you run the server as a background process:
+By the way, Redis is a bit cleaner if you run the server as a background process. To do this, do:
 
-`redis-server &` (the `&` makes it a background process). To stop Redis, just do `redis-cli shutdown`
+`redis-server &` (the `&` makes it a background process). 
+
+To stop Redis, just do `redis-cli shutdown`
+
+
+### What does/does not occur
+
+So, how can we be sure that our Sidekiq job is actually firing? Lets see what it looks like, using this worker _with_ Sidekiq, and without. 
+
+Compare these two lines:
+
+```ruby
+SendGifToUserWorker.new.perform(params[:mailers][:email], params[:mailers][:thought])
+SendGifToUserWorker.perform_async(params[:mailers][:email], params[:mailers][:thought])
+```
+Which one is using Sidekiq? 
+
+The first line is creating a new instance of the worker class, and calling `perform` directly on it. _It's not hitting Sidekiq_, and if the job fails, it won't requeue. 
+
+At least, I think this is the case. 
+
+Here's what `rails server` (left), redis (filtering for `hset` and `lpush` events, top right) and Sidekiq (bottom right) look like when I trigger the email worker:
+
+![using sidekiq](/images/2018-07-30_sidekiq_02.gif "using sidekiq")
+
+Here's how I can see a job using `Worker.new.perform` doesn't "hit" sidekiq:
+
+![not using sidekiq](/images/2018-07-30_sidekiq_01.gif "not using sidekiq")
+
+The Rails server just sits for a while, and redis and Sidekiq seem clueless of the event? 
+
+### Conclusion
+
+One of the bugs I was working with, the root of the problem was the worker/job seemed to not be requeuing when it failed. I spent time touching up the worker, and logging around the specific error (it was a timeout on an internal API endpoint), but even after rescuing the timeout, the job wasn't happening again. 
+
+Someone else on the team wisely pointed out that the entire worker was getting called with `Worker.new.perform()`, which was sidestepping (oh, the puns) the Sidekiq infrastructure. I understood this to be true, but I still wanted to see it for myself. 
+
+In the process of working through this lesson, I found a [Stack Overflow post](https://stackoverflow.com/questions/19251976/get-sidekiq-to-execute-a-job-immediately) about "how to make Sidekiq execute a job immediately". The only answer suggested calling `Worker.new.perform`, and that must be, for some reason, why this bit of code ended up in our codebase. The developer wanted it to happen immediately, and perhaps did not expect it to fail at any point. 
+
+Anyway, I'm content that I understand the basic difference between `Worker.perform_async` and `Worker.new.perform`, and next time I encounter an issue like this, I'll much more quicly wrap my head around it.
 
 
 
+### Resources 
 
-### To do, later
-
-add `ChatWorker`, Rails Logger, test all this?
-
+ - [Turing Sidekiq lesson](http://backend.turing.io/module3/lessons/intro_to_background_workers)
+ - [Testing async emails, the Rails 4.2+ way](https://www.engineyard.com/blog/testing-async-emails-rails-42)
+- [Quickly booting `rails s` into production](https://stackoverflow.com/questions/30119144/rails-how-to-switch-between-dev-and-production-mode)
+- [No route matches [GET] /assets](https://stackoverflow.com/questions/7829480/no-route-matches-get-assets)
+- [StackOverflow: How to see set/get/ in redis log](https://stackoverflow.com/questions/14713084/how-to-see-set-get-in-redis-log)
