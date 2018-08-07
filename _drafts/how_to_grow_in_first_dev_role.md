@@ -104,12 +104,20 @@ This is a nice "proof of progress", as well. It's easy for me to feel like I've 
 
 ### non-work-related side-projects
 
+I don't spend too much time on non-work related projects. I'd love to extend my Turing capstone project, [Block Value]. 
+
+I had a ton of fun with it, and it feels close to being _actually good_. I'd need to brush up on my Javascript a bit, though. When I'm ready to dig into Javascript, I think this project might be the way I do that. 
+
 
 ### Meetups
 
+I've been attending Boulder.rb and Denver.rb (and am considering starting Golden.rb!), and I've enjoyed those communities. Both are fairly time consuming, as I have to travel to the location mid-day to dodge rush hour, etc. I'm not convinced of the ROI of the meetups yet, but I am confident they're still valuable. 
+
+_PS I plan on *presenting* at a meetup sometime soon. this feels like a meaningful accomplishment, for some reason._
 
 ### Teaching/helping others
 
+I like helping others. In job hunts, salary negotiations, learning programming, and more.
 
 
 
