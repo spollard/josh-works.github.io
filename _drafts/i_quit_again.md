@@ -38,9 +38,7 @@ Facebook/Instagram is a great example.
 
 > If you are not intentional in how you interact with Facebook/Instagram, your interaction is determined by their "user engagement" team.
 
-Engage in the world around you on your terms, or someone elses.
-
-
+Engage in the world around you on your terms, or someone else's.
 
 
 Phone:
