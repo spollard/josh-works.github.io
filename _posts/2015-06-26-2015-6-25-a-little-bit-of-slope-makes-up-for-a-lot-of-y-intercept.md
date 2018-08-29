@@ -26,6 +26,7 @@ professor [John Ousterhout](http://web.stanford.edu/~ouster/cgi-bin/home.php) (h
 > And if the Y-axis is something good, depending on your definition of something good, then I think most people would pick the red trajectory over the blue trajectory (..unless you think you're going to die before you get to the crossing point).
 >
 > [Laughter]
+<!-- more -->
 >
 > So in a mathematical sense it's kind of obvious.  But I didn't really mean in a mathematical sense, I think this is a pretty good guideline for life also.  What I mean is that how fast you learn is a lot more important than how much you know to begin with.  So in general I say that people emphasize too much how much they know and not how fast they're learning.
 >
