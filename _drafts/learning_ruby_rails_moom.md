@@ -58,6 +58,15 @@ _you can throw tests away_. (wuuuuuut. never thought of this.)
 
 
 
+# Capacitor sessions Episode 3:
+
+
+# Primitive Obsession
+
+TL;DR don't store domain objects as primitives. `course.duration` => `3`. 3 what? weeks? days? months?
+
+
+
 
 
 
