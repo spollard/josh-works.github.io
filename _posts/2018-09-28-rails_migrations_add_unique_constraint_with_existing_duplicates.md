@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rails Migration: When you can't add a uniqueness constraint because you already have duplicates"
-date:  2018-09-28 04:00:00 -0700
+date:  2018-09-28 04:00:00 -0600
 crosspost_to_medium: true
 categories: [programming]
 tags: [rails, sql]
