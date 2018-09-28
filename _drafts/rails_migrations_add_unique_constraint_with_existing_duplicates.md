@@ -4,10 +4,13 @@ title:  "Rails Migration: When you can't add a uniqueness constraint because you
 date:  2018-10-01 06:00:00 -0700
 crosspost_to_medium: false
 categories: [programming]
-tags: [rails]
+tags: [rails, sql]
 permalink: add_uniqueness_constraint_on_column_with_existing_duplicates
 ---
 
+_I get to occasionally contribute to the Wombat Security dev blog. This is one of those posts._
+
+----------------------------
 
 For work, I picked up a bug where a CSV export was creating duplicate rows when it shouldn't have been.
 
