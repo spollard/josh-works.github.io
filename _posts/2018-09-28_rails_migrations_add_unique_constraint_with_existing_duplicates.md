@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Rails Migration: When you can't add a uniqueness constraint because you already have duplicates"
-date:  2018-10-01 06:00:00 -0700
-crosspost_to_medium: false
+date:  2018-09-28 04:00:00 -0700
+crosspost_to_medium: true
 categories: [programming]
 tags: [rails, sql]
 permalink: add_uniqueness_constraint_on_column_with_existing_duplicates
 ---
 
-_I get to occasionally contribute to the Wombat Security dev blog. This is one of those posts._
+_I get to occasionally contribute to the Wombat Security dev blog. I wrote the following for [development.wombatsecurity.com](http://development.wombatsecurity.com/development/2018/09/28/rails-migration-add-uniqueness-constraint/)._
 
 ----------------------------
 
@@ -37,7 +37,7 @@ In that article, they describe the problem with uniqueness validations like so:
 
 ![unique_without_index](/images/unique_without_index.png)
 
-_https://robots.thoughtbot.com/the-perils-of-uniqueness-validations_
+_[https://robots.thoughtbot.com/the-perils-of-uniqueness-validations](https://robots.thoughtbot.com/the-perils-of-uniqueness-validations)_
 
 We need to enforce uniqueness at the _database_ level. Not the model level. 
 
