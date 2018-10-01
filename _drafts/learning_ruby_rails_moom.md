@@ -55,10 +55,7 @@ _you can throw tests away_. (wuuuuuut. never thought of this.)
 ## Find common themes in slow tests? Speed up test suite?
 
 
-
-
-
-# Capacitor sessions Episode 3:
+# MOOM Week 2: Representing User Input
 
 
 # Primitive Obsession
