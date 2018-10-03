@@ -62,7 +62,53 @@ _you can throw tests away_. (wuuuuuut. never thought of this.)
 
 TL;DR don't store domain objects as primitives. `course.duration` => `3`. 3 what? weeks? days? months?
 
+This is crazy:
 
+```ruby
+class Duration
+  attr_reader :magnitude
+  
+  def initialize(magnitude)
+    @magnitude = magnitude
+    freeze
+  end
+  
+  def inspect
+    "#{self.class}[#{magnitude}]"
+  end
+  
+  def to_s
+    "#{magnitude} #{self.class.name.downcase}"
+  end
+  
+  alias_method :to_i, :magnitude
+end
+
+
+class Days < Duration; end
+class Weeks < Duration; end
+class Months < Duration; end
+```
+And it delivers pretty cool stuff:
+
+```
+main:0> Days.new(3)
+=> Days[3]
+main:0> Days.new(3).to_s
+=> "3 days"
+main:0> length = Weeks.new(3)
+=> Weeks[3]
+```
+(This example isn't complete - the video in which this was presented used some other code under-the-hood that I wasn't able to infer).
+
+But having the option to call `course.length` and get `Weeks[3]` as a response is... amazing. Or `course.length.to_s` and get `3 weeks`. Super cool. 
+
+
+# You don't have users
+
+Don't call anything in your system a "user". That is endlessly confusing. Is it someone with billing access? Is it a member of an account assigned to that bill-paying person who does _not_ have billing access? There's a natural segmentation of roles you may expect to assign to people who use your platform, so don't call them users. 
+
+(For example, where I work, a "user" is considered to be an admin-type person that you need to check their role before you know what they can actually do.)
 
 
 
