@@ -99,7 +99,7 @@ main:0> Days.new(3).to_s
 main:0> length = Weeks.new(3)
 => Weeks[3]
 ```
-(This example isn't complete - the video in which this was presented used some other code under-the-hood that I wasn't able to infer).
+
 
 But having the option to call `course.length` and get `Weeks[3]` as a response is... amazing. Or `course.length.to_s` and get `3 weeks`. Super cool. 
 
