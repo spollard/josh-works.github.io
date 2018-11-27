@@ -11,7 +11,6 @@ meta: {}
 permalink: psychological-barriers
 ---
 
-
 I recently took a HUGE step in my career. It marked a turning point, when I went to "old Josh" to "new Josh". It happened in a day. A click, really.
 
 What was this step?
