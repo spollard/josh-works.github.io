@@ -18,7 +18,7 @@ This is tremendously exciting, of course, but introduces its own set of challeng
 
 > I have to meet the standards of an inexperienced-but-competent professional, which are higher than "eager student".
 
-So, I've been thinking _a lot_ about to grow as a developer in my job.
+So, I've been thinking _a lot_ about how to grow as a developer in my job.
 
 ## What does "grow as a developer" mean?
 
