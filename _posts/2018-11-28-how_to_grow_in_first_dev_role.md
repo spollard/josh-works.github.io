@@ -4,7 +4,7 @@ title:  "Growing in your first software development job"
 date:  2018-11-28 06:00:00 -0700
 crosspost_to_medium: false
 categories: [programming]
-tags: [software_development, growth, career]
+tags: [software development, growth, career]
 permalink: growing-in-first-software-development-job
 ---
 

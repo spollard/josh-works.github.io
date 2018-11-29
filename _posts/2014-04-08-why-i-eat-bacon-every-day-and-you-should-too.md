@@ -4,10 +4,7 @@ title: Why I Eat Bacon Every Day (And You Should Too)
 categories:
 - home
 tags:
-- bacon & eggs
-- bacon
 - cooking
-- breakfast
 status: publish
 type: post
 published: true

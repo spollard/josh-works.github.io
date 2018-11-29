@@ -5,7 +5,6 @@ categories:
 - growth
 tags:
 - career
-- working_smart
 status: publish
 type: post
 published: true

@@ -4,7 +4,7 @@ title: Three Android Apps I Use Every Day (and maybe you'll use them too)
 categories:
 - growth
 tags:
-- habits, phone_usage
+- habits
 status: publish
 type: post
 published: true
