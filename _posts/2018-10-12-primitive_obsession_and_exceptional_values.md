@@ -4,7 +4,7 @@ title:  "Primitive Obsession & Exceptional Values"
 date:  2018-10-12 06:00:00 -0700
 crosspost_to_medium: true
 categories: [ruby]
-tags: [ruby, rails, learning]
+tags: [ruby, rails, learning, moom]
 permalink: primative-obsession-and-exceptional-values
 ---
 

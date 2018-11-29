@@ -25,9 +25,8 @@ Additionally, even a loosely-defined process reduces friction to attempting the 
 
 But, since I have a process, as imperfect as it is, I can just say "ah, a hard thing. Time to attack it with my six-step process to learning difficult things".
 
-I've been thinking about friction, and learning, and the relationship between the two, for quite some time:
+I've been thinking about friction, and learning, and the relationship between the two, for quite some time. For example:
 
-- [The difficult work of making it easy]({{ site.baseurl }}{% link _posts/2013-06-10-the-difficult-work-of-making-it-easy.md %})
 - [Make hard things easy by removing friction]({{ site.baseurl }}{% link _posts/2013-12-07-make-hard-things-easy-removing-friction.md %})
 
 Here's my _current_ iteration of "how to learn difficult things"
