@@ -117,3 +117,107 @@ We'll table this for now.
 Starting the server works fine. I'll update this post if I sort out the test failure. 
 
 If you elect to work through the course, this might save you a bit of hassle. I went way too far down the docker hole before just brew installing it. :(
+  
+## download Rubygem's production DB:
+
+```
+$ script/load-pg-dump -c -d gemcutter_production latest_dump
+```
+
+No problems. 
+
+When it came time to generate the assets, first take failed:
+
+```
+> RAILS_ENV=production rake assets:precompile
+rake aborted!
+ArgumentError: Missing `secret_key_base` for 'production' environment, set this string with `rails credentials:edit`
+```
+
+Swap it to `> RAILS_ENV=production rake assets:precompile SECRET_KEY_BASE=foo` and you're good to go. 
+
+Aaaand... 
+
+server error on http://localhost:3000/
+
+![but what a cute error message](/images/2018-11-29 at 9.17 PM.jpg)
+
+A message in the slack group suggested using the following for `script/load-pg-dump`:
+
+```
+script/load-pg-dump -c -d rubygems_production latest_dump
+```
+
+(it's `rubygems_production` instead of `gemcutter_production`)
+
+still failing. same server error.
+
+Taking a look in `log/production.log`, I've got useful errors like:
+
+
+> F, [2018-11-29T21:30:19.469620 #4540] FATAL -- : ActionView::Template::Error (PG::UndefinedTable: ERROR:  relation "announcements" does not exist
+
+
+So:
+
+```
+> RAILS_ENV=production rake db:migrate SECRET_KEY_BASE=foo
+```
+
+but that doesn't work:
+
+```
+> RAILS_ENV=production rake db:migrate SECRET_KEY_BASE=foo
+== 20090527122639 CreateRubygems: migrating ===================================
+-- adapter_name()
+   -> 0.0000s
+-- adapter_name()
+   -> 0.0000s
+-- adapter_name()
+   -> 0.0000s
+-- create_table(:rubygems, {:id=>:integer})
+rake aborted!
+StandardError: An error has occurred, this and all later migrations canceled:
+
+PG::DuplicateTable: ERROR:  relation "rubygems" already exists
+: CREATE TABLE "rubygems" ("id" serial NOT NULL PRIMARY KEY, "name" character varying, "token" character varying, "user_id" integer, "created_at" timestamp, "updated_at" timestamp)
+```
+
+This is probably a horrible fix, but:
+
+```
+$ psql
+# enter psql cli
+\l
+# list available databases
+\c rubygems_production
+# connect to said db
+\dt
+# list all relations
+drop table rubygems;
+# drop the table
+```
+
+re-run migrations and... it now fails on a different relation. 
+
+so, running the mother of all horrible commands:
+
+```
+> RAILS_ENV=production rake db:reset SECRET_KEY_BASE=foo DISABLE_DATABASE_ENVIRONMENT_CHECK=1
+```
+
+nukes the production DB, redoes everything. Don't do this. 
+
+`RAILS_ENV=production SECRET_KEY_BASE=foo rails s`
+
+works, now, but the production DB is empty, so we have to re-import it:
+
+```
+script/load-pg-dump -c -d rubygems_production latest_dump
+```
+
+after a few minutes... boot up the rails server again, and:
+
+damnit. error page. Same complaint about missing relation.
+
+When I swap everything out to working on `development` environment instead of `production`, it works. I'll carry on from here for now.
