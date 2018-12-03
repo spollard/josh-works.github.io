@@ -179,11 +179,34 @@ Since taking these steps, I've become sensitive and more attuned to when I'm sub
 
 I suspect that if you start using uBlock to remove annoying elements from pages, you'll start developing a stronger radar for when someone is trying to monetize your attention, and and then you'll block those elements, but then become even more attuned to those unwanted influences, and then block them, and on and on.
 
-It is worth pointing out that _this very website_ is devoid of those sorts of elements I find annoying. No popups, no sidebar content, no click-baity headlines. If you want to share one of these posts on social media, you have to do it the old school way. Copy and paste the URL into your platform of choice. (But note how clean that URL is. www.domain.com/post-title. Positively peaceful.)
+It is worth pointing out that _this very website_ is devoid of those sorts of elements I find annoying. No popups, no sidebar content, no click-baity headlines. I even removed Google Analytics. If you want to share one of these posts on social media, you have to do it the old school way. Copy and paste the URL into your platform of choice.
+
+Note how clean the URL is: `www.josh.works/post-title`. Positively peaceful.
 
 The only metric I pay attention to is email subscribers. Someone subscribing via email is basically the highest endorsement of trust I can imagine. I'm extremely judicious in subscribing to other people's websites, so I value other people trusting me with their email address.
+
+# Detail on Twitter
+
+Twitter is tricky about ads/follow suggestions it injects into your stream. Because the root node ID is unique to you/the user the add wants you to follow, you need to use a little wild-carding to catch-and-delete these all. 
+
+First, here's what the rules look like for deleting individual ads. These entries are useless, as once the long string of digets at the end changes, the ad won't be caught by uBlock.
+
+```
+twitter.com###stream-item-who_to_follow_entry-955359935176437758
+twitter.com###stream-item-who_to_follow_entry-953442336767381502
+twitter.com###stream-item-who_to_follow_entry-955359935176437758
+```
+
+Here's the rule I have in uBlock, that just catches all of these, no matter what the actual element id is:
+
+```
+twitter.com##li[id^="stream-item-who_to_follow_entry"]
+```
+
+Go forth and retain more of your attention!
 
 ### Related Resources
 
 - [Use uBlock Origin to remove any element from a page permanently, _ghacks.net_](https://www.ghacks.net/2017/02/21/ublock-origin-how-to-remove-any-element-from-a-page-permanently/)
 - [Willpower is over-rated. Build systems to ensure desired behavior, _Vox.com_](https://www.vox.com/science-and-health/2018/1/15/16863374/willpower-overrated-self-control-psychology)
+- [Is there any way to hide promoted tweets from the twitter feed with uBlock Origin? (Reddit)](https://www.reddit.com/r/uBlockOrigin/comments/6g4jvt/is_there_any_way_to_hide_promoted_tweets_from_the/)
