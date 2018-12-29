@@ -10,6 +10,7 @@ permalink: add_uniqueness_constraint_on_column_with_existing_duplicates
 
 _I get to occasionally contribute to the Wombat Security dev blog. I wrote the following for [development.wombatsecurity.com](http://development.wombatsecurity.com/development/2018/09/28/rails-migration-add-uniqueness-constraint/)._
 
+This post has been updated to reflect some lessons learned while running this migration in production. _Don't leave a column without an index at any point in the migration_. [skip to section](#update-do-not-leave-a-column-without-an-index-at-any-point-in-the-migration)
 ----------------------------
 
 For work, I picked up a bug where a CSV export was creating duplicate rows when it shouldn't have been.
@@ -338,6 +339,47 @@ You can use this pattern to add a uniqueness constraint to a table that already 
 
 In hindsight, this was a relatively straight-forward migration. I had not found any resource online that talked about the process of adding a uniqueness constraint if the table already had data that violated the constraint, so I hope that this write-up might help someone else in a similar spot. 
 
+# Update: Do not leave a column without an index at any point in the migration
+
+I made a mistake in all this. 
+
+Take a look at what we ran:
+
+```ruby
+results.each do |id_array|
+  # I know find_in_batches would normally be a better fit
+  FavoriteColors.where(id: id_array).delete_all
+end
+remove_index :favorite_colors, :person_id
+add_index :favorite_colors, :person_id, unique: true, algorithm: :inplace
+end
+```
+
+See how we _remove_ an index, then add it? 
+
+This means if the migration fails while adding the new index, and we have to re-run the migration, we're now executing the query without an index on the `favorite_colors` column.
+
+If you're doing a big ol' query against a few hundred thousand rows of data, with the index, it'll take a few seconds. Without the index, it could take... many minutes. 
+
+Here's what you should do:
+
+
+```ruby
+results.each do |id_array|
+  # I know find_in_batches would normally be a better fit
+  FavoriteColors.where(id: id_array).delete_all
+end
+# rename existing index
+rename_index :favorite_colors, :favorite_colors_non_unique
+
+# add the uniqueness index (if we didn't rename the existing index, we'd get an error saying "an index by this name already exists")
+add_index :favorite_colors, :person_id, unique: true, algorithm: :inplace
+
+# This line won't get run unless the above index has been successfully added. We're removing it by the name we've given it:
+remove_index :favorite_colors_non_unique
+
+end
+```
 
 
 ### Useful additional resources
