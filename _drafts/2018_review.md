@@ -68,11 +68,9 @@ Kristi and I changed churches this year, as well. It was a weighty decision, and
 
 ## Climbing
 
-<mountain project stats>
-
 I've continued to improve as a climber. It's slow work, and I don't begrudge the pace of improving, but I do have a constant worry in the back of my mind that I could be training more effectively, or I have a giant hole in my knowledge about climbing, and it's crippling me _and I don't even know it._
 
-I didn't send more than a handful of 5.13s, but I came _very_ close (falling-off-last-move-one-last-attempt-of-last-day close) of five or six. I am aware that there's a gulf between "almost sending" and "sending", but I was able to quickly piece together and give valid send attempts on many hard climbs this year. 
+I didn't send more than a handful of 5.13s, but I came _very_ close (falling-off-last-move-close) of five or six. I am aware that there's a gulf between "almost sending" and "sending", but I was able to quickly piece together and give valid send attempts on many hard climbs this year. 
 
 I have been targeting the 12+ grade (12c, 12d) and did quite a few one-day sends of climbs at this grade. I've sent routes I'm pleased with in Rifle, Shelf Road, various European locations, and more. I have not tried many 5.13s, but I think I ought to be trying more. 
 
@@ -88,7 +86,7 @@ For 2019, I've got a few talks scheduled at local meetups, and some other projec
 
 ## Reading
 
-I read 81 books last year. ([Here's the list]({{ site.baseurl }}{% link  %})). 
+I read 81 books last year. ([Here's the list]({{ site.baseurl }}{% link _drafts/2018_books.md %})). 
 
 They were a mix of fiction and non-fiction, and as usual, delivered great value to me. It could be a bit excessive, the number that I've read, but I don't think it's detracted from other, more important uses of my time. 
 
