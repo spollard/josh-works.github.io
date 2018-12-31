@@ -53,7 +53,7 @@ github:
   repo:              https://github.com/josh-works/josh-works.github.io
 
   # twitter plugin gem
-gems:
+plugins:
   - jekyll-twitter-plugin
   - jekyll-feed
   - jekyll-crosspost-to-medium
