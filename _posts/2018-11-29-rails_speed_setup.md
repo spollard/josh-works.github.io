@@ -221,3 +221,16 @@ after a few minutes... boot up the rails server again, and:
 damnit. error page. Same complaint about missing relation.
 
 When I swap everything out to working on `development` environment instead of `production`, it works. I'll carry on from here for now.
+
+--------------------------
+
+I asked for a bit of help in the Slack group for the program, and got great help. 
+
+Turns out I just needed to do a `bundle exec rake db:create RAILS_ENV=production`, then re-run the script: `script/load-pg-dump -c -d rubygems_production latest_dump`
+
+Now I can run the app in production:
+
+```
+RAILS_ENV=production SECRET_KEY_BASE=foo rails s
+```
+
