@@ -2,7 +2,7 @@ source "https://rubygems.org"
 ruby '2.3.3'
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", ">= 3.6.3"
+gem "jekyll", ">= 3.7"
 gem 'figaro'
 gem 'html-proofer'
 
