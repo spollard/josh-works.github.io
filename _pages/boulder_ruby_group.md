@@ -42,6 +42,12 @@ WHERE
 LIMIT 10000;
 ```
 
+### What is Benchmarking and Profiling
+
+> Profiling and benchmarking are flip sides of the same coin, profiling helps you to narrow down to where optimization would be most useful, benchmarking allows you to easily isolate optimizations and cross-compare them.
+
+- [Dave Rolsky](https://blog.urth.org/2010/03/03/benchmarking-versus-profiling/)
+
 
 
 ### Additional reading
