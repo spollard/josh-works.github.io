@@ -321,7 +321,7 @@ There's some keyboard shortcuts I use all the time for Chrome. Don't try to use 
 
 - [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en) will "put to sleep" inactive tabs. Chrome is a bit of a resource hog, and this seems to help it consume less energy.
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en) gets you Vim-like navigation around your browser. I use it mostly to move up/down a page and to "click" links with the keyboard, but it can do much more than that.
-- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) is an Ad-blocker, closely related to (but very much distinct) [uBlock](https://www.reddit.com/r/ublock/comments/32mos6/ublock_vs_ublock_origin/). I love it. Cuts down on the visual clutter that tends to crop up on pages, and has some other cool tools. (Similar to Chrome's "element selector", you can click an element with uBlock and add it to a black-list, so you'll never see that pop-up/interstitial again)
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) is so much more than an ad-blocker. I love it. [You can _delete_ unwanted elements from pages (like ads), too.]({{ site.baseurl }}{% link _posts/2018-01-21-take_back_your_attention.md %})
 
 ------------------------------
 
@@ -363,7 +363,7 @@ I open Alfred, type `ts[tab]`, enter the ticket number, and hit `return`. Boom. 
 
 ### Flux: Save your eyes
 
-[Flux](https://justgetflux.com/) is a neat little utility that increases the "warmth" of your laptop screen at night. It will save you a bunch of eye strain.
+<strike>[Flux](https://justgetflux.com/) is a neat little utility that increases the "warmth" of your laptop screen at night. It will save you a bunch of eye strain.</strike> Macs now have this built in with the [Night Shift](https://support.apple.com/en-us/HT207513) feature.
 
 ### Browsing securely with a VPN
 
