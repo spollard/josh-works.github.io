@@ -11,12 +11,13 @@ permalink: denverrb
 
 _[Denver.rb Monthly Meetup @WeWork](https://www.meetup.com/Denver-rb/events/rqjnpqyzdbqb/), Feb 12, 2018_
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMj395-cdDg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 We talked about performance profiling!
 
 [Here's the slides, on Dropbox](https://www.dropbox.com/s/j7v300oh52x0jb5/denver_rb.key?dl=0)
 
-I'll post the talk video shortly. 
 
 I'm working on going deeper on the topic of Rails performance. I've got a lot more on the topic brewing. If you wanna stay in the loop, drop your email below. (I can't promise that _everything_ you'll get from me will be Rails performance posts, though...)
 
