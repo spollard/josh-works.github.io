@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Boulder.rb meetup notes
+title: Boulder Ruby Group meetup notes
 status: publish
 type: page
 published: true
@@ -12,8 +12,18 @@ permalink: boulder_ruby_group
 
 _[Boulder Ruby Group Monthly Meetup @Recurly Offices](https://www.meetup.com/boulder_ruby_group/events/fsvznqyzdbrb/), Feb 13, 2018_
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/992Uyrheo24" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Slides are available here on Dropbox](https://www.dropbox.com/s/pwsj4bqmzdqb9s7/boulder_rb_profiling.key?dl=0)
+
+## Git Push, Git Paid
+
+Here's the "Git Push, Git Paid" t-shirt I mentioned:
+
+![git push git paid](/images/git_push_git_paid.jpg)
+
+[Thoughtbot designed these](https://thoughtbot.com/blog/git-push-git-paid), and it looks like they're still [available for purchase on CottonBureau](https://cottonbureau.com/products/git-push-git-paid#/1134672/tee-men-standard-tee-vintage-black-tri-blend-s) for $28. 
+
 
 ## Slow Query lookup:
 
@@ -47,7 +57,6 @@ LIMIT 10000;
 > Profiling and benchmarking are flip sides of the same coin, profiling helps you to narrow down to where optimization would be most useful, benchmarking allows you to easily isolate optimizations and cross-compare them.
 
 - [Dave Rolsky](https://blog.urth.org/2010/03/03/benchmarking-versus-profiling/)
-
 
 
 ### Additional reading
