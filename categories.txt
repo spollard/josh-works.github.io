@@ -1,0 +1,5 @@
+# categories list generated (sorta) by
+#  cat ./_posts/201* | grep -A 1 categories
+# categories = cleaned_output_from_above_cat
+# categories.sort.uniq
+["languages", "annual_review", "blogging", "books", "cars", "climbing", "college", "customer", "government", "growth", "home", "jobs", "local", "misc", "money", "monthly_review", "programming", "remote", "remote_work", "success", "travel", "writing,"]

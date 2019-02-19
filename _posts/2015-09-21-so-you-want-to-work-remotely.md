@@ -1,9 +1,9 @@
 ---
 layout: post
 title: So you want to work remotely...
-categories: [remote]
+categories: [remote_work]
 tags:
-- remote work
+- remote
 status: publish
 type: post
 published: true

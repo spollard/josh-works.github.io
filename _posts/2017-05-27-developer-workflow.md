@@ -2,8 +2,8 @@
 layout: post
 title:  "Workflow for developers (AKA My current tools)"
 date:   17-05-29-06:18:52 -0600
-categories: [programming tools]
-tags: [programming, learning, turing]
+categories: [programming]
+tags: [programming, tools, remote_work]
 permalink: developer-workflow
 ---
 
