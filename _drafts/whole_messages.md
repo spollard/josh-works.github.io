@@ -62,6 +62,14 @@ So, if they see a notification on their phone because they're away from their de
 
 TODO: Add some examples from Turing/Wombat slack. 
 
+Another example - I got the following from someone I'd never exchanged messages with before, and whose name I did not recognize:
+
+> Hey! I have a few questions for you if you have some time today
+
+I replied with:
+
+> go ahead and ask the question. I'll answer when I can. We're doing a deploy right now, but no harm in asking. (I'm a fan of "whole messages", so you should go ahead and fire off as long of a question as you want, link to tickets, screenshots, whatever, and I'll follow up when I can.)
+
 ### 2. Have your job title or a job description in your profile somewhere
 
 Before Wombat was acquired, I had about 230 coworkers. Now I have 2500. It's _desperately_ useful for me to know who works on what team and on what product, if I get a message out of the blue from someone, or if I need to send someone a message. 
