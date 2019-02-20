@@ -1,11 +1,12 @@
 ---
 layout: post
 title: About working remotely at Litmus with Pajamas.io
-categories: [remote_work]
+categories: [remote]
 tags:
 - litmus
 - travel
 - tools
+- remote
 status: publish
 type: post
 published: true
