@@ -16,8 +16,7 @@ For example, if you call `course.duration`, it might return `6`.
 
 I've had an idea for something similar regarding _Slack_ messages rolling around my head. Since I work remotely, most of my communication with my coworkers happens via text. Sometimes this is comments in Jira tickets, but a large amount of it happens in Slack. 
 
-
-## Three Slack suggestions
+## Slack suggestions
 
 These are just _suggestions_, or even _personal preferences_. If you read these and think:
 
@@ -33,69 +32,44 @@ Then my goal wildly accomplished.
 
 My preference for a work communication is more-or-less asynchronous. Some times we need to communicate in real time, and I'm happy to hop on a call when helpful.
 
-But lots of messages in Slack don't have to be synchronous. So, here's a few anti-patterns for ways I've seen messages begin:
+Lots of messages in Slack don't have to be synchronous. 
 
-> Ping
+**When you send a message in Slack, it should contain everything the recipient needs to take action.**
 
-> Hey
+Here's some examples.
 
-> Question for you
+them. (this was the first time I've "spoken" with this person): 
+> Hi there. Got a minute for a question? 
 
-I've gotten messages like this from quite a few different people. Eventually, I respond, and anything I say will tend to encourage the actual question.
+me, about 40 minutes later: 
+> can you provide more context?
 
-> them: hey
-> me: yes?
-> them: I had a question on {a Jira ticket}. Do you know when ... etc etc
+they provided a _tiny_ bit more context, and I replied with: 
 
-My answer doesn't contain any signal. It's just a text equivalent of "please go on". 
-
-Another example:
-
-> them: Hi there. Got a minute for a question?
-> me: uh, you've already asked a question. If the answer takes a few seconds, I can answer it right now. If it takes a few minutes/hours, I'll answer it later. I really cannot tell you if I can give an naswer because I have no idea how much time/effort is required. So, please, fire away with the question. 
+> go ahead and ask the question. I'll answer when I can. We're doing a deploy right now, but no harm in asking. (I'm a fan of "whole messages", so you should go ahead and fire off as long of a question as you want, link to tickets, screenshots, whatever, and I'll follow up when I can.)
 
 When I'm composing a message to someone, I try to provide all of the information they need in a single message. I'll often preface it with something like:
 
-> Hey {so and so} - this is not urgent, and I don't want a response until it's convenient for you. 
+> Hey {so and so} - this is not urgent, and I don't want a response until it's convenient for you. To that end, I'll provide further context and my specific question.
 
 So, if they see a notification on their phone because they're away from their desk - they can go ahead and ignore the notification. They can follow up at their leisure. 
 
-TODO: Add some examples from Turing/Wombat slack. 
+Here's a message (part of a longer note) I sent:
 
-Another example - I got the following from someone I'd never exchanged messages with before, and whose name I did not recognize:
+> Also - I am a _massive_ fan of asynchronous, independent work, so anytime you happen to get slack messages from me, please _don't_ feel any pressure to reply. I try to send "whole messages", that don't require much real-time back-and-forth, and don't have any expectations of quick replies.
 
-> Hey! I have a few questions for you if you have some time today
 
-I replied with:
-
-> go ahead and ask the question. I'll answer when I can. We're doing a deploy right now, but no harm in asking. (I'm a fan of "whole messages", so you should go ahead and fire off as long of a question as you want, link to tickets, screenshots, whatever, and I'll follow up when I can.)
 
 ### 2. Have your job title or a job description in your profile somewhere
 
 Before Wombat was acquired, I had about 230 coworkers. Now I have 2500. It's _desperately_ useful for me to know who works on what team and on what product, if I get a message out of the blue from someone, or if I need to send someone a message. 
 
-Sometimes, in the course of building a feature, I'll hear a message that says
+My profile has a picture of me, a description of what I do, and a bit more.
 
-> To get {such and such} configured, message {some person}. 
-
-It's great if, when I compose a message to that person, I can figure out what team/product/role they have. DevOps? Support? Human Resources? Engineering on a different product? These are wildly different teams, all of which would get different kinds of messages. 
-
-Here's what my profile looks like:
-
-![My slack profile at Wombat/Proofpoint]()
-
-As a case study, I got a message recently that I thought was from someone on our support team. This knowledge drove my answer in a certain direction. 
+As a case study of how time consuming it is when this information is missing - I got a message recently that I thought was from someone on our support team. This knowledge drove my answer in a certain direction. 
 
 A few minutes later, after looking said person up in our company directory (not finding them) I turned to LinkedIn - turns out this person was a developer on another product. This information obviously shaped my answer in a _different_ direction. 
 
 
-### 3. Use a profile picture that kinda-sorta has you in it
 
-This is the weakest suggestion I'm making in this post, it's more of a "nice to have". 
-
-I find it helpful when people use a picture of themselves in their profile pictures. 
-
-I hate the idea of "oversharing", and if you don't want to put a picture of yourself in Slack, that's fine, but I'd prefer that more people used profile pictures. 
-
-This makes it a bit easier for me the few times a year I return to the office - I've met people in person that I didn't even realize I've spoken with them _extensively_ via Slack. Pictures help narrow down the pool of people in the "i have no idea who you are" bucket. 
 
