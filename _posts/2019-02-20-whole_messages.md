@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Whole Messages in Slack"
-date:  2018-12-17 06:00:00 -0700
+date:  2019-02-20 06:00:00 -0700
 crosspost_to_medium: false
 categories: [remote_work]
 tags: [remote, tools]
@@ -16,7 +16,8 @@ For example, if you call `course.duration`, it might return `6`.
 
 I've had an idea for something similar regarding _Slack_ messages rolling around my head. Since I work remotely, most of my communication with my coworkers happens via text. Sometimes this is comments in Jira tickets, but a large amount of it happens in Slack. 
 
-## Slack suggestions
+
+# Two Slack suggestions
 
 These are just _suggestions_, or even _personal preferences_. If you read these and think:
 
@@ -30,7 +31,8 @@ Then my goal wildly accomplished.
 
 ### 1. Send whole messages
 
-My preference for a work communication is more-or-less asynchronous. Some times we need to communicate in real time, and I'm happy to hop on a call when helpful.
+<!--more-->
+My preference for a work communication is more-or-less asynchronous. Sometimes we need to communicate in real time, and I'm happy to hop on a call when helpful.
 
 Lots of messages in Slack don't have to be synchronous. 
 
@@ -38,14 +40,13 @@ Lots of messages in Slack don't have to be synchronous.
 
 Here's some examples.
 
-them. (this was the first time I've "spoken" with this person): 
+them (this was the first time I've "spoken" with this person): 
 > Hi there. Got a minute for a question? 
 
 me, about 40 minutes later: 
 > can you provide more context?
 
 they provided a _tiny_ bit more context, and I replied with: 
-
 > go ahead and ask the question. I'll answer when I can. We're doing a deploy right now, but no harm in asking. (I'm a fan of "whole messages", so you should go ahead and fire off as long of a question as you want, link to tickets, screenshots, whatever, and I'll follow up when I can.)
 
 When I'm composing a message to someone, I try to provide all of the information they need in a single message. I'll often preface it with something like:
@@ -54,17 +55,17 @@ When I'm composing a message to someone, I try to provide all of the information
 
 So, if they see a notification on their phone because they're away from their desk - they can go ahead and ignore the notification. They can follow up at their leisure. 
 
-Here's a message (part of a longer note) I sent:
+Here's a message (part of a longer note) I sent to someone I was working on a project with:
 
 > Also - I am a _massive_ fan of asynchronous, independent work, so anytime you happen to get slack messages from me, please _don't_ feel any pressure to reply. I try to send "whole messages", that don't require much real-time back-and-forth, and don't have any expectations of quick replies.
 
-
-
-### 2. Have your job title or a job description in your profile somewhere
+### 2. Fill out your Slack profile
 
 Before Wombat was acquired, I had about 230 coworkers. Now I have 2500. It's _desperately_ useful for me to know who works on what team and on what product, if I get a message out of the blue from someone, or if I need to send someone a message. 
 
-My profile has a picture of me, a description of what I do, and a bit more.
+My profile has:
+1. A picture of me
+2. A description of what I do/what team I work with
 
 As a case study of how time consuming it is when this information is missing - I got a message recently that I thought was from someone on our support team. This knowledge drove my answer in a certain direction. 
 
