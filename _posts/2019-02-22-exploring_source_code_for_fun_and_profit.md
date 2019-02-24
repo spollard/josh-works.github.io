@@ -11,7 +11,7 @@ permalink: prying-into-a-stack-trace
 I was recently working on a feature, committed what I thought was clean code, and started getting errors. I `git stash`ed, and re-ran my tests, and still got errors. Here's the full stacktrace:
 
 ```
-> b ruby -Itest test/models/model_name_redacted_test.rb
+> b ruby -Itest test/models/model_name_redacted_test.rb -n=/errors/
 
 # Running tests with run options -n=/errors/ --seed 55842:
 
@@ -31,7 +31,7 @@ This is a relatively common error. Something is `nil` where it ought not to be `
 
 But now for the kicker. 
 
-I found out you can _hold the cmd key down and click one of those file paths_!!!
+I found out that if you hold the cmd key down and click one of those file paths, the file in question _will open in your editor_!!!
 
 AND YOU CAN JUST PUT A PRY IN THERE SOMEWHERE AND YOU'LL HIT IT NEXT TIME THAT LINE OF CODE EXECUTES!!!
 <!--more-->
@@ -47,6 +47,12 @@ Lets run the test. It'll cause an error, with a stack trace. Hold down the `cmd`
 Great. Now click it. 
 
 The file you selected gets opened up in your current text editor, with the cursor at the line in question!
+
+In this case, it's `minitest/reporters/default_reporter.rb:49`, which is a gem bound to a specific ruby version, managed by `RVM`, so the path also includes `.rvm/gems/ruby-2.3.7/gems/`, which is in `/Users/joshthompson/`, so the full path is: 
+
+```
+/Users/joshthompson/.rvm/gems/ruby-2.3.7/gems/minitest-reporters-1.3.5/lib/minitest/reporters/default_reporter.rb:49
+```
 
 ![file opens](/images/2019-02-21 at 11.47 PM.png)
 
