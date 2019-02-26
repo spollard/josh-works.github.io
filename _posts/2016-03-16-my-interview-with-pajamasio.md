@@ -6,7 +6,7 @@ tags:
 - litmus
 - travel
 - tools
-- remote
+- remote_work
 status: publish
 type: post
 published: true

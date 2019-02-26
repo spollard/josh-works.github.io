@@ -3,7 +3,7 @@ layout: post
 title: So you want to work remotely...
 categories: [remote_work]
 tags:
-- remote
+- remote_work
 status: publish
 type: post
 published: true

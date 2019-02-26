@@ -4,7 +4,7 @@ title:  "Whole Messages in Slack"
 date:  2019-02-20 06:00:00 -0700
 crosspost_to_medium: false
 categories: [remote_work]
-tags: [remote, tools]
+tags: [remote_work, tools]
 permalink: whole-messages-in-slack
 ---
 
