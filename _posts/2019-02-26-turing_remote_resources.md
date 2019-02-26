@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Remote Job Hunting Resources for Turing Grads and Anyone Else"
-date:  2017-12-26 06:00:00 -0700
-crosspost_to_medium: false
+date:  2019-02-26 06:00:00 -0700
+crosspost_to_medium: true
 categories: [remote_work]
 tags: [remote_work, job_hunting, programing]
-permalink: remote-job-hunting-resources-for-turing-grads-and-anyone-else
+permalink: remote-job-resources
 ---
 
 _This post started life as [this gist](https://gist.github.com/josh-works/2e6e1a8934df6a566f5c1a56d8f6ddc6), and existed in that state for a while. I'm pulling it into a slightly more visible location, and updating/modifying it, hopefully to the betterment of all future readers._
