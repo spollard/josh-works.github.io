@@ -4,7 +4,7 @@ title:  "Remote Job Hunting Resources for Turing Grads and Anyone Else"
 date:  2019-02-26 06:00:00 -0700
 crosspost_to_medium: true
 categories: [remote_work]
-tags: [remote_work, job_hunting, programming]
+tags: [remote_work]
 permalink: remote-job-resources
 ---
 
@@ -17,19 +17,19 @@ _This is a collection of resources that come from a range of conversations I've 
 
 ## Where do remote jobs "live"
 
-I've had the most success getting email responses from two places:
+I've had the most success getting email responses from a few places:
 
-First, http://weworkremotely.com/
+1. [http://weworkremotely.com/](http://weworkremotely.com/)
 
-Second, hacker news' "who's hiring" threads, like this one from December 2017: https://news.ycombinator.com/item?id=15824597
+Second, hacker news' "who's hiring" threads, like this one from December 2017: [https://news.ycombinator.com/item?id=15824597](https://news.ycombinator.com/item?id=15824597)
 
 oh, and with the hacker news posts, they're often hundreds of entries long. I.E. hundreds of potential jobs.
 
-~I use this js in the console to filter them by keyword. At a minimum, I'd add "remote" as criteria: https://gist.github.com/kristopolous/19260ae54967c2219da8~
+~I use this js in the console to filter them by keyword. At a minimum, I'd add "remote" as criteria: [https://gist.github.com/kristopolous/19260ae54967c2219da8](https://gist.github.com/kristopolous/19260ae54967c2219da8)~
 
-This resource is 100x better than the above gist: https://kennytilton.github.io/whoishiring/
+This resource is 100x better than the above gist: [https://kennytilton.github.io/whoishiring/](https://kennytilton.github.io/whoishiring/)
 
-Also worth checking out: https://nomadlist.com/
+[https://nomadlist.com/](https://nomadlist.com/) is also worth a mention.
 
 ## What sort of things did I do to actually get the job
 
@@ -41,13 +41,13 @@ My goal was to telegraph competence to anyone I interacted with. So, one of my m
 
 No. I just type things on the internet, and make those easy to find. My email signature has a link to my website, which has a smattering of technical and non-technical posts, and my "about me" page makes sure to also telegraph competence. If you don't have a website, just hop onto Medium, and start writing some things. Here's examples of my "technical" posts:
 
-- http://josh.works/block-value
-- http://josh.works/metaprogramming-method-missing-01
-- http://josh.works/blocks_and_closures
-- http://josh.works/first-pass-elixir-phoenix
-- http://josh.works/elixir-phoenix-part-deux
+- [http://josh.works/block-value](http://josh.works/block-value)
+- [http://josh.works/metaprogramming-method-missing-01](http://josh.works/metaprogramming-method-missing-01)
+- [http://josh.works/blocks_and_closures](http://josh.works/blocks_and_closures)
+- [http://josh.works/first-pass-elixir-phoenix](http://josh.works/first-pass-elixir-phoenix)
+- [http://josh.works/elixir-phoenix-part-deux](http://josh.works/elixir-phoenix-part-deux)
 
-My "about" page is fairly friendly and comprehensive: http://josh.works/about/
+My "about" page is fairly friendly and comprehensive: [http://josh.works/about/](http://josh.works/about/)
 
 None of these posts are earth shattering (actually, they are *all* very basic) but it telegraphs:
 
@@ -69,19 +69,21 @@ You're going to roll-play someone who likes to do sales-y activities, and _that_
 
 You're "selling" the product of your own development skills. So, get into a sales mindset, and you'll do just fine.
 
-start here: https://news.ycombinator.com/item?id=5476363, and read this entire comment _carefully_. Then go apply it in your emails. 
+start here: [Dear HN "Who's Hiring" responders](https://news.ycombinator.com/item?id=5476363), and read this entire comment _carefully_. Then go apply it in your emails. 
 
 I see the whole process of cold outreach as a collection of microskills, just like a complicated operation in Ruby or Javascript. You break the big complex task into classes and functions, for example:
 
 The big complex task: **get a job**
 
 progression through microskills: 
+
 1. **write emails that get responses**
 2. **write emails that start conversations**
 3. **respond to emails in a way that lead to further responses/conversations**
 4. **have conversations where someone thinks about if I can/cannot do the job**
 5. **in a converation, convince someone I would be a good culture fit**
 6. **telegraph technical proficiency in the course of email correspondence**
+
 etc. 
 
 All of those are tiny sub-skills of the job-hunting process. if you can do the first three, getting a job is just a matter of volume. one email or one conversation won't turn into a job. but ten might.
@@ -102,7 +104,7 @@ Here's an inspirational tweet:
 
 Patrick McKenzie ([@patio11](https://twitter.com/patio11)) is a good person to follow on the internet
 
-He wrote https://stripe.com/atlas/guides/starting-sales. Scroll down to "How should you communicate with customers?", and mentally swap "customers" with "potential employers", and go from there. within reason.
+He wrote [https://stripe.com/atlas/guides/starting-sales](https://stripe.com/atlas/guides/starting-sales). Scroll down to "How should you communicate with customers?", and mentally swap "customers" with "potential employers", and go from there. within reason.
 
 I recommend you follow [Stephanie Hurlburt](https://twitter.com/sehurlburt): 
 
@@ -151,7 +153,7 @@ So, if you're in the 50% percentile of the remaining applications, every dev rol
 
 As a Turing grad, i'd bet you're closer to 80th percentile for that pool, so you're now down to competing with ~10 people for every one of those jobs.
 
-in summary, get good at:
+In summary, get good at:
 1. showcasing your work (I.E. a personal website that proves you can write some tolerable code, or have an aptitude to learn)
 2. telegraphing competence in basic email communications
 
@@ -169,9 +171,3 @@ _I'll help you get the emails ready to send_.
 
 _quick aside: in the year and a half since I've written this gist, it's been starred 11 times, forked four times, and at least fifteen people have personally reached out thanking me for putting this together. Not a **single person** has asked about help composing emails. Maybe all of y'all are great at writing emails and have cold outreach down pat, or maybe some of you **should** ask me for help but are not. This offer still stands._
 
-## Misc resources
-
-- https://josh.works/so-you-want-to-work-remotely
-- https://news.ycombinator.com/item?id=5476363
-- http://weworkremotely.com/
-- https://nomadlist.com/
