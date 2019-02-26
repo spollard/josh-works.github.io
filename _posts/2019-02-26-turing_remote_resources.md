@@ -25,7 +25,7 @@ Second, hacker news' "who's hiring" threads, like this one from December 2017: [
 
 oh, and with the hacker news posts, they're often hundreds of entries long. I.E. hundreds of potential jobs.
 
-~I use this js in the console to filter them by keyword. At a minimum, I'd add "remote" as criteria: [https://gist.github.com/kristopolous/19260ae54967c2219da8](https://gist.github.com/kristopolous/19260ae54967c2219da8)~
+<strike>I use this js in the console to filter them by keyword. At a minimum, I'd add "remote" as criteria: [https://gist.github.com/kristopolous/19260ae54967c2219da8](https://gist.github.com/kristopolous/19260ae54967c2219da8)</strike>
 
 This resource is 100x better than the above gist: [https://kennytilton.github.io/whoishiring/](https://kennytilton.github.io/whoishiring/)
 
