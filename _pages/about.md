@@ -12,12 +12,11 @@ I expect that my peace with life will be based not on how much I've worked, or h
 
 ### Sections
 
-- [Programming](#programming)
 - [Theology](#theology)
 - [Relationships I](#relationships-i)
 - [Relationships II](#relationships-ii)
-- [Work I](#work-i)
-- [Work II](#work-ii)
+- [Programming and Software Development](#programming-and-software-development)
+- [Remote and Asynchronous](#remote-and-asynchronous)
 - [Books and Wisdom](#books-and-wisdom)
 - [Fitness](#fitness)
 - [Miscellaneous](#miscellaneous)
@@ -61,7 +60,7 @@ I used to believe that personal relationships were of little value. I was a fool
 
 --------------------
 
-## Programming
+## Programming and Software Development
 
 I work in the software industry. (Specifically, _backend software development_), which means I spend most of my day trying to do things that I don't currently know how to do.
 
@@ -71,38 +70,19 @@ I wrote a lot while at Turing. Some of that writing is published here, some are 
 
 [I care about my tools]({{site.baseurl}} {% link _posts/2017-05-27-developer-workflow.md %}) and believe that [good questions lead to understanding, not just answers]({{site.baseurl}}{% link _posts/2017-05-29-ask-better-questions.md %}).
 
-
 _[Everything I've written on the topic of programming](http://josh.works/tags#programming)_
 
 ____________________
 
-## Work I
+## Remote and Asynchronous
 
-I put work way down here because I aspire for it to belong way down here. I want it (and related side-projects) to not be the thing that provides my primary sense of meaning and satisfaction. I fail hard at this.
-
-I'm a developer at Wombat Security and do maintenance and development on one of the key pieces of infrastructure there. I enjoy it deeply. Wombat is based in Pittsburgh, and I work 100% remotely.
-
-Before Wombat, I worked at [Litmus](https://litmus.com/), and was the founding member of their Customer Success team, and at various times wore hats labeled "enterprise sales", "inbound API sales", "customer success", "customer support", and many other things. I worked 100% remotely.
-
-
-
-#### Remote and asynchronous
-
-While at Wombat and Litmus, I've worked 100% remotely, saw most of my coworkers a few times a year, and lived in the same time zone as almost none of them.
+While at [Wombat Security](https://www.wombatsecurity.com/) (acquired by [Proofpoint Inc](https://www.proofpoint.com/us)), and previously at [Litmus, Inc](https://litmus.com/), I've worked 100% remotely, saw most of my coworkers a few times a year, and lived in the same time zone as almost none of them.
 
 I was [once interviewed on working remotely]({{ site.baseurl }}{% link _posts/2016-03-16-my-interview-with-pajamasio.md %}), and believe that in the right context, the constraints imposed by remote work can improve the quality of your work. (I'm in the habit of _writing everything down_ and summarize and itemize everything. See the top of this post, that index? It's habit, made by working remotely. _You cannot over-communicate in a remote environment._)
 
 Remote work is great when you live in one place, but also opens the door to [cool travel opportunities](http://teamthompsontravels.tumblr.com/post/145144220613/1-year-travelversary-exactly-one-year-ago-on-may)
 
---------------------
-
-## Work II
-
-My primary side-project is [The Climber's Guide](http://www.climbersguide.co/), which has made, to date, less than $200, or "several pennies per hour of effort I've expended".  
-
-The process of building it out, talking to climbers, etc, has been _extremely_ educational.
-
-This project pulls together a few different skill sets, only two of which I've had before starting. (I know how to climb and how to teach. Building a product and curriculum and marketing and an email list and a business is a whole different skill set indeed.)
+I occasionally write up thoughts about remote work, and these posts are all collected [here](https://josh.works/tags#remote_work).
 
 --------------------
 

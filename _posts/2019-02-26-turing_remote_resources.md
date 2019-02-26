@@ -4,7 +4,7 @@ title:  "Remote Job Hunting Resources for Turing Grads and Anyone Else"
 date:  2019-02-26 06:00:00 -0700
 crosspost_to_medium: true
 categories: [remote_work]
-tags: [remote_work, job_hunting, programing]
+tags: [remote_work, job_hunting, programming]
 permalink: remote-job-resources
 ---
 
