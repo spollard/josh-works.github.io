@@ -12,4 +12,4 @@ _This is a quick summary of a lightning talk I gave a while back. Here's the lin
 
 <!--more-->
 
-More text
+I gave a talk on the topic. Youtube video, slides, etc: https://josh.works/denverrb
