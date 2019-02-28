@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Notes on Preparing for and Giving Two Talks"
+title:  "Some Lessons Learned While Preparing for Two Technical Talks"
 date:  2019-02-24 06:00:00 -0700
 crosspost_to_medium: false
 categories: [programming]
 tags: [public_speaking, programming]
-permalink: preparing-for-and-giving-two-talks
+permalink: lessons-learned-from-giving-technical-talks
 ---
 
 A few weeks ago, I gave two talks about Ruby and Rails:
