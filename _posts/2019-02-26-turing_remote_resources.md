@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Remote Job Hunting Resources for Turing Grads and Anyone Else"
-date:  2019-02-26 06:00:00 -0700
+date:  2019-02-26 04:00:00 -0700
 crosspost_to_medium: true
 categories: [remote_work]
 tags: [remote_work]
@@ -25,7 +25,7 @@ Second, hacker news' "who's hiring" threads, like this one from December 2017: [
 
 oh, and with the hacker news posts, they're often hundreds of entries long. I.E. hundreds of potential jobs.
 
-<strike>I use this js in the console to filter them by keyword. At a minimum, I'd add "remote" as criteria: [https://gist.github.com/kristopolous/19260ae54967c2219da8](https://gist.github.com/kristopolous/19260ae54967c2219da8)</strike>
+<strike>I use this javascript in the console to filter the "who's hiring" threads by keyword. At a minimum, I'd add "remote" as criteria: [https://gist.github.com/kristopolous/19260ae54967c2219da8](https://gist.github.com/kristopolous/19260ae54967c2219da8) </strike>
 
 This resource is 100x better than the above gist: [https://kennytilton.github.io/whoishiring/](https://kennytilton.github.io/whoishiring/)
 
@@ -55,9 +55,17 @@ None of these posts are earth shattering (actually, they are *all* very basic) b
 - I can write words in a legible and readable fashion. This is valuable in a remote work environment, as almost all communication will be written. (I.E. writing skills are particularly valuable.)
 
 Jason Fried, founder of Basecamp (and a bunch of other stuff) wrote in his book [Rework](https://www.goodreads.com/book/show/6732019-rework):
-> “If you are trying to decide among a few people to fill a position hire the best writer. it doesn't matter if the person is marketer, salesperson, designer, programmer, or whatever, their writing skills will pay off. That's because being a good writer is about more than writing clear writing. Clear writing is a sign of clear thinking. great writers know how to communicate. they make things easy to understand. they can put themselves in someone else's shoes. they know what to omit. And those are qualities you want in any candidate. Writing is making a comeback all over our society... Writing is today's currency for good ideas.” 
+> “If you are trying to decide among a few people to fill a position hire the best writer. it doesn't matter if the person is marketer, salesperson, designer, programmer, or whatever, their writing skills will pay off. That's because being a good writer is about more than writing clear writing. 
+> 
+> Clear writing is a sign of clear thinking. great writers know how to communicate. they make things easy to understand. they can put themselves in someone else's shoes. they know what to omit. And those are qualities you want in any candidate. 
+> 
+> Writing is making a comeback all over our society... Writing is today's currency for good ideas.” 
 
 So, writing is valuable. Write stuff, and make it easy to find. 
+
+To further make the point, [Brendon Caffery](https://devspade.com/writing-will-always-be-the-hot-sauce/) in _Writing Will Always Be the Hot Sauce_ says:
+
+> Communication is key to any team environment. These days engineers are expected to engage via Slack, JIRA, GitHub, Basecamp, Trello, Asana, Google Docs, StackOverflow, and more. Oh, and also email and Twitter and LinkedIn and...and...and. What's the common algorithm to solving problems on these platforms? What's the common API? Writing.   
 
 ## Outreach
 
@@ -170,4 +178,3 @@ If you've still not sent any cold emails, send me a doc containing the details y
 _I'll help you get the emails ready to send_. 
 
 _quick aside: in the year and a half since I've written this gist, it's been starred 11 times, forked four times, and at least fifteen people have personally reached out thanking me for putting this together. Not a **single person** has asked about help composing emails. Maybe all of y'all are great at writing emails and have cold outreach down pat, or maybe some of you **should** ask me for help but are not. This offer still stands._
-
