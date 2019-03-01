@@ -9,34 +9,55 @@ permalink: lessons-learned-from-giving-technical-talks
 ---
 
 A few weeks ago, I gave two talks about Ruby and Rails:
+
 1. An 8-minute "lightning talk" about using `.count` vs `.size` in ActiveRecord query methods
-2. A 30-minute talk at the Boulder Ruby Group arguing that developers should _embrace_ working with non-development business functions, and finding slow SQL queries, and using `.count` vs `.size` in AR query methods.
+2. A 30-minute talk at the Boulder Ruby Group arguing that developers should _embrace_ working with non-development business functions, and the constraints therein. I illustrated this via a story about finding slow SQL queries, and using `.count` vs `.size` in ActiveRecord query methods.
 
 ## Things that went well
 
-I enjoyed actually _giving_ the talks, but I found the preparation process to be brutal, and felt quite anxious in the ten days or so leading up to the talks. 
+- I enjoyed actually _giving_ the talks
+- I heard positive feedback after-the-fact
+- I learned a lot from the process, and next time the prep will be much less anxity-inducing
 
 ## Things that went poorly
 
-I finalized both talks a few minutes before leaving to give them, and was up late at night the night before doing the lions share of the preparation within 20 hours of when the talk was due.
-
-I was, therefore, sleep deprived.
+- I felt quite anxious in the ten days or so leading up to the talks
+- Felt stressed about not having the talks prepared
+- I did not finalize both talks until few minutes before leaving to give them, and was up late at night the night before each talk doing the lions share of the preparation, therefore I was sleep deprived.
 
 <!--more-->
 
-## What I would do differently
+## Lessons Learned
 
-I spent most of my time worrying about what I was going to talk about, and what technical topic I knew well enough to dive into and explain to a bunch of _super experienced_ software developers at the Boulder Ruby Group. I thought "I have nothing useful to say. They've forgotten more about Ruby than I will ever know."
+I spent most of my time worrying about what I was going to talk about, and what technical topic I knew well enough to dive into and explain to a bunch of _super experienced_ software developers at the Boulder Ruby Group. I thought 
+> I have nothing useful to say. They've forgotten more about Ruby than I will ever know.
 
-I got unblocked from this problem late in the game. I found [article on thinking about "what you want to share"](), and started thinking about this problem from the other end. 
+I got unblocked from this problem late in the game. I found [Preparing for a Tech Talk, Part 1: Motivation](https://overreacted.io/preparing-for-tech-talk-part-1-motivation/), and started thinking about this problem from the other end. 
+
+A few quotes from the article that hit home for me:
+
+> 
 
 Instead of thinking 
 > What do I know well enough to talk about to seasoned professionals
 
 I thought 
-> What do I know, or what perspective do I have, that might be useful to a crowd of experienced software developers?
+> What do I know, or what perspective do I have, that might be interesting and maybe even useful to a crowd of experienced software developers?
 
 Turns out I've got stuff there, and a few stories that could prove to be instructive. 
+
+I _love_ to share knowledge and teach things. This website is pretty strong evidence of that, and I spent a lot of time helping people learn things about software development, rock climbing, career navigation, and more. It's a pretty strong unifying thread throughout pretty much every domain of my life. 
+
+> I like to help people learn things
+
+Sometimes it's a "direct knowledge transfer", where I simply have a piece of knowledge that they don't, and I give them that piece of knowledge. This is rare, though. I'd say 90% of the time, I "teach" through a collection of ideas:
+
+- I might share a _process_ around something. (Finding a bug, resolving a stack trace, feeling confident while lead climbing)
+- I might share a _story_ that illustrates a concept. (I failed my last project coming out of Turing, _and_ I got an F my last semester of college, and got a "provisional" diploma until I finished an online class to hit some credit requirement. The concept is `good_grades != good_education && bad_grades != bad_educated`. There's a loose relationship _at best_ between grades and the vast majority of knowledge one might acquire.)
+- I know so little about so much, so even if I share _just_ obvious things, it's likely that others will be helped, via the _Munroe's Ten Thousand Rule_:
+
+![XKCD: Ten Thousand](/images/xkcd_ten_thousand.png "Saying 'what kind of an idiot doesn't know about the Yellowstone supervolcano' is so much more boring than telling someone about the Yellowstone supervolcano for the first time.")
+_mouseover text: Saying 'what kind of an idiot doesn't know about the Yellowstone supervolcano' is so much more boring than telling someone about the Yellowstone supervolcano for the first time._ [(source)](https://xkcd.com/1053/)
 
 Once I was thinking in this direction, I was back in my "normal" operating mode - I like to share everything I can about what I'm learning, knowng that someone else out there might find value in it. I often share very basic things, because they either are not basic to me, or if they _are_ basic to me, I still didn't learn about them until "recently", and it might be my day to learn the obvious thing.
 
@@ -62,5 +83,5 @@ The few words would be enough to remind me what I wanted to talk about, and I co
 
 ### Resources
 
-- Jason's notes on putting together slides for technical talks
-- Find that two-part article on _the why_ of a technical talk. 
+- [A Few Tips on Building Slides (Jason Rodriguez)](https://rodriguezcommaj.com/blog/a-few-tips-on-building-slides)
+- [Preparing for a Tech Talk, Part 1: Motivation](https://overreacted.io/preparing-for-tech-talk-part-1-motivation/)
