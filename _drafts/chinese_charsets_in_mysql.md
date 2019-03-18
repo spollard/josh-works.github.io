@@ -20,6 +20,32 @@ Debugging, done rightly, should lead in the same direction. As you work through 
 
 Good debugging is also a particularly useful skill a developer could bring to their job, _and you don't have to be an experienced developer to be good at debugging_. You could argue good debugging is based more on attitude than technical know-how, so if you're just getting your start in the software development industry, making sure you're good at debugging things _and then telling potential employers this_ could be to your advantage. 
 
+Here's some more thoughts on this, from other developers (quoted anonymously from a public slack channel):
+
+(I had most of this blog post written before even seeing these quotes, fwiw.)
+
+dev_1:
+
+> There's the tiresome old joke about "I'm not better at computers/coding/etc. than you, I'm just better at google!" Ha. So funny.
+> 
+> But a truly under-appreciated skillset that I think doesn't get its fair share of mention from experts/teachers/celebrity-bloggers or attention by some developers is *debugging*.
+> 
+> There's often so much mental headspace put into the idea of writing code, good code, functional code, that "what do I do when I don't write working code" is rarely addressed. 
+> 
+> Even well seasoned (yum) devs are constantly surprised by features of browser devtools, that `console.trace()` exists alongside `console.log()`, and more. 
+> 
+> I think it's often seen as a side effect of what we do so much that we learn the tools and techniques as we need them instead of as a crucial skill.
+> 
+> I think making mistakes in your code and figuring out why the error/mistake is occurring is a great way to further comprehension of a language, don't get me wrong. But so many people are never told where to look first when they don't know _why_ or _how_ an error is occurring. They just feel like they're going to a doctor and saying "it hurts" they don't know where, they don't know how, just, ouch.
+
+dev_2: 
+
+> I think also knowing where in a fullstack application, an error actually occurred is a super surprising and frankly awesome skill to see from someone more junior. 
+> 
+> So being able to jump in, verify if a network request is showing you something funky, understanding what errors from different layers of the application might look at (depending on the error handling written at each level). 
+> 
+> That is SUCH. A. GREAT. SKILL. Also a skill that will help you waste less and less time fumbling through errors as you develop.
+
 Onward!
 
 _A bit of house-keeping - this post is born out of notes I was making as I worked through the process. I often create a document of notes based on the current ticket I'm working on. Obviously that document isn't fit for public consumption, so the following is an editorialized version of this document, with modified screenshots, logs, etc._
