@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Some Lessons Learned While Preparing for Two Technical Talks"
-date:  2019-03-02 06:00:00 -0700
-crosspost_to_medium: false
+date:  2019-03-19 06:00:00 -0700
+crosspost_to_medium: true
 categories: [programming]
 tags: [public_speaking, programming]
 permalink: lessons-learned-from-giving-technical-talks
@@ -17,7 +17,7 @@ A few weeks ago, I gave two talks about Ruby and Rails:
 
 - I enjoyed actually _giving_ the talks
 - I heard positive feedback after-the-fact
-- I learned a lot from the process, and next time the prep will be much less anxity-inducing
+- I learned a lot from the process, and next time the prep will be much less anxiety-inducing
 
 ## Things that went poorly
 
@@ -67,7 +67,7 @@ Turns out I've got stuff there, and a few stories that could prove to be instruc
 
 I _love_ to share knowledge and teach things. 
 
-This website is pretty strong evidence of that, and I spent a lot of time helping people learn things about software development, rock climbing, career navigation, and more. It's a pretty strong unifying thread throughout pretty much every domain of my life. 
+This website is pretty strong evidence of that, and I spent a lot of time helping people learn things about software development, rock climbing, career navigation, and more. It's a strong unifying thread throughout many domains of my life. 
 
 Sometimes it's a "direct knowledge transfer", where I simply have a piece of knowledge that they don't, and I give them that piece of knowledge. This is rare, though. I'd say 90% of the time, I "teach" through a collection of ideas, like: **process**, **my experiences**, and **stories of failure (and success)**. 
 
@@ -99,13 +99,24 @@ So, I made heavy use of screenshots and gifs, and weaved them into a slide deck.
 
 I started with paper notes I put together on the talks I was giving. They were haphazardly organized, but I dutifully transcribed everything into a slide.  
 
-I wrote out "whole sentences" on slides, sometimes paragraphs. I was working in the direction of creating that great faux paux, of reading my slides to the audience. 
+I wrote out "whole sentences" on slides, sometimes paragraphs. I was working in the direction of creating that great _faux pas_, of reading my slides to the audience. 
 
 I shuffled slides around, added sentences/bullet-points where needed, often giving the talk in small chunks "in my head", and making adjustments as I went. 
 
 Once I had a basic "flow" down, I pulled the sentences out of the slide and copied into the presenter notes below the slide, and dropped a few related words into the content of the slide. 
 
 The few words would be enough to remind me what I wanted to talk about, and I could reference the presenter notes if needed, and now, without my narration, the meaning of each slide wasn't obvious when it popped up. 
+
+## The results
+
+I gave two talks! I recorded both talks on my cell phone, so I could figure out how to improve them. I made a landing page for both talks, because it takes no effort to do so. 
+
+Here's both of those pages, with links for slides and the recordings themselves:
+
+- https://josh.works/boulder_ruby_group
+- https://josh.works/denverrb
+
+I gained a lot from both of these talks. The talk at Boulder Ruby Group was particularly instructive, as everyone in the room was quite knowledgable, and the "talk" unfolded as more of a dialog than a standard one-way presentation. 
 
 ### Resources
 
