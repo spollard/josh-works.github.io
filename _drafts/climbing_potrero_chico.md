@@ -4,7 +4,7 @@ title:  "Trip Guide: Climbing in Potrero Chico"
 date:  2019-03-17 06:00:00 -0700
 crosspost_to_medium: false
 categories: [climbing]
-tags: [climbing, guide]
+tags: [climbing, guide, trip_review]
 permalink: trip-guide-to-climbing-in-potrero-chico
 ---
 
