@@ -150,4 +150,4 @@ I recommend everyone give this a shot now and again. It's nerve-wracking at firs
 - [Slack Is Not Where 'Deep Work' Happens
 deep-work](https://blog.nuclino.com/slack-is-not-where-deep-work-happens)
 - [Deep Work: Rules for Focused Success in a Distracted World (Cal Newport)](https://www.goodreads.com/book/show/25744928-deep-work)
-
+- [Please Don't Say Just Hello In Chat](http://www.nohello.com/)
