@@ -10,9 +10,15 @@ permalink: whole-messages-in-slack
 
 I use [Slack](https://slack.com/features) at work. And used it in Turing. And am in a few programming-related Slack groups. (Ahoy, [#DenverDevs](https://denverdevs.org/)). My last job, I used Slack. The job before that, I got the whole company _on_ Slack. I've used it for years. 
 
-Slack delivers value to me, and induces very little anxiety, and most importantly, _Slack does not interrupt my day, and I don't think I interrupt other people's days via Slack much either._
+Slack delivers value to me, and induces little anxiety, and most importantly, _Slack does not interrupt my day, and I don't think I interrupt other people's days via Slack much either._
 
-Slack is famous for ruining other people's work-days.
+Slack is famous for ruining other people's work-days. Their complaints are valid:
+
+- [Why I'm Breaking Up With Slack (Quartz)](https://qz.com/632016/why-im-breaking-up-with-slack/)
+- [How to Use Slack and Not Go Crazy](https://pspdfkit.com/blog/2018/how-to-use-slack-and-not-go-crazy/)
+- [Why We’re Betting Against Real-Time Team Messaging Apps Like Slack (Doist)](https://doist.com/blog/asynchronous-communication-betting-against-slack/)
+- [Is Group Chat Making You Sweat? (Basecamp)](https://m.signalvnoise.com/is-group-chat-making-you-sweat/)
+- [Slack Is Not Where 'Deep Work' Happens](https://blog.nuclino.com/slack-is-not-where-deep-work-happens)
 
 So, if some people like Slack, and some people hate it, what might account for the difference? 
 
@@ -128,8 +134,20 @@ As a case study of how time consuming it is when this information is missing - I
 
 A few minutes later, after looking said person up in our company directory (not finding them) I turned to LinkedIn - turns out this person was a developer on another product. This information obviously shaped my answer in a _different_ direction. 
 
+### Close Slack now and again
+
+If I really want to go heads-down on something, and am feeling tons of friction and distraction, I can just enter "monk mode". I'll quit Slack, block every website except what's defined in a whitelisted, pre-determined list (Github, Jira, StackOverflow, language documentation, etc) and will "lock myself in" to a problem for an hour or so. 
+
+I recommend everyone give this a shot now and again. It's nerve-wracking at first, which underscores how valuable it is to actually quit Slack. 
+
 
 ### Resources
 
 - [Why I'm Breaking Up With Slack (Quartz)](https://qz.com/632016/why-im-breaking-up-with-slack/)
 - [How to Use Slack and Not Go Crazy](https://pspdfkit.com/blog/2018/how-to-use-slack-and-not-go-crazy/)
+- [Why We’re Betting Against Real-Time Team Messaging Apps Like Slack (Doist)](https://doist.com/blog/asynchronous-communication-betting-against-slack/)
+- [Is Group Chat Making You Sweat? (Basecamp)](https://m.signalvnoise.com/is-group-chat-making-you-sweat/)
+- [Slack Is Not Where 'Deep Work' Happens
+deep-work](https://blog.nuclino.com/slack-is-not-where-deep-work-happens)
+- [Deep Work: Rules for Focused Success in a Distracted World (Cal Newport)](https://www.goodreads.com/book/show/25744928-deep-work)
+
