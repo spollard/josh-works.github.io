@@ -1,28 +1,33 @@
 ---
 layout: post
 title:  "Troubleshooting Chinese Character Sets in MySQL"
-date:  2019-03-08 06:00:00 -0700
+date:  2019-04-21 06:00:00 -0700
 crosspost_to_medium: false
 categories: [programming]
 tags: [mysql, rails]
 permalink: troubleshooting-chinese-character-sets-in-mysql
 ---
 
-A while back, I picked up a bug where when a customer tried to save certain kinds of data using Chinese characters, we were replacing the Chinese characters with a series of `?`.  
+A while back, I picked up a bug where when a customer tried to save certain kinds of data using Chinese characters, we were replacing the Chinese characters like `平仮名` with a series of `?`.  
 
 This will be a quick dive through how I figured out what the problem was, and then validated said problem, and then what the actual fix is.
 
-This isn't just a story, though. Debugging skills are valuable, and just like any other skill, they can be sharpened. I have built competence in this domain, and I wanted to record some of the process and thought processes.
+This isn't just a story about character encoding, though. It's a story about debugging. Debugging skills are valuable, and just like any other skill, they can be sharpened. I have built some competence in this domain, and I wanted to record some of the process, in the hopes that it might help others.
 
-I perceive good debugging to go hand-in-hand with asking good questions. [I wrote a whole post]({{ site.baseurl }}{% link _posts/2017-05-29-ask-better-questions.md %}) about how asking good questions is _hard_, but done well makes it easy for someone else to help you, and leads to deeper understanding of the space. 
+I perceive good debugging to go hand-in-hand with asking good questions. [I wrote _Asking experts, and gaining more than just answers_]({{ site.baseurl }}{% link _posts/2017-05-29-ask-better-questions.md %}) about how asking good questions is _hard_, but done well makes it easy for someone else to help you, and leads to deeper understanding of the space. 
 
-Debugging, done rightly, should lead in the same direction. As you work through the process, you should be building a mental model of the surrounding portions of the application, or the problem, validating assumptions, etc. 
+Mark Dalrymple [wrote _Thoughts on Debugging, Part 1_](https://www.bignerdranch.com/blog/thoughts-on-debugging-part-1/) and said:
+
+> Debugging, to me, is just a skill. It’s an analytical skill, but fundamentally it is a skill that can be learned and developed through practice: you identify problems, analyze the system to figure out what is causing that problem, and then figure out the changes necessary to correct the problem. 
+> 
+> Finding the cause leads to the solution. The fix might not be practical from a business perspective. If fixing this bug requires overhauling the entire app, it might make better sense to leave it than to pay what it would take to fix.
+
 
 Good debugging is also a particularly useful skill a developer could bring to their job, _and you don't have to be an experienced developer to be good at debugging_. You could argue good debugging is based more on attitude than technical know-how, so if you're just getting your start in the software development industry, making sure you're good at debugging things _and then telling potential employers this_ could be to your advantage. 
 
-Here's some more thoughts on this, from other developers (quoted anonymously from a public slack channel):
+Here's some more thoughts on this, from other developers (quoted anonymously from the DenverDevs Slack channel):
 
-(I had most of this blog post written before even seeing these quotes, fwiw.)
+For what it's worth, I had most of this blog post written before even seeing these quotes.
 
 dev_1:
 
@@ -38,6 +43,8 @@ dev_1:
 > 
 > I think making mistakes in your code and figuring out why the error/mistake is occurring is a great way to further comprehension of a language, don't get me wrong. But so many people are never told where to look first when they don't know _why_ or _how_ an error is occurring. They just feel like they're going to a doctor and saying "it hurts" they don't know where, they don't know how, just, ouch.
 
+<!--more-->
+
 dev_2: 
 
 > I think also knowing where in a fullstack application, an error actually occurred is a super surprising and frankly awesome skill to see from someone more junior. 
@@ -48,7 +55,7 @@ dev_2:
 
 Onward!
 
-_A bit of house-keeping - this post is born out of notes I was making as I worked through the process. I often create a document of notes based on the current ticket I'm working on. Obviously that document isn't fit for public consumption, so the following is an editorialized version of this document, with modified screenshots, logs, etc._
+_Note to the reader: this rest of this post is born out of notes I was making as I worked on this bug. I often create a document of notes based on the current Jira ticket I'm working on. Obviously that document isn't fit for public consumption, so the following is a lightly editorialized version of this document, with modified screenshots, logs, etc._
 
 # Reproducing the bug
 
@@ -56,26 +63,25 @@ Not all bugs can be reproduced. That makes them particularly challenging. But if
 
 So, you need to determine if this bug can be replicated. 
 
-I started here, as just reading through the ticket description, I knew this would be easy to see if I could replicate it:
+This particular bug happened to be very easily to replicate:
 
-![setup](https://cl.ly/2X3o2x3s0l12/2018-05-30%20at%202.52%20PM.png)
+![setup](/images/2019-04-21-screenshot-01.png)
 
-The results:
-<!--more-->
+The results, after creating the campaign:
 
-![question marks](https://cl.ly/2K412U3E3i2W/2018-05-30%20at%202.53%20PM.png)
+![question marks](/images/2019-04-21-screenshot-02.png)
 
 ### Reproduce on localhost? 
 
-OK, I'm gonna see if I can reproduce this locally.
+It's one thing to find a bug happening on production - if one can then replicate it locally, that helps a _lot_. It's easier to manipulate/examine state when running the app on your own machine, so now that I had this replicated "in the wild", I re-did the same process on locally.
 
-Only 'gotcha' was in `campaigns#index`, the app was throwing errors because I had a campaign in my database created by a user that was no longer in the database. I deleted the given campaign from the DB, and all is groovy.
+The encoding problem showed up just the same on my local machine. 
 
 So, now to see when and where we're losing that character encoding. 
 
-# Where is encoding being stripped/broken/lost/'misplaced'?
+# Where is the correct encoding being stripped/broken/lost/'misplaced'?
 
-When building the campaign, I see a `POST` request containing everything correctly encoded, I think (some params removed for readability):
+When building the campaign, can keep an eye on the network tab, and I see a `POST` request containing everything correctly encoded. (some params removed for readability):
 
 ```
 {
@@ -87,7 +93,10 @@ When building the campaign, I see a `POST` request containing everything correct
    "status":200,
    "utf8":"\u2713",
    "usb_campaign":{
-      "title":"these are lost \u4e16\u754c < those were lost",
+     ----------------------------------------------------------------
+    |  "title":"these are lost \u4e16\u754c < those were lost",       |
+    | # these characters following the `\u` encoded Chinese characters|
+     -----------------------------------------------------------------
       "file_details_attributes":{
          "0":{
             "id":"7",
@@ -107,17 +116,11 @@ When building the campaign, I see a `POST` request containing everything correct
          "city":"f",
          "country_code":"US",
          "state":"GU",
-         "zip":"11111",
-         "email":"lwhalin+super@wombatsecurity.com",
-         "phone_number":"1111111111"
+         "zip":"11111"
       },
       "id":"79"
    },
-   "training_type_campaign_type":"USB",
-   "_method":"put",
-   "draft":"true",
-   "id":"79",
-   "message":"[200] POST /account/usb_campaigns/79 (account/usb_campaigns#update)"
+   "training_type_campaign_type":"USB"
 }
 ```
 
@@ -125,38 +128,34 @@ But when we take a look at the database, we've lost the encoding:
 
 from the `usb_campaigns` table on `localhost`:
 
-![bad encoder!](https://cl.ly/032L2S0r0h3b/2018-05-30%20at%205.37%20PM.png)
+![bad encoder!](/images/2019-04-21-screenshot-03.png)
 
 Ditto on the filename:
 
-![bad file name encoder!](https://cl.ly/3U1X3C3e3j0x/2018-05-30%20at%205.38%20PM.png)
+![bad file name encoder!](/images/2019-04-21-screenshot-04.png)
 
 ## How do we store these values in the database? 
 
-I'm first looking in the controller, to try to localize this a bit:
+I'm first looking in the controller that this `#update` action hits:
 
 ```ruby
-# app/controllers/account/usb_campaigns_controller.rb:93
-
   def update
     require "pry"; binding.pry
     @campaign = current_user.account.usb_campaigns.find(params[:id]).decorate
     authorize @campaign
-
     saver.save
-
     respond_with @campaign
   end
   ```
-With that pry, my `params` hash has everything as I expect it:
+Since I'm running this in localhost, I can just hit the pry and inspect the params. My `params` hash has everything as I expect it:
 
-![params](https://cl.ly/2y2i3d3W1w11/2018-05-30%20at%206.02%20PM.png)
+![params](/images/2019-04-21-screenshot-05.png)
 
 but if I play the line right under the require, and look at the object, it has lost the encoding:
 
-![don't fail me now](https://cl.ly/381p3D1Q0b26/2018-05-30%20at%206.04%20PM.png)
+![don't fail me now](/images/2019-04-21-screenshot-06.png)
 
-So, why is chinese encoding being lost? And where, precisely, is this object being built and modified?
+So, why is Chinese encoding being lost? And where, precisely, is this object being built and modified?
 
 Stepping through the method, line by line:
 
@@ -164,19 +163,14 @@ Stepping through the method, line by line:
 @campaign = current_user.account.usb_campaigns.find(params[:id]).decorate
 ```
 
-Seems unrelated to saving the campaign. Just calls the decorator. Maybe to make sure that new values are captured next time someone looks at the campaign page? (I don't know why `.decorate` is called on the end of the whole thing, but other lines look more relvent)
+Seems unrelated to saving the campaign. Just calls the decorator. Maybe to make sure that new values are captured next time someone looks at the campaign page? 
 
 ```ruby
 authorize @campaign
 ```
 
-no clue what it is doing. We have no `def authorize` in our app. Tons of references like `authorize @custom_training`, (about 122 instances) but can't tell where it's coming from. 
+no clue what it is doing. We have no `def authorize` in our app. Tons of references like `authorize @custom_training`, (about 122 instances) but can't tell where it's coming from. (Update: this is from the [Devise gem](https://github.com/plataformatec/devise))
 
-[The cancan gem](https://github.com/ryanb/cancan) seemed like it might be involved, but we don't have it in the gemfile. 
-
-`ApplicationController` doesn't have `before_filter :authorize`. 
-
-Looks like [pundit](https://github.com/RailsApps/rails-devise-pundit) might be in play here. Not relevant to our current bug, but looks interesting, and I'd like to explore it later. 
 
 ```ruby
 saver.save
@@ -185,8 +179,6 @@ saver.save
 Now we're getting somewhere. This line calls another method in our class (`Account::USBCampaignsController` in case you forgot... I just did.)
 
 ```ruby
-# app/controllers/account/usb_campaigns_controller.rb:147
-
   def saver
     @saver ||= USBCampaign::Saver.new(campaign, draft?, usb_campaign_params, end_at_params, request.remote_ip)
   end
@@ -195,8 +187,6 @@ Now we're getting somewhere. This line calls another method in our class (`Accou
 And, this new `USBCampaign::Saver` object of course has `#save` available to it:
 
 ```ruby
-# app/services/usb_campaign/saver.rb:18
-
   def save
     EndDateParser.new(campaign, **end_at_params.symbolize_keys).parse!
     campaign.assign_attributes(usb_campaign_params)
@@ -217,21 +207,23 @@ If we dig into that second line, the `usb_campaign_params` are the expected valu
 
 here's the params going into the `assign_attributes` function:
 
-![trying to change variables](https://cl.ly/3X2Z1x2k1y0B/2018-05-30%20at%206.58%20PM.png)
+![trying to change variables](/images/2019-04-21-screenshot-07.png)
 
 hm. `campaign.save` worked. I didn't expect it to:
 
-![save](https://cl.ly/0u2U39363w0p/2018-05-30%20at%207.01%20PM.png)
+![save](/images/2019-04-21-screenshot-08.png)
 
 Lets check the database. 
 
-![not expected](https://cl.ly/092d2A2i0z16/2018-05-30%20at%207.03%20PM.png)
+![not expected](/images/2019-04-21-screenshot-09.png)
 
 So why is my new object showing the wrong values?
 
 AHA! `campaign.reload` for the win. I hadn't pulled in new values from the DB, which seemed to fail to save correctly.
 
-![betrayed!](https://cl.ly/2v262N3O2U0n/2018-05-30%20at%207.05%20PM.png)
+![betrayed!](/images/2019-04-21-screenshot-10.png)
+
+So, my working assumption at this point: We're passing the correct information to the database when saving a new object, but the database itself is losing important information.
 
 This leads to some obvious questions.
 
@@ -239,9 +231,9 @@ This leads to some obvious questions.
 
 First, does our database support "unusual" characters? here's my super sophisticated, professional-level test:
 
-![german characters](https://cl.ly/2n3S0t3M210M/2018-05-30%20at%207.09%20PM.png)
+![german characters](/images/2019-04-21-screenshot-11.png)
 
-So, there's one set of character encoding. Lets try japanese:
+So, there's one set of character encoding. Lets try Japanese characters:
 
 Ah, interesting. I tried to paste in:
 
@@ -249,13 +241,13 @@ Ah, interesting. I tried to paste in:
 
 and got: 
 
-![japanese chars](https://cl.ly/0B1E2g3Z1n2b/2018-05-30%20at%207.12%20PM.png)
+![japanese chars](/images/2019-04-21-screenshot-12.png)
 
-Looks suspiciously like our problematic chinese characters:
+This looks suspiciously like our problematic Chinese characters:
 
 > 世界
 
-![no dice](https://cl.ly/310m0S3P4012/2018-05-30%20at%207.14%20PM.png)
+![no dice](/images/2019-04-21-screenshot-13.png)
 
 OK, the problem is how MySql handles these character sets. 
 
@@ -336,7 +328,7 @@ gives:
 ```
 
 
-### Make sure that a round trip is possible. When you select `literal` (or `_introducer hexadecimal-value`), do you obtain `literal` as a result? 
+### Make sure that a round trip is possible. When you select `literal` (or `_introduce hexadecimal-value`), do you obtain `literal` as a result? 
 
 ```sql
 SELECT 'ペ' AS `ペ`;
@@ -363,11 +355,11 @@ returns:
 
 The plot thickens:
 
-![eureka?](https://cl.ly/1y0a3G1K0W25/2018-05-31%20at%2012.38%20PM.png)
+![eureka?](/images/2019-04-21-screenshot-14.png)
 
 OK, it's a per-table encoding problem. Our `campaigns` table can handle these values just fine, but not `usb_campaigns`:
 
-![not working](https://cl.ly/1q3d0x3f2606/2018-05-31%20at%2012.39%20PM.png)
+![not working](/images/2019-04-21-screenshot-15.png)
 
 # on a per-table basis, changing `character_set_name`
 
@@ -424,7 +416,7 @@ And now, when I check the `character_set_name`, I get:
 
 Wahoo!
 
-![it worked](https://cl.ly/2Y2j43262e3H/2018-05-31%20at%2012.52%20PM.png)
+![it worked](/images/2019-04-21-screenshot-16.png)
 
 -----------------------------------------------
 
@@ -440,7 +432,7 @@ Wahoo! It works. I updated `usb_campaigns` and `usb_campaign_file_details`, and 
 
 Now to test on a oneshot!
 
-I've SSH'ed in to https://autoenrollmentrequeuefailure.threatsim.net/, and ran 
+I've SSH'ed in to https://temporary_staging_environment_url_placeholder.com, and ran 
 
 ```sql
 ALTER TABLE threatsim_staging.usb_campaigns  CONVERT TO CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
@@ -449,7 +441,7 @@ ALTER TABLE threatsim_staging.usb_campaign_file_details CONVERT TO CHARACTER SET
 
 And it's fixed!
 
-![fixed!](https://cl.ly/1i2q1q3p0k1L/2018-05-31%20at%203.03%20PM.png)
+![fixed!](/images/2019-04-21-screenshot-17.png)
 
 -----------------------------------
 
@@ -457,9 +449,11 @@ And it's fixed!
 
 I've reset the `usb_campaign_file_details` table to `latin1`, `latin1_swedish_ci`, and I'm going to work on a rails migration that will update it.
 
-Scratch that - Laura suggested asking Jordan directly.
+Scratch that - a coworker suggested asking Jordan directly.
 
 # Asking Jordan for help
+
+_note to reader: Jordan is on our DevOps team, and I linked to the gist I created in a JIRA ticket for Jordan/DevOps, to make these changes on production. I wanted them to have the context around my request, so I linked around a bit inside this doc._
 
 Hi Jordan! There are two tables to change the `character_set_name` on. 
 
@@ -492,3 +486,4 @@ Inspiration:
 ### Resources
 
 - [Thoughts on Debugging, Part 1, by Mark Dalrymple](https://www.bignerdranch.com/blog/thoughts-on-debugging-part-1/)
+- [Thoughts on Debugging, Part 2, by Mark Dalrymple](https://www.bignerdranch.com/blog/thoughts-on-debugging-2/)
