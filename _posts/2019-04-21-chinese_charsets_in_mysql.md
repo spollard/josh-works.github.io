@@ -487,3 +487,4 @@ Inspiration:
 
 - [Thoughts on Debugging, Part 1, by Mark Dalrymple](https://www.bignerdranch.com/blog/thoughts-on-debugging-part-1/)
 - [Thoughts on Debugging, Part 2, by Mark Dalrymple](https://www.bignerdranch.com/blog/thoughts-on-debugging-2/)
+- [Dan Luu: Teach debugging](https://danluu.com/teach-debugging/)
