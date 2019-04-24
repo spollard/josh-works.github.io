@@ -113,8 +113,8 @@ I gave two talks! I recorded both talks on my cell phone, so I could figure out 
 
 Here's both of those pages, with links for slides and the recordings themselves:
 
-- https://josh.works/boulder_ruby_group
-- https://josh.works/denverrb
+- [https://josh.works/boulder_ruby_group](https://josh.works/boulder_ruby_group)
+- [https://josh.works/denverrb](https://josh.works/denverrb)
 
 I gained a lot from both of these talks. The talk at Boulder Ruby Group was particularly instructive, as everyone in the room was quite knowledgable, and the "talk" unfolded as more of a dialog than a standard one-way presentation. 
 
