@@ -18,10 +18,13 @@ We'll do this by working on, (and completing) a few dozen small Ruby exercises.
 You might be thinking: 
 > Josh. This already sounds like a lot of work. I just finished my prework, and I know Turing's gonna be brutal. Why should I do all of this _optional_ work, instead of enjoying my last few days of freedom?
 
-Good question. The answer is a digression into the topic of _tortured analogies involving screw bits_,  _how to learn hard things_, and _why you should do drills_. 
+Good question. The answer is a digression into the topics of:
+- lumberjacks
+- how to learn hard things
+- why you should do drills 
 
 
-## How to learn hard things
+## Driving Screws
 
 If I handed you a `spax` screw, and told you I'd pay you $1000 to screw it into a piece of wood, and then handed you a Phillips screw driver, what would you do?
 
@@ -48,13 +51,17 @@ What if I were to pay you $1000 _per screw_ you could drive into the wood?
 
 Now you can't rely on just herculean effort, sleepless nights, and tenacity. 
 
-_you have to have the right tools._
+_you have to have the spax bit to drive a spax screw._
 
 For $1000 per screw, you could afford to buy the correct bit, and it would let you _effortlessly_ drive the screws. 
 
 I'd argue it would be _irresponsible to not get the right tools_. 
 
-*It could be considered irresponsible to not acquire the right kinds of tools for doing imporant things*. (like becoming a software developer.)
+The analogy should be clear - you're not being asked to drive screws, you're being asked to learn challenging and technical skills. Most of us didn't learn how to learn hard things in school, we figured out how to game the system and squeak by. (Or, we didn't learn to game the system and we didn't squeak by. Did anyone else pick up some failing grades in high school and college. No? Just me? OK.)
+
+You need to learn software development, and you're probably going to put a lot of time and money into this goal.
+
+*It could be considered irresponsible to not acquire the right kinds of tools for learning technical topics*
 
 Obviously, you need the right physical tools. A laptop, functioning screen, etc. But to learn hard things, you need the right mental tools. 
 
