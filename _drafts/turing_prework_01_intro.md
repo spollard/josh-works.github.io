@@ -69,6 +69,8 @@ Obviously, you need the right physical tools. A laptop, functioning screen, etc.
 
 To learn hard things, you need the right mental tools. 
 
+> "mental tools" sound made up, Josh. 
+
 I strongly recommend buying or renting a copy of [A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers). 
 
 Do that, but then read these two summaries of the book:
@@ -80,45 +82,69 @@ _A Mind for Numbers_ talks about how to learn hard things. The author talks abou
 
 Everything in that book is relevant to the rest of your career in software. Please read the book.
 
-Now, I know most of you will not read the book, despite my strong suggestion and humble request that you do so. That's fine, I guess. 
+Now, I know most of you will not read the book, despite my strong suggestion and humble request that you do so. 
 
-If you're not going to read the book, you don't get to question my methodology for the rest of this guide. 
+If you're not going to read the book, you don't get to question my methodology for the rest of this guide, so please accept the following truth:
 
-To learn hard things, you need to build mental models of the hard thing, and you need practice and repetition. 
+*To learn hard things, you need to build mental models of the hard thing, and you need practice and repetition.*
 
 Most of the world is on board with the value of "drilling" important things. Fire drills, drills for sports teams, drilling to practice something you'll be tested on - all of these are ways to make sure not only that you know how to do the right thing, but _you can't get it wrong_. 
 
 So, working through these drills will move you in the same direction. You'll not just build a single class (in the mythical creatures), but you'll eventually do it so many times you can't help but get it right every time. 
 
-This will make the rest of your time at Turing go much, much better. It could help save you from repeating a module (six weeks saved, plus a few thousand dollars), and will serve you for the rest of your career as a developer. (Over a decade or two, we're talking about many hundreds of thousands of dollars.)
+This will make the rest of your time at Turing go much, much better. It could help save you from repeating a module (six weeks saved, plus a few thousand dollars), and will serve you for the rest of your career as a developer. 
 
-But don't take my word for it. 
+But don't take my word for it. Here's what other Turing students have said, after working through this guide:
 
-### Feedback from Turing students
-
-
-##### As a result of doing all these drills:
-
-
+anonymous_student_1:
 >  I definitely feel over prepared in some aspects, but I'm trying to use it to help everyone get to the same levels of understanding
 
-
+anonymous_student_2:
 > It has been amazing and I feel like I learned so much from mythical_creatures...
->
+
+anonymous_student_3:
 > The mythical_creatures felt like it like brought everything together and how it works (on a kindergarten level) but made it all feel...real-ish in a way, and that was huge.
 
-
+anonymous_student_4:
 >  i swear to god, knowing what pry was and having done mythical creatures helped me so much here!
 
-##### From those who did _not_ do the drills:
 
+Here's what a student said, who _didn't_ follow this guide:
 > I wish I’d done mythical creatures and more before. I really struggled in mod 1
 
-### Why are drills effective?
+## Why are drills effective?
 
-Lots of reasons. If you want to get into the nitty gritty, know that they line up closely with the principles of [Deliberate Practice](https://jamesclear.com/deliberate-practice-theory) which is... how anyone can learn anything.
+Lots of reasons. If you want to get into the nitty gritty, know that they line up closely with the principles of [Deliberate Practice](https://jamesclear.com/deliberate-practice-theory) which is "how anyone can learn anything".
 
-Finally, to make progress in drills, you'll have to get good at examining your own assumptions about what your code is doing, while getting deep into your IRB or Pry prompt. 
+Finally, to make progress in drills, you'll have to get good at examining your own assumptions about what your code is doing, while getting deep into debugging tools. 
+
+### Conclusion
+
+You should bring tools suited to the task at hand. If you need to drive Spax screws, bring a spax screw bit. 
+
+Read _Mind for Numbers: How to learn STEM even if you flunked it_, or _at minimum_ the given book summaries: 
+
+- [Faster to Master: Book Summary: “A Mind For Numbers”, Barbara Oakley](https://fastertomaster.com/a-mind-for-numbers-barbara-oakley/)
+- [Karl Booklover: A mind for numbers — Summary](https://www.karlbooklover.com/a-mind-for-numbers-summary/)
+
+Be swayed by other students who have worked through this guide and have felt very well prepared by it. They've saved themselves time, stress, sleepless nights, perhaps money, and much more. 
+
+This guide contains information to help you do Ruby programming "drills". They are meant to be done several times, and will solidify your understanding of the material. 
+
+### What's next?
+
+Please click over to [getting the right files]. 
+
+
+
+
+
+
+
+
+
+
+-------------------------------------- 
 
 ### Index 
 
