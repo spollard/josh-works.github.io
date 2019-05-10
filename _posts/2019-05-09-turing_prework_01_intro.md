@@ -42,7 +42,7 @@ If I handed you a `Spax` screw, and told you I'd pay you $1000 to screw it into 
 
 Spax screws look like this: 
 
-![spax](/images/spax.jpg "A spax screw. Notice the shape of the head.")
+![spax](/images/spax_small.jpg "A spax screw. Notice the shape of the head.")
 
 _A spax screw. Notice the shape of the head._
 
