@@ -121,7 +121,15 @@ Or, that one time I had to rename a branch in Git - what was the exact syntax fo
 
 [Download the desktop app here](https://apps.ankiweb.net/).
 
-Lets hop into the application and make our first note card. 
+Here's the thing - Don't download the current version of the app. The rest of these instructions will work only on the `Anki for Mac OS X 10.8+ (2.0.52-standard)` version. 
+
+You can find the proper version on the home page, here:
+
+![download older Anki](/images/2019-05-10-old_anki_download.jpg).
+
+If you download the newest version of Anki, the best `markdown` packages won't work for you. ☹️
+
+Download it, install it, and open the program. 
 
 # Getting started: Your first card
 
@@ -239,7 +247,7 @@ To format your code like this, you'll need to install (and use) a Markdown packa
 
 ## Install Markdown Package
 
-We will be using this [markdown package](https://ankiweb.net/shared/info/162313389). 
+We will be using the [Power Format Pack](https://ankiweb.net/shared/info/162313389) package. 
 
 #### 1. Add the Markdown package to Anki
 
