@@ -142,7 +142,7 @@ What's that? A chance for even *more* refactoring?
 
 I'll take it. Back to `routes.rb`
 
-I immediately was able to get down to replying on Rails "convention over configuration", which basically means Rails is going to look in specific places for specific things. Like in the `/controllers/api/v1/merchants/` directory for most of my merchants controllers.
+I immediately was able to get down to relying on Rails' "convention over configuration", which basically means Rails is going to look in specific places for specific things. Like in the `/controllers/api/v1/merchants/` directory for most of my merchants controllers.
 
 I was able to get down to THIS with all my tests still passing:
 ```ruby
