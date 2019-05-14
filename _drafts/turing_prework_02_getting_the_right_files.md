@@ -9,13 +9,13 @@ permalink: turing-backend-prep-02-get-the-right-files-and-first-exercise
 ---
 
 
-### Index 
-
-- [getting the right files (start here)](#getting-the-right-files)
+### Index of this series:
+- [Turing Prep Chapter 1: Make Mod 1 Easier Than It Otherwise Would Be]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %})
+- [**Turing Prep Chapter 2: Your first passing tests!**](#getting-the-right-files) (This is what you're reading right now)
 - [video walk-through of the `strings.rb` test](#6-video-walkthrough---make-the-first-test-pass)
 - [video walk-through of the first mythical creature (`unicorn.rb`)](#mythical-creatures-unicornrb)
 - [video walk-through of another mythical creature (`dragon.rb`)](#mythical-creatures-dragonrb)
-- [troubleshooting various errors you might see](#troubleshooting-errors)
+- [Turing Prep appendix: Troubleshooting Errors]({{ site.baseurl }}{% link _drafts/turing_prework_troubleshooting.md %})
 
 ------------------------
 
@@ -23,79 +23,135 @@ A warning - the hours ahead that you spend on this will be chock full of error m
 
 This skill set (googling for hints, using those hints to improve your googling, testing those assumptions, not giving up, etc) is known as **technical sophistication**. 
 
-Every time you encounter something unfamiliar, and google your way to an understanding and/or solution, you're building _technical sophistication_. This is a _very_ good thing. 
-
-from: https://www.learnenough.com/command-line-tutorial
+Every time you encounter something unfamiliar, and google your way to an understanding and/or solution, you're building _technical sophistication_. This is a _good thing_. 
 
 > In technology, a similar skill (or, more accurately, set of skills) exists in the form of **technical sophistication**. In addition to “hard skills” like familiarity with text editors and the Unix command line, technical sophistication includes “soft skills” like looking for promising menu items and knowing the kinds of search terms to drop into Google... along with an attitude of doing what it takes to make the machine do our bidding. 
 >
 > These soft skills, and this attitude, are hard to teach directly, so as you progress through this and subsequent Learn Enough tutorials you should always be on the lookout for opportunities to increase your technical sophistication... Over time, the cumulative effect will be that you’ll have the seemingly magical ability to do everything in every program.
 
+- _Michael Hartl, [https://www.learnenough.com/command-line-tutorial](https://www.learnenough.com/command-line-tutorial)_
+
+<!--more-->
 --------------------------
 
-## Getting the right files
+# Objective for _this_ current post
 
-Here's all that you'll need to run drills for the next few weeks:
+I've got a few goals for you as you work through this post:
+
+- figure out how to download and navigate around the correct files
+- open the files in Atom
+- "run" the files in your terminal and work through the error messages
+- learn the basics of Minitest
+- get your first passing test in the `strings.rb` file
+- eventually make the whole file pass!
+
+Throughout this whole process, I hope you maintain a sense of curiosity about the steps involved. You'll encounter error messages, new terminology, shortcuts for moving around your terminal, and lots of new information around Ruby and testing and such. If you have not read part 1 of this guide, and the two books referenced therein, [now would be a great time to do so]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %}).
+
+Being curious and even _playful_ with what you're learning will ensure you learn as much as possible, and it'll even be _Fun_ at times. So, this said, lets carry onward!
+
+### Download and navigate around the correct files
+
+Here's all that you'll need to run drills for the rest of this guide:
 
 * https://github.com/turingschool/ruby-exercises
 * https://github.com/turingschool/enums-exercises
 
-we're going to work through getting set up on this as incrementally as possible.
+We're going to work through getting set up on this as incrementally as possible.
 
-## 1. clone the repository to your machine
+## 1. Clone the repository to your machine
 
-That might be all greek to you. no worries! Open this URL: https://github.com/turingschool/ruby-exercises
+- "the repository" means "a collection of files and folders on Github.com"
+- "cloning it" means "copy those files and folders to your computer". 
+
+To do this, first visit this URL: https://github.com/turingschool/ruby-exercises
 
 click the "clone or download" button:
 
 ![clone repo](https://cl.ly/a9940ade2da9/2018-09-19%20at%207.44%20AM.jpg)
 
-<!--more-->
 
-it'll look like either:
+The URL you receive will look like one of these two options:
 
 - `https://github.com/turingschool/ruby-exercises.git`
 - `git@github.com:turingschool/ruby-exercises.git`
 
 
-It doesn't matter which one you use. You can read more on [the difference between HTTPS and SSH URLs here](https://help.github.com/articles/which-remote-url-should-i-use/)
+It doesn't matter which one you use. To exercise your _technical sophistication_ muscles, you can read more on [the difference between HTTPS and SSH URLs here](https://help.github.com/articles/which-remote-url-should-i-use/)
 
-Now, in your terminal, clone down the repo. We'll use the `git clone` command:
+Now, in your terminal, navigate to where you want these exercises to be downloaded. You might have a `turing` directory in your home folder. 
+
+I would use:
+
+```
+$ cd ~/turing/prework
+```
+
+You might place these files somewhere else. Once you've `cd`'ed into the right directory, clone down the repo. We'll use the `git clone` command:
 
 ```
 $ git clone https://github.com/turingschool/ruby-exercises.git
 ```
 
-or, if you used the SSH url:
+or, if you received the SSH url:
 
 ```
 $ git clone git@github.com:turingschool/ruby-exercises.git
 ```
 
+PS: As a reminder, commands formatted like the above, especially beginning with the `$` sign, should be run in your terminal. If you see a `#` sign, the text that follows it should be treated as a comment. For example:
+
+```
+# lets `cd` to our home directory:
+$ cd ~
+
+# now lets look at all of our hidden files using the [a]ll flag:
+$ ls -a
+```
 
 ## 2. Find the first exercise
 
-You should be able to see the cloned directory on your machine. If you run `ls` in your terminal, you should see an entry for `ruby-exercises`. 
+You should be able to see the cloned directory on your machine. If you run `ls` in the directory you just ran the `git clone` command, you should see an entry for `ruby-exercises`. 
 
-now, `cd` into that directory:
+now, `cd` into the `ruby-exercises` directory:
 
 ```
-cd ruby-exercises
+$ cd ruby-exercises
 ```
 
 Lets start with heading into `/data-types/strings/`:
 
+```shell
+# first, `cd` into the `data-types` directory
+$ cd data-types
+
+# i usually run `ls` just to see what is in each level of a directory. 
+# I'm a curious person.
+$ ls
+
+# now `cd` into the `strings` directory:
+$ cd strings
+
+$ ls
 ```
-cd data-types
-ls # i usually run `ls` just to see what is in each level of a directory. I'm a curious person.
-cd strings
-ls
+
+
+When you call `ls` the last time, you should see `README.md` and `strings.rb`. 
+
+It will look a bit like this:
+
+```shell
+> ls
+README.md
+strings.rb
 ```
 
+If this is what you see, you made it! 
 
-When you call `ls` the last time, you should see `README.md` and `strings.rb`. If so, you made it! 
-
-If not, `cd` up a level or two, and look around again. (To change directories _up_, you can do `cd ..`
+If not, `cd` up a level or two, and look around again. (To change directories _up_, you can do 
+  
+```
+$ cd ..
+```
   
 ## 3. open everything in Atom
 
@@ -107,7 +163,7 @@ $ atom .
 
 Click the `README` file, and read it. 
 
-(if you have problems opening atom, read [below](#cannot-open-atom-from-the-terminal)
+(if you have problems opening atom, read [Prework troubleshooting: cannot open atom from the terminal](#cannot-open-atom-from-the-terminal)
 
 ## 4. run the file in your terminal. Resolve any error messages
 

@@ -8,9 +8,13 @@ tags: [programming, turing]
 permalink: turing-backend-prep-03-mythical-creatures
 ---
 
-
-
-## troubleshooting errors
+### Index of this series:
+- [Turing Prep Chapter 1: Make Mod 1 Easier Than It Otherwise Would Be]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %})
+- [Turing Prep Chapter 2: Your first passing tests!](#getting-the-right-files) 
+- [video walk-through of the `strings.rb` test](#6-video-walkthrough---make-the-first-test-pass)
+- [video walk-through of the first mythical creature (`unicorn.rb`)](#mythical-creatures-unicornrb)
+- [video walk-through of another mythical creature (`dragon.rb`)](#mythical-creatures-dragonrb)
+- [**Turing Prep appendix: Troubleshooting Errors**]({{ site.baseurl }}{% link _drafts/turing_prework_troubleshooting.md %}) (This is what you're reading right now)
 
 As you run into problems (and others) let me know. I'd like to collect a broad swath of the errors folks run into, and the solutions, so they don't get too caught up.
 
