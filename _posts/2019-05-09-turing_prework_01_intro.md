@@ -20,10 +20,16 @@ I intend for this series to started _after_ finishing Turing's [Mod 0 program](h
 
 If you don't have enough time to work through these resources, no problem. Don't work through it. This is simply a guide to make Turing _a little easier than it otherwise will be_. Most Turing students have done just fine without these resources. 
 
+### Index of this series:
+- [**Turing Prep Chapter 1: Make Mod 1 Easier Than It Otherwise Would Be**]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %}) (This is what you're reading right now)
+- [Turing Prep Chapter 2: Your first passing tests!]({{ site.baseurl }}{% link _posts/2019-05-19-turing_prework_02_getting_the_right_files.md %}) 
+- [Turing Prep Chapter 3: Video walk-through of a few of the mythical creatures, like `unicorn.rb`, `dragon.rb`, and `hobbit.rb]({{ site.baseurl }}{% link _drafts/turing_prework_03_mythical_creatures.md %}) (coming soon)
+- [Turing Prep appendix: Troubleshooting Errors]({{ site.baseurl }}{% link _drafts/turing_prework_troubleshooting.md %}) (coming soon)
 
-# Why this document exists
 
-This is a guide that will make Turing's mod 1 _much_ easier than it otherwise would be.
+# Why this series exists
+
+This collection of articles is a guide that will make Turing's mod 1 _much_ easier than it otherwise would be.
 
 We'll do this by working on, (and completing) a few dozen small Ruby exercises. 
 
@@ -34,6 +40,12 @@ Good question. The answer is a digression and tortured analogy on the topics of:
 - screwdrivers
 - how to learn hard things
 - why you should do drills 
+
+By the end of this particular post, I have a few objectives for you:
+
+1. Understand the importance of bringing the right _process_ to hard problems
+2. Decide to read _A Mind for Numbers_ and _Deep Work_. 
+3. Understand that spending a few dollars and hours _learning how to learn_ is a fantastic start to Turing prep, where you're spending a lot more than a few hours and few dollars to learn a difficult craft. 
 
 
 # Driving Screws
@@ -191,6 +203,6 @@ Be swayed by other students who have worked through this guide and have felt ver
 
 Well, just click on over to part two:
 
-[Turing Prep Chapter 2: Your first passing tests!](https://josh.works/turing-backend-prep-02-get-the-right-files-and-first-exercise)
+[Turing Prep Chapter 2: Your first passing tests!]({{ site.baseurl }}{% link _posts/2019-05-19-turing_prework_02_getting_the_right_files.md %}) )
 
 
