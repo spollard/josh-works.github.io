@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Turing Prep Chapter 3: Mythical Creatures"
+title:  "Turing Prep: Mythical Creatures"
 date:  2019-04-24 06:00:00 -0700
 crosspost_to_medium: false
 categories: [turing]
 tags: [programming, turing]
-permalink: turing-backend-prep-03-mythical-creatures
+permalink: turing-backend-prep-mythical-creatures
 ---
 
 
 ## Mythical Creatures: `unicorn.rb`
 
-Once you've finished the above exercises... you may want to take a spin at the imfamous mythical creatures! Dun Dun Dun....
+Once you've finished the strings, arrays, hashes, etc... you may want to take a spin at the infamous mythical creatures! Dun Dun Dun....
 
 They make use of "object oriented" programming. All that means is you will define an object (like a `Person` object) and create instances of that object that have certain behaviors and methods of interaction. 
 
