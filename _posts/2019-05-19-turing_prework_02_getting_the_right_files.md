@@ -13,7 +13,7 @@ permalink: turing-backend-prep-02-first-tests-and-making-them-pass
 - [Turing Prep Chapter 1: Make Mod 1 Easier Than It Otherwise Would Be]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %})
 - [**Turing Prep Chapter 2: Your first passing tests!**]({{ site.baseurl }}{% link _posts/2019-05-19-turing_prework_02_getting_the_right_files.md %}) (This is what you're reading right now)
 - [Turing Prep Chapter 3: Video walk-through of a few of the mythical creatures, like `unicorn.rb`, `dragon.rb`, and `hobbit.rb`]({{ site.baseurl }}{% link _drafts/turing_prework_03_mythical_creatures.md %}) (coming soon)
-- [Turing Prep appendix: Troubleshooting Errors]({{ site.baseurl }}{% link _drafts/turing_prework_troubleshooting.md %}) (coming soon)
+- [Turing Prep appendix: Troubleshooting Errors]({{ site.baseurl }}{% link _posts/2019-05-19-turing_prework_troubleshooting.md %})
 
 ------------------------
 
@@ -29,7 +29,7 @@ Every time you encounter something unfamiliar, and google your way to an underst
 >
 > \- Michael Hartl, [https://www.learnenough.com/command-line-tutorial](https://www.learnenough.com/command-line-tutorial/basics#aside-technical_sophistication)
 
-Technical sophistication aside, I've put [together a list of trouble-shooting steps]({{ site.baseurl }}{% link _drafts/turing_prework_troubleshooting.md %}) for errors various students have run into, and I've helped them resolve. If you hit a problem, check here to see if someone else has seen it too.
+Technical sophistication aside, I've put [together a list of trouble-shooting steps]({{ site.baseurl }}{% link _posts/2019-05-19-turing_prework_troubleshooting.md %}) for errors various students have run into, and I've helped them resolve. If you hit a problem, check here to see if someone else has seen it too.
 
 If you don't see your error on this list, please ping me in Slack (`@josh_t`) (or email, if you're not in the Turing Slack) and we'll sort it out. Once it's all fixed, I'll update the troubleshooting guide.
 
@@ -166,7 +166,7 @@ $ atom .
 
 Click the `README` file, and read it. 
 
-If you have problems opening atom, read the [Troubleshooting Errors: Cannot open atom from the terminal]({{ site.baseurl }}{% link _drafts/turing_prework_troubleshooting.md %}#cannot-open-atom-from-the-terminal) post
+If you have problems opening atom, read the [Troubleshooting Errors: Cannot open atom from the terminal]({{ site.baseurl }}{% link _posts/2019-05-19-turing_prework_troubleshooting.md %}#cannot-open-atom-from-the-terminal) post
 
 
 ## 4. Run the file in your terminal. Resolve the error messages
@@ -222,7 +222,7 @@ ERROR:  While executing gem ... (Gem::FilePermissionError)
     You don't have write permissions into the usr/lib/ruby/gems/pry directory.
 ```
 
-I've got trouble-shooting instructions [in the troubleshooting guide]({{ site.baseurl }}{% link _drafts/turing_prework_troubleshooting.md %})
+I've got trouble-shooting instructions [in the troubleshooting guide]({{ site.baseurl }}{% link _posts/2019-05-19-turing_prework_troubleshooting.md %}#gem-install-pry-failing-with-you-do-not-have-permission)
 
 # 5. Learn the basics of Minitest
 
