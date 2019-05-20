@@ -43,6 +43,9 @@ You may need to install the Atom Shell Commands. Atom makes it super easy to do 
 
 ![install shell commands](/images/2018-09-14_turing_troubleshooting_01.jpg)
 
+<!--more-->
+
+
 ## `FSPathMakeRef` and a bunch of other stuff
 
 Here's an error one student saw:
