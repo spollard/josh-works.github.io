@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Turing Prep Chapter 2: Your first passing tests!"
+title:  "Turing Prep Chapter 2: Run your first tests (and make them pass)"
 date:  2019-04-24 06:00:00 -0700
 crosspost_to_medium: false
 categories: [turing]
 tags: [programming, turing]
-permalink: turing-backend-prep-02-get-the-right-files-and-first-exercise
+permalink: turing-backend-prep-02-first-tests-and-making-them-pass
 ---
 
 
 ### Index of this series:
 - [Turing Prep Chapter 1: Make Mod 1 Easier Than It Otherwise Would Be]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %})
 - [**Turing Prep Chapter 2: Your first passing tests!**](#getting-the-right-files) (This is what you're reading right now)
-- [video walk-through of the `strings.rb` test](#6-video-walkthrough---make-the-first-test-pass)
-- [video walk-through of the first mythical creature (`unicorn.rb`)](#mythical-creatures-unicornrb)
-- [video walk-through of another mythical creature (`dragon.rb`)](#mythical-creatures-dragonrb)
-- [Turing Prep appendix: Troubleshooting Errors]({{ site.baseurl }}{% link _drafts/turing_prework_troubleshooting.md %})
+- [video walk-through of the `strings.rb` test](#6-video-walkthrough---make-the-first-test-pass) (coming soon)
+- [video walk-through of the first mythical creature (`unicorn.rb`)](#mythical-creatures-unicornrb) (coming soon)
+- [video walk-through of another mythical creature (`dragon.rb`)](#mythical-creatures-dragonrb) (coming soon)
+- [Turing Prep appendix: Troubleshooting Errors]({{ site.baseurl }}{% link _drafts/turing_prework_troubleshooting.md %}) (coming soon)
 
 ------------------------
 
@@ -31,25 +31,30 @@ Every time you encounter something unfamiliar, and google your way to an underst
 
 - _Michael Hartl, [https://www.learnenough.com/command-line-tutorial](https://www.learnenough.com/command-line-tutorial)_
 
+This all said, I've put [together a list of trouble-shooting steps]({{ site.baseurl }}{% link _drafts/turing_prework_troubleshooting.md %}) for errors various students have run into, and I've helped them resolve. If you hit a problem, check here to see if someone else has seen it too.
+
+If you don't see your error on this list, please ping me in Slack (or email, if you're not in the Turing Slack) and we'll sort it out. Once it's all fixed, i'll update the troubleshooting guide.
+
 <!--more-->
 --------------------------
 
 # Objective for _this_ current post
 
-I've got a few goals for you as you work through this post:
-
-- figure out how to download and navigate around the correct files
-- open the files in Atom
+- figure out how to download the correct repositories
+- use your terminal to explore what you've downloaded
+- open the correct files in Atom
 - "run" the files in your terminal and work through the error messages
 - learn the basics of Minitest
 - get your first passing test in the `strings.rb` file
-- eventually make the whole file pass!
+- make the whole file pass!
 
 Throughout this whole process, I hope you maintain a sense of curiosity about the steps involved. You'll encounter error messages, new terminology, shortcuts for moving around your terminal, and lots of new information around Ruby and testing and such. If you have not read part 1 of this guide, and the two books referenced therein, [now would be a great time to do so]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %}).
 
-Being curious and even _playful_ with what you're learning will ensure you learn as much as possible, and it'll even be _Fun_ at times. So, this said, lets carry onward!
-
-### Download and navigate around the correct files
+I've included a video walkthrough, starting from once you've cloned down the files:
+<div class="container">
+<iframe class="video" src="https://www.youtube.com/embed/BKqo2w0W7S0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+### Download the repositories
 
 Here's all that you'll need to run drills for the rest of this guide:
 
@@ -78,15 +83,15 @@ The URL you receive will look like one of these two options:
 
 It doesn't matter which one you use. To exercise your _technical sophistication_ muscles, you can read more on [the difference between HTTPS and SSH URLs here](https://help.github.com/articles/which-remote-url-should-i-use/)
 
-Now, in your terminal, navigate to where you want these exercises to be downloaded. You might have a `turing` directory in your home folder. 
+Now, in your terminal, navigate to where you want these exercises to be downloaded. You probably have a `turing` directory in your home folder. 
 
-I would use:
+Since I have a `turing` directory in _my_ home folder, I would use:
 
 ```
 $ cd ~/turing/prework
 ```
 
-You might place these files somewhere else. Once you've `cd`'ed into the right directory, clone down the repo. We'll use the `git clone` command:
+You might place these files somewhere else. Up to you. Once you've `cd`'ed into the right directory, clone down the repo. We'll use the `git clone` command:
 
 ```
 $ git clone https://github.com/turingschool/ruby-exercises.git

@@ -18,6 +18,13 @@ permalink: turing-backend-prep-03-mythical-creatures
 
 As you run into problems (and others) let me know. I'd like to collect a broad swath of the errors folks run into, and the solutions, so they don't get too caught up.
 
+Here's a quick index of what's in this guide:
+
+- [`Traceback... cannot load such file -- pry`]
+- [cannot open Atom from the Terminal]
+- [`FSPathMakeRef`]
+- [`gem install pry`, getting and error saying "you do not have permission"](add this one)
+
 ## `Traceback... cannot load such file -- pry`
 
 This seems like an intimidating error message at first. 
