@@ -12,7 +12,7 @@ permalink: turing-backend-prep-02-first-tests-and-making-them-pass
 ### Index of this series:
 - [Turing Prep Chapter 1: Make Mod 1 Easier Than It Otherwise Would Be]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %})
 - [**Turing Prep Chapter 2: Your first passing tests!**]({{ site.baseurl }}{% link _posts/2019-05-19-turing_prework_02_getting_the_right_files.md %}) (This is what you're reading right now)
-- [Turing Prep Chapter 3: Video walk-through of a few of the mythical creatures, like `unicorn.rb`, `dragon.rb`, and `hobbit.rb`]({{ site.baseurl }}) (coming soon)
+- [Turing Prep Chapter 3: Video walk-through of a few of the mythical creatures, like `unicorn.rb`, `dragon.rb`, and `hobbit.rb`]({{ site.baseurl }}{% link _posts/2019-05-31-turing_prework_03_mythical_creatures.md%})
 - [Turing Prep appendix: Troubleshooting Errors]({{ site.baseurl }}{% link _posts/2019-05-19-turing_prework_troubleshooting.md %})
 
 ------------------------
@@ -268,7 +268,7 @@ Here's what minitest results mean:
 
 # 6. and 7.: Make the whole file pass!
 
-So, lets make the first test pass. Just watch the video where I do the first few tests:
+So, lets make the first test pass. Just watch the video where I do the first few tests.
 
 Once you get the hang of it, try pausing the video and keep going on your own. Then unpause the video, compare the results, repeat. (But please do watch the video, at least this little section at [10:55 on using Pry from inside your tests](https://www.youtube.com/watch?v=BKqo2w0W7S0&t=654s))
 

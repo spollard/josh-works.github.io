@@ -2,7 +2,7 @@
 layout: post
 title:  "Turing Prep Chapter 1: Make Mod 1 Easier Than It Otherwise Would Be"
 date:  2019-05-09 06:00:00 -0700
-crosspost_to_medium: false
+crosspost_to_medium: true
 categories: [turing]
 tags: [programming, turing]
 permalink: turing-backend-prep-01-intro
@@ -23,7 +23,7 @@ If you don't have enough time to work through these resources, no problem. Don't
 ### Index of this series:
 - [**Turing Prep Chapter 1: Make Mod 1 Easier Than It Otherwise Would Be**]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %}) (This is what you're reading right now)
 - [Turing Prep Chapter 2: Your first passing tests!]({{ site.baseurl }}{% link _posts/2019-05-19-turing_prework_02_getting_the_right_files.md %}) 
-- [Turing Prep Chapter 3: Video walk-through of a few of the mythical creatures, like `unicorn.rb`, `dragon.rb`, and `hobbit.rb]({{ site.baseurl }}) (coming soon)
+- [Turing Prep Chapter 3: Video walk-through of a few of the mythical creatures, like `unicorn.rb`, `dragon.rb`, and `hobbit.rb`]({{ site.baseurl }}{% link _posts/2019-05-31-turing_prework_03_mythical_creatures.md%})
 - [Turing Prep appendix: Troubleshooting Errors]({{ site.baseurl }}{% link _posts/2019-05-19-turing_prework_troubleshooting.md %})
 
 
