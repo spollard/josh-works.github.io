@@ -276,7 +276,11 @@ Once you get the hang of it, try pausing the video and keep going on your own. T
 <iframe class="video" src="https://www.youtube.com/embed/BKqo2w0W7S0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+----------------------------------------------------
 
 Go ahead and finish this file, and then the other files in the same directory. (hashes, arrays, etc.)
 
-When you're done with `strings.rb`, and the rest of the exercises in this directory, you're ready for the next post in the series, [video walk-throughs of the a few of the mythical creatures]({{ site.baseurl }})
+When you're done with `strings.rb`, and the rest of the exercises in this directory like `hashes.rb`, `arrays.rb`, and `nested_collections.rb`, you're ready for the next post in the series, [video walk-throughs of the a few of the mythical creatures]({{ site.baseurl }}{% link _posts/2019-05-31-turing_prework_03_mythical_creatures.md %})
+
+
+(I've got more videos coming soon for the other data-types)
