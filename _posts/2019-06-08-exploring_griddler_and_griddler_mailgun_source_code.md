@@ -171,6 +171,8 @@ This cost us almost _three hours_ of frustration. Once we started digging into t
 
 I'm going to make a PR against the `griddler` and `griddler-mailgun` repositories soon, with a note in the documentation on this convention; maybe everyone who uses these tools knows that the `From` key has to be capitalized, but we sure didn't. There's [one open issue from 2017](https://github.com/bradpauly/griddler-mailgun/issues/19) where someone else ran into the same problem. I've shared this solution there, but that's not a great way to surface the fix for everyone to see.
 
+_update: I've got a [README update PR](https://github.com/bradpauly/griddler-mailgun/pull/27) in on `griddler-mailgun`._ 
+
 But the big learning for me was... how to quickly open a gem for further investigation. And you can even stick a `pry` in it to trace around execution! 
 
 There's more than one way to get at this. You can use `gem open`, as [per the `gem` docs](https://guides.rubygems.org/command-reference/#gem-open). You can specify a gem version to open, as it's common to have more than one version of a gem installed on your machine. 
