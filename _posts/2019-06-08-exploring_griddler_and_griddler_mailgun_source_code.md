@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Exploring source code via Mailgun and Griddler"
+title:  "Exploring source code via Griddler and Griddler-Mailgun"
 date: 2019-05-31 06:00:00 -0700
 crosspost_to_medium: false
 categories: [programming]
