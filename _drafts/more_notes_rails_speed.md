@@ -233,3 +233,413 @@ run Gemcutter::Application
 ```
 
 go check out `/tmp/profile`
+
+
+-------------------------
+
+# 06/24/19 RailsSpeed Workshop, Hyatt Denver
+
+
+
+```ruby
+# config/environments/development.rb
+
+config.cache_classes = true
+config.eager_load = true
+config.public_file_server.enabled = true # 5.0 or more
+config.serve_static_files = true # 4.2 or less
+config.assets.compile = false
+config.assets.digest = true
+config.active_record.migration_error = false
+```
+
+Get big staging DB:
+
+```shell
+aws s3 cp s3://ts-staging-data/staging.sql.zip ~/Downloads
+```
+
+or SQLpro connect to `prodfeature` and export the entire DB (tables & data), import locally.
+
+Find the account with the most target_email_addresses (for data)
+
+```sql
+SELECT count(*), accounts.id AS accounts_id, targets.*
+FROM targets
+INNER JOIN target_email_addresses tea ON tea.id = targets.target_email_address_id
+INNER JOIN accounts ON accounts.id = tea.account_id
+GROUP BY accounts.id
+ORDER BY count(*) DESC
+```
+
+
+or, find the campaign_targets with the most activity:
+
+```sql
+
+```
+
+
+## Commit changes in branch
+
+Set ENV["PROFILE"]
+
+```shell
+rails s PROFILE=true 
+```
+
+```ruby
+config.cache_classes = !!ENV["PROFILE"] # true
+config.cache_classes = !ENV["PROFILE"] # false
+```
+
+
+## wrk
+
+1 thread, 1 connection 
+
+`wrk` cannot handle login/auth?
+
+## ab
+
+```
+$ ab -t 10 http://127.0.0.1:3000/
+```
+results:
+
+```
+Benchmarking 127.0.0.1 (be patient)
+Finished 690 requests
+
+
+Server Software:
+Server Hostname:        127.0.0.1
+Server Port:            3000
+
+Document Path:          /
+Document Length:        101 bytes
+
+Concurrency Level:      1
+Time taken for tests:   10.007 seconds
+Complete requests:      690
+Failed requests:        0
+Non-2xx responses:      690
+Total transferred:      1380000 bytes
+HTML transferred:       69690 bytes
+Requests per second:    68.95 [#/sec] (mean)
+Time per request:       14.503 [ms] (mean)
+Time per request:       14.503 [ms] (mean, across all concurrent requests)
+Transfer rate:          134.67 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.1      0       1
+Processing:     8   14   6.3     12      49
+Waiting:        8   14   6.2     12      48
+Total:          8   14   6.3     13      49
+
+Percentage of the requests served within a certain time (ms)
+  50%     13
+  66%     14
+  75%     17
+  80%     18
+  90%     22
+  95%     28
+  98%     33
+  99%     39
+ 100%     49 (longest request)
+```
+
+But I don't wanna profile what is basically our `http://localhost:3000/users/sign_in` page; I want the page _once a user has signed in_. How to stub this out?
+
+https://work.stevegrossi.com/2015/02/07/load-testing-rails-apps-with-apache-bench-siege-and-jmeter/
+
+https://makandracards.com/makandra/13757-using-apache-benchmark-ab-on-sites-with-authentication
+
+I think this worked:
+
+```shell
+$ ab -t 1 -C '_ts_session_id=1374f9708600d2204e45cdc0bf56bbde;fd827a2c5655094bcce3748d6ee6d3e4=ImRhMDY1YjdjYjMwNGNjNWUxNzFkNDhjOGQ0YzA0OTIwIg%3D%3D--98c228cb35af1a269ee894c22540b81848e2ed09' http://127.0.0.1:3000/account/campaigns
+```
+Cookies retrieved per the above URL cookie retrieval:
+
+![getting login](https://cl.ly/680352fa5a6b/2019-06-25%20at%207.51%20AM.jpg)
+
+Validated, because `tail -f logs/development.log` prints lots of user details for the user corresponding to this cookie:
+
+![user details](https://cl.ly/0a0b5c0afb1b/2019-06-25%20at%207.52%20AM.jpg)
+
+You can validate that this cookies approach is working in the above logs, and also in Postman:
+
+![postman cookies tab](https://cl.ly/092f8b6923a0/2019-06-25%20at%207.58%20AM.jpg)
+
+![valid postman cookies](https://cl.ly/2ee7faffcffb/2019-06-25%20at%207.58%20AM.jpg)
+
+And, if everything works, you can now make a `GET` to a resource that would normally return a login page!
+
+![boom](https://cl.ly/b6ad5b3aba98/2019-06-25%20at%208.02%20AM.jpg)
+
+Lastly, here's the output from AB with cookie auth, against `account/campaigns`:
+
+```
+> ab -t 10 -C '_ts_session_id=1374f9708600d2204e45cdc0bf56bbde;fd827a2c5655094bcce3748d6ee6d3e4=ImRhMDY1YjdjYjMwNGNjNWUxNzFkNDhjOGQ0YzA0OTIwIg%3D%3D--98c228cb35af1a269ee894c22540b81848e2ed09' http://127.0.0.1:3000/account/campaigns
+This is ApacheBench, Version 2.3 <$Revision: 1826891 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 127.0.0.1 (be patient)
+Finished 72 requests
+
+
+Server Software:
+Server Hostname:        127.0.0.1
+Server Port:            3000
+
+Document Path:          /account/campaigns
+Document Length:        25391 bytes
+
+Concurrency Level:      1
+Time taken for tests:   10.062 seconds
+Complete requests:      72
+Failed requests:        40
+   (Connect: 0, Receive: 0, Length: 40, Exceptions: 0)
+Total transferred:      2013470 bytes
+HTML transferred:       1828110 bytes
+Requests per second:    7.16 [#/sec] (mean)
+Time per request:       139.750 [ms] (mean)
+Time per request:       139.750 [ms] (mean, across all concurrent requests)
+Transfer rate:          195.42 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.0      0       0
+Processing:    92  140 118.5    125    1127
+Waiting:       92  140 118.5    125    1127
+Total:         92  140 118.5    125    1127
+
+Percentage of the requests served within a certain time (ms)
+  50%    125
+  66%    128
+  75%    131
+  80%    131
+  90%    139
+  95%    150
+  98%    175
+  99%   1127
+ 100%   1127 (longest request)
+```
+
+## Benchmark: new codepath
+
+```ruby
+# benchmarks/my_benchmark.rb
+local = User.first
+
+class User < ActiveRecord::Base
+  def name_faster
+    sleep 1.2
+    output = ""
+    output << self.first_name.to_s.force_encoding("UTF-8") + " " if self.first_name
+    output << self.last_name.to_s.force_encoding("UTF-8") + "" if self.last_name
+    output.strip
+  end
+end
+
+
+Benchmark.ips do |x|
+  x.report ("master")          { local.name }
+  x.report ("slower")          {local.name_faster}
+  
+  x.compare!
+end
+```
+
+```shell
+$ rails runner benchmarks/my_benchmark.rb
+```
+
+
+```ruby
+
+campaign = Campaign.first
+
+Benchmark.ips do |x|
+  x.report ("v1")          { 
+    Threatsim::Campaigns::GeographyDetails.new(campaign).geo_details
+   }
+  x.report ("v2")          { 
+    Threatsim::Campaigns::GeographyDetails.new(campaign).v2_geo_details
+   }
+  
+  x.compare!
+end
+```
+
+results:
+
+```shell
+> rails runner benchmarks/my_benchmark.rb
+Running via Spring preloader in process 84945
+Warming up --------------------------------------
+                  v1     3.000  i/100ms
+                  v2    27.000  i/100ms
+Calculating -------------------------------------
+                  v1     83.879  (± 6.0%) i/s -    420.000  in   5.029952s
+                  v2    278.119  (± 7.6%) i/s -      1.404k in   5.081285s
+
+Comparison:
+                  v2:      278.1 i/s
+                  v1:       83.9 i/s - 3.32x  slower
+```
+
+# Prod-like data
+
+Running the app in `development` slows 💩 down, big-time, by adding big-time overhead; it's possible you'll miss big gains in performance when you make improvements, if running in development mode. 
+
+
+
+### Dump prod
+
+(meh)
+
+### Dump prod, over-write columns w/anonymized data
+
+post results to s3 bucket, where everyone has access to that export
+
+### Multi-tenant app
+
+Get a single tenant (this is what we've done at Wombat; export heavy-used dev account)
+
+### Have a good seed file
+
+Most difficult, most maintenance
+
+
+## Provisioning/servers (how many do I need)
+
+M/M/C queue
+
+One queue, many servers. 
+
+
+# Profiling CPU
+
+All profiling is a tradeoff. It's expensive to profile. 
+
+Find hot-spots in code.
+
+Make observactions -> make hypotheses -> develop predictions -> gather data to test predictions.
+
+Watching instructions:
+
+```shell
+> ruby -e 'puts 1 + 1' --dump=insns
+== disasm: #<ISeq:<main>@-e>============================================
+0000 trace            1                                               (   1)
+0002 putself
+0003 putobject_OP_INT2FIX_O_1_C_
+0004 putobject_OP_INT2FIX_O_1_C_
+0005 opt_plus         <callinfo!mid:+, argc:1, ARGS_SIMPLE>, <callcache>
+0008 opt_send_without_block <callinfo!mid:puts, argc:1, FCALL|ARGS_SIMPLE>, <callcache>
+0011 leave
+```
+
+
+# Rack mini profiler
+
+https://github.com/ruby-prof/ruby-prof
+
+```ruby
+# config.ru
+use Rack::RubyProf, :path => './tmp/profile'
+```
+start server, check `tmp/profile`
+
+```
+$ open tmp/profile/backend-home-call_stack.html
+```
+
+Is this true?
+
+![timezone](https://cl.ly/4e107544ac52/2019-06-24%20at%202.30%20PM.jpg)
+
+
+If this is true, then we should but some benchmarking around this code?
+
+```ruby
+# app/controllers/application_controller.rb:54
+
+def user_time_zone(&block)
+  Time.use_zone(current_user.time_zone, &block)
+end
+```
+
+
+Next big slow-down:
+
+![eaching?](https://cl.ly/43f9bb1ebfbb/2019-06-24%20at%202.34%20PM.jpg)
+
+```ruby
+# app/controllers/account/campaigns_controller.rb:228
+def load_clone_or_draft
+  loader = ::Threatsim::Campaigns::Loader.new(permitted_params, current_user)
+  @cloned_from_id = loader.cloned_from_id
+  @campaign = loader.campaign
+  @campaign.decorate
+  @campaign_missing = loader.missing
+  @campaign_template_language = loader.language
+  load_training_types
+  load_campaign_scheduler
+end
+```
+
+
+# Memory Issues
+
+```
+$ pry
+main:0> ObjectSpace.count_objects
+=> => {:TOTAL=>181787,
+ :FREE=>514,
+ :T_OBJECT=>6785,
+ :T_CLASS=>2405,
+ :T_MODULE=>190,
+ :T_FLOAT=>9,
+ :T_STRING=>119596,
+ :T_REGEXP=>917,
+ :T_ARRAY=>20580,
+ :T_HASH=>1467,
+ :T_STRUCT=>320,
+ :T_BIGNUM=>2,
+ :T_FILE=>18,
+ :T_DATA=>1716,
+ :T_MATCH=>22,
+ :T_COMPLEX=>1,
+ :T_RATIONAL=>1,
+ :T_SYMBOL=>153,
+ :T_IMEMO=>22003,
+ :T_NODE=>4718,
+ :T_ICLASS=>370}
+ 
+ main:0> GC.start
+=> nil
+main:0> GC
+=> GC
+main:0> GC.disable
+=> false
+main:0> GC.enable
+=> true
+```
+
+
+## Allocated objects
+
+`pp=profile-memory`
+
+
+total allocated = x
+total retained = x
+
+retained objects survived GC 
+
+allocated memory from all over the place. 
