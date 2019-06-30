@@ -16,7 +16,7 @@ This guide is a work-in-progress, so I hope you will reach out if you get stuck 
 
 If you are working through this guide, and have a problem/hit a snag/get stuck/get really frustrated _I'd like to hear from you_. 
 
-I intend for this series to started _after_ finishing Turing's [Mod 0 program](http://mod0.turing.io/capstone/be_engineering/) and [Mod 0 capstone](https://github.com/turingschool-examples/module_0_capstone)
+I intend for this series to be started _after_ finishing Turing's [Mod 0 program](http://mod0.turing.io/capstone/be_engineering/) and [Mod 0 capstone](https://github.com/turingschool-examples/module_0_capstone)
 
 If you don't have enough time to work through these resources, no problem. Don't work through it. This is simply a guide to make Turing _a little easier than it otherwise will be_. Most Turing students have done just fine without these resources. 
 
