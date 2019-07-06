@@ -32,17 +32,25 @@ I fired up the console, and entered:
 
 ```ruby
 File.open("all_campaign_urls.txt", "a+") do |file|
-  # this opens the file in append mode
+  # this opens the file in write mode; will over-write contents of existing file
   Campaign.where(account_id: 4887).find_each do |campaign|
-    file.puts "http://localhost:3000/account/campaigns/" + campaign.guid
+    puts "writing " + "http://localhost:3000/account/campaigns/" + campaign.to_param
+    file.puts "http://localhost:3000/account/campaigns/" + campaign.to_param
   end
 end
 ```
-
-I looked in our dev database to find an account with a lot of data; this `4887` is an account associated with QA automation, and has lots of data in it. 
-
-
 <!--more-->
+
+I looked in our dev database to find an account with a lot of data; account with the id `4887` is an account associated with QA automation, and has lots of data in it. 
+
+`campaign.to_param` is how we build URLs out of our campaigns - it just concats the `guid` with the `title` string, as provided by the customer, and calls `.parameterize` on it. For this batch of campaigns, they're generated programmatically by our automated QA test suite. 
+
+When finished, you might see something like this in `all_campaign_urls.txt`:
+
+![all campaigns](/images/siege_01.jpg)
+
+
+
 
 More text
 
