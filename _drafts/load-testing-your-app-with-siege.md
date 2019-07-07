@@ -22,7 +22,7 @@ You can get siege with `brew install siege`.
 
 I'm using it because it can run a _list_ of URLs you give it. Imagine your app is a store, and it lists a few thousand products. Each product should have a unique URL, something like `www.mystore.com/product-name`, or maybe `www.mystore.com/productguid-product-name`. That `product-guid` makes sure that you can have unique URLs, even if there are two items with the same product name.
 
-Knowing what's in your database, you can easily concat `product-guid` and `product-name`, stick it to the end of `www.mystore.com`, and come up with a list of a hundred or a thousand or ten thousand unique product URLs in your application. If you saved these to a text file and instructied Siege to visit every single one of those pages as quickly as possible... this might look like some sort of good stress test, huh?
+Knowing what's in your database, you can easily concat `product-guid` and `product-name`, stick it to the end of `www.mystore.com`, and come up with a list of a hundred or a thousand or ten thousand unique product URLs in your application. If you saved these to a text file and had Siege visit every single one of those pages as quickly as possible... this might look like some sort of good stress test, huh?
 
 ### Dumping unique URLs into a text file
 
@@ -31,8 +31,8 @@ You'll probably start working in a `rails console` session, to figure out how to
 I fired up the console, and entered:
 
 ```ruby
-File.open("all_campaign_urls.txt", "a+") do |file|
-  # this opens the file in write mode; will over-write contents of existing file
+File.open("all_campaign_urls.txt", "w") do |file|
+  # this opens the file in write mode; will over-write contents of file if it exists
   Campaign.where(account_id: 4887).find_each do |campaign|
     puts "writing " + "http://localhost:3000/account/campaigns/" + campaign.to_param
     file.puts "http://localhost:3000/account/campaigns/" + campaign.to_param
@@ -49,13 +49,118 @@ When finished, you might see something like this in `all_campaign_urls.txt`:
 
 ![all campaigns](/images/siege_01.jpg)
 
+### Visiting all of those pages in a Siege test
+
+So, you can `siege --help` and see a flag for passing in a file:
+
+```
+$ siege --help
+SIEGE 4.0.4
+Usage: siege [options]
+       siege [options] URL
+       siege -g URL
+Options:
+  -V, --version             VERSION, prints the version number.
+  -h, --help                HELP, prints this section.
+  -C, --config              CONFIGURATION, show the current config.
+  -v, --verbose             VERBOSE, prints notification to screen.
+  -q, --quiet               QUIET turns verbose off and suppresses output.
+  -g, --get                 GET, pull down HTTP headers and display the
+                            transaction. Great for application debugging.
+  -p, --print               PRINT, like GET only it prints the entire page.
+  -c, --concurrent=NUM      CONCURRENT users, default is 10
+  -r, --reps=NUM            REPS, number of times to run the test.
+  -t, --time=NUMm           TIMED testing where "m" is modifier S, M, or H
+                            ex: --time=1H, one hour test.
+  -d, --delay=NUM           Time DELAY, random delay before each requst
+  -b, --benchmark           BENCHMARK: no delays between requests.
+  -i, --internet            INTERNET user simulation, hits URLs randomly.
+  -f, --file=FILE           FILE, select a specific URLS FILE.
+  -R, --rc=FILE             RC, specify an siegerc file
+  -l, --log[=FILE]          LOG to FILE. If FILE is not specified, the
+                            default is used: PREFIX/var/siege.log
+  -m, --mark="text"         MARK, mark the log file with a string.
+                            between .001 and NUM. (NOT COUNTED IN STATS)
+  -H, --header="text"       Add a header to request (can be many)
+  -A, --user-agent="text"   Sets User-Agent in request
+  -T, --content-type="text" Sets Content-Type in request
+      --no-parser           NO PARSER, turn off the HTML page parser
+      --no-follow           NO FOLLOW, do not follow HTTP redirects
+
+Copyright (C) 2017 by Jeffrey Fulmer, et al.
+This is free software; see the source for copying conditions.
+There is NO warranty; not even for MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.
+```
+
+Already I know we're going to need `--file`, and `--header`, as we'll need to fake authenticated sessions by submitting some cookies, [the process for which I outlined last time]({{ site.baseurl }}{% link _posts/2019-06-28-apache_benchmark_load_testing_app_behind_login_page.md %})
 
 
+The `--get` flag looks useful:
+> GET, pull down HTTP headers and display the transaction. Great for application debugging.
 
-More text
+So, lets log in as our QA account. Since I'm running this all locally, I can find the associated email address in our DB. I don't know the password, of course, but I can force a local password reset, grab the email in Mailcatcher, and set it to whatever password I want. 
 
+Lets get these headers in.
+
+We can make a cURL test request with our cookies. When I do 
+
+```
+$ curl -v http://localhost:3000/account/campaigns/dd4dfb48aa-dec-05-drive-by-test
+```
+
+I expect to see the page come back, not a redirect to `/users/sign_in`
+
+What I expect a failed authentication to look like:
+
+```
+*   Trying ::1...
+* TCP_NODELAY set
+* Connection failed
+* connect to ::1 port 3000 failed: Connection refused
+*   Trying 127.0.0.1...
+* TCP_NODELAY set
+* Connected to localhost (127.0.0.1) port 3000 (#0)
+> GET /account/campaigns/dd4dfb48aa-dec-05-drive-by-test HTTP/1.1
+> Host: localhost:3000
+> User-Agent: curl/7.54.0
+> Accept: */*
+>
+< HTTP/1.1 302 Found
+< Location: http://localhost:3000/users/sign_in
+< Content-Type: text/html; charset=utf-8
+< Cache-Control: no-cache
+< Set-Cookie: _ts_session_id=94f33f8f3c53608e0d54da4735ab6ef4; path=/; expires=Sun, 07 Jul 2019 16:46:59 -0000; HttpOnly; SameSite=Lax
+< Set-Cookie: __profilin=p%3Dt; path=/; HttpOnly; SameSite=Lax
+.
+.
+.
+* Connection #0 to host localhost left intact
+<html><body>You are being <a href="http://localhost:3000/users/sign_in">redirected</a>.</body></html>%
+```
+
+cookies:
+
+```
+_ts_session_id: c86fd1fe38d7a6c56ce1ef5990045057
+fd827a2c5655094bcce3748d6ee6d3e4: ImRhMDY1YjdjYjMwNGNjNWUxNzFkNDhjOGQ0YzA0OTIwIg%3D%3D--98c228cb35af1a269ee894c22540b81848e2ed09
+```
+
+And we're in business:
+
+```
+$ siege --header="Cookie: _ts_session_id=c86fd1fe38d7a6c56ce1ef5990045057,fd827a2c5655094bcce3748d6ee6d3e4=ImRhMDY1YjdjYjMwNGNjNWUxNzFkNDhjOGQ0YzA0OTIwIg%3D%3D--98c228cb35af1a269ee894c22540b81848e2ed09" -f all_campaign_urls.txt
+```
+
+
+![all campaigns](/images/siege_02.jpg)
+
+Notice those status codes of `200`? I can `tail -f log/development.log` and see all the activity, indicating that the submitted cookies are associated with an authenticated user.
+
+First thing I notice is it _seems_ like these are extremely long page-load times.
 
 ### Additional Resources
 
 - [Load Testing Rails Apps with Apache Bench, Siege, and JMeter](https://work.stevegrossi.com/2015/02/07/load-testing-rails-apps-with-apache-bench-siege-and-jmeter/)
 - [The Complete Guide to Rails Performance](https://www.railsspeed.com/)
+- [HTTP Cookies explined](https://humanwhocodes.com/blog/2009/05/05/http-cookies-explained/)
