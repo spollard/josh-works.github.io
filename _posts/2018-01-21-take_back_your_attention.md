@@ -26,6 +26,12 @@ To this:
 
 ![better twitter](/images/2018-01-18-twitter-02.jpg)
 
+I've got some special "rules" for twitter at the bottom of this post. The key is to know you may have to use wildcards in your CSS rules to catch all instances of a thing you want to block, like:
+
+```
+twitter.com##li[id^="stream-item-who_to_follow_entry"]
+```
+
 <!--more-->
 
 And bad LinkedIn:
@@ -187,6 +193,14 @@ The only metric I pay attention to is email subscribers. Someone subscribing via
 
 # Detail on Twitter
 
+A few more thoughts on Twitter. Here's its most recent ugly UI
+
+![before](/images/2019-07-17-before.jpg)
+
+And after its fixed:
+
+![After](/images/2019-07-17-after.jpg)
+
 Twitter is tricky about ads/follow suggestions it injects into your stream. Because the root node ID is unique to you/the user the add wants you to follow, you need to use a little wild-carding to catch-and-delete these all. 
 
 First, here's what the rules look like for deleting individual ads. These entries are useless, as once the long string of digets at the end changes, the ad won't be caught by uBlock.
@@ -201,6 +215,9 @@ Here's the rule I have in uBlock, that just catches all of these, no matter what
 
 ```
 twitter.com##li[id^="stream-item-who_to_follow_entry"]
+
+// Here's some other twitter rules that might be helpful
+
 ```
 
 Go forth and retain more of your attention!
