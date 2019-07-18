@@ -159,8 +159,40 @@ Notice those status codes of `200`? I can `tail -f log/development.log` and see 
 
 First thing I notice is it _seems_ like these are extremely long page-load times.
 
+I'm having Siege load about 162 different URLs. When you run `siege` with the default configuration, it runs 20 simultaneous users. This seemed to be a bit much for what my `localhost` could handle, so I tried dropping the number of concurrent users first to two users, then to one.
+
+To set the number of concurrent users, just add the `--concurrent=NUM` flag. I was still flooded with output, so I dropped concurrent users to 1 and removed all but 20 pages from the list of pages to load up.  I gave it a `time` flag of 60 seconds, as well: `-t 60s`
+
+When all is said and done, you'll see `siege` making a bunch of timed `GET` requests, like so:
+
+![lots of traffic](/images/2019-07-17_siege_get_requests.gif)
+
+Eventually, everything will settle out, and you'll get a summary of the load test:
+
+```
+Lifting the server siege...
+Transactions:		         101 hits
+Availability:		      100.00 %
+Elapsed time:		       59.24 secs
+Data transferred:	       20.73 MB
+Response time:		        0.58 secs
+Transaction rate:	        1.70 trans/sec
+Throughput:		        0.35 MB/sec
+Concurrency:		        0.99
+Successful transactions:         101
+Failed transactions:	           0
+Longest transaction:	        1.99
+Shortest transaction:	        0.00
+```
+
+> Yeah, OK, this is cool, Josh, but how the heck am I supposed do anything useful with this?
+
+Great question! Its time to see where our app is spending most of its time, out in the real world. We could do more benchmarking locally, but obviously real-world data, gathered from real people interacting with your real app in production is the most useful source of data.
+
+There fore, I'll soon be writing about how to get useful data from a Rails app into DataDog!
+
 ### Additional Resources
 
 - [Load Testing Rails Apps with Apache Bench, Siege, and JMeter](https://work.stevegrossi.com/2015/02/07/load-testing-rails-apps-with-apache-bench-siege-and-jmeter/)
 - [The Complete Guide to Rails Performance](https://www.railsspeed.com/)
-- [HTTP Cookies explined](https://humanwhocodes.com/blog/2009/05/05/http-cookies-explained/)
+- [HTTP Cookies explained](https://humanwhocodes.com/blog/2009/05/05/http-cookies-explained/)
