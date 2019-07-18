@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setting up Application Performance Monitoring in DataDog in your Rails App"
-date:  2019-07-17 06:00:00 -0700
+date:  2019-07-18 06:00:00 -0700
 crosspost_to_medium: false
 categories: [programming]
 tags: [rails_performance, rails, programming]
