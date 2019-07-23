@@ -8,10 +8,6 @@ tags: [programming, turing]
 permalink: turing-backend-prep-01-intro
 ---
 
-This is the first of a several-part series. I'm converting [this gist](https://gist.github.com/josh-works/ac68a974cb9e0d73d663ea6c8cf3e8d8) into a series of pages, cleaning up the formatting, making it a bit more bite-sized and re-doing/adding some video walk-throughs. 
-
-If you're impatient with the pace at which this guide is being published, read the above gist. Otherwise, sit tight and I'll publish the rest soon.
-
 This guide is a work-in-progress, so I hope you will reach out if you get stuck on anything. I'm in the Turing slack as `@josh_t`, or ping me via email at `thompsonjoshd` + google's popular email service. Or, get your Github practice on by [opening an issue](https://github.com/josh-works/josh-works.github.io/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) on the Github repo that backs this website. 
 
 If you are working through this guide, and have a problem/hit a snag/get stuck/get really frustrated _I'd like to hear from you_. 
@@ -119,19 +115,21 @@ _A Mind for Numbers_ talks about how to learn hard things. The author talks abou
 
 Everything in that book is relevant to the rest of your career in software. Please read the book.
 
-Now, I know most of you will not read the book, despite my strong suggestion and humble request that you do so. 
+-------------------------------
 
-If you're not going to read the book, you don't get to question my methodology for the rest of this guide, so please accept the following truth:
+I know most of you will not read the book, despite my strong suggestion and humble request that you do so. 
+
+If you're not going to read the book, you don't get to question my methodology for the rest of this guide. Accept the following truth:
 
 *To learn hard things, you need to build mental models of the hard thing, and you need practice and repetition.*
 
-Most of the world is on board with the value of "drilling" important things. Fire drills, drills for sports teams, drilling to practice something you'll be tested on - all of these are ways to make sure not only that you know how to do the right thing, but _you can't get it wrong_. 
+Any individual or team that performs at a high level is on board with the value of "drilling" important things. Fire drills, drills for sports teams, drilling to practice something you'll be tested on - all of these are ways to make sure not only that you know how to do the right task, but _you can't get that task wrong_. 
 
 So, working through these drills will move you in the same direction. You'll not just build a single new class from scratch, but you'll eventually do it so many times you can't help but _get it right every time_. 
 
 This will make the rest of your time at Turing go much, much better. It could help save you from repeating a module.
 
-If you _would_ repeat a module, but now you don't, that's six weeks saved, plus a few thousand dollars, and the knowledge will serve you for the rest of your career as a developer. 
+If you _would_ repeat a module, but after doing these drills you don't, that's six weeks saved, plus a few thousand dollars, and the knowledge will serve you for the rest of your career as a developer. 
 
 But don't take my word for it. Here's what other Turing students have said, after working through this guide:
 
