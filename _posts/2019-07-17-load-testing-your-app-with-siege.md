@@ -189,7 +189,7 @@ Shortest transaction:	        0.00
 
 Great question! Its time to see where our app is spending most of its time, out in the real world. We could do more benchmarking locally, but obviously real-world data, gathered from real people interacting with your real app in production is the most useful source of data.
 
-There fore, I'll soon be writing about how to get useful data from a Rails app into DataDog!
+Therefore, <strike>I'll soon be writing</strike> I have written [about how to get useful data from a Rails app into DataDog]({{ site.baseurl }}{% link _posts/2019-07-28-data_dog_setup.md %})!
 
 ### Additional Resources
 

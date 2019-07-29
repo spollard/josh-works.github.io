@@ -1,16 +1,16 @@
 ---
 layout: post
 title:  "Setting up Application Performance Monitoring in DataDog in your Rails App"
-date:  2019-07-18 06:00:00 -0700
+date:  2019-07-28 06:00:00 -0700
 crosspost_to_medium: false
 categories: [programming]
-tags: [rails_performance, rails, programming]
+tags: [rails_performance, rails, programming, data_dog]
 permalink: data-dog-apm-rails-app-setup
 ---
 
 _When I write guides to things, I write them first and foremost for myself, and I tend to work through things in excruciating detail. You might find this to be a little too in-depth, or you might appreciate the detail. Either way, if you want a step-by-step guide, this should do it._
 
-As mentioned in POST, I want to get Application Performance Monitoring in place for our app. We use Rails. 
+As mentioned in [Load Testing your app with Siege]({{ site.baseurl }}{% link _posts/2019-07-17-load-testing-your-app-with-siege.md %}), I want to get Application Performance Monitoring in place for our app. We use Rails. 
 
 To someone who doesn't know much about this space, there was more friction than I expected. 
 
@@ -18,7 +18,7 @@ I'll wander around, get everything set up, and outline any places that I bump in
 
 First, DataDog has a handy video about how to configure your app to use APM:
 
-https://docs.datadoghq.com/videos/rails/
+[https://docs.datadoghq.com/videos/rails/](https://docs.datadoghq.com/videos/rails/)
 
 Unfortunately, the link they give in the video to [https://app.datadoghq.com/apm/docs](https://app.datadoghq.com/apm/docs) redirects to [https://app.datadoghq.com/apm/intro](https://app.datadoghq.com/apm/intro), which _fails to tell you how to find the actual docs_. 🙄
 
@@ -35,7 +35,7 @@ I don't know that we'll get to step 4, but 1-3 look great.
 
 # Enable Trace collection in the Datadog Agent
 
-There's a lot of complexity boiled into this short little paragraph:
+There's a lot of complexity boiled into [this short little paragraph](https://docs.datadoghq.com/tracing/#setting-up-apm):
 
 > Install and configure the latest Datadog Agent. (On macOS, install and run the Trace Agent in addition to the [Datadog Agent](https://docs.datadoghq.com/tracing/setup/python/). See the [macOS Trace Agent documentation](https://github.com/DataDog/datadog-agent/tree/master/docs/trace-agent#run-on-macos) for more information). APM is enabled by default in Agent 6, however there are additional configurations to be set in a containerized environment including setting `apm_non_local_traffic: true`. To get an overview of all the possible settings for APM including setting up APM in containerized environments such as [Docker](https://docs.datadoghq.com/agent/docker/apm/?tab=java) or [Kubernetes](https://docs.datadoghq.com/agent/kubernetes/daemonset_setup/?tab=k8sfile), get started [Sending traces to Datadog](https://docs.datadoghq.com/tracing/send_traces/).
 
@@ -91,7 +91,7 @@ Wooow. That's the end of this section. The docs say:
 
 So, I assume this means after I deploy our app with the updated configuration. 
 
-The link to the APM services page is https://app.datadoghq.com/apm/services, but the URL redirects to https://app.datadoghq.com/apm/intro, which tells me nothing about next steps. It looks like a marketing page without a clickable CTA or next-step. 
+The link to the APM services page is [app.datadoghq.com/apm/services](https://app.datadoghq.com/apm/services), but the URL redirects to [app.datadoghq.com/apm/intro](https://app.datadoghq.com/apm/intro), which tells me nothing about next steps. It looks like a marketing page without a clickable CTA or next-step. 
 
 We're obviously not just going to blindly deploy this in our next release, so this would be an _excellent_ spot to know about sandboxing options, or test/demo modes, etc.
 
@@ -106,7 +106,7 @@ I sent:
 They replied:
 
 > ... Regarding conducting testing in a sandboxed environment, this can achieve by opening up a new, free trial account. Details are here:
-> https://www.datadoghq.com/free-datadog-trial/
+> [https://www.datadoghq.com/free-datadog-trial/](https://www.datadoghq.com/free-datadog-trial/)
 > 
 > Once you have conducted the necessary tests and are done using the account, you can reach out to support to close the account if you'd like.
 
@@ -186,15 +186,29 @@ I get an overview of my laptop's system metrics. Mildly surprising. Oh well.
 
 ![application performance monitoring](/images/2019-07-20-datadog-nothing-interesting.jpg)
 
-Click the APM button and... yay, a "get started" button. Whatever plan my company is on doesn't have Application Performance Monitoring set up, so we cannot use the feature. The way this was displayed in the UI to me was a the same page in the following screenshot, it was just missing the `Get Started` button. 
+Click the APM button and... yay, a "get started" button. 
 
-So, there I was, a developer wanting to use an expensive monitoring tool, trying to set it up, and when I first found this, I just gave up on the project. The page should see that I'm on an account spending $X/month with DataDog, and should make it _very easy_ for me to contact someone about enabling a trial of this feature.
+--------------------------------------------
 
-I expect that if we start using this tool, it's tens of thousands of dollars of additional income for DataDog. 
+_This is a quick sidebar on 'feature discoverability' in an application:_
+
+I'd clicked this `APM` tab before, when in my work Datadog account for other purposes.
+
+Whatever plan my company is on doesn't have Application Performance Monitoring set up, so we cannot use the feature. 
+
+The way this "feature unavailability" was displayed in the UI to me was a the same page in the following screenshot, it was just missing the `Get Started` button. 
+
+So, there I was, a developer wanting to use an expensive monitoring tool, trying to set it up, and when I first found this, I just gave up on the project. 
+
+The page should see that I'm on an account spending _many_ dolalrs/month with DataDog, and should make it _very easy_ for me to contact someone about enabling a trial of this feature.
+
+I expect that if we start using this tool, it's tens of thousands of dollars per year of additional income for DataDog. 
 
 ![aha. Success](/images/2019-07-20-datadog-cta-fix.jpg)
 
 Oh well. Not my problem.
+
+-----------------------------------------
 
 I clicked the `Get Started` button, and am asked to choose a language:
 
@@ -221,5 +235,8 @@ A little bit of wonky CSS, but I think we're making progress.
 The page was frozen, so I did a hard refresh, then rebuilt the URL to get me to [https://app.datadoghq.com/apm/services](https://app.datadoghq.com/apm/services), and we're in business:
 
 ![its running locally](/images/2019-07-20-datadog-apm-05.jpg)
+
+
+I'm going to end this post here. Next, I'll see what sort of things we can learn from Datadog while running our app locally, interacting it (or [crushing it with siege/apache benchmark]({{ site.baseurl }}{% link _posts/2019-07-17-load-testing-your-app-with-siege.md %})) and eventually finding where to make changes to improve the app performance. 
 
 
