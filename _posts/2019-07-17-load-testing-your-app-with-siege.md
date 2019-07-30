@@ -149,7 +149,9 @@ fd827a2c5655094bcce3748d6ee6d3e4: ImRhMDY1YjdjYjMwNGNjNWUxNzFkNDhjOGQ0YzA0OTIwIg
 And we're in business:
 
 ```
-$ siege --header="Cookie: _ts_session_id=c86fd1fe38d7a6c56ce1ef5990045057,fd827a2c5655094bcce3748d6ee6d3e4=ImRhMDY1YjdjYjMwNGNjNWUxNzFkNDhjOGQ0YzA0OTIwIg%3D%3D--98c228cb35af1a269ee894c22540b81848e2ed09" -f all_campaign_urls.txt
+$ siege --header="Cookie: _ts_session_id=c86fd1fe38d7a6c56ce1ef5990045057, \ 
+fd827a2c5655094bcce3748d6ee6d3e4=ImRhMDY1YjdjYjMwNGNjNWUxNzFkNDhjOGQ0YzA0OTIwIg%3D%3D--98c228cb35af1a269ee894c22540b81848e2ed09" \
+-f all_campaign_urls.txt
 ```
 
 
