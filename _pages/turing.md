@@ -10,19 +10,14 @@ meta: {}
 permalink: /turing
 ---
 
-I graduated from Turing in 2017; since then I've been involved with the community in a variety of ways:
+I graduated from Turing in 2017. You might be curious about Turing, or software development in general. If that's the case, this page is an easy jumping-off point into all the resources I've written and collected that could aid you in this process.
 
- - Mentoring Turing students (and people learning software development, but not with Turing)
- - A brief stint on the Turing alumni committee
- - Building out resources on this website that can aid Turing students
- - Making PRs to a variety of Turing's curriculum/prework repositories
 
-I write things on this website (or Github gists, or make PRs) so I can make something once, and it'll hopefully be able to continue delivering value for a long time. 
+Please note - I've been helped by so many other people both directly (emails, async or synchronous conversations) and indirectly (they wrote/created something that I learned from and was helped by). This page, and the general list of resources you'll find around this website are my modest attempts to help others in the way I've been helped. 
 
-Here's an unordered list of resources that could aid someone if they are either:
-1. Curious to know more about software development
-2. Already planning on attending Turing
-3. _Considering_ attending Turing
+I'm always eager to hear about areas where these guides are unclear or cause confusion, and I'm quick to refine things. Please send me an email at `thompsonjoshd` at Google's popular email service or, if you're in the Turing slack, send me a message. I'm `@josh_t`. 
+
+Finally, feel free to set up a session to chat about whatever's on your mind over at [josh.works/office-hours]({{ site.baseurl }}{% link _pages/office-hours.md %})
 
 
 ## Learning how to learn
@@ -78,3 +73,10 @@ Here's what William and Rhonda did, and what I wish I'd done, before mod 3 start
 ## Mod 4:
 
 [OSS contributions (don't fear the sharks) by Leta Keene](https://medium.com/@letakeane/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86)
+
+
+# Job hunting and Remote Work
+
+- [All I've written on working remotely](http://josh.works/tags#remote_work)
+- [Everything I've written on the topic of programming](http://josh.works/tags#programming)
+- [Everything I've written on the topic of Turing](http://josh.works/tags#turing)
