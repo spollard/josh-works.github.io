@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Playing with the HTTP send/response cycle in Ruby, without Faraday
+title: Playing with the HTTP send/response cycle in Ruby, without Faraday ("HTTP Yeah You Know Me" project)
 categories:
 - programming
 tags:
