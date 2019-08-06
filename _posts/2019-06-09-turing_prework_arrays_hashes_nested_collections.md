@@ -121,5 +121,12 @@ I cover a lot of things in the video; here's the index:
 - [18:43 - test_list_of_employees_across_all_restaurants](https://www.youtube.com/watch?v=9AaElA4elDU&t=18m43s)
 - [21:13 - using ruby docs to get unstuck](https://www.youtube.com/watch?v=9AaElA4elDU&t=21m13s)
 - [22:10 - using .each with TWO arguments in block instead of one.](https://www.youtube.com/watch?v=9AaElA4elDU&t=22m10s)
-
-More indexing to come...
+- [23:44 use .concat to avoid nested arrays](https://www.youtube.com/watch?v=9AaElA4elDU&t=23m44s)
+- [25:29 test_list_of_all_ingredients_across_all_restaurants](https://www.youtube.com/watch?v=9AaElA4elDU&t=25m29s)
+- [32:29 test_full_menu_price_for_olive_garden](https://www.youtube.com/watch?v=9AaElA4elDU&t=32m29s)
+- [37:13 test passes. Lets refactor, giving .reduce a shot! 😱](https://www.youtube.com/watch?v=9AaElA4elDU&t=37m13s)
+- [41:14 test_full_menu_for_olive_garden](https://www.youtube.com/watch?v=9AaElA4elDU&t=41m14s)
+- [48:38 I accidentally broke the prior test; fixing it](https://www.youtube.com/watch?v=9AaElA4elDU&t=48m38s)
+- [50:02 test_full_menu_price_for_olive_garden](https://www.youtube.com/watch?v=9AaElA4elDU&t=50m02s)
+- [53:51 it works! refactoring to use .reduce](https://www.youtube.com/watch?v=9AaElA4elDU&t=53m51s)
+- [1:03:00 explaining a gotcha with .reduce](https://www.youtube.com/watch?v=9AaElA4elDU&t=1h03m00s)

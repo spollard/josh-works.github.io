@@ -37,11 +37,11 @@ sidekiq
 mailcatcher
 ```
 
-The app should now working. Navigate to `http://localhost:3000/`, and you should see Missy Elliot in all her glory.
+The app should now working. Navigate to `[http://localhost:3000/](http://localhost:3000/)`, and you should see Missy Elliot in all her glory.
 
-Open up `http://localhost:3000/sidekiq/` to see the sidekiq dashboard, and then over to `http://localhost:1080/` for mailcatcher. 
+Open up `[http://localhost:3000/sidekiq/](http://localhost:3000/sidekiq/)` to see the sidekiq dashboard, and then over to `[http://localhost:1080/](http://localhost:1080/)` for mailcatcher. 
 
-You'll notice that when sending emails via the app, nothing is happening on [http://localhost:3000/sidekiq/], and the redis terminal window is untouched:
+You'll notice that when sending emails via the app, nothing is happening on [http://localhost:3000/sidekiq/](http://localhost:3000/sidekiq/), and the redis terminal window is untouched:
 
 ![redis](/images/2018-07-25_redis.jpg)
 
