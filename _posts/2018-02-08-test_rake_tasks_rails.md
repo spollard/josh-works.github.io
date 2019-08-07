@@ -28,7 +28,7 @@ class RakeTaskFileTaskTest < ActiveSupport::TestCase
 
     def setup
       @tt = Fabricate(:object_with_attributes_i_need_to_change)
-      ApplicationName::Application.load_tasks
+      ApplicationName::Application.load_tasks if Rake::Task.tasks.empty?
       Rake::Task["namespace:task_name"].invoke
     end
 
@@ -50,7 +50,7 @@ Notes on the above:
 
 - The rake task reads `@tt.attribute_i_changed`, does logic on it, and then changes the value. The object I was changing had quite a few dependencies on _other_ objects, so I just copied an existing factory, changed the values as needed, and called that factory in the `initialization` method.
 
-- `ApplicationName::Application.load_tasks` makes all the rake tasks available inside this test. Without `.load_tasks`, nothing else works.
+- `ApplicationName::Application.load_tasks if Rake::Task.tasks.empty?` makes all the rake tasks available inside this test. Without `.load_tasks`, nothing else works. Without `if Rake::Task.tasks.empty?` makes sure it loads them only if they're not currently loaded. (Thanks [@Ratanachai Ken Sombat](https://medium.com/p/6573f7185a0a/responses/show))
 
 - `Rake::Task["namespace:task_name"].invoke` runs the task under test.
 
