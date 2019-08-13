@@ -20,7 +20,7 @@ https://thehelpfulhacker.net/2009/11/14/stupid-telnet-tricks/
 <!--more-->
 
 
-# Q&A with Avdi and guest Betsy Haibel (video)
+# Q&A with Avdi and guest Betsy Haibel Q&A 1
 
 Video: https://avdi.codes/topic/qa-1-with-guest-betsy-haibel/
 
@@ -52,13 +52,13 @@ Try to use VCRs if calling external APIs.
 
 _you can throw tests away_. (wuuuuuut. never thought of this.)
 
-## Find common themes in slow tests? Speed up test suite?
+### Find common themes in slow tests? Speed up test suite?
 
 
 # MOOM Week 2: Representing User Input
 
 
-# Primitive Obsession
+### Primitive Obsession
 
 TL;DR don't store domain objects as primitives. `course.duration` => `3`. 3 what? weeks? days? months?
 
@@ -104,7 +104,7 @@ main:0> length = Weeks.new(3)
 But having the option to call `course.length` and get `Weeks[3]` as a response is... amazing. Or `course.length.to_s` and get `3 weeks`. Super cool. 
 
 
-# You don't have users
+### You don't have users
 
 Don't call anything in your system a "user". That is endlessly confusing. Is it someone with billing access? Is it a member of an account assigned to that bill-paying person who does _not_ have billing access? There's a natural segmentation of roles you may expect to assign to people who use your platform, so don't call them users. 
 
@@ -113,10 +113,32 @@ Don't call anything in your system a "user". That is endlessly confusing. Is it 
 
 
 
-# misc, try setting up w/team:
+### misc, try setting up w/team:
 
 Pairing/chats of three types:
 
 1. I watch them
 2. They watch me
 3. 1:1 with ranging topics/"non-technical" agenda/discussion
+
+
+# Moom interview w/Betsey Haibel: Q&A \#5
+
+Workflow object. 
+
+Read POODR (post-initialization classes, use NOOP method)
+- dependency injection
+
+Read _Domain Driven Design_?
+
+in-line method refactoring? 
+RubyMine can do that. What's this mean?
+
+Finding objects to refactor out of overly-complex existing objects. 
+
+```ruby
+# what's this thing do?
+inline_method
+```
+
+
