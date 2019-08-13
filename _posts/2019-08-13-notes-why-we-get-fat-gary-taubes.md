@@ -46,6 +46,8 @@ Getting fat is _not_ a "calories-in/calories-out" problem, or "eat too much, exe
 > The implication (our working assumption) is that **if someone gets obese it’s because this regulation has been thrown out of whack** not that it’s ceased to exist.
 
 -----------------------------
+<!--more-->
+
 
 Lots of Taube's assessment of nutrition comes from research done in Europe, specifically Germany and Austria. It got lost to the modern medical establishment, though. 
 
