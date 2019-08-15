@@ -314,7 +314,7 @@ But that doesn't catch the eye nearly as well as:
 
 So, to off-set text like that, you just "wrap" it in backticks, the key to the left of the `1` on your keyboard.
 
-`wrapped in backticks`
+> This is what text that's been `wrapped in backticks` looks like
 
 So, make a card like this in Anki:
 
@@ -327,7 +327,7 @@ And you can toggle markdown/not-markdown with the `m` in the corner:
 
 ![toggle markdown](/images/2019-08-15-anki-make-markdown.gif)
 
-Make a few more cards. For example, figure out how to make a large block of pre-formatted text, or give a block of code langage-specific syntax highlighting. 
+Make a few more cards. For example, figure out how to make a large block of pre-formatted text, or give a block of code language-specific syntax highlighting. 
 
 ![language-specific syntax highlighting](/images/2019-08-15-anki-toggle-ruby-formatting.gif)
 
