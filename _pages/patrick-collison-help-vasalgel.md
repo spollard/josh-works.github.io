@@ -35,4 +35,4 @@ They [are setup to take donations](https://www.parsemus.org/donations/), but it'
 
 You can help with all of these things. 
 
-I cannot personally introduce the team behind Vasalgel to SF Startup money, but you can. 
+I cannot personally introduce the team behind Vasalgel to SF Startup money, but you can. And to the talent they need to bring this world-changing product to market. 
