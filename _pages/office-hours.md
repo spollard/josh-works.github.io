@@ -14,7 +14,6 @@ This page is entirely cribbed from [robertheaton.com/office-hours](https://rober
 
 ## Why Should You Sign Up?
 
-
 I think that these sessions will be most useful for "Beginner Beginners" and "Beginner Professionals" - people who are just starting to figure out how to learn software development, and people who have learned the basics and are working on getting their first software development job.
 
 But regardless of what stage you are at, if you think that spending some time talking about programming and careers would be useful then I’d love to hear from you.
@@ -26,8 +25,8 @@ We can cover any topic that you like. Some example things I think I could help w
 - You’re trying to decide what to learn about or work on next
 - You're trying to figure out how to strategize about your job hunt
 - You're wanting to really land a job at one specific company, or at most two
-- The sky’s the limit
 
+_If you're a member of a group that is underrepresented in the technology industry then I especially encourage you to get in touch._
 
 ## How do you sign up?
 
@@ -35,7 +34,7 @@ Send me an email at `thompsonjoshd@gmail.com` with a few sentences on who you ar
 
 ## What do I get out of this?
 
-I’m working on a series of [Turing backend prep material]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %}) to help people make the difficult leap from beginner beginner to advanced beginner, and getting that first job. 
+I’m working on a series of [Turing backend prep material]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %}) to help people make the difficult leap from beginner beginner to advanced beginner, and getting that first job, or [get that first remote job](https://josh.works/tags#remote_work).
 
 This jump is hard enough when you have a background in tech, or have worked in technical roles, or have been tinkering with code since a child. 
 
@@ -48,7 +47,7 @@ I’m also just a friendly guy who has had lots of people help him over the year
 
 ### Who am I?
 
-I’m a software Developer at Proofpoint, where I work on tools that send simulated phishing attacks. I’ve written a lot of about [programming](https://josh.works/tags#programming) and and [remote work](https://josh.works/tags#remote_work ) and [the Turing school](https://josh.works/tags#turing), and the best way to decide whether you might enjoy talking with me is probably to read a couple of those posts. 
+I’m a software developer at Proofpoint, where I work on tools that send simulated phishing attacks. I’ve written a lot of about [programming](https://josh.works/tags#programming) and and [remote work](https://josh.works/tags#remote_work ) and [the Turing school](https://josh.works/tags#turing), and the best way to decide whether you might enjoy talking with me is probably to read a couple of those posts. 
 
 
 ### What do I get out of this?
