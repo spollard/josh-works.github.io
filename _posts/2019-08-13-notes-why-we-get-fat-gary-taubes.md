@@ -4,6 +4,7 @@ title:  "Gary Taube's 'Why We Get Fat'"
 date:  2019-08-13 06:00:00 -0700
 crosspost_to_medium: false
 categories: [notes]
+description: Quotes and notes from Gary Taube's 'Why We Get Fat: And What To Do About It'
 tags: [nutrition, notes, books]
 permalink: notes-gary-taubes-why-we-get-fat
 ---
@@ -213,11 +214,6 @@ Late-1900's and early-2000s research on diet was often championing the exactly w
 > It will make you healthier. The same is true for red meat, bacon and eggs, and virtually any other animal product we might choose to eat instead of the carbohydrates that make us fat. (Butter is a slight exception, because only half the fat will definitively improve your cholesterol profile; the other half will raise LDL but also raise HDL.)
 
 -----------------------------
-
-
-
-
-### Misc notes/add this to anki, but don't include in blog post
 
 ### What counts as "sugar" for the purposes of this book (and your life)
 
