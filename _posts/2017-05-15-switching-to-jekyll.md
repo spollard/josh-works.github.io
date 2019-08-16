@@ -42,6 +42,7 @@ I pulled from lots of articles others had written, to figure out all sorts of li
 - [Add and manage post excerpts](https://coderwall.com/p/eazb7w/easily-create-blog-post-excerpts-for-jekyll-and-github-pages)
 - [Ruby script to parse SquareSpace XML archive into Jekyll-friendly posts (with images!)](https://gist.github.com/spiffytech/e73777e167dc5a8b6a87)
 - [Adding "related posts" tool](https://elliotekj.com/2016/12/05/jekyll-create-a-list-of-all-posts-in-the-same-category/) (I'm not currently satisfied w/my current implementation)
+- [Add meta description in Jekyll posts](https://sarathlal.com/add-meta-description-in-jekyll-posts/) ([This is the commit where I added it, if the above directions caused you some confusion too](https://github.com/josh-works/josh-works.github.io/commit/d73080031d87390e165b84fcb678760f488375df))
 
 
 And that's about it. It's been an amazing experience, porting everything over to Jekyll.
