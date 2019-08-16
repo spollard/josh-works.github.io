@@ -4,7 +4,7 @@ title: Office Hours
 status: publish
 type: page
 published: true
-meta: {}
+description: Schedule Office Hours with Josh Thompson!
 permalink: /office-hours
 ---
 
