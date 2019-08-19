@@ -4,7 +4,7 @@ title:  "Gary Taube's 'Why We Get Fat'"
 date:  2019-08-13 06:00:00 -0700
 crosspost_to_medium: false
 categories: [notes]
-description: Quotes and notes from Gary Taube's 'Why We Get Fat: And What To Do About It'
+description: "Quotes and notes from Gary Taube's 'Why We Get Fat: And What To Do About It'"
 tags: [nutrition, notes, books]
 permalink: notes-gary-taubes-why-we-get-fat
 ---

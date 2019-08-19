@@ -3,12 +3,11 @@ layout: post
 title:  "Gary Taube's 'The Case Against Sugar'"
 date:  2019-08-12 06:00:00 -0700
 crosspost_to_medium: false
-description: Quotes and notes from Gary Taube's 'The Case Against Sugar'
 categories: [notes]
+description: Quotes and notes from Gary Taube's 'The Case Against Sugar'
 tags: [nutrition, notes, books]
 permalink: notes-gary-taubes-case-against-sugar
 ---
-
 
 In the last few weeks, I read [The Case Against Sugar](https://www.goodreads.com/book/show/29874881-the-case-against-sugar) by Gary Taubes.
 
