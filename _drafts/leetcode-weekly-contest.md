@@ -95,7 +95,7 @@ chars = "bbb"
 
 ------------------------
 
-So, I worked a bit with [Kunal]() from CodeMentor (I had a variety of questions for him, among them was this challenge and my general strategy for solving technical challenges. He was great. You should talk with him.)
+So, I worked a bit with [Kunal Madhav](https://www.codementor.io/gando_001) from CodeMentor (I had a variety of questions for him, among them was this challenge and my general strategy for solving technical challenges. He was great. You should talk with him.)
 
 Together, we eventually ironed out;
 
@@ -103,27 +103,31 @@ Together, we eventually ironed out;
 
 ```ruby
 def count_characters(words, chars)
-  found_words = []
-  words.each do |w|
-    if word_chars_in_approve_list?(w, chars)
-      found_words << w 
+    found_words = []
+    words.each do |w|
+        if word_chars_in_approve_list?(w, chars)
+            found_words << w 
+        end
     end
-  end
-  p found_words
-  return found_words.join.length
+    return found_words.join.length
 end
 
 def word_chars_in_approve_list?(word, chars)
-  list = chars.split("")
-  word.split("").each do |c|
-    if list.include?(c)
-      index = list.index(c)
-      list.delete_at(index)
-    else
-      return false
+    word.split("").each do |c|
+        if chars.include?(c)
+            chars = remove_first_instance_of(c, chars)
+        else
+            return false
+        end
     end
-  end
-  return true
+    return true
+end
+
+def remove_first_instance_of(c, chars)
+    split_chars = chars.split("")
+    index = split_chars.index(c)
+    split_chars.delete_at(index)
+    return split_chars.join
 end
 
 ```
@@ -144,7 +148,6 @@ def count_characters(words, chars)
     found_words << w 
   end
   end
-  p found_words
   return found_words.join.length
 end
 
@@ -163,6 +166,11 @@ end
 ```
 
 All the action is happening in the `word_chars_in_approve_list?` method.
+
+The output from submitting it on LeetCode:
+> Runtime: 832 ms, faster than 18.18% of Ruby online submissions for `Find Words That Can Be Formed by Characters`.
+Memory Usage: 10.2 MB, less than 100.00% of Ruby online submissions for `Find Words That Can Be Formed by Characters`.
+
 
 -----------------------------
 

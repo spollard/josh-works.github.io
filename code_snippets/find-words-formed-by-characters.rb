@@ -21,24 +21,32 @@ end
 
 # slower?
 def count_characters(words, chars)
-  words.reduce(0) do |results, word|
-    results += word.length if word_in_chars?(word, chars)
-    results
-  end
-end
-
-def word_in_chars?(word, chars)
-  char_list = chars.split("")
-  word.split("").each do |c|
-    if char_list.include?(c)
-      char_list.delete_at(char_list.index(c))
-      next
+    found_words = []
+    words.each do |w|
+        if word_chars_in_approve_list?(w, chars)
+            found_words << w 
+        end
     end
-    return false
-  end
-  true
+    return found_words.join.length
 end
 
+def word_chars_in_approve_list?(word, chars)
+    word.split("").each do |c|
+        if chars.include?(c)
+            chars = remove_first_instance_of(c, chars)
+        else
+            return false
+        end
+    end
+    return true
+end
+
+def remove_first_instance_of(c, chars)
+    split_chars = chars.split("")
+    index = split_chars.index(c)
+    split_chars.delete_at(index)
+    return split_chars.join
+end
 
 def test_happy_path
   words = %w[bat cat ab parse]
