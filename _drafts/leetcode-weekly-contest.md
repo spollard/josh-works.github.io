@@ -1,17 +1,17 @@
 ---
 layout: post
 title:  "LeetCode: Find Words That Can Be Formed By Characters, and benchmarking"
-date:  2019-08-19 06:00:00 -0700
+date:  2019-08-23 06:00:00 -0700
 crosspost_to_medium: false
 categories: [programming]
 description: "Benchmarking different solutions to LeetCode's 'Find Words That Can Be Formed By Characters' challenge"
 tags: [ruby, benchmarking, code_challenge]
-permalink: leetcode-find-words-formed-by-characters-and-benchmarking
+permalink: find-words-formed-by-characters-and-benchmarking
 ---
 
 I recently worked through [a LeetCode problem](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/). 
 
-The first run was pretty brutal. It took (what felt like) forever, and I was not conent with my code.
+The first run was pretty brutal. It took (what felt like) forever, and I was not content with my solution.
 
 Even better, it passed the test cases given while building the solution, but failed on submission.
 
@@ -56,7 +56,7 @@ All strings contain lowercase English letters only.
 ```
 --------------------------------
 
-There's a few things I struggled with; first, I was doing all of this in the LeetCode UI; I didn't get to use `pry` to pause code execution and quickly poke around internal state; I had to rely on libral use of `print` statements, which is decidedly unfun.
+There's a few things I struggled with; first, I was doing all of this in the LeetCode UI; I didn't get to use `pry` to pause code execution and quickly poke around internal state; I had to rely on liberal use of `print` statements, which is decidedly un-fun.
 
 This lovely 13 lines of code took me probably a full hour. Yikes:
 
@@ -76,7 +76,7 @@ def word_chars_in_approve_list(word, chars)
 end
 ```
 
-I hit the "submit" button, and it didn't pass. In the `word_chars_in_approve_list` method, I'm only checking to see that all of the characters in `word` also exist in the `chars` string. 
+I hit the "submit" button... it didn't pass. In the `word_chars_in_approve_list` method, I'm only checking to see that all of the characters in `word` also exist in the `chars` string. 
 
 So if 
 ```
@@ -97,9 +97,7 @@ chars = "bbb"
 
 So, I worked a bit with [Kunal Madhav](https://www.codementor.io/gando_001) from CodeMentor (I had a variety of questions for him, among them was this challenge and my general strategy for solving technical challenges. He was great. You should talk with him.)
 
-Together, we eventually ironed out;
-
-\ # get slow code, add it
+Together, we eventually ironed out the following:
 
 ```ruby
 def count_characters(words, chars)
@@ -132,13 +130,9 @@ end
 
 ```
 
-Lots of other solutions here:
-
-https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/discuss/?currentPage=2&orderBy=hot&query=
+Lots of other solutions [available here](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/discuss/?currentPage=2&orderBy=hot&query=)
 
 But this code was _timing out_; this took too long to run. So, I figured out a modest performance improvement. Rather than splitting and joining the word so many times, I did it just once:
-
-\ # get fast code, add it
 
 ```ruby
 def count_characters(words, chars)
@@ -171,14 +165,13 @@ The output from submitting it on LeetCode:
 > Runtime: 832 ms, faster than 18.18% of Ruby online submissions for `Find Words That Can Be Formed by Characters`.
 Memory Usage: 10.2 MB, less than 100.00% of Ruby online submissions for `Find Words That Can Be Formed by Characters`.
 
+So, the above code worked, but I didn't really feel like it was good code.
 
 -----------------------------
 
-The next day, I wanted to revist this. I recommend to Turing students _all the time_ to write code down in a notebook, and re-build the solution/class/whatever from their notebook.
+The next day, I wanted to revisit this. I recommend to Turing students _all the time_ to write code down in a notebook, and re-build the solution/class/whatever from their notebook.
 
 So, I'm taking a dose of my own medicine:
-
-\ # include pictures of my hand-written notes
 
 I made some improvements from a readability perspective:
 
@@ -206,25 +199,106 @@ end
 And the above solution vs. the below solution is what I want to benchmark:
 
 ```ruby
-def count_characters_shift(words, chars)
-  words.reduce(0) do |res, word|
-    res += word.length if word_exist_in_char_shift?(word, chars)
-    res
-  end
+def count_characters(words, chars)
+    found_words = []
+    words.each do |w|
+        if word_chars_in_approve_list?(w, chars)
+            found_words << w 
+        end
+    end
+    return found_words.join.length
 end
 
-def word_exist_in_char_shift?(word, chars)
-  # I'm sorting both arrays here so I don't have to
-  # find and delete by index later. I can just pop the
-  # first item off the array.
-  
-  # note to self, this doesn't quite work. Fix tmr. 
-  char_list = chars.split("").sort
-  word_chars = word.split("").sort
-  word_chars.each do |wc|
-    next if char_list.shift == word_chars.shift
-    return false
-  end
-  return true
+def word_chars_in_approve_list?(word, chars)
+    word.split("").each do |c|
+        if chars.include?(c)
+            chars = remove_first_instance_of(c, chars)
+        else
+            return false
+        end
+    end
+    return true
+end
+
+def remove_first_instance_of(c, chars)
+    split_chars = chars.split("")
+    index = split_chars.index(c)
+    split_chars.delete_at(index)
+    return split_chars.join
 end
 ```
+
+## Benchmarking Code Snippets
+
+LeetCode offers pretty detailed benchmarking, but I wanted to see exactly how bad my "too slow" solution was. 
+
+So, I spun up a little benchmark. 
+
+In ruby, you can do something like this:
+
+```ruby
+require 'benchmark'
+
+def count_characters(words, characters)
+  # first version of code you want to test
+end
+
+def count_characters_medium(words, characters)
+  # second version of code to test
+end
+
+def count_characters_fast(words, characters)
+  # third version of code to test
+end
+
+Benchmark.bmbm do |x|
+  iterations = 30000
+  words = ["cat", "hat", "ball", "sasafras"]
+  characters = "catbl"
+
+  x.report("slower") { 
+    iterations.times do |foo|
+      count_characters(words, characters)
+    end
+  }
+
+  x.report("medium") { 
+    iterations.times do |foo|
+      count_characters_medium(words, characters)
+    end
+  }
+  
+  x.report("faster") { 
+    iterations.times do |foo|
+      count_characters_fast(words, characters)
+    end
+  }
+end
+```
+
+Include the code you want to test before declaring `Benchmark`, and this benchmark code will run the given arguments through the associated methods. 
+
+When I used small strings, it was not easy to tell which code was faster. I was running it 30000+ times, and was getting output showing only a small difference.
+
+But then I ran it on the input LeetCode was providing, and I got much more interesting results:
+
+```
+Rehearsal -------------------------------------------
+slower   13.530000   0.080000  13.610000 ( 14.094186)
+medium    2.120000   0.020000   2.140000 (  2.453419)
+faster    1.700000   0.010000   1.710000 (  1.725038)
+--------------------------------- total: 17.460000sec
+
+              user     system      total        real
+slower   13.160000   0.050000  13.210000 ( 13.371204)
+medium    1.740000   0.010000   1.750000 (  1.759786)
+faster    1.810000   0.010000   1.820000 (  1.888091)
+```
+
+My "slow" code was taking a bit more than seven times as long to run as the "faster" code. That's a noteworthy improvement.
+
+### Additional Resources
+
+- [Benchmark in Ruby code using bm and bmbm with examples](https://rubyinrails.com/2013/09/13/benchmark-in-ruby-code-using-bm-and-bmbm-with-examples/)
+- [Benchmark API (RubyDoc)](https://ruby-doc.org/stdlib-2.6.3/libdoc/benchmark/rdoc/Benchmark.html#method-c-bmbm)
+- [My full "test" file, with extremely long test input](https://github.com/josh-works/josh-works.github.io/blob/master/code_snippets/find-words-formed-by-characters.rb)
