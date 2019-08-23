@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "LeetCode: Find Words That Can Be Formed By Characters, and benchmarking"
+title:  "LeetCode: Words From Characters, and Benchmarking Solutions"
 date:  2019-08-23 06:00:00 -0700
 crosspost_to_medium: false
 categories: [programming]
