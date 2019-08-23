@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gary Taube's 'The Case Against Sugar'"
+title:  "Book Notes: 'The Case Against Sugar' by Gary Taube"
 date:  2019-08-12 06:00:00 -0700
 crosspost_to_medium: false
 categories: [notes]

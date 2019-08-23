@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gary Taube's 'Why We Get Fat'"
+title:  "Book Notes: 'Why We Get Fat' by Gary Taube"
 date:  2019-08-13 06:00:00 -0700
 crosspost_to_medium: false
 categories: [notes]
