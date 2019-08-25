@@ -54,7 +54,9 @@ The strings that can be formed are "hello" and "world" so the answer is 5 + 5 = 
 1 <= words[i].length, chars.length <= 100
 All strings contain lowercase English letters only.
 ```
---------------------------------
+
+<!--more-->
+
 
 There's a few things I struggled with; first, I was doing all of this in the LeetCode UI; I didn't get to use `pry` to pause code execution and quickly poke around internal state; I had to rely on liberal use of `print` statements, which is decidedly un-fun.
 

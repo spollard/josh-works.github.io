@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "Keyboard Shortcut to Toggle Bookmarks Bar in Firefox"
+title:  "MacOS: Keyboard Shortcut to Toggle Bookmarks Bar in Firefox"
 date:  2018-02-15 06:00:00 -0700
 crosspost_to_medium: false
+description: "How to toggle Firefox bookmarks bar visibility by keyboard shortcut (for Mac)"
 categories: [programming tools]
 tags: [firefox, programming]
 permalink: firefox-toggle-bookmark-bar-keyboard-shortcut
 ---
 
-A few weeks ago, after [Firefox Quantum](https://www.mozilla.org/en-US/firefox/) came out, I decided to give it a go.
+A few weeks ago, after [Firefox Quantum](https://www.mozilla.org/en-US/firefox/) came out, I decided to try making Firefox my daily browser, instead of Chrome.
 
-Turns out, Firefox is great! It was a near-seamless transition, and Firefox has a much lower memory footprint, as well as features Chrome does not have, like [Tracking Protection](https://support.mozilla.org/en-US/kb/tracking-protection) and [Reader View](https://blog.mozilla.org/firefox/reader-view/)
+Turns out, Firefox is great! It was a near-seamless transition, and Firefox has a much lower memory footprint, as well as features Chrome does not have, like [Tracking Protection](https://support.mozilla.org/en-US/kb/tracking-protection) and [Reader View](https://blog.mozilla.org/firefox/reader-view/).
 
 But something was bothering me to no end. I could _not_ find a keyboard shortcut to toggle the visibility of the bookmarks toolbar.
 
