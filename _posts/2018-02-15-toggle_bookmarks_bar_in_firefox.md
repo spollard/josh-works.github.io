@@ -20,7 +20,6 @@ I take a lot of screenshots throughout the day, and share them within my company
 In Chrome, `Cmd-Shift-B` toggles the bookmarks bar visibility. In Firefox, that combo shows your history.
 
 <!--more-->
-
 The primary fix is to use the Mac _operating system_ to set an App-specific keyboard shortcut. This is bananas, and I've never done it before.
 
 Here's how to do it:
