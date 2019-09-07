@@ -4,7 +4,7 @@ title: Patrick Collison, Help Vasalgel
 status: publish
 type: page
 published: false
-meta: {}
+description: "Vasalgel can change the world, but it needs money and support. Patrick Collison, could you make introductions?"
 permalink: /patrick-collison-help-vasalgel
 ---
 
