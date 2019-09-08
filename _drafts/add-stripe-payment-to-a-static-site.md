@@ -98,6 +98,30 @@ You know how much interest it generates? Invariably, _almost none_. The actual v
 
 I've considered putting a price on it, just so it doesn't get lumped in with all the other free stuff out there... but I have not, and never will. 
 
+<flip quotes with headings>
 
+## What will the course contain?
+
+Well, I use Jekyll on top of Github pages to host this website. It's a pretty simple set-up, and I'm going to create a page at `/courses` that will display a list of available courses.
+
+It'll list the course you're reading about right now, and you'll be able to click a `purchase course` button. 
+
+When you click the button, you'll be invited to enter your credit card via a Stripe payment gateway; once you enter the details, you'll automatically get a receipt, along with instructions for accessing the course. 
+
+I'll probably host everything on Wistia, and distribute the written content via `epub`/`pdf`/`google document`. 
+
+I'll include three packages at three price points, with the option to upgrade from one tier to the next, somehow. 
+
+All this will be documented and in the course. It'll be great. 
+
+## Who will benefit from this?
+
+Anyone who runs a simple website, and is a software developer who wants to learn the basics of taking payments online.
+
+I am about two years into my first job as a software developer, and I work primarily on a Ruby/Rails application. I've never had to deal with taking payments, as that's not germane to the tools I work on for my day job. 
+
+So, this will assume very little prior knowledge/experience. 
+
+I'll have instructions about spinning up a basic jekyll/github pages website, so you can build along side me.
 
 
