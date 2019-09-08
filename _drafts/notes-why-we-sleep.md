@@ -10,138 +10,433 @@ permalink: why-we-sleep-book-notes
 ---
 
 
-Text
+I first read this book about two years ago. It immediately led me to prioritize sleep over almost everything else. 
 
-<!--more-->
+Ironically, I'm editing this post at 10:30p MT, though my body is over the ocean, soon to land in Taipei. My circadian rythem is completely out of whack, as I am trying to convince my body it's actually 2:30p. Fortunately, going West is usually easier than going East. About all my brain feels fit for is editing, not anything more complex. 
 
------------------------
+Most of us don't get enough sleep, and are worse for it. Usually when the topic of sleep comes up, I say 
+
+> Hey, there's this great book I read on sleep. You should read it, and then sleep more!
+
+The only problem with that is... it's hard enough to change behavior even when you're fully onboard with the thing you're trying to do. So, I gave it another read, and will pull some high points of the book into this post. 
+
+I hope to use this post to accomplish two things:
+
+1. Convince you that sleep is massively important and you should sleep more
+2. Convince you to read the book. If you find anything below compelling, you'll find it _even more compelling_ if you read the whole book yourself. 
+
+Everything that follows is a quote from _Why We Sleep_. If I add my own comments, they'll be inline, like this:
+
+_Josh: here's a comment I'm adding_
+
+### Quotes from _Why We Sleep_: 
 
 Two-thirds of adults throughout all developed nations fail to obtain the recommended eight hours of nightly sleep.
 -----------------------
 
+_This is the grab-bag of negative impacts on sleeping too little. From the first chapter. The author expands on all of these points later in the book._
+
 - Routinely sleeping less than six or seven hours a night demolishes your immune system, more than doubling your risk of cancer. 
 - Insufficient sleep is a key lifestyle factor determining whether or not you will develop Alzheimer’s disease. 
-- Inadequate sleep—even moderate reductions for just one week—disrupts blood sugar levels so profoundly that you would be classified as pre-diabetic. 
+- Inadequate sleep — even moderate reductions for just one week — disrupts blood sugar levels so profoundly that you would be classified as pre-diabetic. 
 - Short sleeping increases the likelihood of your coronary arteries becoming blocked and brittle, setting you on a path toward cardiovascular disease, stroke, and congestive heart failure. 
 - Fitting Charlotte Brontë’s prophetic wisdom that “a ruffled mind makes a restless pillow,” sleep disruption further contributes to all major psychiatric conditions, including depression, anxiety, and suicidality. 
 - Perhaps you have also noticed a desire to eat more when you’re tired? This is no coincidence. Too little sleep swells concentrations of a hormone that makes you feel hungry while suppressing a companion hormone that otherwise signals food satisfaction. Despite being full, you still want to eat more. It’s a proven recipe for weight gain in sleep-deficient adults and children alike. 
 - Worse, should you attempt to diet but don’t get enough sleep while doing so, it is futile, since most of the weight you lose will come from lean body mass, not fat. 
 
-Add the above health consequences up, and a proven link becomes easier to accept: the shorter your sleep, the shorter your life span. 
+Add the above health consequences up, and a proven link becomes easier to accept: **the shorter your sleep, the shorter your life span.**
 
 The old maxim “I’ll sleep when I’m dead” is therefore unfortunate. Adopt this mind-set, and you will be dead sooner and the quality of that (shorter) life will be worse. 
 -----------------------
 
-But can we go so far as to say that a lack of sleep can kill you outright? Actually, yes—on at least two counts... Second is the deadly circumstance of getting behind the wheel of a motor vehicle without having had sufficient sleep. 
+<!--more-->
 
-Drowsy driving is the cause of hundreds of thousands of traffic accidents and fatalities each year. 
+But can we go so far as to say that a lack of sleep can kill you outright? Actually, yes...[one way sleep deprivation can kill you] is the deadly circumstance of getting behind the wheel of a motor vehicle without having had sufficient sleep. 
+
+**Drowsy driving is the cause of hundreds of thousands of traffic accidents and fatalities each year.**
 
 And here, it is not only the life of the sleep-deprived individuals that is at risk, but the lives of those around them. 
 
 Tragically, one person dies in a traffic accident every hour in the United States due to a fatigue-related error. 
 
-It is disquieting to learn that vehicular accidents caused by drowsy driving exceed those caused by alcohol and drugs combined. 
+**It is disquieting to learn that vehicular accidents caused by drowsy driving exceed those caused by alcohol and drugs combined.**
 -----------------------
 
-An adult’s owlness or larkness, also known as their chronotype, is strongly determined by genetics. If you are a night owl, it’s likely that one (or both) of your parents is a night owl. Sadly, society treats night owls rather unfairly on two counts. First is the label of being lazy, based on a night owl’s wont to wake up later in the day, due to the fact that they did not fall asleep until the early-morning hours. Others (usually morning larks) will chastise night owls on the erroneous assumption that such preferences are a choice, and if they were not so slovenly, they could easily wake up early. However, night owls are not owls by choice. They are bound to a delayed schedule by unavoidable DNA hardwiring. It is not their conscious fault, but rather their genetic fate.
------------------------
+_Don't let people shame you with the 'early to bed early to rise' concept. Some people can go to bed early and wake up early. Others cannot. It's not a moral issue, it's genetics._
 
-Your suprachiasmatic nucleus communicates its repeating signal of night and day to your brain and body using a circulating messenger called melatonin. Melatonin has other names, too. These include “the hormone of darkness” and “the vampire hormone.” Not because it is sinister, but simply because melatonin is released at night. Instructed by the suprachiasmatic nucleus, the rise in melatonin begins soon after dusk, being released into the bloodstream from the pineal gland, an area situated deep in the back of your brain. Melatonin
------------------------
+An adult’s owlness or larkness, also known as their chronotype, is strongly determined by genetics. 
 
-In this way, melatonin helps regulate the timing of when sleep occurs by systemically signaling darkness throughout the organism. But melatonin has little influence on the generation of sleep itself: a mistaken assumption that many people hold. To make clear this distinction, think of sleep as the Olympic 100-meter race. Melatonin is the voice of the timing official that says “Runners, on your mark,” and then fires the starting pistol that triggers the race. That timing official (melatonin) governs when the race (sleep) begins, but does not participate in the race. In this analogy, the sprinters themselves are other brain regions and processes that actively generate sleep. Melatonin
------------------------
+If you are a night owl, it’s likely that one (or both) of your parents is a night owl. 
 
-Your twenty-four-hour circadian rhythm is the first of the two factors determining wake and sleep. The second is sleep pressure. At this very moment, a chemical called adenosine is building up in your brain. It will continue to increase in concentration with every waking minute that elapses. The longer you are awake, the more adenosine will accumulate. Think of adenosine as a chemical barometer that continuously registers the amount of elapsed time since you woke up this morning. One consequence of increasing adenosine in the brain is an increasing desire to sleep. This is known as sleep pressure, and it is the second force that will determine when you feel sleepy, and thus should go to bed. Using a clever dual-action effect, high concentrations of adenosine simultaneously turn down the “volume” of wake-promoting regions in the brain and turn up the dial on sleep-inducing regions. As a result of that chemical sleep pressure, when adenosine concentrations peak, an irresistible urge for slumber will take hold.VII It happens
------------------------
+Sadly, society treats night owls rather unfairly on two counts. 
 
-continues to this day. Caffeine works by successfully battling with adenosine for the privilege of latching on to adenosine welcome sites—or receptors—in the brain. Once caffeine occupies these receptors, however, it does not stimulate them like adenosine, making you sleepy. Rather, caffeine blocks and effectively inactivates the receptors, acting as a masking agent. It’s
------------------------
+First is the label of being lazy, based on a night owl’s wont to wake up later in the day, due to the fact that they did not fall asleep until the early-morning hours. 
 
-approximately thirty minutes after oral administration. What is problematic, though, is the persistence of caffeine in your system. In pharmacology, we use the term “half-life” when discussing a drug’s efficacy. This simply refers to the length of time it takes for the body to remove 50 percent of a drug’s concentration. Caffeine has an average half-life of five to seven hours. Let’s say that you have a cup of coffee after your evening dinner, around 7:30 p.m. This means that by 1:30 a.m., 50 percent of that caffeine may still be active and circulating throughout your brain tissue. In other words, by 1:30 a.m., you’re only halfway to completing the job of cleansing your brain of the caffeine you drank after dinner. There’s nothing benign about that 50 percent mark, either. Half a shot of caffeine is still plenty powerful, and much more decomposition work lies ahead throughout the night before caffeine disappears. Sleep will not come easily or be smooth throughout the night as your brain continues its battle against the opposing force of caffeine. Most people do not realize how long it takes to overcome a single dose of caffeine, and therefore fail to make the link between the bad night of sleep we wake from in the morning and the cup of coffee we had ten hours earlier with dinner. Caffeine—which
------------------------
+Others (usually morning larks) will chastise night owls on the erroneous assumption that such preferences are a choice, and if they were not so slovenly, they could easily wake up early. 
 
-AM I GETTING ENOUGH SLEEP? Setting aside the extreme case of sleep deprivation, how do you know whether you’re routinely getting enough sleep? While a clinical sleep assessment is needed to thoroughly address this issue, an easy rule of thumb is to answer two simple questions. First, after waking up in the morning, could you fall back asleep at ten or eleven a.m.? If the answer is “yes,” you are likely not getting sufficient sleep quantity and/or quality. Second, can you function optimally without caffeine before noon? If the answer is “no,” then you are most likely self-medicating your state of chronic sleep deprivation. Both of these signs you
+However, night owls are not owls by choice. They are bound to a delayed schedule by unavoidable DNA hardwiring. It is not their conscious fault, but rather their genetic fate.
+
 -----------------------
 
 
+_How does caffeine work? It fills adenosine receptors in the brain, preventing actual adenosine from getting in. This masks the sleep-stimulating effect of adenosine_
+
+Caffeine works by successfully battling with adenosine for the privilege of latching on to adenosine welcome sites—or receptors—in the brain. Once caffeine occupies these receptors, however, it does not stimulate them like adenosine, making you sleepy. Rather, caffeine blocks and effectively inactivates the receptors, acting as a masking agent. 
 -----------------------
 
-AMAZING BREAKTHROUGH! Scientists have discovered a revolutionary new treatment that makes you live longer. It enhances your memory and makes you more creative. It makes you look more attractive. It keeps you slim and lowers food cravings. It protects you from cancer and dementia. It wards off colds and the flu. It lowers your risk of heart attacks and stroke, not to mention diabetes. You’ll even feel happier, less depressed, and less anxious. Are you interested?
+_Best practice might be to refrain from caffeine anytime after the mid-morning._
+
+What is problematic [about caffeine] is the persistence of caffeine in your system. In pharmacology, we use the term “half-life” when discussing a drug’s efficacy. This simply refers to the length of time it takes for the body to remove 50 percent of a drug’s concentration. 
+
+**Caffeine has an average half-life of five to seven hours**. Let’s say that you have a cup of coffee after your evening dinner, around 7:30 p.m. This means that by 1:30 a.m., 50 percent of that caffeine may still be active and circulating throughout your brain tissue. In other words, by 1:30 a.m., you’re only halfway to completing the job of cleansing your brain of the caffeine you drank after dinner. 
+
+There’s nothing benign about that 50 percent mark, either. Half a shot of caffeine is still plenty powerful, and much more decomposition work lies ahead throughout the night before caffeine disappears. 
+
+Sleep will not come easily or be smooth throughout the night as your brain continues its battle against the opposing force of caffeine. Most people do not realize how long it takes to overcome a single dose of caffeine, and therefore fail to make the link between the bad night of sleep we wake from in the morning and the cup of coffee we had ten hours earlier with dinner.
 -----------------------
 
-Of the many advantages conferred by sleep on the brain, that of memory is especially impressive, and particularly well understood. Sleep has proven itself time and again as a memory aid: both before learning, to prepare your brain for initially making new memories, and after learning, to cement those memories and prevent forgetting.
------------------------
+_Lots of folks think they're getting enough sleep. Here's a starting point to evaluate that statement_
 
-games. Later that day, at six p.m., all participants performed another round of intensive learning where they tried to cram yet another set of new facts into their short-term storage reservoirs (another one hundred face-name pairs). Our question was simple: Does the learning capacity of the human brain decline with continued time awake across the day and, if so, can sleep reverse this saturation effect and thus restore learning ability? Those who were awake throughout the day became progressively worse at learning, even though their ability to concentrate remained stable (determined by separate attention and response time tests). In contrast, those who napped did markedly better, and actually improved in their capacity to memorize facts. The difference between the two groups at six p.m. was not small: a 20 percent learning advantage for those who slept. Having observed
------------------------
+Am I getting enough sleep?
 
-SLEEP-THE-NIGHT-AFTER LEARNING The second benefit of sleep for memory comes after learning, one that effectively clicks the “save” button on those newly created files. In doing so, sleep protects newly acquired information, affording immunity against forgetting: an operation called consolidation. That
------------------------
+Setting aside the extreme case of sleep deprivation, how do you know whether you’re routinely getting enough sleep? While a clinical sleep assessment is needed to thoroughly address this issue, an easy rule of thumb is to answer two simple questions.
 
-The experimental results of Jenkins and Dallenbach have now been replicated time and again, with a memory retention benefit of between 20 and 40 percent being offered by sleep, compared to the same amount of time awake. This is not a trivial concept when you consider the potential advantages in the context of studying for an exam, for instance, or evolutionarily, in remembering survival-relevant information such as the sources of food and water and locations of mates and predators. It was not until
------------------------
+First, after waking up in the morning, could you fall back asleep at ten or eleven a.m.? 
 
-Using MRI scans, we have since looked deep into the brains of participants to see where those memories are being retrieved from before sleep relative to after sleep. It turns out that those information packets were being recalled from very different geographical locations within the brain at the two different times. Before having slept, participants were fetching memories from the short-term storage site of the hippocampus—that temporary warehouse, which is a vulnerable place to live for any long duration of time if you are a new memory. But things looked very different by the next morning. The memories had moved. After the full night of sleep, participants were now retrieving that same information from the neocortex, which sits at the top of the brain—a region that serves as the long-term storage site for fact-based memories, where they can now live safely, perhaps in perpetuity.
------------------------
+If the answer is “yes,” you are likely not getting sufficient sleep quantity and/or quality. 
 
-SLEEP TO FORGET? Up to this point, we have discussed the power of sleep after learning to enhance remembering and avoid forgetting. However, the capacity to forget can, in certain contexts, be as important as the need for remembering, both in day-to-day life (e.g., forgetting last week’s parking spot in preference for today’s) and clinically (e.g., in excising painful, disabling memories, or in extinguishing craving in addiction disorders). Moreover, forgetting is not just beneficial to delete stored information we no longer need. It also lowers the brain resources required for retrieving those memories we want to retain, similar to the ease of finding important documents on a neatly organized, clutter-free desk. In this way, sleep helps you retain everything you need and nothing that you don’t, improving the ease of memory recollection. Said another way, forgetting is the price we pay for remembering. In 1983, the Nobel
------------------------
+Second, can you function optimally without caffeine before noon? 
 
-The results were clear. Sleep powerfully, yet very selectively, boosted the retention of those words previously tagged for “remembering,” yet actively avoided the strengthening of those memories tagged for “forgetting.” Participants who did not sleep showed no such impressive parsing and differential saving of the memories.IX
------------------------
-
-We had learned a subtle, but important, lesson: sleep was far more intelligent than we had once imagined. Counter to earlier assumptions in the twentieth and twenty-first centuries, sleep does not offer a general, nonspecific (and hence verbose) preservation of all the information you learn during the day. Instead, sleep is able to offer a far more discerning hand in memory improvement: one that preferentially picks and chooses what information is, and is not, ultimately strengthened. Sleep accomplishes this by using meaningful tags that have been hung onto those memories during initial learning, or potentially identified during sleep itself. Numerous studies have shown a similarly intelligent form of sleep-dependent memory selection across both daytime naps and a full night of sleep. When we analyzed the sleep records of those individuals who napped, we
-
------------------------
-
-The term “muscle memory” is a misnomer. Muscles themselves have no such memory: a muscle that is not connected to a brain cannot perform any skilled actions, nor does a muscle store skilled routines. Muscle memory is, in fact, brain memory. Training and strengthening muscles can help you better execute a skilled memory routine. But the routine itself—the memory program—resides firmly and exclusively within the brain. Years before I explored the effects of sleep on fact-based, textbook-like learning, I examined motor skill memory. Two experiences shaped my decision to perform these studies. The first was given to me as a young student at the Queen’s Medical Center—a large teaching hospital in Nottingham, England. Here, I performed research on the topic of movement disorders, specifically spinal-cord injury. I was trying to discover ways of reconnecting spinal cords that had been severed, with the ultimate goal of reuniting the brain with the body. Sadly, my research was a failure. But during that time, I learned about patients with varied forms of motor disorders, including stroke. What struck me about so many of these patients was an iterative, step-by-step recovery of their motor function after the stroke, be it legs, arms, fingers, or speech. Rarely was the recovery complete, but day by day, month by month, they all showed some improvement. The second transformative experience happened some years later while I was obtaining my PhD. It was 2000, and the scientific community had proclaimed that the next ten years would be “The Decade of the Brain,” forecasting (accurately, as it turned out) what would be remarkable progress within the neurosciences. I had been asked to give a public lecture on the topic of sleep at a celebratory event. At the time, we still knew relatively little about the effects of sleep on memory, though I made brief mention of the embryonic findings that were available. After my lecture, a distinguished-looking gentleman with a kindly affect, dressed in a tweed suit jacket with a subtle yellow-green hue that I still vividly recall to this day, approached me. It was a brief conversation, but one of the most scientifically important of my life. He thanked me for the presentation, and told me that he was a pianist. He said he was intrigued by my description of sleep as an active brain state, one in which we may review and even strengthen those things we have previously learned. Then came a comment that would leave me reeling, and trigger a major focus of my research for years to come. “As a pianist,” he said, “I have an experience that seems far too frequent to be chance. I will be practicing a particular piece, even late into the evening, and I cannot seem to master it. Often, I make the same mistake at the same place in a particular movement. I go to bed frustrated. But when I wake up the next morning and sit back down at the piano, I can just play, perfectly.” “I can just play.” The words reverberated in my mind as I tried to compose a response. I told the gentleman that it was a fascinating idea, and it was certainly possible that sleep assisted musicianship and led to error-free performance, but that I knew of no scientific evidence to support the claim. He smiled, seeming unfazed by the absence of empirical affirmation, thanked me again for my lecture, and walked toward the reception hall. I, on the other hand, remained in the auditorium, realizing that this gentleman had just told me something that violated the most repeated and entrusted teaching edict: practice makes perfect. Not so, it seemed. Perhaps it was practice, with sleep, that makes perfect?
------------------------
-
-I took a large group of right-handed individuals and had them learn to type a number sequence on a keyboard with their left hand, such as 4-1-3-2-4, as quickly and as accurately as possible. Like learning a piano scale, subjects practiced the motor skill sequence over and over again, for a total of twelve minutes, taking short breaks throughout. Unsurprisingly, the participants improved in their performance across the training session; practice, after all, is supposed to make perfect. We then tested the participants twelve hours later. Half of the participants had learned the sequence in the morning and were tested later that evening after remaining awake across the day. The other half of the subjects learned the sequence in the evening and we retested them the next morning after a similar twelve-hour delay, but one that contained a full eight-hour night of sleep. Those who remained awake across the day showed no evidence of a significant improvement in performance. However, fitting with the pianist’s original description, those who were tested after the very same time delay of twelve hours, but that spanned a night of sleep, showed a striking 20 percent jump in performance speed and a near 35 percent improvement in accuracy. Importantly, those participants who learned the motor skill in the morning—and who showed no improvement that evening—did go on to show an identical bump up in performance when retested after a further twelve hours, now after they, too, had had a full night’s sleep. In other words, your brain will continue to improve skill memories in the absence of any further practice. It is really quite magical. Yet, that delayed, “offline” learning occurs exclusively across a period of sleep, and not across equivalent time periods spent awake, regardless of whether the time awake or time asleep comes first. Practice does not make perfect. It is practice, followed by a night of sleep, that leads to perfection. We went on to show that these memory-boosting benefits occur no matter whether you learn a short or a very long motor sequence (e.g., 4-3-1-2 versus 4-2-3-4-2-3-1-4-3-4-1-4), or when using one hand (unimanual) or both (bimanual, similar to a pianist). Analyzing the individual elements of the motor sequence, such as 4-1-3-2-4, allowed me to discover how, precisely, sleep was perfecting skill. Even after a long period of initial training, participants would consistently struggle with particular transitions within the sequence. These problem points stuck out like a sore thumb when I looked at the speed of the keystrokes. There would be a far longer pause, or consistent error, at specific transitions. For example, rather than seamlessly typing 4-1-3-2-4, 4-1-3-2-4, a participant would instead type: 4-1-3 [pause] 2-4, 4-1-3 [pause] 2-4. They were chunking the motor routine into pieces, as if attempting the sequences all in one go was just too much. Different people had different pause problems at different points in the routine, but almost all people had one or two of these difficulties. I assessed so many participants that I could actually tell where their unique difficulties in the motor routine were just by listening to their typing during training. When I tested participants after a night of sleep, however, my ears heard something very different. I knew what was happening even before I analyzed the data: mastery. Their typing, post-sleep, was now fluid and unbroken. Gone was the staccato performance, replaced by seamless automaticity, which is the ultimate goal of motor learning: 4-1-3-2-4, 4-1-3-2-4, 4-1-3-2-4, rapid and nearly perfect. Sleep had systematically identified where the difficult transitions were in the motor memory and smoothed them out. This finding rekindled the words of the pianist I’d met: “but when I wake up the next morning and sit back down at the piano, I can just play, perfectly.” I went on to test participants inside a
+If the answer is “no,” then you are most likely self-medicating your state of chronic sleep deprivation. 
 
 -----------------------
 
-My final discovery, in what spanned almost a decade of research, identified the type of sleep responsible for the overnight motor-skill enhancement, carrying with it societal and medical lessons. The increases in speed and accuracy, underpinned by efficient automaticity, were directly related to the amount of stage 2 NREM, especially in the last two hours of an eight-hour night of sleep (e.g., from five to seven a.m., should you have fallen asleep at eleven p.m.). Indeed, it was the number of those wonderful sleep spindles in the last two hours of the late morning—the time of night with the richest spindle bursts of brainwave activity—that were linked with the offline memory boost. More striking was the fact that the increase of these spindles after learning was detected only in regions of the scalp that sit above the motor cortex (just in front of the crown of your head), and not in other areas. The greater the local increase in sleep spindles over the part of the brain we had forced to learn the motor skill exhaustively, the better the performance upon awakening. Many other groups have found a similar “local-sleep”-and-learning effect. When it comes to motor-skill memories, the brainwaves of sleep were acting like a good masseuse—you still get a full body massage, but they will place special focus on areas of the body that need the most help. In the same way, sleep spindles bathe all parts of the brain, but a disproportionate emphasis will be placed on those parts of the brain that have been worked hardest with learning during the day. Perhaps more relevant to the modern world is the time-of-night effect we discovered. Those last two hours of sleep are precisely the window that many of us feel it is okay to cut short to get a jump start on the day. As a result, we miss out on this feast of late-morning sleep spindles. It also brings to mind the prototypical Olympic coach who stoically has her athletes practicing late into the day, only to have them wake in the early hours of the morning and return to practice. In doing so, coaches may be innocently but effectively denying an important phase of motor memory development within the brain—one that fine-tunes skilled athletic performance. When you consider that very small performance differences often separate winning a gold medal from a last-place finish in professional athletics, then any competitive advantage you can gain, such as that naturally offered by sleep, can help determine whether or not you will hear your national anthem echo around the stadium. Not without putting too fine a point on it, if you don’t snooze, you lose. The 100-meter sprint
+## Sleep as an aid to learn new things
+
+_This is particularly relevant to Turing students_
+
+Sleep has proven itself time and again as a memory aid: both _before learning_, to prepare your brain for initially making new memories, and _after learning_, to cement those memories and prevent forgetting.
 -----------------------
 
-I back up these claims with examples from the more than 750 scientific studies that have investigated the relationship between sleep and human performance, many of which have studied professional and elite athletes specifically. Obtain anything less than eight hours of sleep a night, and especially less than six hours a night, and the following happens: time to physical exhaustion drops by 10 to 30 percent, and aerobic output is significantly reduced. Similar impairments are observed in limb extension force and vertical jump height, together with decreases in peak and sustained muscle strength. Add to this marked impairments in cardiovascular, metabolic, and respiratory capabilities that hamper an underslept body, including faster rates of lactic acid buildup, reductions in blood oxygen saturation, and converse increases in blood carbon dioxide, due in part to a reduction in the amount of air that the lungs can expire. Even the ability of the body to cool itself during physical exertion through sweating—a critical part of peak performance—is impaired by sleep loss. And then there
+_The author explains the methodology of many sleep-and-memory-related studies. I'll include the high points for you._
+
+Later that day, at six p.m., all participants performed another round of intensive learning where they tried to cram yet another set of new facts into their short-term storage reservoirs (another one hundred face-name pairs). 
+
+Our question was simple: 
+
+*Does the learning capacity of the human brain decline with continued time awake across the day and, if so, can sleep reverse this saturation effect and thus restore learning ability?* 
+
+Those who were awake throughout the day became progressively worse at learning, even though their ability to concentrate remained stable (determined by separate attention and response time tests). 
+
+In contrast, those who napped did markedly better, and actually improved in their capacity to memorize facts. The difference between the two groups at six p.m. was not small: a 20 percent learning advantage for those who slept.
 -----------------------
 
-sleep. Even teams that are aware of sleep’s importance before a game are surprised by my declaration of the equally, if not more, essential need for sleep in the days after a game. Post-performance sleep accelerates physical recovery from common inflammation, stimulates muscle repair, and helps restock cellular energy in the form of glucose and glycogen. Prior to
+_On Sleep the night after learning:_
+
+The second benefit of sleep for memory comes after learning, one that effectively clicks the “save” button on those newly created files. 
+
+In doing so, sleep protects newly acquired information, affording immunity against forgetting: an operation called consolidation...
+
+The experimental results of Jenkins and Dallenbach have now been replicated time and again, **with a memory retention benefit of between 20 and 40 percent being offered by sleep, compared to the same amount of time awake.** 
+
+This is not a trivial concept when you consider the potential advantages in the context of studying for an exam, for instance, or evolutionarily, in remembering survival-relevant information such as the sources of food and water and locations of mates and predators.
 -----------------------
 
-No facet of the human body is spared the crippling, noxious harm of sleep loss. We are, as you will see, socially, organizationally, economically, physically, behaviorally, nutritionally, linguistically, cognitively, and emotionally dependent upon sleep. This chapter deals with the dire and
+Using MRI scans, we have since looked deep into the brains of participants to see where those memories are being retrieved from before sleep relative to after sleep. 
+
+It turns out that those information packets were being recalled from **very different geographical locations within the brain at the two different times**. 
+
+Before having slept, participants were fetching memories from the short-term storage site of the hippocampus - that temporary warehouse, which is a vulnerable place to live for any long duration of time if you are a new memory. 
+
+But things looked very different by the next morning. The memories had moved. 
+
+After the full night of sleep, participants were now retrieving that same information from the neocortex, which sits at the top of the brain - a region that serves as the long-term storage site for fact-based memories, where they can now live safely, perhaps in perpetuity.
 -----------------------
 
-One brain function that buckles under even the smallest dose of sleep deprivation is concentration. The deadly societal consequences of these concentration failures play out most obviously and fatally in the form of drowsy driving. Every hour, someone dies in a traffic accident in the US due to a fatigue-related error. There are two main culprits of drowsy-driving accidents. The first is people completely falling asleep at the wheel. This happens infrequently, however, and usually requires an individual to be acutely sleep-deprived (having gone without shut-eye for twenty-plus hours). The second, more common cause is a momentary lapse in concentration, called a microsleep. These last for just a few seconds, during which time the eyelid will either partially or fully close. They are usually suffered by individuals who are chronically sleep restricted, defined as getting less than seven hours of sleep a night on a routine basis. During a microsleep, your brain becomes blind to the outside world for a brief moment—and not just the visual domain, but in all channels of perception. Most of the time you have no awareness of the event. More problematic is that your decisive control of motor actions, such as those necessary for operating a steering wheel or a brake pedal, will momentarily cease. As a result, you don’t need to fall asleep for ten to fifteen seconds to die while driving. Two seconds will do it. A two-second microsleep at 30 mph with a modest angle of drift can result in your vehicle transitioning entirely from one lane to the next. This includes into oncoming traffic. Should this happen at 60 mph, it may be the last microsleep you ever have. David Dinges
+_The benefits of sleep to forget things_
+
+Up to this point, we have discussed the power of sleep after learning to enhance remembering and avoid forgetting. 
+
+However, the capacity to forget can, in certain contexts, be as important as the need for remembering, both in day-to-day life (e.g., forgetting last week’s parking spot in preference for today’s) and clinically (e.g., in excising painful, disabling memories, or in extinguishing craving in addiction disorders).
+
+Moreover, forgetting is not just beneficial to delete stored information we no longer need. 
+
+It also lowers the brain resources required for retrieving those memories we want to retain, similar to the ease of finding important documents on a neatly organized, clutter-free desk. In this way, sleep helps you retain everything you need and nothing that you don’t, improving the ease of memory recollection. 
+
+Said another way, forgetting is the price we pay for remembering.
 -----------------------
 
-YOU DO NOT KNOW HOW SLEEP-DEPRIVED YOU ARE WHEN YOU ARE SLEEP-DEPRIVED The third key finding, common to both of these studies, is the one I personally think is the most harmful of all. When participants were asked about their subjective sense of how impaired they were, they consistently underestimated their degree of performance disability. It was a miserable predictor of how bad their performance actually, objectively was. It is the equivalent of someone at a bar who has had far too many drinks picking up his car keys and confidently telling you, “I’m fine to drive home.” Similarly problematic is baseline resetting. With chronic sleep restriction over months or years, an individual will actually acclimate to their impaired performance, lower alertness, and reduced energy levels. That low-level exhaustion becomes their accepted norm, or baseline. Individuals fail to recognize how their perennial state of sleep deficiency has come to compromise their mental aptitude and physical vitality, including the slow accumulation of ill health. A link between the former and latter is rarely made in their mind. Based on epidemiological studies of average sleep time, millions of individuals unwittingly spend years of their life in a sub-optimal state of psychological and physiological functioning, never maximizing their potential of mind or body due to their blind persistence in sleeping too little. Sixty years of scientific research prevent me from accepting anyone who tells me that he or she can “get by on just four or five hours of sleep a night just fine.” Returning to Dinges’s study results,
+_sleep helps us remember what we want, and clears out memories of unimportant or painful events_
+
+The results were clear. Sleep powerfully, yet very selectively, boosted the retention of those words previously tagged for “remembering,” yet actively avoided the strengthening of those memories tagged for “forgetting.” Participants who did not sleep showed no such impressive parsing and differential saving of the memories.
+
+We had learned a subtle, but important, lesson: sleep was far more intelligent than we had once imagined. 
+
+Counter to earlier assumptions in the twentieth and twenty-first centuries, sleep does not offer a general, nonspecific (and hence verbose) preservation of all the information you learn during the day. 
+
+Instead, sleep is able to offer a far more discerning hand in memory improvement: one that preferentially picks and chooses what information is, and is not, ultimately strengthened. 
+
+Sleep accomplishes this by using meaningful tags that have been hung onto those memories during initial learning, or potentially identified during sleep itself. 
+
+Numerous studies have shown a similarly intelligent form of sleep-dependent memory selection across both daytime naps and a full night of sleep. 
+
 -----------------------
 
-In a disturbing later study, researchers in Australia took two groups of healthy adults, one of whom they got drunk to the legal driving limit (.08 percent blood alcohol), the other of whom they sleep-deprived for a single night. Both groups performed the concentration test to assess attention performance, specifically the number of lapses. After being awake for nineteen hours, people who were sleep-deprived were as cognitively impaired as those who were legally drunk. Said another way, if you wake up at seven a.m. and remain awake throughout the day, then go out socializing with friends until late that evening, yet drink no alcohol whatsoever, by the time you are driving home at two a.m. you are as cognitively impaired in your ability to attend to the road and what is around you as a legally drunk driver. In fact, participants in the above study started their nosedive in performance after just fifteen hours of being awake (ten p.m. in the above scenario). Car crashes rank among the leading
+_Sleep for learning complex and novel skills, like typing, piano, and more_
+
+The term “muscle memory” is a misnomer. 
+
+Muscles themselves have no such memory: a muscle that is not connected to a brain cannot perform any skilled actions, nor does a muscle store skilled routines. 
+
+**Muscle memory is, in fact, brain memory**. 
+
+Training and strengthening muscles can help you better execute a skilled memory routine, but the routine itself — the memory program — resides firmly and exclusively within the brain. 
+
+Years before I explored the effects of sleep on fact-based, textbook-like learning, I examined motor skill memory. 
+
+[A] transformative experience happened some years later while I was obtaining my PhD. It was 2000, and the scientific community had proclaimed that the next ten years would be “The Decade of the Brain,” forecasting (accurately, as it turned out) what would be remarkable progress within the neurosciences. 
+
+I had been asked to give a public lecture on the topic of sleep at a celebratory event... After my lecture, a distinguished-looking gentleman with a kindly affect, dressed in a tweed suit jacket with a subtle yellow-green hue that I still vividly recall to this day, approached me. 
+
+It was a brief conversation, but one of the most scientifically important of my life. 
+
+He thanked me for the presentation, and told me that he was a pianist. He said he was intrigued by my description of sleep as an active brain state, one in which we may review and even strengthen those things we have previously learned. 
+
+Then came a comment that would leave me reeling, and trigger a major focus of my research for years to come. 
+
+**“As a pianist,” he said, “I have an experience that seems far too frequent to be chance. I will be practicing a particular piece, even late into the evening, and I cannot seem to master it. Often, I make the same mistake at the same place in a particular movement. I go to bed frustrated. But when I wake up the next morning and sit back down at the piano, I can just play, perfectly.”**
+
+“I can just play.” 
+
+The words reverberated in my mind as I tried to compose a response. I told the gentleman that it was a fascinating idea, and it was certainly possible that sleep assisted musicianship and led to error-free performance, but that I knew of no scientific evidence to support the claim. 
+
+He smiled, seeming unfazed by the absence of empirical affirmation, thanked me again for my lecture, and walked toward the reception hall. 
+
+I, on the other hand, remained in the auditorium, realizing that this gentleman had just told me something that violated the most repeated and entrusted teaching edict: practice makes perfect. 
+
+Not so, it seemed. 
+
+**Perhaps it was practice, with sleep, that makes perfect?**
 -----------------------
 
-Drunk driving and drowsy driving are deadly propositions in their own right, but what happens when someone combines them? It is a relevant question, since most individuals are driving drunk in the early-morning hours rather than in the middle of the day, meaning that most drunk drivers are also sleep-deprived. We can now monitor driver error in a realistic but safe way using driving simulators. With such a virtual machine, a group of researchers examined the number of complete off-road deviations in participants placed under four different experimental conditions: (1) eight hours of sleep, (2) four hours of sleep, (3) eight hours of sleep plus alcohol to the point of being legally drunk, and (4) four hours of sleep plus alcohol to the point of being legally drunk. Those in the eight-hour sleep group had few, if any, off-road errors. Those in the four-hour sleep condition (the second group) had six times more off-road deviations than the sober, well-rested individuals. The same degree of driving impairment was true of the third group, who had eight hours of sleep but were legally drunk. Driving drunk or driving drowsy were both dangerous, and equally dangerous. A reasonable expectation was that performance in the fourth group of participants would reflect the additive impact of these two groups: four hours of sleep plus the effect of alcohol (i.e., twelve times more off-road deviations). It was far worse. This group of participants drove off the road almost thirty times more than the well-rested, sober group. The heady cocktail of sleep loss and alcohol was not additive, but instead multiplicative. They magnified each other, like two drugs whose effects are harmful by themselves but, when taken together, interact to produce truly dire consequences. After thirty years of
+_The author goes into the studies he did to determine the effects of sleep on "finishing" the work that's begun with deliberate practice_
+
+I took a large group of right-handed individuals and had them learn to type a number sequence on a keyboard with their left hand, such as 4-1-3-2-4, as quickly and as accurately as possible. 
+
+Like learning a piano scale, subjects practiced the motor skill sequence over and over again, for a total of twelve minutes, taking short breaks throughout. 
+
+Unsurprisingly, the participants improved in their performance across the training session; practice, after all, is supposed to make perfect. 
+
+We then tested the participants twelve hours later. Half of the participants had learned the sequence in the morning and were tested later that evening after remaining awake across the day. The other half of the subjects learned the sequence in the evening and we retested them the next morning after a similar twelve-hour delay, but one that contained a full eight-hour night of sleep. 
+
+Those who remained awake across the day showed no evidence of a significant improvement in performance. 
+
+However, fitting with the pianist’s original description, **those who were tested after the very same time delay of twelve hours, but that spanned a night of sleep, showed a striking 20 percent jump in performance speed and a near 35 percent improvement in accuracy.** 
+
+Importantly, those participants who learned the motor skill in the morning—and who showed no improvement that evening—did go on to show an identical bump up in performance when retested after a further twelve hours, now after they, too, had had a full night’s sleep. 
+
+**In other words, your brain will continue to improve skill memories in the absence of any further practice. It is really quite magical. Yet, that delayed, “offline” learning occurs exclusively across a period of sleep, and not across equivalent time periods spent awake, regardless of whether the time awake or time asleep comes first.** 
+
+Practice does not make perfect. It is practice, followed by a night of sleep, that leads to perfection. 
+
+We went on to show that these memory-boosting benefits occur no matter whether you learn a short or a very long motor sequence (e.g., 4-3-1-2 versus 4-2-3-4-2-3-1-4-3-4-1-4), or when using one hand (unimanual) or both (bimanual, similar to a pianist). 
+
+Analyzing the individual elements of the motor sequence, such as 4-1-3-2-4, allowed me to discover how, precisely, sleep was perfecting skill. 
+
+Even after a long period of initial training, participants would consistently struggle with particular transitions within the sequence. These problem points stuck out like a sore thumb when I looked at the speed of the keystrokes. 
+
+There would be a far longer pause, or consistent error, at specific transitions. 
+
+For example, rather than seamlessly typing 4-1-3-2-4, 4-1-3-2-4, a participant would instead type: 4-1-3 [pause] 2-4, 4-1-3 [pause] 2-4. 
+
+They were chunking the motor routine into pieces, as if attempting the sequences all in one go was just too much. 
+
+Different people had different pause problems at different points in the routine, but almost all people had one or two of these difficulties. I assessed so many participants that I could actually tell where their unique difficulties in the motor routine were just by listening to their typing during training. 
+
+When I tested participants after a night of sleep, however, my ears heard something very different. 
+
+I knew what was happening even before I analyzed the data: mastery. Their typing, post-sleep, was now fluid and unbroken. Gone was the staccato performance, replaced by seamless automaticity, which is the ultimate goal of motor learning: 4-1-3-2-4, 4-1-3-2-4, 4-1-3-2-4, rapid and nearly perfect. 
+
+Sleep had systematically identified where the difficult transitions were in the motor memory and smoothed them out. 
+
+This finding rekindled the words of the pianist I’d met: “but when I wake up the next morning and sit back down at the piano, I can just play, perfectly.” 
+
 -----------------------
 
-We shall return to the ramifications of these results in the remaining chapters, but the real-life consequences of drowsy driving deserve special mention. This coming week, more than 2 million people in the US will fall asleep while driving their motor vehicle. That’s more than 250,000 every day, with more such events during the week than weekends for obvious reasons. More than 56 million Americans admit to struggling to stay awake at the wheel of a car each month. As a result, 1.2 million accidents are caused by sleepiness each year in the United States. Said another way: for every thirty seconds you’ve been reading this book, there has been a car accident somewhere in the US caused by sleeplessness. It is more than probable that someone has lost their life in a fatigue-related car accident during the time you have been reading this chapter. You may find it surprising to learn that vehicle accidents caused by drowsy driving exceed those caused by alcohol and drugs combined. Drowsy driving alone is worse than driving drunk. That may seem like a controversial or irresponsible thing to say, and I do not wish to trivialize the lamentable act of drunk driving by any means. Yet my statement is true for the following simple reason: drunk drivers are often late in braking, and late in making evasive maneuvers. But when you fall asleep, or have a microsleep, you stop reacting altogether. A person who experiences a microsleep or who has fallen asleep at the wheel does not brake at all, nor do they make any attempt to avoid the accident. As a result, car crashes caused by drowsiness tend to be far more deadly than those caused by alcohol or drugs. Said crassly, when you fall asleep at the wheel of your car on a freeway, there is now a one-ton missile traveling at 65 miles per hour, and no one is in control. Drivers of cars
+_What do you lose, if you "chop off" the last hour or two of your planned sleep time?_
+
+My final discovery, in what spanned almost a decade of research, identified the type of sleep responsible for the overnight motor-skill enhancement, carrying with it societal and medical lessons. 
+
+The increases in speed and accuracy, underpinned by efficient automaticity, were directly related to the amount of stage 2 NREM, especially in the last two hours of an eight-hour night of sleep (e.g., from five to seven a.m., should you have fallen asleep at eleven p.m.). 
+
+Indeed, it was the number of those wonderful sleep spindles in the last two hours of the late morning — the time of night with the richest spindle bursts of brainwave activity — that were linked with the offline memory boost. 
+
+More striking was the fact that the increase of these spindles after learning was detected only in regions of the scalp that sit above the motor cortex (just in front of the crown of your head), and not in other areas. The greater the local increase in sleep spindles over the part of the brain we had forced to learn the motor skill exhaustively, the better the performance upon awakening. 
+
+Many other groups have found a similar “local-sleep”-and-learning effect. When it comes to motor-skill memories, the brainwaves of sleep were acting like a good masseuse—you still get a full body massage, but they will place special focus on areas of the body that need the most help. In the same way, sleep spindles bathe all parts of the brain, but a disproportionate emphasis will be placed on those parts of the brain that have been worked hardest with learning during the day. 
+
+Perhaps more relevant to the modern world is the time-of-night effect we discovered. 
+
+Those last two hours of sleep are precisely the window that many of us feel it is okay to cut short to get a jump start on the day. As a result, we miss out on this feast of late-morning sleep spindles. 
+
+It also brings to mind the prototypical Olympic coach who stoically has her athletes practicing late into the day, only to have them wake in the early hours of the morning and return to practice. 
+
+In doing so, coaches may be innocently but effectively denying an important phase of motor memory development within the brain — one that fine-tunes skilled athletic performance. 
+
+When you consider that very small performance differences often separate winning a gold medal from a last-place finish in professional athletics, then any competitive advantage you can gain, such as that naturally offered by sleep, can help determine whether or not you will hear your national anthem echo around the stadium.
+-----------------------
+_We're all pro-science around here, right? Then, here's the science on sleep and physical performance:_
+
+I back up these claims with examples from the more than 750 scientific studies that have investigated the relationship between sleep and human performance, many of which have studied professional and elite athletes specifically. 
+
+Obtain anything less than eight hours of sleep a night, and especially less than six hours a night, and the following happens: 
+- time to physical exhaustion drops by 10 to 30 percent, and aerobic output is significantly reduced. 
+- Similar impairments are observed in limb extension force and vertical jump height, together with decreases in peak and sustained muscle strength. 
+
+Add to this marked impairments in cardiovascular, metabolic, and respiratory capabilities that hamper an underslept body, including faster rates of lactic acid buildup, reductions in blood oxygen saturation, and converse increases in blood carbon dioxide, due in part to a reduction in the amount of air that the lungs can expire. 
+
+Even the ability of the body to cool itself during physical exertion through sweating — a critical part of peak performance — is impaired by sleep loss.
 -----------------------
 
-them. In actual fact, I would like to argue that there are no accidents caused by fatigue, microsleeps, or falling asleep. None whatsoever. They are crashes. The Oxford English Dictionary defines accidents as unexpected events that happen by chance or without apparent cause. Drowsy-driving deaths are neither chance, nor without cause. They are predictable and the direct result of not obtaining sufficient sleep. As such, they are unnecessary and preventable. Shamefully, governments of most developed countries spend less than 1 percent of their budget educating the public on the dangers of drowsy driving relative to what they invest in combating drunk driving. Even well-meaning public health messages can get lost in a barrage of statistics. It often takes the tragic recounting of personal stories to make the message real. There are thousands of such events that I could describe. Let me offer just one in the hopes of saving you from the harms of driving drowsy. Union County, Florida, January 2006: a school bus transporting nine children came to a halt at a stop sign. A Pontiac Bonneville car carrying seven occupants pulled up behind the bus and also came to a stop. At this moment, an eighteen-wheel truck came barreling down the road behind both vehicles. It didn’t stop. The truck struck the Pontiac, riding up over it and, with the car concertinaed underneath, then hit the bus. All three vehicles traveled through a ditch and continued moving, at which point the imploded Pontiac became engulfed in flames. The school bus rotated counterclockwise and kept traveling, now on the opposite side of the road, back-to-front. It did so for 328 feet until it went off the road and collided with a thick grove of trees. Three of the nine children in the bus were ejected through the windows upon impact. All seven passengers in the Pontiac were killed, as was the bus driver. The truck driver and all nine children in the bus sustained serious injuries. The trucker was a qualified and legally licensed driver. All toxicology tests performed on his blood were negative. However, it later emerged that he had been awake for thirty-four hours straight and had fallen asleep at the wheel. All of the Pontiac’s seven occupants who died were children or adolescents. Five of the seven were children in the Pontiac car were from a single family. The oldest occupant was a teenager, who had been legally driving the car. The youngest occupant was a baby of just twenty months old. There are many things that I hope readers take away from this book. This is one of the most important: if you are drowsy while driving, please, please stop. It is lethal. To carry the burden of another’s death on your shoulders is a terrible thing. Don’t be misled by the many ineffective tactics people will tell you can battle back against drowsiness while driving.II Many of us think we can overcome drowsiness through sheer force of will, but, sadly, this is not true. To assume otherwise can jeopardize your life, the lives of your family or friends in the car with you, and the lives of other road users. Some people only get one chance to fall asleep at the wheel before losing their life. If you notice yourself
+Even teams that are aware of sleep’s importance before a game are surprised by my declaration of the equally, if not more, essential need for sleep in the days after a game. 
+
+Post-performance sleep accelerates physical recovery from common inflammation, stimulates muscle repair, and helps restock cellular energy in the form of glucose and glycogen.
 -----------------------
 
-Many of us know that inadequate sleep plays havoc with our emotions. We even recognize it in others. Consider another common scenario of a parent holding a young child who is screaming or crying and, in the midst of the turmoil, turns to you and says, “Well, Steven just didn’t get enough sleep last night.” Universal parental wisdom knows that bad sleep the night before leads to a bad mood and emotional reactivity the next day. While the phenomenon of emotional
+_Sleep deprivation and driving_
+
+One brain function that buckles under even the smallest dose of sleep deprivation is concentration. 
+
+The deadly societal consequences of these concentration failures play out most obviously and fatally in the form of drowsy driving. 
+
+Every hour, someone dies in a traffic accident in the US due to a fatigue-related error. 
+
+There are two main culprits of drowsy-driving accidents: 
+
+The first is people completely falling asleep at the wheel. This happens infrequently, however, and usually requires an individual to be acutely sleep-deprived (having gone without shut-eye for  twenty-plus hours). 
+
+The second, more common cause is a momentary lapse in concentration, called a microsleep. These last for just a few seconds, during which time the eyelid will either partially or fully close. 
+
+They are usually suffered by individuals who are chronically sleep restricted, **defined as getting less than seven hours of sleep a night on a routine basis**. 
+
+During a microsleep, your brain becomes blind to the outside world for a brief moment—and not just the visual domain, but in all channels of perception. 
+
+Most of the time you have no awareness of the event. More problematic is that your decisive control of motor actions, such as those necessary for operating a steering wheel or a brake pedal, will momentarily cease. 
+
+As a result, you don’t need to fall asleep for ten to fifteen seconds to die while driving. 
+
+Two seconds will do it. **A two-second microsleep at 30 mph with a modest angle of drift can result in your vehicle transitioning entirely from one lane to the next.** This includes into oncoming traffic. Should this happen at 60 mph, it may be the last microsleep you ever have.
+
+-----------------------
+_"I'm not sleep deprived", you say. "Besides, even if I am sleep deprived, I'm still OK at doing what I need to "do._
+
+The third key finding, common to both of these studies, is the one I personally think is the most harmful of all. 
+
+When participants were asked about their subjective sense of how impaired they were, they consistently underestimated their degree of performance disability. 
+
+It was a miserable predictor of how bad their performance actually, objectively was. 
+
+It is the equivalent of someone at a bar who has had far too many drinks picking up his car keys and confidently telling you, “I’m fine to drive home.” 
+
+Similarly problematic is baseline resetting. 
+
+With chronic sleep restriction over months or years, an individual will actually acclimate to their impaired performance, lower alertness, and reduced energy levels. 
+
+That low-level exhaustion becomes their accepted norm, or baseline. Individuals fail to recognize how their perennial state of sleep deficiency has come to compromise their mental aptitude and physical vitality, including the slow accumulation of ill health. 
+
+A link between the former and latter is rarely made in their mind. Based on epidemiological studies of average sleep time, millions of individuals unwittingly spend years of their life in a sub-optimal state of psychological and physiological functioning, never maximizing their potential of mind or body due to their blind persistence in sleeping too little. 
+
+Sixty years of scientific research prevent me from accepting anyone who tells me that he or she can “get by on just four or five hours of sleep a night just fine.”
 -----------------------
 
-Analysis of the brain scans revealed the largest effects I have measured in my research to date. A structure located in the left and right sides of the brain, called the amygdala—a key hot spot for triggering strong emotions such as anger and rage, and linked to the fight-or-flight response—showed well over a 60 percent amplification in emotional reactivity in the participants who were sleep-deprived. In contrast, the brain scans of those individuals who were given a full night’s sleep evinced a controlled, modest degree of reactivity in the amygdala, despite viewing the very same images. It was as though, without sleep, our brain reverts to a primitive pattern of uncontrolled reactivity. We produce unmetered, inappropriate emotional reactions, and are unable to place events into a broader or considered context. This answer raised another
+_Sleep deprivation is about the same as being legally drunk. If you'd consider it unethical to get drunk and drive, or drunk while working, or drunk while trying to work through a hard conversation with your significant other, consider getting more sleep_
+
+In a disturbing later study, researchers in Australia took two groups of healthy adults, one of whom they got drunk to the legal driving limit (.08 percent blood alcohol), the other of whom they sleep-deprived for a single night. 
+
+Both groups performed the concentration test to assess attention performance, specifically the number of lapses. 
+
+After being awake for nineteen hours, people who were sleep-deprived were as cognitively impaired as those who were legally drunk. 
+
+Said another way, if you wake up at seven a.m. and remain awake throughout the day, then go out socializing with friends until late that evening, yet drink no alcohol whatsoever, by the time you are driving home at two a.m. you are as cognitively impaired in your ability to attend to the road and what is around you as a legally drunk driver. 
+
+In fact, participants in the above study started their nosedive in performance after just fifteen hours of being awake (ten p.m. in the above scenario). 
+
+Drunk driving and drowsy driving are deadly propositions in their own right, but what happens when someone combines them? 
+
+It is a relevant question, since most individuals are driving drunk in the early-morning hours rather than in the middle of the day, meaning that most drunk drivers are also sleep-deprived. 
+
+We can now monitor driver error in a realistic but safe way using driving simulators. 
+
+With such a virtual machine, a group of researchers examined the number of complete off-road deviations in participants placed under four different experimental conditions: 
+
+(1) eight hours of sleep
+(2) four hours of sleep
+(3) eight hours of sleep plus alcohol to the point of being legally drunk
+(4) four hours of sleep plus alcohol to the point of being legally drunk
+
+Those in the eight-hour sleep group had few, if any, off-road errors. 
+
+Those in the four-hour sleep condition (the second group) had six times more off-road deviations than the sober, well-rested individuals. 
+
+The same degree of driving impairment was true of the third group, who had eight hours of sleep but were legally drunk. 
+
+Driving drunk or driving drowsy were both dangerous, and equally dangerous. 
+
+A reasonable expectation was that performance in the fourth group of participants would reflect the additive impact of these two groups: four hours of sleep plus the effect of alcohol (i.e., twelve times more off-road deviations). **It was far worse**. 
+
+This group of participants drove off the road almost thirty times more than the well-rested, sober group. 
+
+The heady cocktail of sleep loss and alcohol was not additive, but instead multiplicative. 
+
+They magnified each other, like two drugs whose effects are harmful by themselves but, when taken together, interact to produce truly dire consequences.
 -----------------------
 
-nations after car accidents. Insufficient sleep has also been linked to aggression, bullying, and behavioral problems in children across a range of ages. A similar relationship between a lack of sleep and violence has been observed in adult prison populations; places that, I should add, are woefully poor at enabling good sleep that could reduce aggression, violence, psychiatric disturbance, and suicide, which, beyond the humanitarian concern, increases costs to the taxpayer. Equally problematic issues arise from extreme swings in positive mood, though the consequences are different. Hypersensitivity to pleasurable experiences can lead to sensation-seeking, risk-taking, and addiction. Sleep disturbance is a recognized hallmark associated with addictive substance use.IV Insufficient sleep also determines relapse rates in numerous addiction disorders, associated with reward cravings that are unmetered, lacking control from the rational head office of the brain’s prefrontal cortex.V Relevant from a prevention standpoint, insufficient sleep during childhood significantly predicts early onset of drug and alcohol use in that same child during their later adolescent years, even when controlling for other high-risk traits, such as anxiety, attention deficits, and parental history of drug use.VI You can now appreciate why the bidirectional, pendulum-like emotional liability caused by sleep deprivation is so concerning, rather than counter-balancing. Our brain scanning experiments
+This coming week, more than 2 million people in the US will fall asleep while driving their motor vehicle. 
+
+That’s more than 250,000 every day, with more such events during the week than weekends for obvious reasons. More than 56 million Americans admit to struggling to stay awake at the wheel of a car each month. 
+
+As a result, 1.2 million accidents are caused by sleepiness each year in the United States. 
+
+Said another way: for every thirty seconds you’ve been reading this book, there has been a car accident somewhere in the US caused by sleeplessness. 
+
+It is more than probable that someone has lost their life in a fatigue-related car accident during the time you have been reading this chapter. 
+
+You may find it surprising to learn that vehicle accidents caused by drowsy driving exceed those caused by alcohol and drugs combined. 
+
+Drowsy driving alone is worse than driving drunk. 
+
+That may seem like a controversial or irresponsible thing to say, and I do not wish to trivialize the lamentable act of drunk driving by any means. 
+
+Yet my statement is true for the following simple reason: drunk drivers are often late in braking, and late in making evasive maneuvers. 
+
+But when you fall asleep, or have a microsleep, you stop reacting altogether. 
+
+A person who experiences a microsleep or who has fallen asleep at the wheel does not brake at all, nor do they make any attempt to avoid the accident. As a result, car crashes caused by drowsiness tend to be far more deadly than those caused by alcohol or drugs. Said crassly, when you fall asleep at the wheel of your car on a freeway, there is now a one-ton missile traveling at 65 miles per hour, and no one is in control. 
+-----------------------
+_Sleep and emotions_
+
+Many of us know that inadequate sleep plays havoc with our emotions. We even recognize it in others. 
+
+Consider another common scenario of a parent holding a young child who is screaming or crying and, in the midst of the turmoil, turns to you and says, “Well, Steven just didn’t get enough sleep last night.” 
+
+Universal parental wisdom knows that bad sleep the night before leads to a bad mood and emotional reactivity the next day...
+
+Analysis of the brain scans revealed the largest effects I have measured in my research to date. A structure located in the left and right sides of the brain, called the amygdala — a key hot spot for triggering strong emotions such as anger and rage, and linked to the fight-or-flight response — showed well over a 60 percent amplification in emotional reactivity in the participants who were sleep-deprived. 
+
+In contrast, the brain scans of those individuals who were given a full night’s sleep evinced a controlled, modest degree of reactivity in the amygdala, despite viewing the very same images. 
+
+It was as though, without sleep, our brain reverts to a primitive pattern of uncontrolled reactivity. 
+
+**We produce unmetered, inappropriate emotional reactions, and are unable to place events into a broader or considered context**. 
+
 -----------------------
 
-Thankfully, the opposite is also true. Should you improve sleep quality in patients suffering from several psychiatric conditions using a technique we will discuss later, called cognitive behavioral therapy for insomnia (CBT-I), you can improve symptom severity and remission rates. My colleague at the University of California, Berkeley, Dr. Allison Harvey has been a pioneer in this regard. By improving sleep
+Sleep disturbance is a recognized hallmark associated with addictive substance use. 
+
+Insufficient sleep also determines relapse rates in numerous addiction disorders, associated with reward cravings that are unmetered, lacking control from the rational head office of the brain’s prefrontal cortex.
+
+Relevant from a prevention standpoint, insufficient sleep during childhood significantly predicts early onset of drug and alcohol use in that same child during their later adolescent years, even when controlling for other high-risk traits, such as anxiety, attention deficits, and parental history of drug use.
+
 -----------------------
 
 In the article, I described the above studies and their relevance, returning time and again to the pandemic of sleep deprivation that was sweeping through the student body. However, rather than lambaste the students for these practices, I pointed a scolding finger directly at the faculty, myself included. I suggested that if we, as teachers, strive to accomplish just that purpose—to teach—then end-loading exams in the final days of the semester was an asinine decision. It forced a behavior in our students—that of short sleeping or pulling all-nighters leading up to the exam—that was in direct opposition to the goals of nurturing young scholarly minds. I argued that logic, backed by scientific fact, must prevail, and that it was long past the time for us to rethink our evaluation methods, their contra-educational impact, and the unhealthy behavior it coerced from our students. To suggest that the reaction from
@@ -266,3 +561,5 @@ To illustrate the concept of epiphenomena, let’s consider the lightbulb. The r
 -----------------------
 
 Anki epiphenomina
+
+Your twenty-four-hour circadian rhythm is the first of the two factors determining wake and sleep. The second is sleep pressure. At this very moment, a chemical called adenosine is building up in your brain. It will continue to increase in concentration with every waking minute that elapses. The longer you are awake, the more adenosine will accumulate. Think of adenosine as a chemical barometer that continuously registers the amount of elapsed time since you woke up this morning. One consequence of increasing adenosine in the brain is an increasing desire to sleep. This is known as sleep pressure, and it is the second force that will determine when you feel sleepy, and thus should go to bed. Using a clever dual-action effect, high concentrations of adenosine simultaneously turn down the “volume” of wake-promoting regions in the brain and turn up the dial on sleep-inducing regions. As a result of that chemical sleep pressure, when adenosine concentrations peak, an irresistible urge for slumber will take hold.VII It happens
