@@ -12,13 +12,11 @@ permalink: why-we-sleep-book-notes
 
 I first read this book about two years ago. It immediately led me to prioritize sleep over almost everything else. 
 
-Ironically, I'm editing this post at 10:30p MT, though my body is over the ocean, soon to land in Taipei. My circadian rythem is completely out of whack, as I am trying to convince my body it's actually 2:30p. Fortunately, going West is usually easier than going East. About all my brain feels fit for is editing, not anything more complex. 
-
 Most of us don't get enough sleep, and are worse for it. Usually when the topic of sleep comes up, I say 
 
-> Hey, there's this great book I read on sleep. You should read it, and then sleep more!
+> Hey, there's this great book I read on sleep. You should read it, and then sleep more...
 
-The only problem with that is... it's hard enough to change behavior even when you're fully onboard with the thing you're trying to do. So, I gave it another read, and will pull some high points of the book into this post. 
+The people most in need of more sleep are also usually the people most unable to make time to read a book _about_ sleep. So, here's an effort to help these people save time, priortize sleep, and then maybe give the book a read anyway.
 
 I hope to use this post to accomplish two things:
 
@@ -28,6 +26,45 @@ I hope to use this post to accomplish two things:
 Everything that follows is a quote from _Why We Sleep_. If I add my own comments, they'll be inline, like this:
 
 _Josh: here's a comment I'm adding_
+
+### Index
+
+I've quoted from this book, extensively. I don't recommend reading this post top-to-bottom, but rather jumping around the post, from this following index, to a section that looks interesting, then going back to the top, jumping to a different section, etc.
+
+- [Not everyone is genetically wired to wake up early. Don't let people shame you for sleeping in](#dont-let-people-shame-you-with-the-early-to-bed-early-to-rise-concept)
+- [Many of use drink a lot of coffee. What's actually happening when we drink it?](#how-does-caffeine-work)
+- [Most people who don't get enough sleep _think they get enough sleep_. Here's a quick way to tell if you get enough](#lots-of-folks-think-theyre-getting-enough-sleep)
+- [Turing students: Sleep the night before learning helps you learn new things](#sleep-as-an-aid-to-learn-new-things)
+- [Turing students: Sleep the night after learning something boosts retention 20-40%](#on-sleep-the-night-after-learning)
+- [Sleep helps us forget things that we should forget](#the-benefits-of-sleep-to-forget-things)
+- [Turing students, athletes: Sleep helps you learn complex new patterns (physical or mental)](#sleep-for-learning-complex-and-novel-skills-like-typing-piano-etc)
+- [Turing students, college students: further studies and examples of sleep helping master difficult material](#studies-evidence-for-sleep-leading-to-mastery-of-difficult-material)
+- [Turing students: What does forcing yourself to wake up earlier than you should do to you?](#what-do-you-lose-if-you-chop-off-the-last-hour-or-two-of-your-planned-sleep-time)
+- [Rock climbers, athletes: Sleep deprivation on physical performance. (Hint: It more than undoes everything you worked for in the last year)](#sleep-and-physical-performance)
+- [Sleep deprivation and something that kills 40,000 people in the USA each year. (Driving)](#sleep-deprivation-and-driving)
+- [_You cannot estimate how poor your performance is when sleep deprived_](#we-underestimate-your-sleep-deprivation-induced-performance-disability)
+- [Driving while sleep deprived is as bad as driving drunk](#driving-while-sleep-deprived-is-about-as-bad-as-driving-drunk)
+- [Sleep lets you read other's emotions well](#sleep-and-emotions)
+- [Sleep deprivation contributes to substance abuse](#sleep-and-substance-abuse)
+- [Sleep deprivation contributes to Alzheimers](#sleep-and-alzheimers)
+- [Insufficient sleep and your biology (heart, immune system, etc)](#insufficient-sleep-and-the-cardiovascular-metabolic-immune-reproductive-Systems)
+- [Yes, one hour really matters, AKA "cool insights from daylight savings time"](#daylight-savings-time-helps-us-see-what-a-single-hour-reduction-in-sleep-brings-about)
+- [Sleep deprivation will make you fatter](#sleep-deprivation-and-insulin-resistence)
+- [Sleep deprivation will make you less able to fend of illness](#sleep-deprivation-and-the-immune-system)
+- [Sleep and relating to other people (emotional intelligence)](#sleep-and-emotional-intelligence)
+- [You (and everyone you're in charge of, if you're a manager) are less creative when sleep deprived. This is relevant to businesses](#sleep-and-creativity)
+- [Sleep and Insomnia](#insomnia)
+- [Sleep and Insomnia: please stop looking at your phone as you go to sleep](#light-specifically-blue-light-or-light-from-screens-and-sleep)
+- [Alcohol messes up your sleep, big time. (This chapter changed my life)](#sleep-and-alcohol)
+- [If you use sleeping pills or know someone who does, please read this section](#sleep-and-sleeping-pills)
+- [Sleeping pills work - but so do placebos](#sleeping-pills-vs-placebos)
+- [Sleeping pills make you unconscious, but not sleep. This damages your immune system](#sleeping-pills-and-damage-to-the-immune-system)
+- [OK, you've got insomnia. Can't use sleeping pills. What then should you do?](#how-then-should-one-treat-insomnia)
+- [](#sleep-and-Effectiveness-at-Work)
+- [](#sleep-and-the-k-12-educational-system)
+- [](#sleep-and-adhd)
+- [](#sleep-and-doctors-medical-errors)
+
 
 ## Quotes from _Why We Sleep_: 
 
