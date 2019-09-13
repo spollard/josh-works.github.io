@@ -10,7 +10,7 @@ permalink: why-we-sleep-book-notes
 ---
 
 
-I first read this book about two years ago. It immediately led me to prioritize sleep over almost everything else. 
+I first read [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/book/show/34466963-why-we-sleep?ac=1&from_search=true) about two years ago. It immediately led me to prioritize sleep over almost everything else. 
 
 Most of us don't get enough sleep, and are worse for it. Usually when the topic of sleep comes up, I say 
 
