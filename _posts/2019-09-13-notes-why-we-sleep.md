@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes from 'Why We Sleep'"
 description: "Book notes from 'Why We Sleep: Unlocking the Power of Sleep and Dreams', by Matthew Walker"
-date:  2019-09-04 06:00:00 -0700
+date:  2019-09-13 06:00:00 -0700
 crosspost_to_medium: false
 categories: [notes]
 tags: [books, notes]
@@ -16,14 +16,16 @@ Most of us don't get enough sleep, and are worse for it. Usually when the topic 
 
 > Hey, there's this great book I read on sleep. You should read it, and then sleep more...
 
-The people most in need of more sleep are also usually the people most unable to make time to read a book _about_ sleep. So, here's an effort to help these people save time, priortize sleep, and then maybe give the book a read anyway.
+The people most in need of more sleep are also usually the people most unable to make time to read a book _about_ sleep. So, here's an effort to help these people save time, prioritize sleep, and then maybe give the book a read anyway.
 
 I hope to use this post to accomplish two things:
 
 1. Convince you that sleep is massively important and you should sleep more
 2. Convince you to read the book. If you find anything below compelling, you'll find it _even more compelling_ if you read the whole book yourself. 
 
-Everything that follows is a quote from _Why We Sleep_. If I add my own comments, they'll be inline, like this:
+Everything that follows is a quote from _Why We Sleep_. 
+
+If I add my own comments, they'll be inline and italicized, like this:
 
 _Josh: here's a comment I'm adding_
 
@@ -38,7 +40,7 @@ I've quoted from this book, extensively. I don't recommend reading this post top
 - [Turing students: Sleep the night after learning something boosts retention 20-40%](#on-sleep-the-night-after-learning)
 - [Sleep helps us forget things that we should forget](#the-benefits-of-sleep-to-forget-things)
 - [Turing students, athletes: Sleep helps you learn complex new patterns (physical or mental)](#sleep-for-learning-complex-and-novel-skills-like-typing-piano-etc)
-- [Turing students, college students: further studies and examples of sleep helping master difficult material](#studies-evidence-for-sleep-leading-to-mastery-of-difficult-material)
+- [Turing students, college students: further studies and examples of sleep helping master difficult material](#studies-and-evidence-for-sleep-leading-to-mastery-of-difficult-material)
 - [Turing students: What does forcing yourself to wake up earlier than you should do to you?](#what-do-you-lose-if-you-chop-off-the-last-hour-or-two-of-your-planned-sleep-time)
 - [Rock climbers, athletes: Sleep deprivation on physical performance. (Hint: It more than undoes everything you worked for in the last year)](#sleep-and-physical-performance)
 - [Sleep deprivation and something that kills 40,000 people in the USA each year. (Driving)](#sleep-deprivation-and-driving)
@@ -47,10 +49,9 @@ I've quoted from this book, extensively. I don't recommend reading this post top
 - [Sleep lets you read other's emotions well](#sleep-and-emotions)
 - [Sleep deprivation contributes to substance abuse](#sleep-and-substance-abuse)
 - [Sleep deprivation contributes to Alzheimers](#sleep-and-alzheimers)
-- [Insufficient sleep and your biology (heart, immune system, etc)](#insufficient-sleep-and-the-cardiovascular-metabolic-immune-reproductive-Systems)
 - [Yes, one hour really matters, AKA "cool insights from daylight savings time"](#daylight-savings-time-helps-us-see-what-a-single-hour-reduction-in-sleep-brings-about)
 - [Sleep deprivation will make you fatter](#sleep-deprivation-and-insulin-resistence)
-- [Sleep deprivation will make you less able to fend of illness](#sleep-deprivation-and-the-immune-system)
+- [Sleep deprivation will make you less able to fend off illness](#sleep-deprivation-and-the-immune-system)
 - [Sleep and relating to other people (emotional intelligence)](#sleep-and-emotional-intelligence)
 - [You (and everyone you're in charge of, if you're a manager) are less creative when sleep deprived. This is relevant to businesses](#sleep-and-creativity)
 - [Sleep and Insomnia](#insomnia)
@@ -60,10 +61,10 @@ I've quoted from this book, extensively. I don't recommend reading this post top
 - [Sleeping pills work - but so do placebos](#sleeping-pills-vs-placebos)
 - [Sleeping pills make you unconscious, but not sleep. This damages your immune system](#sleeping-pills-and-damage-to-the-immune-system)
 - [OK, you've got insomnia. Can't use sleeping pills. What then should you do?](#how-then-should-one-treat-insomnia)
-- [](#sleep-and-Effectiveness-at-Work)
-- [](#sleep-and-the-k-12-educational-system)
-- [](#sleep-and-adhd)
-- [](#sleep-and-doctors-medical-errors)
+- [Sleep and effectiveness as work: performance, job satisfaction, and ethics](#sleep-and-effectiveness-at-work)
+- [Children should be allowed to be well rested. Less car accidents in 16-18 year old drivers, more of an improvement than ABS brakes](#sleep-and-the-k-12-educational-system)
+- [Sleep and ADHD. It's likely that half of children diagnosed with ADHD are just sleep deprived](#sleep-and-adhd)
+- [Doctors make mistakes when sleep deprived. And the founder of med school was a cocain addict. Preventable Medical Errors are the third-leading cause of death among Americans. 😱](#sleep-and-medical-errors)
 
 
 ## Quotes from _Why We Sleep_: 
@@ -100,6 +101,8 @@ Tragically, one person dies in a traffic accident every hour in the United State
 
 **It is disquieting to learn that vehicular accidents caused by drowsy driving exceed those caused by alcohol and drugs combined.**
 
+_[back to index](#index)_
+
 -----------------------
 
 ### Don't let people shame you with the 'early to bed early to rise' concept. 
@@ -117,6 +120,8 @@ First is the label of being lazy, based on a night owl’s wont to wake up later
 Others (usually morning larks) will chastise night owls on the erroneous assumption that such preferences are a choice, and if they were not so slovenly, they could easily wake up early. 
 
 However, night owls are not owls by choice. They are bound to a delayed schedule by unavoidable DNA hardwiring. It is not their conscious fault, but rather their genetic fate.
+
+_[back to index](#index)_
 
 -----------------------
 
@@ -139,6 +144,9 @@ There’s nothing benign about that 50 percent mark, either. Half a shot of caff
 
 Sleep will not come easily or be smooth throughout the night as your brain continues its battle against the opposing force of caffeine. Most people do not realize how long it takes to overcome a single dose of caffeine, and therefore fail to make the link between the bad night of sleep we wake from in the morning and the cup of coffee we had ten hours earlier with dinner.
 
+_[back to index](#index)_
+
+
 -----------------------
 
 ### Lots of folks think they're getting enough sleep
@@ -156,6 +164,8 @@ If the answer is “yes,” you are likely not getting sufficient sleep quantity
 Second, can you function optimally without caffeine before noon? 
 
 If the answer is “no,” then you are most likely self-medicating your state of chronic sleep deprivation. 
+
+_[back to index](#index)_
 
 -----------------------
 
@@ -178,6 +188,9 @@ Our question was simple:
 Those who were awake throughout the day became progressively worse at learning, even though their ability to concentrate remained stable (determined by separate attention and response time tests). 
 
 In contrast, those who napped did markedly better, and actually improved in their capacity to memorize facts. The difference between the two groups at six p.m. was not small: a 20 percent learning advantage for those who slept.
+
+_[back to index](#index)_
+
 
 -----------------------
 
@@ -202,6 +215,9 @@ Before having slept, participants were fetching memories from the short-term sto
 But things looked very different by the next morning. The memories had moved. 
 
 After the full night of sleep, participants were now retrieving that same information from the neocortex, which sits at the top of the brain - a region that serves as the long-term storage site for fact-based memories, where they can now live safely, perhaps in perpetuity.
+
+_[back to index](#index)_
+
 
 -----------------------
 
@@ -232,6 +248,9 @@ Instead, sleep is able to offer a far more discerning hand in memory improvement
 Sleep accomplishes this by using meaningful tags that have been hung onto those memories during initial learning, or potentially identified during sleep itself. 
 
 Numerous studies have shown a similarly intelligent form of sleep-dependent memory selection across both daytime naps and a full night of sleep. 
+
+_[back to index](#index)_
+
 
 -----------------------
 
@@ -271,9 +290,12 @@ Not so, it seemed.
 
 **Perhaps it was practice, with sleep, that makes perfect?**
 
+_[back to index](#index)_
+
+
 -----------------------
 
-### Studies/evidence for sleep leading to mastery of difficult material
+### Studies and evidence for sleep leading to mastery of difficult material
 
 _The author goes into the studies he did to determine the effects of sleep on "finishing" the work that's begun with deliberate practice_
 
@@ -317,6 +339,9 @@ Sleep had systematically identified where the difficult transitions were in the 
 
 This finding rekindled the words of the pianist I’d met: “but when I wake up the next morning and sit back down at the piano, I can just play, perfectly.” 
 
+_[back to index](#index)_
+
+
 -----------------------
 
 ### What do you lose, if you "chop off" the last hour or two of your planned sleep time?
@@ -341,6 +366,9 @@ In doing so, coaches may be innocently but effectively denying an important phas
 
 When you consider that very small performance differences often separate winning a gold medal from a last-place finish in professional athletics, then any competitive advantage you can gain, such as that naturally offered by sleep, can help determine whether or not you will hear your national anthem echo around the stadium.
 
+_[back to index](#index)_
+
+
 -----------------------
 
 ### Sleep and physical performance
@@ -360,6 +388,9 @@ Even the ability of the body to cool itself during physical exertion through swe
 Even teams that are aware of sleep’s importance before a game are surprised by my declaration of the equally, if not more, essential need for sleep in the days after a game. 
 
 Post-performance sleep accelerates physical recovery from common inflammation, stimulates muscle repair, and helps restock cellular energy in the form of glucose and glycogen.
+
+_[back to index](#index)_
+
 
 -----------------------
 
@@ -387,6 +418,9 @@ As a result, you don’t need to fall asleep for ten to fifteen seconds to die w
 
 Two seconds will do it. **A two-second microsleep at 30 mph with a modest angle of drift can result in your vehicle transitioning entirely from one lane to the next.** This includes into oncoming traffic. Should this happen at 60 mph, it may be the last microsleep you ever have.
 
+_[back to index](#index)_
+
+
 -----------------------
 
 ### We underestimate your sleep-deprivation-induced performance disability
@@ -410,6 +444,9 @@ That low-level exhaustion becomes their accepted norm, or baseline. Individuals 
 A link between the former and latter is rarely made in their mind. Based on epidemiological studies of average sleep time, millions of individuals unwittingly spend years of their life in a sub-optimal state of psychological and physiological functioning, never maximizing their potential of mind or body due to their blind persistence in sleeping too little. 
 
 Sixty years of scientific research prevent me from accepting anyone who tells me that he or she can “get by on just four or five hours of sleep a night just fine.”
+
+_[back to index](#index)_
+
 
 -----------------------
 
@@ -480,6 +517,9 @@ But when you fall asleep, or have a microsleep, you stop reacting altogether.
 
 A person who experiences a microsleep or who has fallen asleep at the wheel does not brake at all, nor do they make any attempt to avoid the accident. As a result, car crashes caused by drowsiness tend to be far more deadly than those caused by alcohol or drugs. Said crassly, when you fall asleep at the wheel of your car on a freeway, there is now a one-ton missile traveling at 65 miles per hour, and no one is in control. 
 
+_[back to index](#index)_
+
+
 -----------------------
 ### Sleep and emotions
 
@@ -497,6 +537,9 @@ It was as though, without sleep, our brain reverts to a primitive pattern of unc
 
 **We produce unmetered, inappropriate emotional reactions, and are unable to place events into a broader or considered context**. 
 
+_[back to index](#index)_
+
+
 -----------------------
 
 ### Sleep and Substance Abuse
@@ -506,6 +549,9 @@ Sleep disturbance is a recognized hallmark associated with addictive substance u
 Insufficient sleep also determines relapse rates in numerous addiction disorders, associated with reward cravings that are unmetered, lacking control from the rational head office of the brain’s prefrontal cortex.
 
 Relevant from a prevention standpoint, insufficient sleep during childhood significantly predicts early onset of drug and alcohol use in that same child during their later adolescent years, even when controlling for other high-risk traits, such as anxiety, attention deficits, and parental history of drug use.
+
+_[back to index](#index)_
+
 
 -----------------------
 
@@ -541,6 +587,8 @@ Should you experimentally prevent a mouse from getting NREM sleep, keeping it aw
 
 Phrased differently, and perhaps more simply, wakefulness is low-level brain damage, while sleep is neurological sanitation.
 
+_[back to index](#index)_
+
 -----------------------
 
 From this cascade comes a prediction: **getting too little sleep across the adult life span will significantly raise your risk of developing Alzheimer’s disease.**
@@ -550,14 +598,6 @@ Precisely this relationship has now been reported in numerous epidemiological st
 Parenthetically, and unscientifically, I have always found it curious that Margaret Thatcher and Ronald Reagan — two heads of state that were very vocal, if not proud, about sleeping only four to five hours a night — both went on to develop the ruthless disease. 
 
 The current US president, Donald Trump — also a vociferous proclaimer of sleeping just a few hours each night — may want to take note.
------------------------
-
-### Insufficient Sleep and the Cardiovascular, Metabolic, Immune, Reproductive Systems
-
-As with other consequences of sleep loss we’ve encountered, you don’t need a full night of total sleep deprivation to inflict a measurable impact on your cardiovascular system. 
-
-One night of modest sleep reduction — even just one or two hours — will promptly speed the contracting rate of a person’s heart, hour upon hour, and significantly increase the systolic blood pressure within their vasculature.
-
 
 -----------------------
 
@@ -572,6 +612,9 @@ Impressively, it works both ways. In the autumn within the Northern Hemisphere, 
 A similar rise-and-fall relationship can be seen with the number of traffic accidents, proving that the brain, by way of attention lapses and microsleeps, is just as sensitive as the heart to very small perturbations of sleep. 
 
 Most people think nothing of losing an hour of sleep for a single night, believing it to be trivial and inconsequential. It is anything but.
+
+_[back to index](#index)_
+
 -----------------------
 
 ### Sleep Deprivation and Insulin Resistence
@@ -588,6 +631,9 @@ The cells were repelling rather than absorbing the dangerously high levels of gl
 
 The roadside drains were effectively closed shut, leading to a rising tide of blood sugar and a pre-diabetic state of hyperglycemia.
 
+_[back to index](#index)_
+
+
 -----------------------
 
 ### Sleep Deprivation and the Immune System
@@ -602,6 +648,9 @@ There was a clear, linear relationship with infection rate.
 
 The less sleep an individual was getting in the week before facing the active common cold virus, the more likely it was that they would be infected and catch a cold. In those sleeping five hours on average, the infection rate was almost 50 percent. In those sleeping seven hours or more a night in the week prior, the infection rate was just 18 percent.
 
+_[back to index](#index)_
+
+-------------------------------
 
 ### Sleep and Emotional Intelligence
 
@@ -618,6 +667,9 @@ Through this platinum-grade nocturnal service, better REM-sleep quality at night
 The tuning V of the brain had been changed, rudely pulled all the way up from the base and flattened into a horizontal line, as if the brain was in a state of generalized hypersensitivity without the ability to map gradations of emotional signals from the outside world...
 
 By removing REM sleep, we had, quite literally, removed participants’ levelheaded ability to read the social world around them.
+
+_[back to index](#index)_
+
 
 -----------------------
 
@@ -651,6 +703,9 @@ Things were very different for those participants who had obtained a full night 
 
 **Almost 60 percent returned and had the “ah-ha!” moment of spotting the hidden cheat—which is a threefold difference in creative solution insight afforded by sleep!**
 
+_[back to index](#index)_
+
+
 -----------------------
 
 ### Insomnia
@@ -682,6 +737,9 @@ However, the fight-or-flight response is not meant to be left in the “on” po
 
 As we have already touched upon in earlier chapters, chronic activation of the flight-or-flight nervous system causes myriad health problems, one of which is now recognized to be insomnia.
 
+_[back to index](#index)_
+
+
 -----------------------
 
 ### Light (specifically blue light, or light from screens) and sleep
@@ -706,6 +764,7 @@ It did, in three concerning ways.
 
 Using LED devices at night impacts our natural sleep rhythms, the quality of our sleep, and how alert we feel during the day. 
 
+_[back to index](#index)_
 
 -----------------------
 
@@ -785,6 +844,8 @@ How long is it before those new memories are finally safe? We actually do not ye
 
 I elicit audible groans when I present these findings to my undergraduates in lectures. The politically incorrect advice I would (of course never) give is this: go to the pub for a drink in the morning. That way, the alcohol will be out of your system before sleep.
 
+_[back to index](#index)_
+
 -----------------------
 
 ### Sleep and Sleeping Pills
@@ -827,6 +888,8 @@ The cause of rebound insomnia is a type of dependency in which the brain alters 
 
 But when the drug is stopped, there is a withdrawal process, part of which involves an unpleasant spike in insomnia severity.
 
+_[back to index](#index)_
+
 -----------------------
 
 ### Sleeping Pills vs Placebos
@@ -846,6 +909,8 @@ In other words, there was no objective benefit of these sleeping pills beyond th
 Summarizing the findings, the committee stated that sleeping pills only produced “slight improvements in subjective and polysomnographic sleep latency”—that is, the time it takes to fall asleep. 
 
 **The committee concluded the report by stating that the effect of current sleeping medications was “rather small and of questionable clinical importance.”**
+
+_[back to index](#index)_
 
 -----------------------
 
@@ -874,6 +939,9 @@ Unfortunately, Big Pharma can be notoriously unbending within the arena of revis
 **Consider that the original Star Wars movies—some of the highest-grossing films of all time — required more than forty years to amass $3 billion in revenue. It took Ambien just twenty-four months to amass $4 billion in sales profit**, discounting the black market. 
 
 That’s a large number, and one I can only imagine influences Big Pharma decision-making at all levels.
+
+_[back to index](#index)_
+
 
 -----------------------
 
@@ -905,6 +973,7 @@ More importantly, the benefits of CBT-I persist long term, even after patients s
 
 _Here's the link to these 12 tips, as a single page: [nih.gov](https://www.nlm.nih.gov/medlineplus/magazine/issues/summer12/articles/summer12pg20.html)_
 
+_[back to index](#index)_
 
 -----------------------
 
@@ -930,6 +999,8 @@ Seminal work by Dr. Christopher Barns, a researcher in the Foster School of Busi
 
 Barns also discovered that under-slept employees are more likely to blame other people in the workplace for their own mistakes, and even try to take credit for other people’s successful work: hardly a recipe for team building and a harmonious business environment.
 
+_[back to index](#index)_
+
 -----------------------
 
 ### Sleep and the k-12 educational system
@@ -945,6 +1016,8 @@ The leading cause of death among teenagers is road traffic accidents, and in thi
 Teton County in Wyoming enacted an even more dramatic change in school start time, shifting from a 7:35 a.m. bell to a far more biologically reasonable one of 8:55 a.m. 
 
 **The result was astonishing—a 70 percent reduction in traffic accidents in sixteen- to eighteen-year-old drivers. To place that in context, the advent of anti-lock brake technology (ABS)—which prevents the wheels of a car from seizing up under hard braking, allowing the driver to still maneuver the vehicle—reduced accident rates by around 20 to 25 percent. It was deemed a revolution.** 
+
+_[back to index](#index)_
 
 -----------------------
 
@@ -988,9 +1061,11 @@ In the weeks after the operation, a child’s sleep recovers, and with it, norma
 
 A major public health awareness campaign by governments — perhaps without influence from pharmaceutical lobbying groups — is needed on this issue.
 
+_[back to index](#index)_
+
 -----------------------
 
-### Sleep and Doctor's Medical Errors
+### Sleep and Medical Errors
 
 If you are about to receive medical treatment at a hospital, you’d be well advised to ask the doctor: “How much sleep have you had in the past twenty-four hours?” 
 
@@ -1050,31 +1125,6 @@ As a matter of fact, several pilot studies in the US have shown that when you li
 
 Furthermore, residents made 400 to 600 percent fewer diagnostic errors to begin with.
 
--------------------
+_[back to index](#index)_
 
-
-### Anki This:
-
-The first factor is a signal beamed out from your internal twenty-four-hour clock located deep within your brain. The clock creates a cycling, day-night rhythm that makes you feel tired or alert at regular times of night and day, respectively. The second factor is a chemical substance that builds up in your brain and creates a “sleep pressure.”
-
------------------------
-
-Yet daylight isn’t the only signal that the brain can latch on to for the purpose of biological clock resetting, though it is the principal and preferential signal, when present. So long as they are reliably repeating, the brain can also use other external cues, such as food, exercise, temperature fluctuations, and even regularly timed social interaction.
-
------------------------
-
-Since our innate biological rhythm is not precisely twenty-four hours, but thereabouts, a new nomenclature was required: the circadian rhythm—that is, one that is approximately, or around, one day in length, and not precisely one day.III In the seventy-plus years
-
------------------------
-
-The first concerns two hormones controlling appetite: leptin and ghrelin.II Leptin signals a sense of feeling full. When circulating levels of leptin are high, your appetite is blunted and you don’t feel like eating. Ghrelin, in contrast, triggers a strong sensation of hunger. When ghrelin levels increase, so, too, does your desire to eat. An imbalance of either one of these hormones can trigger increased eating and thus body weight. Perturb both in the wrong direction, and weight gain is more than probable.
-
-----------------------
-
-To illustrate the concept of epiphenomena, let’s consider the lightbulb. The reason we construct the physical elements of a lightbulb—the glass sphere, the coiled wire element that sits inside, the screw-in electrical contact at the base—is to create light. That is the function of the lightbulb, and the reason we designed the apparatus to begin with. However, a lightbulb also produces heat. Heat is not the function of the lightbulb, nor is it the reason we originally fashioned it. Instead, heat is simply what happens when light is generated in this way. It is an unintended by-product of the operation, not the true function. Heat is an epiphenomenon in this case. Similarly, evolution may have gone to great lengths to construct the neural circuits in the brain that produce REM sleep and the functions that REM sleep supports. However, when the (human) brain produces REM sleep in this specific way, it may also produce this thing we call dreaming. Dreams, like heat from a lightbulb, may serve no function. Dreams may simply be epiphenomena of no use or consequence. They are merely an unintended by-product of REM sleep. Rather a depressing thought, isn’t it? I’m sure many of us feel that our dreams have meaning and some useful purpose. To address this stalemate, exploring whether dreaming, beyond the stage of sleep it emerges from, has true purpose, scientists began by defining the functions of REM sleep. Once those functions were known, we could then examine whether the dreams that accompany REM sleep—and the very specific content of those dreams—were crucial determinants of those adaptive benefits. If what you dream about offers no predictive power in determining the benefits of that REM sleep, it would suggest that dreams are epiphenomenal, and REM sleep alone is sufficient. If, however, you need both REM sleep and to be dreaming about specific things to accomplish such functions, it would suggest that REM sleep alone, although necessary, is not sufficient. Rather, a unique combination of REM sleep plus dreaming, and dreaming of very particular experiences, is needed to transact these nighttime benefits. If this was proven, dreams could not be dismissed as an epiphenomenal by-product of REM sleep. Rather, science would have to recognize dreaming as an essential part of sleep and the adaptive advantages it supports, above and beyond REM sleep itself. Using this framework, we have found
-
------------------------
-
-Anki epiphenomina
-
-Your twenty-four-hour circadian rhythm is the first of the two factors determining wake and sleep. The second is sleep pressure. At this very moment, a chemical called adenosine is building up in your brain. It will continue to increase in concentration with every waking minute that elapses. The longer you are awake, the more adenosine will accumulate. Think of adenosine as a chemical barometer that continuously registers the amount of elapsed time since you woke up this morning. One consequence of increasing adenosine in the brain is an increasing desire to sleep. This is known as sleep pressure, and it is the second force that will determine when you feel sleepy, and thus should go to bed. Using a clever dual-action effect, high concentrations of adenosine simultaneously turn down the “volume” of wake-promoting regions in the brain and turn up the dial on sleep-inducing regions. As a result of that chemical sleep pressure, when adenosine concentrations peak, an irresistible urge for slumber will take hold.VII It happens
+----------------
