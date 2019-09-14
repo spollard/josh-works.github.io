@@ -26,6 +26,9 @@ Since I'm using Jekyll and Github Pages to serve this website, I wanted to figur
 
 I've bundled all of my learnings into this course.
 
+For $20, you'll get the guide in written format. It looks like this:
+
+![course preview](https://cl.ly/8cad5414cb7a/2019-09-14%20at%201.33%20PM.jpg)
 
 
 <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
@@ -33,16 +36,10 @@ I've bundled all of my learnings into this course.
   style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
   id="checkout-button-sku_FluboPRKa9hMRB"
   role="link">
-  Purchase
+  Purchase the guide ($20)
 </button>
 
 <div id="error-message"></div>
-
-
-
-
-
-
 
 
 
