@@ -18,12 +18,13 @@ permalink:           pretty
 
 # Setup
 title:               Josh Thompson
-tagline:             "Words about things"
+tagline:             "Programming, Learning, Climbing and Miscellaneous Thoughts."
 url:                 https://josh.works
 paginate:            5
 baseurl:             ""
 excerpt_separator:   <!--more-->
 future: true
+twitter_username:   "josh_works"
 
 # pages in nav bar
 include: ['_pages']
