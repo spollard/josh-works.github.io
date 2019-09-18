@@ -8,10 +8,6 @@ description: "How to add Stripe to a static site, by Josh Thompson"
 permalink: /add-stripe-to-static-site-course
 ---
 
-<!-- Load Stripe.js on your website. -->
-<script src="https://js.stripe.com/v3"></script>
-
-
 ### How to Take Payment On A Static Site with Stripe
 
 In this short course, learn how to quickly take payment on a website with Stripe.
@@ -30,29 +26,28 @@ For $20, you'll get the guide in written format. It looks like this:
 
 ![course preview](https://cl.ly/8cad5414cb7a/2019-09-14%20at%201.33%20PM.jpg)
 
+<!-- Load Stripe.js on your website. -->
+<script src="https://js.stripe.com/v3"></script>
 
 <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
 <button
   style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
-  id="checkout-button-sku_FluboPRKa9hMRB"
+  id="checkout-button-sku_Fo5gnUdda4RhOF"
   role="link">
-  Purchase the guide ($20)
+  Purchase Book ($20)
 </button>
 
 <div id="error-message"></div>
 
-
-
-
 <script>
-  var stripe = Stripe('pk_live_NxPjctp5fvGzF77VGC6Ey5oj');
+  var stripe = Stripe('pk_test_xTwpkoUrsCpAxKwm69tBZEAe');
 
-  var checkoutButton = document.getElementById('checkout-button-sku_FluboPRKa9hMRB');
+  var checkoutButton = document.getElementById('checkout-button-sku_Fo5gnUdda4RhOF');
   checkoutButton.addEventListener('click', function () {
     // When the customer clicks on the button, redirect
     // them to Checkout.
     stripe.redirectToCheckout({
-      items: [{sku: 'sku_FluboPRKa9hMRB', quantity: 1}],
+      items: [{sku: 'sku_Fo5gnUdda4RhOF', quantity: 1}],
 
       // Do not rely on the redirect to the successUrl for fulfilling
       // purchases, customers may not always reach the success_url after
