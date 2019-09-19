@@ -23,6 +23,7 @@ Here's a quick index of what's in this guide:
 - [cannot open Atom from the Terminal](#cannot-open-atom-from-the-terminal)
 - [`FSPathMakeRef`](#fspathmakeref-and-a-bunch-of-other-stuff)
 - [`gem install pry` failing with "you do not have permission"](#gem-install-pry-failing-with-you-do-not-have-permission)
+- [Undefined method pry](#undefined-method-pry)
 
 ## `Traceback... cannot load such file -- pry`
 
@@ -38,7 +39,7 @@ Pry is an amazing tool. You'll soon come to love it. In the mean time, just inst
 
 In your terminal, run `gem install pry` and then run the tests again. 
 
-## Cannot open atom from the terminal
+## Cannot open Atom from the terminal
 
 You may need to install the Atom Shell Commands. Atom makes it super easy to do this:
 
@@ -91,7 +92,7 @@ If you get something like one of these:
 
 You're in good shape. Stop reading this section. The rest of this fix will not apply to you.
 
-## `/usr/bin/ruby`
+### `/usr/bin/ruby`
 
 This means you're using the version of Ruby that came installed on your laptop. You shouldn't be messing with this version of Ruby, so your system isn't letting you.
 
@@ -129,3 +130,78 @@ $ rbenv global 2.4.1
 ```
 
 You can now do `gem install pry`, and it will install the gem to the `2.4.1` version of Ruby, as managed by `rbenv`.
+
+
+### `undefined method pry`
+
+`undefined method 'pry' for #Binding:0x0007f8f980d39f8>`
+
+When you try to hit a `pry` in your tests, you might type in something like:
+
+```ruby
+def test_12
+  children = ["Sarah", "Owen", "Peter"]
+  
+  binding.pry # adding a pry
+  one_string = children
+  assert_equal "Sarah, Owen, Peter", one_string
+end
+```
+
+And then you get an error like: 
+
+> `undefined method 'pry' for #Binding:0x0007f8f980d39f8>`
+
+The problem is ruby needs the `pry` gem to be available in the file where you're trying to use `binding.pry`. There's two ways to do this. The cumbersome way, and the easy way:
+
+### The cumbersome way: At the top of any file where you want to use `binding.pry`, add `require 'pry'`
+
+Like so:
+
+![require pry at top of file](/images/2019-09-20-pry-01.jpg)
+
+This is cumbersome because as you move through Turing, you'll find yourself working with more and more files, and wanting to use pry in all of them. You'll be littering the top of every file with `require 'pry'`, and it'll be annoying.
+
+### The easy way: auto-require the pry whenever you add a pry statement
+
+Here's how you can get a `pry` statement without adding anything to the top of the file:
+
+![require pry in-line](/images/2019-09-20-pry-02.jpg)
+
+Wahoo!
+
+> Hold up, Josh. That's a lot to type every time I wanna stick a pry in somewhere. How is this `the easy way`.
+
+Right you are, thoughtful reader. Right you are. 
+
+I often feel pretty bad at typing. I make mistakes all the time. The backspace key on my keyboard gets more usage than any other key. So, If I had to type out `require 'pry';binding,pry` I mean `require "pry":bindingpry` I mean... well, you get the idea.
+
+We're going to set up a snippet in atom, so you'll just type `pry` and hit the tab key, and you'll have glorious auto-expansion. 
+
+Here's how:
+
+1. Go to `Atom > Snippets`
+
+![go to snippets](/images/2019-09-20-pry-03.jpg)
+
+2. Paste your fancy new snippet shortcut into the `snippets.cson` file:
+
+```cson
+'.source.ruby':
+  'require "pry"':
+    'prefix': 'pry'
+    'body': 'require "pry"; binding.pry'
+```
+
+It should look something like this:
+
+![the whole .cson file](/images/2019-09-20-pry-05.jpg)
+
+
+What does that all mean? Great question. [Heres Atom's docs on snippets](https://flight-manual.atom.io/using-atom/sections/snippets/)
+
+Now you can type `pry` and hit the `tab` key, and it'll auto-expand into the full snippet. 
+
+![pry all day](/images/2019-09-20-pry-04.gif)
+
+Go forth and pry into everything!
