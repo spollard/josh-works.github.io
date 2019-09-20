@@ -7,6 +7,7 @@ crosspost_to_medium: false
 categories: [notes]
 tags: [books, notes]
 permalink: why-we-sleep-book-notes
+image: "/images/why_we_sleep_base_image.jpg"
 ---
 
 
