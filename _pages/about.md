@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 ![A picture of Josh Thompson](/images/2016_litmus_9.jpg)
