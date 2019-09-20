@@ -8,7 +8,6 @@ module Jekyll
       attr_accessor :file_name, :directory
 
       def initialize(file_name:, directory: nil)
-        p "#{file_name}, #{directory}"
         self.file_name = file_name
         self.directory = directory
       end
