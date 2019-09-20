@@ -21,6 +21,7 @@ title:               Josh Thompson
 tagline:             "Programming, Learning, Climbing and Miscellaneous Thoughts."
 title_image:         "/images/site_base_image.jpg"
 url:                 https://josh.works
+baseurl:             ""
 
 paginate:            5
 excerpt_separator:   <!--more-->
@@ -35,11 +36,9 @@ include: ['_pages']
 pages_list:
   about: '/about'
   archive: '/archive'
-  # tags: '/tags'
   turing: '/turing'
   office hours: '/office-hours'
 
-  # Subscribe: '/atom.xml'
 
 # Assets
 # We specify the directory for Jekyll so we can use @imports.
