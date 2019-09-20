@@ -23,7 +23,7 @@ Here's a quick index of what's in this guide:
 - [cannot open Atom from the Terminal](#cannot-open-atom-from-the-terminal)
 - [`FSPathMakeRef`](#fspathmakeref-and-a-bunch-of-other-stuff)
 - [`gem install pry` failing with "you do not have permission"](#gem-install-pry-failing-with-you-do-not-have-permission)
-- [Undefined method pry](#undefined-method-pry)
+- [Undefined method `pry`](#undefined-method-pry)
 
 ## `Traceback... cannot load such file -- pry`
 

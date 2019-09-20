@@ -7,6 +7,7 @@ categories: [notes]
 description: "A photo guide to how I take notes in a physical notebook"
 tags: [guide, turing, programming]
 permalink: how-i-take-notes-aka-add-an-index-to-your-notebook
+image: /images/2019-08-25-index-06.jpg
 ---
 
 A while back, sometime in 2017, I wrote this tweet:
