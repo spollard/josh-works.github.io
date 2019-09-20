@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+published: true
+description: "Theology, Relationships, Programming, Remote Work, Books, Fitness, and more"
 permalink: /about
 ---
 
