@@ -76,19 +76,23 @@ Since I'm using Jekyll and Github Pages to serve this website, I wanted to figur
 
 I've bundled all of my learnings into this course.
 
-For $20, you'll get the guide in written format. It looks like this:
+For $30, you'll get the guide in written format. It looks like this:
 
 ![course preview](/images/2019-09-20-stripe-01.jpg)
 
-<!-- Load Stripe.js on your website. -->
-<script src="https://js.stripe.com/v3"></script>
+-----------------------
 
-<!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
+To "kick the tires", as it were, and show that you will learn how to thoroughly test the whole process, end to end, here's a TEST purchase button, hooked up to my TEST Stripe dashboard. 
+
+To test the process, enter `4242 4242 4242 4242` for the credit card number, and an expiration date with any date in the future. Please enter a real email address, as that's how you'll receive the course sample.
+
+<script src="https://js.stripe.com/v3"></script>
+<!-- This is my test purchase button. -->
 <button
   style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
   id="checkout-button-sku_Fo5gnUdda4RhOF"
   role="link">
-  Purchase Course ($20)
+  Purchase Course (this is a sample, enter the above fake CC number)
 </button>
 
 <div id="error-message"></div>
