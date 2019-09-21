@@ -66,6 +66,7 @@ I'm an insatiable learning, but I also learn best by figuring out how to teach a
 
 
 _[Everything I've written on the topic of programming ->](http://josh.works/tags#programming)_
+
 -----------------------
 
 ## Turing School of Software and Design
