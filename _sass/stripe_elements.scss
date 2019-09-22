@@ -1,0 +1,23 @@
+.stripe_button {
+  background-color:$blue;
+  color:#FFF;
+  padding:8px 12px;
+  border:0;
+  border-radius:4px;
+  font-size:1em;
+  cursor: pointer;
+  // from https://github.com/IanLunn/Hover
+  &.hvr-grow {
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translateZ(0);
+    transition-duration: 0.3s;
+    transition-property: transform;
+    
+    &:hover,
+    &:focus,
+    &:active {
+      transform: scale(1.01);
+    }
+  }
+}

@@ -27,11 +27,21 @@ When I launched into this little project, I thought it would take just a few hou
 
 The answer is `longer than I expected`. I think it took me over fifteen hours to do what would now take me two hours. 
 
-Let my thirteen hours of extra effort save you a few hours of your own. If you're a software developer making $80,000/yr, your being paid about $40/hr. 
+Let my thirteen hours of extra effort save you a few hours of your own. If you're a software developer making $80,000/yr, you're effective hourly rate is $40/hr. 
 
-This course will save you at least five of your precious non-work hours, so you can get to building/selling the things you want to build and sell. If you value your time at at least $6/hr, this course will be a great investment. 
+This course will save you at least five of your precious non-work hours, so you can get to building/selling the things you want to build and sell. If you value your time at at least $6/hr, this course will be a good investment. 
 
-### You appreciate low-risk opportunities
+### You want to learn from other's mistakes
+
+- Did you know that the default HTML/Javascript from Stripe has a formatting error? The button won't work until you fix it. I'll show you the error.
+- Did you know that the default button formatting (from Stripe) makes it hard to tell that it's a button? I'll show you how to fix this with a little HTML and CSS. 
+- You want to be confident that what you are building will work; testing in Stripe can be tricky, knowing how to set it all up to let yourself to end-to-end testing of the checkout process (and I'll make sure you don't violate Stripe's Terms of Service along the way!)
+- How to navigate the test modes across products, customers, purchases, and connections to third-party tools?
+
+I didn't know any of the gotchas and issues that popped up as I made this course. I document them all carefully, for your benefit. You'll save ten hours, maybe more. 
+
+
+### You'll get (and learn how to build one, if you want) a self-serve one-click "refund me my money" button.
 
 At any point in time, between now and forever, you can get a 100%, no-questions-asked, refund. I'll even make it automatic, so you don't have to ask. You can just click a link and get your money refunded. 
 
@@ -45,27 +55,34 @@ When I told some friends about this plan, they thought I was crazy.
 
 If it turns out a large percentage of people who purchase this course abuse that refund option, I'll change it. But that change will be reflected in this promise to refund money. If you've purchased this course while reading this note, you'll get 100% life-time refunds, no questions asked. 
 
+So, what this means is:
+- I'll show you how to build automatic refunds into your Stripe course
+- As I build this feature into this course
+
 # So what's actually covered in this course?
 
-In this short course, you'll learn how to configure, end-to-end, a way to take payment for a digital product, and how to deliver that product to the purchaser. 
+In this short course, you'll learn how to:
+- Get a "buy now" button on your website that people can use to purchase things from you
+- Use third-party tools to automatically deliver the purchased item to the customer
+- manage all this in the back-end
+- test it all thoroughly
+- let the customer run a refund if they want
 
-This will all happen automatically, so you won't have to do anything 
+You'll also learn:
+- Gotchas with the default HTML/Javascript Stripe gives you
+- Basic styling so the "purchase" button will match the look and feel of your site
+- Gotchas around test modes and accounts
 
-# Seems pretty selfish, Josh.
+We'll use a few tools:
+- Stripe (duh)
+- Zapier
+- Gmail or Mailchimp
+- Dropbox
 
-Someone could say:
 
-> This sounds like multi-level marketing, Josh. You'll sell a course that teaches people how to take money on a website, so they can then... sell a course about how to take money on a website? That sounds scammy. 
+# Why shouldn't I just use an existing platform?
 
-Not qute. Taking payment and distriputing the material means anyone reading this could choose to distribute _any_ course, and get paid for it. 
-
-This website is built with a static site generator. 
-
-Static sites are easy to build, and lightning-fast. This page you're viewing 
-
-That said, they're not backed by any sort of database or content management system (CMS). 
-
-I've used Stripe to take payments before, using plugins with [Wordpress](https://wordpress.com/), or [Squarespace](https://www.squarespace.com/), or different tools entirely, like [Gumroad](https://gumroad.com/). All of these tools do more than I want; they lay a pretty UI on top of what's happening under the hood.
+I've used Stripe to take payments before, using plugins with [Wordpress](https://wordpress.com/), or [Squarespace](https://www.squarespace.com/), or different tools entirely, like [Gumroad](https://gumroad.com/). All of these tools do more than I want; they lay their pretty UI on top of mine. I want to figure out how to control the experience a bit more, and in doing so, learn a lot.
 
 Granted, these tools are appropriate for a variety of use-cases, like:
 1. Non-technical users
@@ -74,7 +91,9 @@ Granted, these tools are appropriate for a variety of use-cases, like:
 
 Since I'm using Jekyll and Github Pages to serve this website, I wanted to figure out how to be able to take payment with this as well. 
 
-I've bundled all of my learnings into this course.
+I've bundled all of my learnings into three different packages:
+
+For $0, you'll get a sample of the guide, delivered to your inbox. 
 
 For $30, you'll get the guide in written format. It looks like this:
 
@@ -89,15 +108,16 @@ To test the process, enter `4242 4242 4242 4242` for the credit card number, and
 <script src="https://js.stripe.com/v3"></script>
 <!-- This is my test purchase button. -->
 <button
-  style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
   id="checkout-button-sku_Fo5gnUdda4RhOF"
+  class="stripe_button hvr-grow"
   role="link">
-  Purchase Course (this is a sample, enter the above fake CC number)
+    Purchase Course (this is a sample, enter the above fake CC number)
 </button>
 
 <div id="error-message"></div>
 
 <script>
+(function() {
   var stripe = Stripe('pk_test_xTwpkoUrsCpAxKwm69tBZEAe');
 
   var checkoutButton = document.getElementById('checkout-button-sku_Fo5gnUdda4RhOF');
@@ -114,6 +134,5 @@ To test the process, enter `4242 4242 4242 4242` for the credit card number, and
       }
     });
   });
+})();
 </script>
-
-
