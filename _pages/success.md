@@ -1,14 +1,12 @@
 ---
 layout: page
-title: 
+title: Thank You!
 status: published
 type: page
 published: true
 description: "Thank you for purchasing a course. I hope it's super helpful to you!"
 permalink: /success
 ---
-
-##  Thank You!
 
 ![highest of fives](http://giphygifs.s3.amazonaws.com/media/QN6NnhbgfOpoI/giphy.gif)
 

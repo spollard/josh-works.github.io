@@ -105,13 +105,29 @@ To "kick the tires", as it were, and show that you will learn how to thoroughly 
 
 To test the process, enter `4242 4242 4242 4242` for the credit card number, and an expiration date with any date in the future. Please enter a real email address, as that's how you'll receive the course sample.
 
+<!-- all stripe JS below here -->
 <script src="https://js.stripe.com/v3"></script>
+<!-- button for course with video -->
 <!-- This is my test purchase button. -->
 <button
   id="checkout-button-sku_Fo5gnUdda4RhOF"
   class="stripe_button hvr-grow"
   role="link">
-    Purchase Course (this is a sample, enter the above fake CC number)
+  Purchase Course (written guide only) (test) 
+</button>
+<div id="error-message"></div>
+
+----------------
+
+Of course, there's two product tiers, so we'll have two _free_ product tiers, as well.
+
+Use this button to test the purchase/deliver process with the course that includes a short video walk-through:
+
+<button
+  id="checkout-button-sku_FroW7tOGV8c2Me"
+  class="stripe_button hvr-grow"
+  role="link">
+  Purchase Course (with video) (test)
 </button>
 
 <div id="error-message"></div>
@@ -119,16 +135,47 @@ To test the process, enter `4242 4242 4242 4242` for the credit card number, and
 <script>
 (function() {
   var stripe = Stripe('pk_test_xTwpkoUrsCpAxKwm69tBZEAe');
-
-  var checkoutButton = document.getElementById('checkout-button-sku_Fo5gnUdda4RhOF');
+  var checkoutButton = document.getElementById('checkout-button-sku_FroW7tOGV8c2Me');
   checkoutButton.addEventListener('click', function () {
     stripe.redirectToCheckout({
-      items: [{sku: 'sku_Fo5gnUdda4RhOF', quantity: 1}],
+      items: [{sku: 'sku_FroW7tOGV8c2Me', quantity: 1}],
       successUrl: window.location.protocol + '//josh.works/success',
       cancelUrl: window.location.protocol + '//josh.works/canceled',
     })
     .then(function (result) {
       if (result.error) {
+        var displayError = document.getElementById('error-message');
+        displayError.textContent = result.error.message;
+      }
+    });
+  });
+})();
+</script>
+
+<!-- Button for free course, no video -->
+<script>
+(function() {
+  var stripe = Stripe('pk_test_j2zjmd474ylQiqIHeMwF2huu00Vv3DnT8Y');
+
+  var checkoutButton = document.getElementById('checkout-button-sku_Fo5gnUdda4RhOF');
+  checkoutButton.addEventListener('click', function () {
+    // When the customer clicks on the button, redirect
+    // them to Checkout.
+    stripe.redirectToCheckout({
+      items: [{sku: 'sku_Fo5gnUdda4RhOF', quantity: 1}],
+
+      // Do not rely on the redirect to the successUrl for fulfilling
+      // purchases, customers may not always reach the success_url after
+      // a successful payment.
+      // Instead use one of the strategies described in
+      // https://stripe.com/docs/payments/checkout/fulfillment
+      successUrl: window.location.protocol + '//josh.works/success',
+      cancelUrl: window.location.protocol + '//josh.works/canceled',
+    })
+    .then(function (result) {
+      if (result.error) {
+        // If `redirectToCheckout` fails due to a browser or network
+        // error, display the localized error message to your customer.
         var displayError = document.getElementById('error-message');
         displayError.textContent = result.error.message;
       }
