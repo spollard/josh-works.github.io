@@ -9,6 +9,8 @@ permalink: /add-stripe-to-static-site-course
 image: "/images/2019-09-20-stripe-01.jpg"
 ---
 
+
+
 ### You're running a static site because you don't like "magic" or overly-complex tools
 
 I like Jekyll because it's fast and lightweight. Pingdom says this very page you're reading is [about 380Kb and loads in 470ms](https://tools.pingdom.com/#5b53cbf885c00000). That's pretty light and pretty quick.  Maybe you use Jekyll, or Gatsby, or Hugo, or whatever. 
@@ -19,24 +21,29 @@ I don't think I need to jump to a database-backed platform just to sell some som
 
 You don't want to re-invent the wheel and jump into a Gumroad-like situation, just to distribute some files after someone pays you some money. 
 
-Maybe the idea of vendor lock-in sends you running for the hills. 
+Maybe the idea of vendor lock-in sends you running for the hills. Horror stories of Paypal withholding funds makes you uncomfortable, but you don't like redirecting a customer to a whole second landing page to purchase something.
+
+Or you happen to like Stripe, the company, and see what the deal is with using their tools. 😁
 
 ### You value your time
 
-When I launched into this little project, I thought it would take just a few hours. Stripe's documentation is _the gold standard_, and Zapier and Gmail are super simple. How hard could it be to get everything up and running?
+When I launched into this little project, I thought it would take just a few hours. Stripe's documentation is _the gold standard_ for API docs, and [Zapier](https://zapier.com/) and Gmail are super simple. How hard could it be to get everything up and running?
 
-The answer is `longer than I expected`. I think it took me over fifteen hours to do what would now take me two hours. 
+The answer is `longer than I expected`. I think it took me over <strike>8</strike> <strike>15</strike> too many hours to do what would now take me about hours. 
 
-Let my thirteen hours of extra effort save you a few hours of your own. If you're a software developer making $80,000/yr, you're effective hourly rate is $40/hr. 
+Let my <strike>thirteen</strike> many hours of extra effort save you a few hours of your own. If you're a software developer making $80,000/yr, your effective hourly rate is $40/hr. You may prize your precious non-work hours even more than $40/hr.
 
-This course will save you at least five of your precious non-work hours, so you can get to building/selling the things you want to build and sell. If you value your time at at least $6/hr, this course will be a good investment. 
+This course will save you at least five of your precious non-work hours, so you can get to building/selling the things you want to build and sell, and living your life. 
 
-### You want to learn from other's mistakes
+**If you value your time at at least $6/hr, this course will be money well spent.**
+
+### You want to learn from <strike>my</strike> other people's mistakes
 
 - Did you know that the default HTML/Javascript from Stripe has a formatting error? The button won't work until you fix it. I'll show you the error.
 - Did you know that the default button formatting (from Stripe) makes it hard to tell that it's a button? I'll show you how to fix this with a little HTML and CSS. 
 - You want to be confident that what you are building will work; testing in Stripe can be tricky, knowing how to set it all up to let yourself to end-to-end testing of the checkout process (and I'll make sure you don't violate Stripe's Terms of Service along the way!)
 - How to navigate the test modes across products, customers, purchases, and connections to third-party tools?
+- Did you know that Stripe and Zapier don't have any defaults that let you figure out what product a customer is buying? I had to send [this gist](https://gist.github.com/josh-works/970c7f258832c86bd8136bafd5a6789d) to Stripe's support team, to figure out the key pieces of this whole process; that was after a similar email and conversation with Zapier's support team concluded with `¯\_(ツ)_/¯ `. 
 
 I didn't know any of the gotchas and issues that popped up as I made this course. I document them all carefully, for your benefit. You'll save ten hours, maybe more. 
 
@@ -132,9 +139,11 @@ Use this button to test the purchase/deliver process with the course that includ
 
 <div id="error-message"></div>
 
+<!-- script for free course, book + video -->
 <script>
 (function() {
-  var stripe = Stripe('pk_test_xTwpkoUrsCpAxKwm69tBZEAe');
+  var stripe = Stripe('pk_test_j2zjmd474ylQiqIHeMwF2huu00Vv3DnT8Y');
+
   var checkoutButton = document.getElementById('checkout-button-sku_FroW7tOGV8c2Me');
   checkoutButton.addEventListener('click', function () {
     stripe.redirectToCheckout({
