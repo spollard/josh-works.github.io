@@ -9,13 +9,19 @@ permalink: /add-stripe-to-static-site-course
 image: "/images/2019-09-20-stripe-01.jpg"
 ---
 
+Do you use a static site generator like Jekyll, or Hugo, or Hexo, or Gasby? 
 
+Do you ever want to sell some small digital product, that could be delivered via email, through that static site, but without using a service that charges a monthly fee? 
+
+Does the same drive that makes you use a static site generator make you leery of using a third-party tool like Gumroad or Woocommerce? 
+
+If so - read on. 
 
 ### You're running a static site because you don't like "magic" or overly-complex tools
 
-I like Jekyll because it's fast and lightweight. Pingdom says this very page you're reading is [about 380Kb and loads in 470ms](https://tools.pingdom.com/#5b53cbf885c00000). That's pretty light and pretty quick.  Maybe you use Jekyll, or Gatsby, or Hugo, or whatever. 
+I like Jekyll because it's fast and lightweight. Pingdom says this very page you're reading is [about 380Kb and loads in 470ms](https://tools.pingdom.com/#5b53cbf885c00000). That's pretty light and pretty quick. 
 
-I don't think I need to jump to a database-backed platform just to sell some some simple digital products. 
+I don't want to jump to a database-backed platform just to sell some some simple digital products. 
 
 ### You want to be able to take payments on your site for simple info products
 
@@ -27,17 +33,17 @@ Or you happen to like Stripe, the company, and see what the deal is with using t
 
 ### You value your time
 
-When I launched into this little project, I thought it would take just a few hours. Stripe's documentation is _the gold standard_ for API docs, and [Zapier](https://zapier.com/) and Gmail are super simple. How hard could it be to get everything up and running?
+When I launched into this little project, I thought it would take just a few hours. Stripe's documentation is _the gold standard_ for API docs, and Zapier and Gmail are super simple. How hard could it be to get everything up and running?
 
-The answer is `longer than I expected`. I think it took me over <strike>8</strike> <strike>15</strike> too many hours to do what would now take me about hours. 
+The answer is `longer than I expected`. I think it took me over <strike>8</strike> <strike>15</strike> too many hours to do what would now take me about... two hours. 
 
 Let my <strike>thirteen</strike> many hours of extra effort save you a few hours of your own. If you're a software developer making $80,000/yr, your effective hourly rate is $40/hr. You may prize your precious non-work hours even more than $40/hr.
 
 This course will save you at least five of your precious non-work hours, so you can get to building/selling the things you want to build and sell, and living your life. 
 
-**If you value your time at at least $6/hr, this course will be money well spent.**
+**If you value your time at at least $6/hr, this course will be money well spent .**
 
-### You want to learn from <strike>my</strike> other people's mistakes
+### You want to learn from my mistakes and struggles
 
 - Did you know that the default HTML/Javascript from Stripe has a formatting error? The button won't work until you fix it. I'll show you the error.
 - Did you know that the default button formatting (from Stripe) makes it hard to tell that it's a button? I'll show you how to fix this with a little HTML and CSS. 
@@ -48,37 +54,27 @@ This course will save you at least five of your precious non-work hours, so you 
 I didn't know any of the gotchas and issues that popped up as I made this course. I document them all carefully, for your benefit. You'll save ten hours, maybe more. 
 
 
-### You'll get (and learn how to build one, if you want) a self-serve one-click "refund me my money" button.
+### Of course, 100% of your money back, between now and forever. 
 
-At any point in time, between now and forever, you can get a 100%, no-questions-asked, refund. I'll even make it automatic, so you don't have to ask. You can just click a link and get your money refunded. 
+At any point in time, between now and forever, you can get a 100%, no-questions-asked, refund.
 
-(Of course, I'll teach how to set all this up in the course, as well.)
+I have complete confidence in the value of what you're getting; if you decide it's not a good fit, or life circumstances change and you need the cash on hand - no problem. 
 
-I have complete confidence in the value of what you're getting; if you decide it's not a good fit, or life circumstances change and you need the cash on hand - no problem. You get a refund, _and you get to keep the course._
-
-When I told some friends about this plan, they thought I was crazy. 
-
-> How can you do self-serve 100% refunds and expect to not get taken advantage of???
-
-If it turns out a large percentage of people who purchase this course abuse that refund option, I'll change it. But that change will be reflected in this promise to refund money. If you've purchased this course while reading this note, you'll get 100% life-time refunds, no questions asked. 
-
-So, what this means is:
-- I'll show you how to build automatic refunds into your Stripe course
-- As I build this feature into this course
+Send me an email, and you get a refund, no questions asked. Oh, and you get to keep the course.
 
 # So what's actually covered in this course?
 
 In this short course, you'll learn how to:
-- Get a "buy now" button on your website that people can use to purchase things from you
-- Use third-party tools to automatically deliver the purchased item to the customer
+- Add a Stripe `purchase` button (or several buttons) on your website that people can use to purchase digital products from you
+- Use Zapier and Gmail to automatically deliver the purchased item to the customer
 - manage all this in the back-end
 - test it all thoroughly
-- let the customer run a refund if they want
 
 You'll also learn:
-- Gotchas with the default HTML/Javascript Stripe gives you
+- Gotchas with the default HTML/JavaScript Stripe gives you
 - Basic styling so the "purchase" button will match the look and feel of your site
 - Gotchas around test modes and accounts
+- Gotchas when linking Stripe and Zapier together. (This is where I lost _many_ hours)
 
 We'll use a few tools:
 - Stripe (duh)
@@ -89,22 +85,42 @@ We'll use a few tools:
 
 # Why shouldn't I just use an existing platform?
 
-I've used Stripe to take payments before, using plugins with [Wordpress](https://wordpress.com/), or [Squarespace](https://www.squarespace.com/), or different tools entirely, like [Gumroad](https://gumroad.com/). All of these tools do more than I want; they lay their pretty UI on top of mine. I want to figure out how to control the experience a bit more, and in doing so, learn a lot.
+I've used Stripe to take payments before, using plugins with Wordpress and Squarespace, or self-hosted tools like Gumroad. All of these tools do more than I want
+
+- they make me adhere to their design decisions
+- they have _way_ more features and options than what I want
+- they have a monthly minimum fee
+- they are _great_ tools, but I have to play by their rules. (This is also why I don't like Medium). 
+- they are "heavy" solutions - lots of Javascript, backed by big databases, etc - the opposite of why I run this website on Jekyll.
 
 Granted, these tools are appropriate for a variety of use-cases, like:
 1. Non-technical users
 2. Anyone who's more interested in selling product than understanding what's happening under the hood
 3. Anyone who is comfortable with "vendor lock-in", and is willing to tie their business to Gumroad, or Shopify, or Wordpress, or Squarespace, or whatever. 
+4. Someone who needs a bit more features than just a "pay me money, I give you product". 
 
-Since I'm using Jekyll and Github Pages to serve this website, I wanted to figure out how to be able to take payment with this as well. 
+-------------------------------------
 
-I've bundled all of my learnings into three different packages:
+The solutions out there are _really good_; I'm not trying to convince you to sell your products via Stripe, Zapier, Gmail, and Dropbox - I'm just saying that if you _want_ to sell products via this tools, it's hard to figure out, but this course will get you moving. 
 
-For $0, you'll get a sample of the guide, delivered to your inbox. 
+I'd _strongly_ recommend you use the "demo" purchase button below to kick the tires on this whole process, to determine if the way I'm selling this product would work for you. If it does - great! Buy the course. If not, great! Don't buy the course. 
 
-For $30, you'll get the guide in written format. It looks like this:
+-----------------------------------------
 
-![course preview](/images/2019-09-20-stripe-01.jpg)
+I've bundled this course into four different packages:
+
+- $0: you'll get a sample of the guide
+- $0: you'll get a sample of the guide and a video walkthrough
+- $25: you'll get the full guide
+- $40: You'll get the full guide + all of the video walk-throughs
+
+Again - please try one of the free samples to see if you like what you're going to get. 
+
+I mix annotated screenshots, gifs, code snippets, and more to make a clear walk-through of _exactly_ what I'm doing. It'll be effortless for you to follow. 
+
+Here's what it looks like:
+
+![course preview](/images/course_preview.gif)
 
 -----------------------
 
@@ -118,11 +134,13 @@ To test the process, enter `4242 4242 4242 4242` for the credit card number, and
 <!-- This is my test purchase button. -->
 <button
   id="checkout-button-sku_Fo5gnUdda4RhOF"
-  class="stripe_button hvr-grow"
+  class="stripe_button"
   role="link">
   Purchase Course (written guide only) (test) 
 </button>
 <div id="error-message"></div>
+
+_use `4242 4242 4242 4242` as the CC number; enter a valid expiration date_
 
 ----------------
 
@@ -132,12 +150,13 @@ Use this button to test the purchase/deliver process with the course that includ
 
 <button
   id="checkout-button-sku_FroW7tOGV8c2Me"
-  class="stripe_button hvr-grow"
+  class="stripe_button"
   role="link">
   Purchase Course (with video) (test)
 </button>
-
 <div id="error-message"></div>
+
+_use `4242 4242 4242 4242` as the CC number; enter a valid expiration date_
 
 <!-- script for free course, book + video -->
 <script>
@@ -168,23 +187,13 @@ Use this button to test the purchase/deliver process with the course that includ
 
   var checkoutButton = document.getElementById('checkout-button-sku_Fo5gnUdda4RhOF');
   checkoutButton.addEventListener('click', function () {
-    // When the customer clicks on the button, redirect
-    // them to Checkout.
     stripe.redirectToCheckout({
       items: [{sku: 'sku_Fo5gnUdda4RhOF', quantity: 1}],
-
-      // Do not rely on the redirect to the successUrl for fulfilling
-      // purchases, customers may not always reach the success_url after
-      // a successful payment.
-      // Instead use one of the strategies described in
-      // https://stripe.com/docs/payments/checkout/fulfillment
       successUrl: window.location.protocol + '//josh.works/success',
       cancelUrl: window.location.protocol + '//josh.works/canceled',
     })
     .then(function (result) {
       if (result.error) {
-        // If `redirectToCheckout` fails due to a browser or network
-        // error, display the localized error message to your customer.
         var displayError = document.getElementById('error-message');
         displayError.textContent = result.error.message;
       }

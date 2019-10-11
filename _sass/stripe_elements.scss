@@ -6,18 +6,9 @@
   border-radius:4px;
   font-size:1em;
   cursor: pointer;
-  // from https://github.com/IanLunn/Hover
-  &.hvr-grow {
-    backface-visibility: hidden;
-    -moz-osx-font-smoothing: grayscale;
-    transform: translateZ(0);
-    transition-duration: 0.3s;
-    transition-property: transform;
-    
-    &:hover,
-    &:focus,
-    &:active {
-      transform: scale(1.01);
-    }
+  &:hover,
+  &:focus,
+  &:active {
+    background: #2f3d89;
   }
 }
