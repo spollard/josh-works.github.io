@@ -21,7 +21,7 @@ If so - read on.
 
 I like Jekyll because it's fast and lightweight. Pingdom says this very page you're reading is [about 380Kb and loads in 470ms](https://tools.pingdom.com/#5b53cbf885c00000). That's pretty light and pretty quick. 
 
-I don't want to jump to a database-backed platform just to sell some some simple digital products. 
+I didn't want to jump to a database-backed platform just to sell some some simple digital products. 
 
 ### You want to be able to take payments on your site for simple info products
 
@@ -29,11 +29,11 @@ You don't want to re-invent the wheel and jump into a Gumroad-like situation, ju
 
 Maybe the idea of vendor lock-in sends you running for the hills. Horror stories of Paypal withholding funds makes you uncomfortable, but you don't like redirecting a customer to a whole second landing page to purchase something.
 
-Or you happen to like Stripe, the company, and see what the deal is with using their tools. 😁
+Or you happen to like Stripe, the company, and want to see what the deal is with using their tools. 😁
 
 ### You value your time
 
-When I launched into this little project, I thought it would take just a few hours. Stripe's documentation is _the gold standard_ for API docs, and Zapier and Gmail are super simple. How hard could it be to get everything up and running?
+When I started this little project, I thought it would take just a few hours. Stripe's documentation is _the gold standard_ for API docs, and Zapier and Gmail are super simple. How hard could it be to get everything up and running?
 
 The answer is `longer than I expected`. I think it took me over <strike>8</strike> <strike>15</strike> too many hours to do what would now take me about... two hours. 
 
@@ -41,7 +41,7 @@ Let my <strike>thirteen</strike> many hours of extra effort save you a few hours
 
 This course will save you at least five of your precious non-work hours, so you can get to building/selling the things you want to build and sell, and living your life. 
 
-**If you value your time at at least $6/hr, this course will be money well spent .**
+**If you value your time at at least $6/hr, this course will be money well spent.**
 
 ### You want to learn from my mistakes and struggles
 
@@ -51,7 +51,7 @@ This course will save you at least five of your precious non-work hours, so you 
 - How to navigate the test modes across products, customers, purchases, and connections to third-party tools?
 - Did you know that Stripe and Zapier don't have any defaults that let you figure out what product a customer is buying? I had to send [this gist](https://gist.github.com/josh-works/970c7f258832c86bd8136bafd5a6789d) to Stripe's support team, to figure out the key pieces of this whole process; that was after a similar email and conversation with Zapier's support team concluded with `¯\_(ツ)_/¯ `. 
 
-I didn't know any of the gotchas and issues that popped up as I made this course. I document them all carefully, for your benefit. You'll save ten hours, maybe more. 
+I didn't know any of the gotchas and issues that popped up as I made this course. I document them all carefully, for your benefit. You'll save ten hours and whatever monthly fees Gumroad or another provider will charge you. 
 
 
 ### Of course, 100% of your money back, between now and forever. 
@@ -79,29 +79,31 @@ You'll also learn:
 We'll use a few tools:
 - Stripe (duh)
 - Zapier
-- Gmail or Mailchimp
+- Gmail
 - Dropbox
+
+Even if you don't want to use the exact same "stack" I use, this information will smooth the way to iterate and modify as you see fit; you'll sail past the gotchas, and spend your time on whatever it is you want to give to the world. 
 
 
 # Why shouldn't I just use an existing platform?
 
-I've used Stripe to take payments before, using plugins with Wordpress and Squarespace, or self-hosted tools like Gumroad. All of these tools do more than I want
+I've used Stripe to take payments before, using plugins with Wordpress and Squarespace, or self-hosted tools like Gumroad. All of these tools do more than I want:
 
 - they make me adhere to their design decisions
 - they have _way_ more features and options than what I want
 - they have a monthly minimum fee
-- they are _great_ tools, but I have to play by their rules. (This is also why I don't like Medium). 
-- they are "heavy" solutions - lots of Javascript, backed by big databases, etc - the opposite of why I run this website on Jekyll.
+- they are _great_ tools, but they're a walled garden. (This is why I don't use Medium). 
+- they are "heavy" solutions - lots of Javascript, backed by big databases, etc - the opposite of why I run this website on Jekyll + Github Pages
 
 Granted, these tools are appropriate for a variety of use-cases, like:
 1. Non-technical users
 2. Anyone who's more interested in selling product than understanding what's happening under the hood
 3. Anyone who is comfortable with "vendor lock-in", and is willing to tie their business to Gumroad, or Shopify, or Wordpress, or Squarespace, or whatever. 
-4. Someone who needs a bit more features than just a "pay me money, I give you product". 
+4. Someone who needs a bit more features than just a "pay me money, I give you product" solution.
 
 -------------------------------------
 
-The solutions out there are _really good_; I'm not trying to convince you to sell your products via Stripe, Zapier, Gmail, and Dropbox - I'm just saying that if you _want_ to sell products via this tools, it's hard to figure out, but this course will get you moving. 
+The solutions out there are _really good_; I'm not trying to convince you to sell your products via Stripe, Zapier, Gmail, and Dropbox - I'm just saying that if you _want_ to sell products via this tools, it's hard to figure out, and this course will get you moving. 
 
 I'd _strongly_ recommend you use the "demo" purchase button below to kick the tires on this whole process, to determine if the way I'm selling this product would work for you. If it does - great! Buy the course. If not, great! Don't buy the course. 
 
