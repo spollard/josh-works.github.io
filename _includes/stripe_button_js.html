@@ -1,3 +1,4 @@
+<script src="https://js.stripe.com/v3"></script>
 <script>
 (function() {
   var stripe = Stripe('pk_test_j2zjmd474ylQiqIHeMwF2huu00Vv3DnT8Y');
@@ -18,7 +19,6 @@
   });
 })();
 // <!-- Button for free course, no video -->
-
 (function() {
   var stripe = Stripe('pk_test_j2zjmd474ylQiqIHeMwF2huu00Vv3DnT8Y');
 
@@ -26,6 +26,49 @@
   checkoutButton.addEventListener('click', function () {
     stripe.redirectToCheckout({
       items: [{sku: 'sku_Fo5gnUdda4RhOF', quantity: 1}],
+      successUrl: window.location.protocol + '//josh.works/success',
+      cancelUrl: window.location.protocol + '//josh.works/canceled',
+    })
+    .then(function (result) {
+      if (result.error) {
+        var displayError = document.getElementById('error-message');
+        displayError.textContent = result.error.message;
+      }
+    });
+  });
+})();
+
+// button for paid course, no video 
+
+(function() {
+  var stripe = Stripe('pk_live_sPYviTcMAWXUxiZKnVtA1zW300d6I1ltcW');
+
+  var checkoutButton = document.getElementById('checkout-button-sku_FluboPRKa9hMRB');
+  checkoutButton.addEventListener('click', function () {
+    stripe.redirectToCheckout({
+      items: [{sku: 'sku_FluboPRKa9hMRB', quantity: 1}],
+
+      successUrl: window.location.protocol + '//josh.works/success',
+      cancelUrl: window.location.protocol + '//josh.works/canceled',
+    })
+    .then(function (result) {
+      if (result.error) {
+        var displayError = document.getElementById('error-message');
+        displayError.textContent = result.error.message;
+      }
+    });
+  });
+})();
+
+// button for paid course, with video
+(function() {
+  var stripe = Stripe('pk_live_sPYviTcMAWXUxiZKnVtA1zW300d6I1ltcW');
+
+  var checkoutButton = document.getElementById('checkout-button-sku_Fo316cEMlpUL79');
+  checkoutButton.addEventListener('click', function () {
+    stripe.redirectToCheckout({
+      items: [{sku: 'sku_Fo316cEMlpUL79', quantity: 1}],
+
       successUrl: window.location.protocol + '//josh.works/success',
       cancelUrl: window.location.protocol + '//josh.works/canceled',
     })

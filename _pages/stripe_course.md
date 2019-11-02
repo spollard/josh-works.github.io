@@ -130,8 +130,6 @@ To "kick the tires", as it were, and show that you will learn how to thoroughly 
 
 To test the process, enter `4242 4242 4242 4242` for the credit card number, and an expiration date with any date in the future. Please enter a real email address, as that's how you'll receive the course sample.
 
-<!-- all stripe JS below here -->
-<script src="https://js.stripe.com/v3"></script>
 <!-- button for course with video -->
 <!-- This is my test purchase button. -->
 <button
@@ -161,4 +159,39 @@ Use this button to test the purchase/deliver process with the course that includ
 _use `4242 4242 4242 4242` as the CC number; enter a valid expiration date_
 
 <!-- script for free course, book + video -->
+
+---------------------------------
+
+## The Full Course
+
+Two options: 
+
+1. The book ($19) 
+
+The "book" is an HTML document with embedded pictures and gifs (I find gifs so darned helpful for explaining things, I couldn't handle making this a static document.)
+
+<button
+  class="stripe_button"
+  id="checkout-button-sku_FluboPRKa9hMRB"
+  role="link">
+  Purchase Course ($29)
+</button>
+
+<div id="error-message"></div>
+
+
+2. The book plus video walk-throughs ($39)
+
+I sometimes find video walk-throughs quite helpful. I've been making a bunch lately for helping people learn Ruby, and have gotten much more positive feedback than I would have expected. So, I'm bringing the same approach to this guide.
+
+
+<button
+  class="stripe_button"
+  id="checkout-button-sku_Fo316cEMlpUL79"
+  role="link">
+  Purchase Course ($49)
+</button>
+
+<div id="error-message"></div>
+
 {% include stripe_button_js.html %}
