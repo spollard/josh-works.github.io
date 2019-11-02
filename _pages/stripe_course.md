@@ -161,45 +161,4 @@ Use this button to test the purchase/deliver process with the course that includ
 _use `4242 4242 4242 4242` as the CC number; enter a valid expiration date_
 
 <!-- script for free course, book + video -->
-<script>
-(function() {
-  var stripe = Stripe('pk_test_j2zjmd474ylQiqIHeMwF2huu00Vv3DnT8Y');
-
-  var checkoutButton = document.getElementById('checkout-button-sku_FroW7tOGV8c2Me');
-  checkoutButton.addEventListener('click', function () {
-    stripe.redirectToCheckout({
-      items: [{sku: 'sku_FroW7tOGV8c2Me', quantity: 1}],
-      successUrl: window.location.protocol + '//josh.works/success',
-      cancelUrl: window.location.protocol + '//josh.works/canceled',
-    })
-    .then(function (result) {
-      if (result.error) {
-        var displayError = document.getElementById('error-message');
-        displayError.textContent = result.error.message;
-      }
-    });
-  });
-})();
-</script>
-
-<!-- Button for free course, no video -->
-<script>
-(function() {
-  var stripe = Stripe('pk_test_j2zjmd474ylQiqIHeMwF2huu00Vv3DnT8Y');
-
-  var checkoutButton = document.getElementById('checkout-button-sku_Fo5gnUdda4RhOF');
-  checkoutButton.addEventListener('click', function () {
-    stripe.redirectToCheckout({
-      items: [{sku: 'sku_Fo5gnUdda4RhOF', quantity: 1}],
-      successUrl: window.location.protocol + '//josh.works/success',
-      cancelUrl: window.location.protocol + '//josh.works/canceled',
-    })
-    .then(function (result) {
-      if (result.error) {
-        var displayError = document.getElementById('error-message');
-        displayError.textContent = result.error.message;
-      }
-    });
-  });
-})();
-</script>
+{% include stripe_button_js.html %}
