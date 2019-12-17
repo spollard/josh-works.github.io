@@ -7,7 +7,7 @@ crosspost_to_medium: false
 categories: [programming]
 tags: [shell_scripts, bash]
 permalink: basic-shell-scripts
-image: /images/title_image.jpg
+image: /images/2019-12-17-bash-basics-twitter-card.jpg
 ---
 
 For a while, I've had notes from [Change or Spoof a MAC Address in Windows or OS X](https://www.online-tech-tips.com/computer-tips/how-to-change-mac-address/) saved, so if I am using a wifi connection that limites me to thirty minutes or an hour or whatever, I can "spoof" a new MAC address, and when I re-connect to the wifi, the access point things I'm on a new, unique device. 
