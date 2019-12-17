@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Basic Shell Scripts"
-description: "description about this post"
+title:  "Change your MAC address with a shell script"
+description: "Sometimes I'm at a coffee shop and get locked out of the wifi, after an hour or two has passed. Rather than spending 2 minutes/week entering terminal commands, I thought it made sense to spend a few hours figuring out how to make it take one minute a week, instead, via AUTOMATION"
 date:  2019-12-11 06:00:00 -0700
 crosspost_to_medium: false
 categories: [programming]
@@ -10,13 +10,21 @@ permalink: basic-shell-scripts
 image: /images/title_image.jpg
 ---
 
-For a while, I've had to do manual processes in my shell that I've thought 
-
-> Hey, I think this could be an automated script... if only I knew how to make that happen
-
 For a while, I've had notes from [Change or Spoof a MAC Address in Windows or OS X](https://www.online-tech-tips.com/computer-tips/how-to-change-mac-address/) saved, so if I am using a wifi connection that limites me to thirty minutes or an hour or whatever, I can "spoof" a new MAC address, and when I re-connect to the wifi, the access point things I'm on a new, unique device. 
 
 For the record - when I'm posted up at a coffee shop for an extended period of time, I make sure to _buy products regularly_ in payment for my time. So, if you're spoofing your MAC address to use wifi for a longer period of time, maybe make sure to spend $5 or $10 when you run the script. 
+
+Now, in case you think that I'm actually saving myself time here, I'm totally not. Here's why:
+
+![XKCD Automation](https://imgs.xkcd.com/comics/automation.png "'Automating' comes from the roots 'auto-' meaning 'self-', and 'mating', meaning 'screwing'.")
+
+_[XKCD: Automation](https://xkcd.com/1319/)_
+
+And:
+
+![XKCD Is it worth the time?](https://imgs.xkcd.com/comics/is_it_worth_the_time.png "Don't forget the time you spend finding the chart to look up what you save. And the time spent reading this reminder about the time spent. And the time trying to figure out if either of those actually make sense. Remember, every second counts toward your life total, including these right now.")
+
+_[XKCD: Is it worth the time?](https://xkcd.com/1205/)_
 
 Here's the steps, for someone who's on a MAC, to spoof your MAC address:
 
