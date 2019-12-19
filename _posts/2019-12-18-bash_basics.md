@@ -2,11 +2,11 @@
 layout: post
 title:  "Change your MAC address with a shell script"
 description: "Sometimes I'm at a coffee shop and get locked out of the wifi, after an hour or two has passed. Rather than spending 2 minutes/week entering terminal commands, I thought it made sense to spend a few hours figuring out how to make it take one minute a week, instead, via AUTOMATION"
-date:  2019-12-11 06:00:00 -0700
+date:  2019-12-18 06:00:00 -0700
 crosspost_to_medium: false
 categories: [programming]
 tags: [shell_scripts, bash]
-permalink: basic-shell-scripts
+permalink: shell-script-basics-change-mac-address
 image: /images/2019-12-17-bash-basics-twitter-card.jpg
 ---
 
@@ -150,10 +150,15 @@ Why be elegant and precise when you can brute force a crappy solution?
 ```shell
 #!/bin/bash
 # skipping some lines
-read -p 'Step 4: Enter which ethernet device lined up with the given mac address: ' ether_adapter
+read -p 'Step 4: Which device lined up would you like to change? (hit return for en0) ' ether_adapter
+
+if [ -z $ether_adapter ]
+then
+  ether_adapter="en0"
+fi
+
 export ether_adapter=$ether_adapter
 
-# here's my new function
 generate_and_set_new_mac_address() {
   mac=$( openssl rand -hex 6 | sed "s/\(..\)/\1:/g; s/.$//" )
   export mac=$mac
@@ -170,7 +175,6 @@ generate_and_set_new_mac_address() {
 echo $new_mac
 echo $old_mac
 
-# here I'm calling it until the new mac address isn't the same as the old mac address.
 while [ "$new_mac" == "$old_mac" ]
 do
   echo "not the same"
