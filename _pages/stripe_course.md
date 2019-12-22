@@ -1,10 +1,10 @@
 ---
 layout: page
-title: How to add Stripe payments to a static site
+title: How to Integrate Stripe and a static site
 status: published
 type: page
 published: true
-description: "How to add Stripe to a static site, by Josh Thompson"
+description: "How to take payment via Stripe on a static site, by Josh Thompson"
 permalink: /add-stripe-to-static-site-course
 image: "/images/2019-09-20-stripe-01.jpg"
 ---
@@ -114,53 +114,51 @@ There's no DRM or crazy shenannigans. I want you to have full access, forever, t
 
 ----------------------------------------
 
+# Put stripe button here
 
-<div class="stripe_payment_card_row">
+<!-- Load Stripe.js on your website. -->
+<script src="https://js.stripe.com/v3"></script>
 
-<div class="payment_card">
+<!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
+<button
+  style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
+  id="checkout-button-sku_GP516Y8MN76sWC"
+  role="link">
+  Checkout
+</button>
 
-<h2>Just The Book</h2>
-<h1>$29</h1>
-<ul>
-  <li>HTML document with embedded pictures and gifs</li>
-  <li>Updates for life</li>
-</ul>
-<div class="stripe_button_container">
-  <div class="button_container">
-    <button
-      class="stripe_button"
-      id="checkout-button-sku_FluboPRKa9hMRB"
-      role="link">
-      Buy Now
-    </button>
-    <div id="error-message"></div>
-  </div>
-  </div>
-</div>
+<div id="error-message"></div>
 
-  <div class="payment_card">
-  <h2>The Complete Package</h2>
-  <h1>$49</h1>
-  <ul>
-    <li>HTML document with embedded pictures and gifs</li>
-    <li>Updates for life</li>
-    <li>30 minutes of video walkthrough across 6 different topics</li>
-  </ul>
-  <div class="stripe_button_container">
-    <div class="button_container">
-      <button
-        class="stripe_button"
-        id="checkout-button-sku_Fo316cEMlpUL79"
-        role="link">
-        Buy Now
-      </button>
+<script>
+(function() {
+  var stripe = Stripe('pk_test_j2zjmd474ylQiqIHeMwF2huu00Vv3DnT8Y');
 
-      <div id="error-message"></div>
-    </div>
-    </div>
-  </div>
-</div>
+  var checkoutButton = document.getElementById('checkout-button-sku_GP516Y8MN76sWC');
+  checkoutButton.addEventListener('click', function () {
+    // When the customer clicks on the button, redirect
+    // them to Checkout.
+    stripe.redirectToCheckout({
+      items: [{sku: 'sku_GP516Y8MN76sWC', quantity: 1}],
 
+      // Do not rely on the redirect to the successUrl for fulfilling
+      // purchases, customers may not always reach the success_url after
+      // a successful payment.
+      // Instead use one of the strategies described in
+      // https://stripe.com/docs/payments/checkout/fulfillment
+      successUrl: window.location.protocol + '//josh.works/success',
+      cancelUrl: window.location.protocol + '//josh.works/canceled',
+    })
+    .then(function (result) {
+      if (result.error) {
+        // If `redirectToCheckout` fails due to a browser or network
+        // error, display the localized error message to your customer.
+        var displayError = document.getElementById('error-message');
+        displayError.textContent = result.error.message;
+      }
+    });
+  });
+})();
+</script>
 
 ----------------------
 
@@ -236,4 +234,11 @@ If you value your time above $5/hr, this course is a _fantastic_ deal. If, for w
 
 I use Jekyll, but I'm using plain HTML and CSS to create and style the purchase button, and Stripe provides a snippet of JavaScript, to make the button work. This "stack" will work on any tool you might use, even if your HTML is artisanal and hand-typed. 
 
-{% include stripe_button_js.html %}
+### Why are you selling this course at all? Why not just write a guide and give it away?
+
+Great question. I go [into more detail here]({{ site.baseurl }}{% link _posts/2019-12-22-why-i-sell-info-products.md %}), but here's some high points:
+
+- I wanted to learn how to collect payment for something. Here's evidence I was successful. 
+- Putting a price on something means I'll put a *lot* of effort into making it good
+- When someone does something for free, they are telegraphing to the recipient that it's not worth any money
+
