@@ -10,7 +10,6 @@ permalink: why-we-sleep-book-notes
 image: "/images/why_we_sleep_base_image.jpg"
 ---
 
-
 I first read [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/book/show/34466963-why-we-sleep?ac=1&from_search=true) about two years ago. It immediately led me to prioritize sleep over almost everything else. 
 
 Most of us don't get enough sleep, and are worse for it. Usually when the topic of sleep comes up, I say 
@@ -26,9 +25,11 @@ I hope to use this post to accomplish two things:
 
 Everything that follows is a quote from _Why We Sleep_. 
 
-If I add my own comments, they'll be inline and italicized, like this:
+If I add my own comments, they'll be inline and italicized, like so:
 
 _Josh: here's a comment I'm adding_
+
+_Please note: Alexey Guzey did a fantastic review of the science in the first chapter of this book: [Matthew Walker's "Why We Sleep" Is Riddled with Scientific and Factual Errors](https://guzey.com/books/why-we-sleep/). As you might guess from the title of the piece, there are some big problems with the science Matthew Walker users to justify his arguments._
 
 ### Index
 
