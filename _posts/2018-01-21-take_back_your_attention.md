@@ -185,9 +185,9 @@ Since taking these steps, I've become sensitive and more attuned to when I'm sub
 
 I suspect that if you start using uBlock to remove annoying elements from pages, you'll start developing a stronger radar for when someone is trying to monetize your attention, and and then you'll block those elements, but then become even more attuned to those unwanted influences, and then block them, and on and on.
 
-It is worth pointing out that _this very website_ is devoid of those sorts of elements I find annoying. No popups, no sidebar content, no click-baity headlines. I even removed Google Analytics. If you want to share one of these posts on social media, you have to do it the old school way. Copy and paste the URL into your platform of choice.
+It is worth pointing out that _this very website_ is devoid of those sorts of elements I find annoying. No popups, no sidebar content, no click-baity headlines. If you want to share one of these posts on social media, you have to do it the old school way. Copy and paste the URL into your platform of choice.
 
-Note how clean the URL is: `www.josh.works/post-title`. Positively peaceful.
+Note how clean the URL is: `https://josh.works/post-title`. Positively peaceful.
 
 The only metric I pay attention to is email subscribers. Someone subscribing via email is basically the highest endorsement of trust I can imagine. I'm extremely judicious in subscribing to other people's websites, so I value other people trusting me with their email address.
 
