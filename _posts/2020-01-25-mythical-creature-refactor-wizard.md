@@ -2,12 +2,11 @@
 layout: post
 title:  "Mythical Creatures: Refactoring wizard.rb"
 description: "Refactor practice, in which we will refactor wizard.rb, learn more about Ruby, object-oriented design, and clean code"
-date:  2020-01-24 06:00:00 -0700
+date:  2020-01-25 06:00:00 -0700
 crosspost_to_medium: false
 categories: [programming]
 tags: [mythical_creatures, refactoring, ruby]
 permalink: mythical-creature-refactor-wizard
-image: /images/title_image.jpg
 ---
 
 Today we're refactoring some code.
@@ -30,9 +29,19 @@ Or you'll be nestling in new code and new features alongside existing code and e
 
 So it's useful to get practice reading other people's code, and being able to work with it. 
 
-Copy-paste this code into your editor:
+# Video Walk-through
+
+Sometimes video walk-throughs are helpful, so I put one together. It is 7 minutes long, and covers useful material.
+
+<div class="container">
+<iframe class="video" src="https://www.youtube.com/embed/HfBrRb1LLSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+Copy-paste this code into your editor and run the tests:
 
 ```ruby
+# ruby-exercises/mythical-creatures/wizard.rb
 class Wizard
   attr_reader :name
   def initialize(name, bearded: false)
@@ -63,15 +72,47 @@ class Wizard
 end
 ```
 
-run the tests against it. Make sure they pass. 
+The tests should pass. 
 
-Now, just by reading this, I'm seeing an opportunity for [guard clauses](https://www.thechrisoshow.com/2009/02/16/using-guard-clauses-in-your-ruby-code/)
-
-But I'll record my refactor for you!
-
-<insert link to youtube video here>
+We're going to cover a few things:
+- Guard Clauses
+- Default variables
+- Running _just a single test from a test file instead of the whole thing_
+- Sometimes simple things go wrong and are deeply frustrating
 
 <!--more-->
+### Guard Clauses
+
+Here's the guard clauses I mention: [guard clauses (thechrisoshow.com)](https://www.thechrisoshow.com/2009/02/16/using-guard-clauses-in-your-ruby-code/)
+
+### Default variables
+
+the test `wizard are bearded by default` implies that in the `initialization` method, we should set `bearded` equal to `true`, rather than false.
+
+### Run just a specific test in a test file (Minitest)
+
+Sometimes it's helpful to run just a single test in a test file, rather than the whole thing. 
+
+Here's the format:
+
+```
+ruby something_test.rb --name=/a-string-that-matches-something-in-the-test-you-want-to-run/
+```
+
+instead of `--name=/abc/`, you can use `-n=/abc`. I'll often append the string `zzz` to the test I want to run, then append `-n/zzz/` to the test running command. (With `rspec` you can identify test by line number.)
+
+### Things go so, so wrong
+
+The video walk-through was my _second_ time recording the video, because I'd wandered so much in my explanations in the first video. 
+
+Then, mid-way through the video, I closed the terminal window, CD'd into the wrong directory, and got a bunch of errors. I got it fixed, then fat-fingered my way back into closing the terminal. I was super frustrated. 
+
+I'm ostensibly a "professional", in that I get paid to "develop software", but I thought it a useful reminder that we all do things that are frustrating and cause us to waste time. When you do this yourself, don't worry about it to much. Our entire craft is hard. [Reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail) and it's annoying when we get bit by that detail. 
+
+
+
+
+
 
 Here's the final version:
 
