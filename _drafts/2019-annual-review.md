@@ -100,4 +100,8 @@ Two talks
 
 Other People's annual reviews I've read recently and enjoyed. maybe you will too:
 
-https://www.mrmoneymustache.com/2019/12/28/let-the-roaring-2020s-begin/
+- [https://www.mrmoneymustache.com/2019/12/28/let-the-roaring-2020s-begin/](https://www.mrmoneymustache.com/2019/12/28/let-the-roaring-2020s-begin/)
+- [https://jvns.ca/blog/2019-year-in-review/](https://jvns.ca/blog/2019-year-in-review/)
+- [https://danwang.co/2019-letter/](https://danwang.co/2019-letter/)
+- [https://robertheaton.com/2020/01/01/2019-review/](https://robertheaton.com/2020/01/01/2019-review/)
+
