@@ -5,7 +5,7 @@ description: "Refactor practice, in which we will refactor wizard.rb, learn more
 date:  2020-01-25 06:00:00 -0700
 crosspost_to_medium: false
 categories: [programming]
-tags: [mythical_creatures, refactoring, ruby]
+tags: [mythical_creatures, refactoring, ruby, turing]
 permalink: mythical-creature-refactor-wizard
 ---
 
