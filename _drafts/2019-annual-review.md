@@ -12,7 +12,7 @@ image: /images/title_image.jpg
 
 It's that time of the year. I always really enjoy reading other people's annual reviews, and I find value in writing my own. 
 
-_Previews reviews: [2018]({{ site.baseurl }}{% link _posts/2019-05-05-2018_review.md %}), [2017]({{ site.baseurl }}{% link _posts/2018-01-01-2017_review.md %}), 
+_Previous reviews: [2018]({{ site.baseurl }}{% link _posts/2019-05-05-2018_review.md %}), [2017]({{ site.baseurl }}{% link _posts/2018-01-01-2017_review.md %}), 
 [2016]({{ site.baseurl }}{% link _posts/2017-01-11-2016-biggest-lesson-most-dangerous-books.md %}), [2015]({{ site.baseurl }}{% link _posts/2016-01-23-2015-the-year-i-didnt-think-much.md %} )_
 
 My review breaks down into a few broad categories:
@@ -30,22 +30,25 @@ My review breaks down into a few broad categories:
 
 Last year, Kristi and I said we wanted to travel "less" in 2019 than we did in 2018. I spent 113 nights away from Golden in 2019, or, in total, three months and three weeks. About 25% of that time was on climbing trips, the rest of it was travel for time with family and friends, or "regular" non-climbing travel, or work travel. 
 
+As far as the climbing trips, I got to [climb in Cuba]({{ site.baseurl }}{% link _posts/2019-04-12-cuba_2019.md %} ), [Kalymnos, Greece](https://teamthompsontravels.tumblr.com/post/189273777538/kalymnos-greece-we-met-climbers-from-all-around), and did a fair bit of climbing within the USA. 
+
 It's the height of privilege and opportunity to travel this much, and it was about 25% less than we travelled last year. I will _still_ travel less in 2020, and I'd like a much higher percentage of that travel to be climbing trips. 
 
-I'm writing this in an airport. Maybe next year I'll be doing it at home?
+I'm starting this post in an airport. Maybe next year I'll be doing it at home?
 
 ## Relationships & Community
 
-Kristi, marriage counseling, elevating her, supporting her?
+I care deeply for Kristi, wife, and she cares deeply for me.
 
-As you might imagine, I care deeply for my wife. She and I know that anything that contributes to our individual flourishing contributes to the health of our relationship, and a healthy relationship likewise contributes to individual flourishing. 
+She and I know that anything that contributes to our individual flourishing contributes to the health of our relationship, and a healthy relationship likewise contributes to individual flourishing. 
 
-We still love marriage counseling, and individual counseling. I mention this counseling regularly in conversation with others, with a goal of normalizing _seeking professional help for important things_. If you agree that a professional of any domain would be well-off seeking improvement in their craft, even to the point of getting 1:1 coaching, you should agree that pursuing marriage counseling, regularly, is healthy. 
+We still love marriage counseling, and individual counseling. I mention this counseling regularly in conversation with others, with a goal of normalizing _seeking professional help for important things_. 
 
-
-
+If you agree that a professional of any domain would be well-off seeking improvement in their craft, even to the point of getting 1:1 coaching, you should agree that pursuing marriage counseling, regularly, is healthy. 
 
 <!--more-->
+
+Despite how much Kristi and I were traveling away from Golden, we felt more connected and "plugged in" to a local community. This is a rich and wonderful thing, and its one I want to explore in great depth going forward.
 
 ## Leadville Trail Marathon
 
@@ -55,53 +58,120 @@ How one does on a race like a marathon is largely reflective of how well one pre
 
 > Don't embarrass myself
 
-[Sam Landfried]() was my eternally encouraging and kind running partner. We ran many of our weekly long runs together, and quite a few of the short mid-week runs. 
+[Sam Landfried](https://github.com/samlandfried) was my eternally encouraging and kind running partner. We ran many of our weekly long runs together, and quite a few of the short mid-week runs. 
 
 I would not have completed the training and the race without him. 
 
-More than a few Saturdays began with a drive into the mountains to run 15-20 miles, at elevation. Sometimes we were on the road, sometimes we were post-holing through thigh-deep snow. On the race day itself, there were a few times that he could easily have left me in the dust and run ahead (and consequently achieved a faster time) but he kindly stuck with me. 
+More than a few Saturdays began with a drive into the mountains to run 15-20 miles at elevation. 
+
+Sometimes we were on the road, sometimes we were post-holing through thigh-deep snow. 
+
+On the race day itself, there were a few times that he could easily have left me in the dust and run ahead (and consequently achieved a faster time) but he kindly stuck with me. 
 
 We finished right at the 50th percentile for all finishers of the 2019 Leadville Trail Marathon. My goal was to finish above the bottom 25%, so this was a success. 
 
-I'm thankful I had the opportunity to train and run.
+I'm thankful I had the opportunity to train and run with him. 
+
+<img src='/images/2020-02-01-sam-josh-leadville.jpg' style="width:60%;" />
+_Sam and I, somewhere in the latter half of the marathon._
  
 ## Climbing
 
 The _downside_ of training for and running a marathon is that time spent training has to come from something. For me, the time came from climbing. 
 
-My training in the spring and early summer nose-dived.
+My climbing training in the spring and early summer took at hit, since I was training for Leadville. Between that and a very busy year with lots of travel, I didn't accomplish any of my climbing and training goals, or even spend that much time outside. 
 
-A few 5.12d's in a day, but missed the mark the rest of the time.
-
+This all said, I did have some wins:
+- I did more than a few 5.12d's in a day
+- I felt confident on 5.12 in general; onsighted/flashed most 12 minuses
+- I hopped on more 5.13s, including a 5.13c in Rifle. I could pretty casually do all the moves on my first attempt (though, of course, weighted the rope dozens of times). Feels projectable, and I'd be very excited to send it in 2020.
 
 
 ## Software Development
 
-Two talks 
+I met my goal of last year to give two talks at meetups. I [captured some lessons here](http://localhost:4000/lessons-learned-from-giving-technical-talks) and both talks went quite well.
 
+I'm now into my second year as a software developer, and I've learned a lot, and I look forward to the third year. 
+
+Most of my writing on this website over the last year has been about software development, but at the tactical level; recapping lessons learned and ideas I may want to make easy to find later. 
 
 ## Reading
 
-~80 books. Annual book review coming later. 
+I read 77 books. Here's [my year in books](https://www.goodreads.com/user/year_in_books/2019/27372191) from GoodReads. 
 
+Noteworthy reads:
 
-## Miscellaneous 
+#### [The Revolt of the Public and the Crisis of Authority](https://www.goodreads.com/book/show/22451908-the-revolt-of-the-public-and-the-crisis-of-authority) 
 
-- Taught a six-week Bible study on the book of Titus
+Paints the current trends in the political sphere as one of the public rejecting the authority of the political elites. 
+
+#### [Worth the Candle](https://www.goodreads.com/book/show/36146179-worth-the-candle) 
+
+A modest 2500 ebook of the "rationalist fiction" genre. I didn't realize that rationalist fiction was a thing, but I enjoyed it. 
+
+#### [Harry Potter and the Methods of Rationality](https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality) 
+
+More rationalist fiction (also very long, available online for free). It was delightful. 
+
+#### [Resident Aliens: Life in the Christian Colony](https://www.goodreads.com/book/show/145076.Resident_Aliens) 
+
+The authors helped me rationalize my faith and my utter disgust with most of the dominant "christian" organizations and groups in the USA. Here's a pragraph of [a review](https://www.goodreads.com/review/show/2320346336?book_show_action=true&from_review_page=1) of this book on Goodreads:
+
+> One of the most powerful and pertinent messages this book offers is its depiction of a church narrative enslaved to the doctrines of democracy and consumerism. 
+> 
+> It paints both liberals and conservatives as two sides of the same coin, both looking to the government and her articulation of freedom, human rights, power, peace, and prosperity as method and mode of salvation. 
+>
+> They cite Yoder’s paradigm: The “activist” church desires to transform the world in a way that makes God and Christ unimportant and unnecessary, and the “conversionist” church is selfishly consumed with an individualistic saving of souls. Both are subjugated to the almighty nation-state and consumed by its heretical perspectives.
+
+#### [Order Without Design: How Markets Shape Cities](https://www.goodreads.com/book/show/39644188-order-without-design)
+
+One of the more potent books I've ever read. I've got a much longer review coming soon, and I am re-reading it right now.
+
+This book is likely to have a lasting impression on the trajectory of my life.
+
+[Here's a long-but-good review](https://www.planetizen.com/blogs/103583-order-without-design-pro-housing-pro-infrastructure)
+
+#### [The Third Pillar: How Markets and the State Leave the Community Behind](https://www.goodreads.com/book/show/40594595-the-third-pillar)
+
+The state (and markets) are crushing community. All the "stuff" of our life happens in this "community" that we live in. 
+
+It's risky that states are unable to perceive it's existence, and we're all impoverished by this state of affairs. 
+
+#### [Wait But Why: The Story of Us](https://waitbutwhy.com/2019/08/story-of-us.html)
+
+This isn't a book - it's a series of very long articles illustrated with stick figures and graphs. It is _incredible_. 
+
+From the introduction:
+
+> As a writer and a generally thinky person, I’ve spent a lot of my life thinking about the society I live in, and societies in general. I’ve always imagined society as a kind of giant human—a living organism like each of us, only much bigger.
+> 
+> When you’re a single cell in the body of a giant, it’s hard to understand what the giant’s doing, or why it is the way it is, because you can’t really zoom out and look at the whole thing all at once. But we do our best.
+
+It's very worth the click. Go on. Click [right here](https://waitbutwhy.com/2019/08/story-intro.html)
+
+------------------------
+
+I might do a longer book review (or thoughts on the books I read) another time. 
 
 
 ## Things I'm thinking about for 2020
 
-- course for leading confidently 
-- best-in-breed exercises for making small gains as an early-career developer
+I taught a six-week Bible study on the book of Titus for my church. Learned a lot from it, and enjoyed the experience. Rumor has it others considered it to be "not a total waste of time". I'd like to do this again.
 
+I've been pretty involved with helping mentor Turing students (and non-Turing students) who are breaking into the software development industry. Time spent in this domain is some of the most rewarding things I've undertaken this year, and I'd like to double down on that
 
+I don't do goals so much as trying to build the right habits. If I can lay a good set of habits, then the 'accomplishments' take care of themselves. 
 
+So, I'm working to build habits around writing, software development, teaching, rock climbing, and the intersection of all of the above. 
 
-Other People's annual reviews I've read recently and enjoyed. maybe you will too:
+I've got far more on my mind, and we'll see how 2020 plays out. 
 
-- [https://www.mrmoneymustache.com/2019/12/28/let-the-roaring-2020s-begin/](https://www.mrmoneymustache.com/2019/12/28/let-the-roaring-2020s-begin/)
-- [https://jvns.ca/blog/2019-year-in-review/](https://jvns.ca/blog/2019-year-in-review/)
-- [https://danwang.co/2019-letter/](https://danwang.co/2019-letter/)
-- [https://robertheaton.com/2020/01/01/2019-review/](https://robertheaton.com/2020/01/01/2019-review/)
+----------------------
+
+Other people's annual reviews I've read recently and enjoyed. Maybe you will too:
+
+- [Let the Roaring 2020s Begin (Mr. Money Mustache)](https://www.mrmoneymustache.com/2019/12/28/let-the-roaring-2020s-begin/)
+- [2019: Year in review (Julia Evans)](https://jvns.ca/blog/2019-year-in-review/)
+- [2019 Letter (Dan Wang)](https://danwang.co/2019-letter/)
+- [2019 review (Robert Heaton)](https://robertheaton.com/2020/01/01/2019-review/)
 
