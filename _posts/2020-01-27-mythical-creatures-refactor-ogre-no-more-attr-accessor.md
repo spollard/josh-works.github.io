@@ -4,14 +4,14 @@ title:  "Refactoring practice: Getting rid of `attr_accessors` in `ogre.rb`"
 description: "Refactor practice, in which we will refactor ogre.rb, learn more about Ruby, object-oriented design, and clean code"
 crosspost_to_medium: false
 date:  2020-01-27 06:00:00 -0700
-crosspost_to_medium: false
 categories: [programming]
 tags: [mythical_creatures, refactoring, ruby, turing]
 permalink: mythical-creature-refactor-ogre
 ---
 
+More refactoring practice! 
 
-More refactoring practice! I was reading [Practical Object Oriented Design in Ruby](https://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330), and then was looking at a Turing student's work on the [`ogre` mythical creature](https://github.com/turingschool/ruby-exercises/blob/master/mythical-creatures/test/ogre_test.rb) when I realized this was a perfect chance to explain a little about some principles of Object-Oriented Design.
+I was reading [Practical Object Oriented Design in Ruby](https://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330), and then was looking at a Turing student's work on the [`ogre` mythical creature](https://github.com/turingschool/ruby-exercises/blob/master/mythical-creatures/test/ogre_test.rb) when I realized this was a perfect chance to explain a little about some principles of Object-Oriented Design.
 
 Here's a quick **TWO MINUTE** walk-through:
 

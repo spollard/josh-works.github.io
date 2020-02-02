@@ -37,6 +37,8 @@ Sometimes video walk-throughs are helpful, so I put one together. It is 7 minute
 <iframe class="video" src="https://www.youtube.com/embed/HfBrRb1LLSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<!--more-->
+
 
 Copy-paste this code into your editor and run the tests:
 
@@ -80,7 +82,6 @@ We're going to cover a few things:
 - Running _just a single test from a test file instead of the whole thing_
 - Sometimes simple things go wrong and are deeply frustrating
 
-<!--more-->
 ### Guard Clauses
 
 Here's the guard clauses I mention: [guard clauses (thechrisoshow.com)](https://www.thechrisoshow.com/2009/02/16/using-guard-clauses-in-your-ruby-code/)
@@ -108,11 +109,6 @@ The video walk-through was my _second_ time recording the video, because I'd wan
 Then, mid-way through the video, I closed the terminal window, CD'd into the wrong directory, and got a bunch of errors. I got it fixed, then fat-fingered my way back into closing the terminal. I was super frustrated. 
 
 I'm ostensibly a "professional", in that I get paid to "develop software", but I thought it a useful reminder that we all do things that are frustrating and cause us to waste time. When you do this yourself, don't worry about it to much. Our entire craft is hard. [Reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail) and it's annoying when we get bit by that detail. 
-
-
-
-
-
 
 Here's the final version:
 
