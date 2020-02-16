@@ -10,11 +10,13 @@ description: A bit about the Turing School of Software and Design, my experience
 permalink: /turing
 ---
 
-You might be curious about Turing, or software development in general. 
+You might be curious about [the Turing School of Software and Design](https://www.turing.io/), or software development in general. 
 
 If that's the case, this page is an easy jumping-off point into the many resources I've written and collected that could aid you in this process.
 
-I've been helped by so many other people along the way. This page, and the general list of resources you'll find around this website are my modest attempts to help others in the way I've been helped. 
+I've been helped by so many other people along the way. 
+
+This page, and the general list of resources you'll find around this website are my modest attempts to help others in the way I've been helped. 
 
 I'm always eager to hear about areas where these guides are unclear or cause confusion, and I'm quick to refine things. Please send me an email at `thompsonjoshd` at Google's popular email service or, if you're in the Turing slack, send me a message. I'm `@josh_t`. 
 
