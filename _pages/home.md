@@ -1,13 +1,61 @@
 
 
+# Welcome!
+
+I'm Josh. I do a mix of things, mostly related to software development, rock climbing, and helping software developers and rock climbers be better at what they do. 
+
+My wife and I are based in Golden, CO, but both work remotely and spend a fair bit of time traveling. 
+
+Get in touch via [twitter](https://twitter.com/josh_works) or [email](mailto:thompsonjoshd@gmail.com).
+
+<more about me/redirect to /about>
 
 
-## Remote and Asynchronous
+# Programming
 
-While at [Wombat Security](https://www.wombatsecurity.com/) (acquired by [Proofpoint Inc](https://www.proofpoint.com/us)), and previously at [Litmus, Inc](https://litmus.com/), I've worked 100% remotely, saw most of my coworkers a few times a year, and lived in the same time zone as almost none of them.
+https://josh.works/cleaner-controllers
+https://josh.works/developer-workflow
+https://josh.works/anki-spaced-repetition-system
+https://josh.works/learning-how-to-learn
+https://josh.works/firefox-toggle-bookmark-bar-keyboard-shortcut
+https://josh.works/pry-tips-and-tricks
+https://josh.works/sidekiq-and-background-jobs-in-rails-for-beginners
+https://josh.works/add_uniqueness_constraint_on_column_with_existing_duplicates
+https://josh.works/prying-into-a-stack-trace
+https://josh.works/lessons-learned-from-giving-technical-talks
+https://josh.works/troubleshooting-chinese-character-sets-in-mysql
+https://josh.works/how-i-take-notes-aka-add-an-index-to-your-notebook
 
-I was [once interviewed on working remotely]({{ site.baseurl }}{% link _posts/2016-03-16-my-interview-with-pajamasio.md %}), and believe that in the right context, the constraints imposed by remote work can improve the quality of your work. (I'm in the habit of _writing everything down_ and summarize and itemize everything. See the top of this post, that index? It's habit, made by working remotely. _You cannot over-communicate in a remote environment._)
 
-Remote work is great when you live in one place, but also opens the door to [cool travel opportunities](http://teamthompsontravels.tumblr.com/post/145144220613/1-year-travelversary-exactly-one-year-ago-on-may)
+# Learning to lead climb without fear
 
-I occasionally write up thoughts about remote work, and these posts are all collected [here](https://josh.works/tags#remote_work).
+# Remote Work
+https://josh.works/whole-messages-in-slack
+https://josh.works/so-you-want-to-work-remotely
+https://josh.works/remote-job-resources
+
+
+# Guides & Tutorials
+
+https://josh.works/turing-backend-prep-01-intro
+
+https://josh.works/misc/2016/05/13/how-to-never-accidentally-click-twitters-moments-again-and-to-block-anything-else-on-the-internet-you-dont-want-to-deal-with/
+
+
+# Posts I like
+
+
+https://josh.works/better-questions
+https://josh.works/a-little-bit-of-slope-makes-up-for-a-lot-of-y-intercept
+https://josh.works/twenties-vs-thirties
+https://josh.works/jobs/2016/05/10/overcome-some-barriers-in-work-with-this-magic-phrase/
+https://josh.works/growth/2016/05/27/social-skills-are-like-any-other-skills/
+https://josh.works/i-quit
+
+# Career stuff
+
+https://josh.works/remote-job-resources
+https://josh.works/jobs/2015/10/30/upgrade-your-job/
+
+### Examples/resources
+- https://robertheaton.com/
