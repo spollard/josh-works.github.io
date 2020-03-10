@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Asking experts, and gaining more than just answers"
+title:  "How to ask questions of experts and gain more than just an answer"
 date:   17-05-22-06:18:52 -0600
 categories: programming life
 tags: [learning, turing, life]

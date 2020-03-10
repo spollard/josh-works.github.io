@@ -10,8 +10,8 @@ permalink: lessons-learned-from-giving-technical-talks
 
 A few weeks ago, I gave two talks about Ruby and Rails:
 
-1. An 8-minute "lightning talk" about using `.count` vs `.size` in ActiveRecord query methods
-2. A 30-minute talk at the Boulder Ruby Group arguing that developers should _embrace_ working with non-development business functions, and the constraints therein. I illustrated this via a story about finding slow SQL queries, and using `.count` vs `.size` in ActiveRecord query methods.
+1. An [8-minute lightning talk](https://josh.works/denverrb) about using `.count` vs `.size` in ActiveRecord query methods
+2. A [30-minute talk](https://josh.works/boulder_ruby_group) at the Boulder Ruby Group arguing that developers should _embrace_ working with non-development business functions, and the constraints therein. I illustrated this via a story about finding slow SQL queries, and using `.count` vs `.size` in ActiveRecord query methods.
 
 ## Things that went well
 
