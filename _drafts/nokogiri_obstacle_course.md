@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Title"
+title:  "Nokogiri Obstacle Course"
 description: "description about this post"
 date:  2017-12-26 06:00:00 -0700
 crosspost_to_medium: false
