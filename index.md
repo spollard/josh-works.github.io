@@ -9,7 +9,22 @@ I'm Josh. I do a mix of things, mostly related to software development, rock cli
 
 My wife and I are based in Golden, CO, but both work remotely and spend a fair bit of time traveling. 
 
+
 Get in touch via [twitter](https://twitter.com/josh_works) or [email](mailto:thompsonjoshd@gmail.com).
+
+# Currently Working On
+
+I'm working on resources to help early-career software developers more quickly feel confident and competent in their skills. 
+
+I've got about 2.5 years of professional software dev experience under my belt, which means I'm experienced enough that I can see the ideal end goal, in terms of skills and knowledge, but I'm new enough that I remember what it was like to be fumbling around, trying to get the most basic things to work.
+
+My basic goal is "time compression". I'll spend 30 hours learning about something, and create a good enough set of exercises and resources that _you_ can take an hour here and there, for a total of about four hours, and learn most of what I learned about the same topic. 
+
+So far, I'll be focusing on Ruby/Rails specific topics. 
+
+It's pretty low key, you'll get about 1 email a week, straight from my keyboard to your inbox. 
+
+<script async data-uid="b69af6ca8e" src="https://josh-thompson.ck.page/b69af6ca8e/index.js"></script>
 
 # Curated list of things I've written
 
@@ -26,6 +41,7 @@ Here's a good starting point:
 - [Troubleshooting Chinese Character Sets in MySQL]({{ site.baseurl }}{% link _posts/2019-04-21-chinese_charsets_in_mysql.md %})
 
 _[all posts tagged `programming` ->](https://josh.works/tags#programming)_
+
 
 ## Remote Work
 
