@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby '2.3.3'
+ruby '2.5.8'
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", ">= 3.7"
