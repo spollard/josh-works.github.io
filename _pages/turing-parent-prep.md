@@ -79,6 +79,8 @@ I was always trying to uncover in their own words what went better the second ti
 
 _Every single resource I've put together for you is directly informed by time I've spent with students in your shoes, with an emphasis on **interventions that may have allowed a student to not repeat the first module**._ 
 
+I could pick more reasons I think you should trust me, but I won't list them until I know what I find compelling. So, if you, reader, read this line, and still don't find my arguments compelling, _lets sort this out!_! We'll hop on a call in slack, and we'll chat. If I can convince you to that I'm correct and trustworthy, you'll be better off for now having a trustworthy guide, and I'll update this spot of this document to convince future similarly-skeptical readers.
+
 
 
 ### 1. Have correct mental models of how to learn
@@ -193,6 +195,24 @@ Then make the gist, toss it in slack to me or in the `2005-be-parents` channel a
 No. Any answer/help I (and anyone else) will supply would help you get unstuck, yes, but will also give you information on how to find the solution (or a similar solution) for yourself in the future. 
 
 The shorter the feedback loop, the better. 
+
+### Cheats and walk-throughs.
+
+Here's the stuff that some folks will be uncomfortable, knowing I've shared it.
+
+1. My solutions to the `ruby-exercises`
+
+I've got answers to most of the ruby-exercises that you're working through, and you can view them [here](https://github.com/josh-works/ruby-exercises/tree/josh_solutions). 
+
+That link takes you to a forked version of the ruby-exercises repository, and I've pushed up a branch of my solutions. So, navigate the repo, find the exercise in question, and you can see my solution.
+
+2. Advanced video walk-throughs of the `ruby-exercises`
+
+I've got a lot of video walk-throughs to the `ruby-exercises` directores. You've likely crossed paths to some of them, but here are some not in the Turing curriculum:
+
+- [Medusa mythical creature](https://youtu.be/hzFW_BRdHLY)
+- [refactoring Ogre mythical creature](https://youtu.be/Z_e7p8cDF1Q)
+- [refactoring Wizard mythical creature](https://youtu.be/HfBrRb1LLSY)
 
 
 
