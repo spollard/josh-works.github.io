@@ -1,15 +1,45 @@
-# Josh Thompson's personal site
+# Klisé
 
-If you're reading this, you're reading something that won't ever be published on [josh.works](https://josh.works/)
+Klisé is minimalist Jekyll theme for running a personal site and blog running on Jekyll.<br>
+For demo <a href="https://klise.now.sh" target="_blank">klise.now.sh</a>
 
-I've got some slight notes rolling around here, and some to-dos for myself.
+## Features
 
-### To do
+- Light & Dark Mode support :waxing_crescent_moon:
+- Customizable (using `.scss`)
+- Responsive (desktop, tab and mobile)
+- Mobile First Design
+- SEO Optimized
+- RSS Feed
+- Syntax Highlighter ([rouge](https://github.com/rouge-ruby/rouge))
+- Next & Previous Post
+- Comment layout, enable in frontmatter if you wish
+- Google analytics
+- HTML Minify ([compressed HTML](https://github.com/penibelst/jekyll-compress-html))
+- W3C **Validated**
+- Lighthouse and PageSpeed **Passed**
 
-- [ ] run link checker with `rake test`. Fix results.
-- [x] Systematize fixing broken links (https://github.com/gjtorikian/html-proofer) (after migrating from squarespace-style absolute URLs to liquid templating dynamic URLs that play well with permalinks - my internal links are a hot mess)
-- [x] style email subscribe box to match rest of site
+![Lighthouse](./lighthouse.png)
 
+## Installation
 
+Run local server:
 
-Making a change on master. I want this and my other branches changes to show up here.
+```bash
+git clone https://github.com/piharpi/jekyll-klise.git
+cd jekyll-klise
+bundle install
+bundle exec jekyll serve
+```
+
+Navigate to `localhost:4000`. You're Welcome, Fork and be Stargaze.
+
+**Don't Forget** to change site icon, go to `jekyll-klise/assets/favicons` and replace with your own.
+
+## Contributing
+
+If you see any typos or formatting errors in a post, or any other issue that needs to be addressed, please do not hesitate to open a pull request and fix it!
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).

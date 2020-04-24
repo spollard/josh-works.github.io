@@ -1,79 +1,82 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-# Permalinks
-permalink:           pretty
+title: Klise Theme
+description: >-
+  He's writing in Bahasa about web technology and experience as a journal 
+  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+lang: en-US
+timezone: Asia/Jakarta
+image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+repo: https://github.com/piharpi/mahendrata.now.sh
+mode: dark # default theme "dark" | "light"
 
-# Setup
-title:               Josh Thompson
-tagline:             "Programming, Learning, Climbing and Miscellaneous Thoughts."
-title_image:         "/images/site_base_image.jpg"
-url:                 https://josh.works
-baseurl:             ""
-
-# paginate:            5
-excerpt_separator:   <!--more-->
-future: true
-twitter_username:   "josh_works"
-
-# pages in nav bar
-include: ['_pages']
-
-# pages across header
-# seems to need `jekyll build` to catch updates on localhost
-pages_list:
-  about: '/about'
-  archive: '/archive'
-  turing: '/turing'
-  office hours: '/office-hours'
-
-
-# Assets
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# About/contact
+# Profile settings
 author:
-  name:              Josh Thompson
-  url:               https://twitter.com/josh_works
-  email:             thompsonjoshd@gmail.com
+  name: Klisé Theme
+  bio: >-
+    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
+    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+  username: username
+  email: your-email@email.com
+  avatar: /assets/img/avatar.jpg
 
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/josh-works/josh-works.github.io
+# Url settings
+url: "https://klise.now.sh"
+baseurl:
+permalink: /:title/
+google_analytics:
+fb_appid:
 
-  # twitter plugin gem
-plugins:
-  - jekyll-twitter-plugin
-  - jekyll-feed
-  - jekyll-crosspost-to-medium
+# Collection setting
+collections:
+  posts:
+    output: true
 
-
-jekyll-crosspost_to_medium:
-  enabled: true
-  cache: .jekyll-crosspost_to_medium
-  status: public
-  license: all-rights-reserved
-  text: <p><i>This article was originally posted on <a href="https://josh.works" rel="canonical">https://josh.works</a>.</i></p>
-  backdate: true
-
-
+# Markdown settings
 markdown: kramdown
+highlighter: rouge
 kramdown:
-  input: GFM
-  # syntax_highlighter: rouge
+  syntax_highlighter: rouge
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+      comments: false
+
+# Jekyll Compose default front matter
+jekyll_compose:
+  post_default_front_matter:
+    modified:
+    tags: []
+    description:
+  draft_default_front_matter:
+    modified:
+    tags: []
+    description:
+
+# Build settings
+sass:
+  style: compressed
+
+include:
+  - _redirects
+  - .htaccess
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CHANGELOG.md
+  - README.md
+  - node_modules
+  - CODE_OF_CONDUCT.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sass-converter
+  - jekyll-sitemap
+  - jekyll-postfiles
