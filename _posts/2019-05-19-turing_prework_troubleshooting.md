@@ -8,23 +8,28 @@ tags: [programming, turing]
 permalink: turing-backend-prep-troubleshooting-guide
 ---
 
-### Index of this series:
+#### Index of this series:
 - [Turing Prep Chapter 1: Make Mod 1 Easier Than It Otherwise Would Be]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %})
 - [Turing Prep Chapter 2: Your first passing tests!]({{ site.baseurl }}{% link _posts/2019-05-19-turing_prework_02_getting_the_right_files.md %})
 - [Turing Prep Chapter 3: Video walk-through of a few of the mythical creatures, like `unicorn.rb`, `dragon.rb`, and `hobbit.rb`]({{ site.baseurl }}{% link _posts/2019-05-31-turing_prework_03_mythical_creatures.md%})
 - [Turing Prep Chapter 4: Arrays, Hashes, and Nested Collections]({{ site.baseurl }}{% link _posts/2019-06-09-turing_prework_arrays_hashes_nested_collections.md %})
 - [**Turing Prep appendix: Troubleshooting Errors**]({{ site.baseurl }}{% link _posts/2019-05-19-turing_prework_troubleshooting.md %}) (This is what you're reading right now)
 
-As you run into problems (and others) let me know. I'd like to collect a broad swath of the errors folks run into, and the solutions, so they don't get too caught up.
+-------------------------------------------
 
-Here's a quick index of what's in this guide:
+
+
+# Troubleshooting Common Errors
+
+Pretty much any time I hear the same question twice, I will try to add a section here for it, and make it as easily findable by future students as possible. Here's the questions I've got answered below:
 
 - [`Traceback... cannot load such file -- pry`](#traceback-cannot-load-such-file----pry)
 - [cannot open Atom from the Terminal](#cannot-open-atom-from-the-terminal)
 - [`FSPathMakeRef`](#fspathmakeref-and-a-bunch-of-other-stuff)
-- [`gem install pry` failing with "you do not have permission"](#gem-install-pry-failing-with-you-do-not-have-permission)
+- [`gem install pry` giving `ERROR... You don't have write permissions...`](#gem-install-pry-failing-with-you-do-not-have-permission)
 - [Undefined method `pry`](#undefined-method-pry)
 - [Add `pry` snippet in Atom](#add-pry-snippet-in-atom)
+
 
 ## `Traceback... cannot load such file -- pry`
 
@@ -71,14 +76,14 @@ ERROR:  While executing gem ... (Gem::FilePermissionError)
 
 Don't worry. We'll sort you out. It'll take some work. 
 
-First, lets see which installed version of Ruby your computer is trying to use when you type `ruby`:
+First, lets see which installed version of Ruby your computer is trying to use:
 
-```shell
+```
 $ which ruby
 ```
 
 If you get something that looks like this:
-```shell
+```
 /usr/bin/ruby
 ```
 
@@ -86,14 +91,14 @@ We'll need to fix it. Read on.
 
 If you get something like one of these:
 
-```shell
+```
 /Users/joshthompson/.rbenv/shims/ruby
 /Users/joshthompson/.rvm/rubies/ruby-2.3.3/bin/ruby
 ```
 
 You're in good shape. Stop reading this section. The rest of this fix will not apply to you.
 
-### `/usr/bin/ruby`
+### `which ruby` returns `/usr/bin/ruby`
 
 This means you're using the version of Ruby that came installed on your laptop. You shouldn't be messing with this version of Ruby, so your system isn't letting you.
 
@@ -108,11 +113,32 @@ $ brew install rbenv
 $ rbenv init
 ```
 
-Restart your terminal.
+You'll possibly get a result that looks like this:
 
-Now, make sure (again) that `rbenv` is working:
+```
+# Load rbenv automatically by appending
+# the following to ~/.zshrc:
 
-```shell
+eval "$(rbenv init -)"
+```
+
+We need to follow this instructions, which, translated, say:
+
+> Please modify a configuration file on your laptop to include this line of code at the bottom of it.
+
+To do that, we can run:
+
+```
+echo "eval '$(rbenv init -)'" >> ~/.zshrc && source ~/.zshrc
+```
+
+_You should be skeptical of blindly copy-pasting commands from strangers on the internet into your terminal. This command contains three different commands, the `echo`, `append`, and `source` commands. I recommend installing this [tldr tool](https://github.com/tldr-pages/tldr) to understand exactly what is happening here._
+
+now do `gem install pry` again. If it works, success! You're done! 
+
+If that _doesn't_ work, `rbenv` might not yet be installed, so lets make sure it's installed and working correctly. Do:
+
+```
 $ rbenv -v
 ```
 
@@ -120,18 +146,38 @@ You should get something like `rbenv 1.1.2` back.
 
 Next, tell `rbenv` to install ruby 2.4.1:
 
-```shell
+```
 $ rbenv install 2.4.1
 ```
 
 And then set this version of ruby as the "global" version to use, until you tell it otherwise or a particular project specifies a different version:
 
-```shell
+```
 $ rbenv global 2.4.1
 ```
 
 You can now do `gem install pry`, and it will install the gem to the `2.4.1` version of Ruby, as managed by `rbenv`.
 
+If you see this message:
+
+```
+# Load rbenv automatically by appending
+# the following to ~/.zshrc:
+
+eval "$(rbenv init -)"
+```
+
+We need to follow this instructions, which, translated, say:
+
+> Please modify a configuration file on your laptop to include this line of code at the bottom of it.
+
+To do that, we can run:
+
+```
+echo "eval '$(rbenv init -)'" >> ~/.zshrc && source ~/.zshrc
+```
+
+All done! 
 
 ### `undefined method pry`
 
