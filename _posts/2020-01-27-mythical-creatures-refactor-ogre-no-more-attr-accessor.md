@@ -115,10 +115,11 @@ class Ogre
 end
 
 class Human
-  attr_reader :name, :encounter_counter
+  attr_reader :name, :encounter_counter, :knocked_out
   def initialize(name = "Jane")
     @name = name
     @encounter_counter = 0
+    @knocked_out = false
   end
   
   def increment_encounters
@@ -139,8 +140,8 @@ class Human
   end
   
   def knocked_out?
-    return true if encounter_counter >= 3
-    false
+    # updated this a bit too. Sorry for the confusion!!!!!
+    knocked_out
   end
 end
 ```
