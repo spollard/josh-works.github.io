@@ -78,6 +78,9 @@ Copy-paste the code into your editor, and make the changes yourself!
 
 
 The finished refactored version:
+
+_update: 👏 to [Gaby Mendez](https://github.com/gabichuelas) for catching an error I made in the refactored code!_
+
 ```ruby
 class Ogre
   attr_reader :name, :home, :swings, :encounter_counter
@@ -98,10 +101,15 @@ class Ogre
   
   def swing_at(human)
     @swings += 1
+    # Gaby pointed out that the human needed to actually get knocked unconscious
+    # at a certain point. Duh! I added this line in response:
+    human.knock_unconscious if swings % 2 == 0
   end
   
   def apologize(human)
-    human.reset_encounter_count
+    # Gaby pointed out an error, so in fixing it I am deviating from the 
+    # finished code in the video walkthrough. 
+    human.revive
     @swings = 0
   end
 end
@@ -117,12 +125,17 @@ class Human
     @encounter_counter += 1
   end
   
-  def reset_encounter_count
+  def revive
     @encounter_counter = 0
+    @knocked_out = false
+  end
+  
+  def knock_unconscious
+    @knocked_out = true
   end
   
   def notices_ogre?
-    return @encounter_counter % 3 == 0
+    encounter_counter % 3 == 0
   end
   
   def knocked_out?
@@ -131,3 +144,5 @@ class Human
   end
 end
 ```
+
+
