@@ -78,8 +78,8 @@ I am confident that I have _not_ found the ideal workflow around creating and me
 
 My Anki workflow has two steps:
 
-1. Make the Anki cards (on my laptop)
-2. Review the Anki cards (on my phone)
+1. Make the Anki cards on my laptop
+2. Review the Anki cards on my phone
 
 I can review my Anki cards anywhere. In line at the grocery store, in the bathroom (yes), on a train, while I'm waiting for my food to microwave, etc.
 
@@ -113,27 +113,21 @@ You're off to the docs, or looking at previous projects, until you refresh your 
 
 This is fine, and even with Anki you'll be regularly referencing documentation and prior code, but you'll do it much less, because so much of what you've seen before you've memorized. It's just sitting in your brain, ready to be used again.
 
-Sometimes, even though I've memorized cards, I cannot quite reproduce the whole chunk of knowledge from scratch, so I just open up the deck and find the card that relates to the thing I'm trying to do. It's a bit like keeping detailed notes and always knowing exactly where to find the relevant information for what you're looking for. 
+Sometimes, even though I've memorized cards, I cannot quite reproduce the whole chunk of knowledge from scratch, so I just open up the Anki and find the card that relates to the thing I'm trying to do. It's a bit like keeping detailed notes and always knowing exactly where to find the relevant information for what you're looking for. 
 
 Or, that one time I had to rename a branch in Git - what was the exact syntax for pushing the deleted branch? Did I actually _rename_ the branch, or did I use the `git branch -m` command to create a _new_ branch? (hint - the next step is `git push origin :old_branch_name`, then push the new one with `git push origin --set-upstream origin new_branch`. I just opened up Anki to check the steps. Super simple.)
 
 # Installing Anki 
 
-[Download the desktop app here](https://apps.ankiweb.net/).
+Download the desktop app at [https://apps.ankiweb.net](https://apps.ankiweb.net/#download).
 
-Here's the thing - Don't download the current version of the app. The rest of these instructions will work only on the `Anki for Mac OS X 10.8+ (2.0.52-standard)` version. 
-
-You can find the proper version on the home page, here:
-
-![download older Anki](/images/2019-05-10-old_anki_download.jpg).
-
-If you download the newest version of Anki, the best `markdown` packages won't work for you. ☹️
-
-Download it, install it, and open the program. 
+Download it, install it, and open it up. 
 
 # Getting started: Your first card
 
 Make a new deck. Call it "programming" or "test deck" or whatever. Now click the "new card" button. 
+
+Lets create a sample card. Don't worry, you're doing to delete this card in a minute, so it doesn't matter if it's "good" or whatever.
 
 In the box labeled "front", put "what is my name". On the "back" put your actual name. Or perhaps a more relevant question, like: 
 
@@ -247,35 +241,36 @@ To format your code like this, you'll need to install (and use) a Markdown packa
 
 ## Install Markdown Package
 
-We will be using the [Power Format Pack](https://ankiweb.net/shared/info/162313389) package. 
+We will be using the [Auto Markdown](https://ankiweb.net/shared/info/1030875226) package. 
 
 #### 1. Add the Markdown package to Anki
 
-Navigate through the following menu, and entering the number `162313389` when it's requested. (The number is the end of the URL of the package we want.)
+Navigate through the following menu, and entering the number `1030875226` when it's requested. (The number is the end of the URL of the package we want.)
 
 `Desktop > Tools > Add-ons > browse and install`
 
 ![How to add packages](/images/2018-06-28_memorizing_programming_02.jpg "How to add packages")
 
-When you click the `Browse & Install` button, just enter `162313389`
+When you click the `Browse & Install` button, just enter `1030875226`
 
-![adding the markdown add-on](/images/2018-06-28_memorizing_programming_03.jpg "adding the markdown add-on")
+![adding the markdown add-on](/images/2020-04-28_memorizing_programming_03.jpg "adding the markdown add-on")
 
 #### 2. Restart Anki, per the instructions
 
-#### 3. Enable the new Markdown package
+#### 3. Enable the new Markdown package in `Basic` card types
 
 Check the "Enable Markdown" button. (It's very buried):
 
-`Tools > Power Format Pack add-on (options) > Options > Markdown > Enable Markdown`
+`Anki > Tools > Manage Note Types > Basic` and click `Fields`
+
+![configure fields](/images/anki_edit_fields.jpg)
+
+Next, for both the front and the back of the card, check the `Convert to/from markdown automatically` box:
+
+![enable automarkdown](/images/2020-04-28-enable_auto_markdown.jpg)
 
 #### 4. Restart Anki again
 
-Now, open up the "make a new card" user interface, and on the far right side, you should have an `M` visible to you:
-
-![Markdown Package, ready to go!](/images/2018-06-03_memorizing_programming_04.jpg "the Markdown package is ready to go!")
-
-If you can see that `M`, you're ready to go. This means you can write in markdown, hit the `M`, and it'll get that beautiful Markdown formatting. 
 
 ## Using the Markdown package
 
@@ -306,30 +301,29 @@ Imagine an Anki card that says:
 
 You can draw a little more attention to the specifics of the question (it's about an Array, and it's an instance method!) by using:
 
-> What does Array::sort do?
+> What does Array#sort do?
 
 But that doesn't catch the eye nearly as well as:
 
-> What does `Array::sort` do?
+> What does `Array#sort` do?
 
 So, to off-set text like that, you just "wrap" it in backticks, the key to the left of the `1` on your keyboard.
 
 > This is what text that's been `wrapped in backticks` looks like
 
+_Important note: This markdown package has a super annoying bug in it. I couldn't figure out the fix at the code level for everyone, but if you have your mac in "dark mode", the markdown formatting will look HORRIBLE! [here's an open github issue and the fix](https://github.com/gregorrr/anki-auto-markdown/issues/14#issuecomment-613490187)_
+
 So, make a card like this in Anki:
 
+![Anki card to learn some markdown](/images/2020-04-28-anki-monospaced.gif)
 
-![Anki card to learn some markdown](/images/2018-06-03_memorizing_programming_anki_05.jpg)
-
-What makes text `formatted and fixed-width`
-
-And you can toggle markdown/not-markdown with the `m` in the corner:
-
-![toggle markdown](/images/2019-08-15-anki-make-markdown.gif)
+What makes text `monospaced`? backticks!
 
 Make a few more cards. For example, figure out how to make a large block of pre-formatted text, or give a block of code language-specific syntax highlighting. 
 
-![language-specific syntax highlighting](/images/2019-08-15-anki-toggle-ruby-formatting.gif)
+(You can use `ruby`, `javascript`, `html`, `css`, pretty much any language name and get appropriate syntax highlighting)
+
+![language-specific syntax highlighting](/images/2020-04-28-anki-syntax-highlighting.gif)
 
 # Building programming-related flashcards!
 
