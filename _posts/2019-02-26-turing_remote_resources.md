@@ -8,30 +8,22 @@ tags: [remote_work]
 permalink: remote-job-resources
 ---
 
-_This post started life as [this gist](https://gist.github.com/josh-works/2e6e1a8934df6a566f5c1a56d8f6ddc6), and existed in that state for a while. I'm pulling it into a slightly more visible location, and updating/modifying it, hopefully to the betterment of all future readers._
-
---------------------------------------------------------
-
 _This is a collection of resources that come from a range of conversations I've had with Turing students. Some of it is specific to getting/working remotely, but most of it is (in my opinion) useful for any sort of role. Finally, I think "advice to others" is a tall order. All I know is things I did, and what seemed to correlate with good results. Correlation is not causation, etc._
 
+Other than this first section about finding remote-friendly jobs, everything below applies to _any_ job hunt. So, if you're not looking specifically for remote work, keep reading.
 
-## Where do remote jobs "live"
+## Where does one find remote-friendly jobs?
 
 I've had the most success getting email responses from a few places:
 
 1. [http://weworkremotely.com/](http://weworkremotely.com/)
+2. Hacker News' `who's hiring` threads, like this one from December 2017: [https://news.ycombinator.com/item?id=15824597](https://news.ycombinator.com/item?id=15824597)
+3. [https://nomadlist.com/](https://nomadlist.com/)
 
-Second, hacker news' "who's hiring" threads, like this one from December 2017: [https://news.ycombinator.com/item?id=15824597](https://news.ycombinator.com/item?id=15824597)
+With the Hacker News `who's hiring` listings, they're often hundreds of entries long. I.E. hundreds of potential jobs. Use [this tool to filter and sort the results to find something that lines up well with you](https://kennytilton.github.io/whoishiring/). 
 
-oh, and with the hacker news posts, they're often hundreds of entries long. I.E. hundreds of potential jobs.
 
-<strike>I use this javascript in the console to filter the "who's hiring" threads by keyword. At a minimum, I'd add "remote" as criteria: [https://gist.github.com/kristopolous/19260ae54967c2219da8](https://gist.github.com/kristopolous/19260ae54967c2219da8) </strike>
-
-This resource is 100x better than the above gist: [https://kennytilton.github.io/whoishiring/](https://kennytilton.github.io/whoishiring/)
-
-[https://nomadlist.com/](https://nomadlist.com/) is also worth a mention.
-
-## What sort of things did I do to actually get the job
+## What sort of things did I do to actually get the job?
 
 My goal was to telegraph competence to anyone I interacted with. So, one of my main goals was to create _visible evidence_ that I am competent. 
 
@@ -77,7 +69,11 @@ You're going to roll-play someone who likes to do sales-y activities, and _that_
 
 You're "selling" the product of your own development skills. So, get into a sales mindset, and you'll do just fine.
 
-start here: [Dear HN "Who's Hiring" responders](https://news.ycombinator.com/item?id=5476363), and read this entire comment _carefully_. Then go apply it in your emails. 
+> AH JOSH I AM NOT INTO SALES! Sounds so smarmy and cheesy and self-serving. I just want to find a healthy team where I can make meaningful contributions to the company, my team-mates, and the customers.
+
+Right! And to do this, you need to imagine things from the perspective of a hiring manager or team lead who might hire you. This person is busy, has a ton of priorities, and is hiring because they have an urgent need for more engineers. _This person probably dislikes dealing with hiring as much as you dislike dealing with job hunting_. 
+
+To obtain this empathetic perspective, start here: [Dear HN "Who's Hiring" responders](https://news.ycombinator.com/item?id=5476363), and read the entire comment _carefully_. Then go apply it in your emails. 
 
 I see the whole process of cold outreach as a collection of microskills, just like a complicated operation in Ruby or Javascript. You break the big complex task into classes and functions, for example:
 
@@ -85,7 +81,9 @@ The big complex task: **get a job**
 
 progression through microskills: 
 
-1. **write emails that get responses**
+0. **Find people who know more about the industry, company, or job market than you do**
+0. **find means of contacting these people, most likely email**
+1. **write emails to them that get responses**
 2. **write emails that start conversations**
 3. **respond to emails in a way that lead to further responses/conversations**
 4. **have conversations where someone thinks about if I can/cannot do the job**
@@ -98,7 +96,7 @@ All of those are tiny sub-skills of the job-hunting process. if you can do the f
 
 Twenty almost certainly will.
 
-there's a #cold-outreach channel in the Turing slack that I'd recommend joining. the woman that started it is great at putting stuff together around cold outreach. the hardest part of cold outreach is just starting it. there's 100 things you can do that make you *think* you're making progress, but besides actually _sending an email to a stranger_ none of it is effective.
+there's a `#cold-outreach channel` in the Turing slack that I'd recommend joining. Katie Keel is _amazing_ at this stuff. The hardest part of cold outreach is just starting it. There's 100 things you can do that make you *think* you're making progress, but besides actually _sending an email to a stranger_ none of it is effective.
 
 Patrick McKenzie is one of my favorite folks on the internet. He wrote [this piece on salary negotiation](http://www.kalzumeus.com/2012/01/23/salary-negotiation/) which is _still_ the gold standard on the topic. 
 
@@ -168,6 +166,8 @@ In summary, get good at:
 and you'll do just fine. 
 
 Write personalized, engaging emails to fifteen people, and you will *guaranteed* have a collection of interesting email responses, and will have a few interviews lined up. 
+
+For another take on the same idea, read [Everyone thinks they’re hiring the top 1% (Joel Spolsky)](https://www.joelonsoftware.com/2005/01/27/news-58/). The numbers are far more favorable to you than you may be inclined to think.
 
 ## My offer to you
 
