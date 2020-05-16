@@ -362,6 +362,9 @@ Me:
 
 -------------------------------------------------
 
+{% include newsletter.html %}
+
+
 # Job hunting and Remote Work
 
 - [All I've written on working remotely](http://josh.works/tags#remote_work)
