@@ -7,10 +7,7 @@ title: Home
 
 I'm Josh. I do a mix of things, mostly related to software development, rock climbing, and helping software developers and rock climbers be better at what they do. 
 
-My wife and I are based in Golden, CO, but both work remotely and spend a fair bit of time traveling. 
-
-
-Get in touch via [twitter](https://twitter.com/josh_works) or [email](mailto:thompsonjoshd@gmail.com).
+My wife and I are based in Golden, CO. 
 
 # Currently Working On:
 
@@ -18,13 +15,17 @@ _Helping early-career software developers become mid-career software developers 
 
 I'm working on resources to help early-career software developers more quickly feel confident and competent in their skills. 
 
-I've got about 2.5 years of professional software dev experience under my belt, which means I'm experienced enough that I can see the ideal end goal, in terms of skills and knowledge, but I'm new enough that I remember what it was like to be fumbling around, trying to get the most basic things to work.
+I've got a few years years of professional development experience under my belt.
 
-My basic goal is "time compression". I'll spend 30 hours learning about something, and create a good enough set of exercises and resources that _you_ can take an hour here and there, for a total of about four hours, and learn most of what I learned about the same topic. 
+This amount of experience means I'm experienced enough that I can see the ideal end goal, in terms of skills and knowledge, but I'm new enough that I remember what it was like to still be pretty overwhelmed by most of what I had to do. 
+
+My basic goal is "time compression". 
+
+Using resources I'm making, I want you to learn _almost_ as much as I know about a certain topic, but I want you to learn it in 1/10th the time it took me to learn it.
 
 So far, I'm focusing on Ruby/Rails specific topics. 
 
-You'll get about 1 email a week, straight from my keyboard to your inbox. I read/reply to every response!
+You'll get about 1 email a week, straight from my keyboard to your inbox.
 
 <script async data-uid="b69af6ca8e" src="https://josh-thompson.ck.page/b69af6ca8e/index.js"></script>
 
