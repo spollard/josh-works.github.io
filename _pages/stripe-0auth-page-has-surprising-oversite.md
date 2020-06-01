@@ -8,24 +8,30 @@ description: ""
 permalink: "/stripe-auth-page-has-surpring-oversite"
 ---
 
-
 Hi there, Stripe!
 
 **tl;dr There's a minor UX problem on one of your page. It's a spot where I ran into friction. But, Stripe recognizes that much of their business comes from removing friction, not just because that leads to 💰, but because less friction means measurable improvements to the lives of many.**
 
 And that "measurable improvement" can be life and death with someone who has little enough margin in their life.
 
+Quoting from your [remote hub one year] piece:
+
+> ... We now refer to non-card payment options as “local payment methods”. This distinction recognizes and reminds us that while commerce is global, **the experience is local**.
+
+You care about the experience of individuals "at the margin". They are not many, but that does not mean their experience is less important to Stripe. In many ways, I believe, Stripe cares particularly deeply about the experience of those individuals. 
+
+Easy example, quoting Patric Collison's comment [on this Hacker News thread](https://news.ycombinator.com/item?id=22936818)
+
+> (Updated to add: further down in this thread, fillskills writes[1]: "_As someone who saw this first hand, Stripe’s fraud detection really works. Fraudulent transactions went down from ~2% to under 0.5% on hundreds of thousands of transactions per month. And it very likely saved our business at a very critical phase."_ This is what we're aiming for (and up against) with Stripe Radar and Stripe.js, and why we work on these technologies.)
+
+Otimization at the margin matters, and I want to draw your attention to an experience I just had.
+
 This experience just almost cost me setting up an account with Calendly. I was really on the fence about the integration, and I went with the upgrade because I knew I could use Stripe, and I knew that would mean it would be painless. If I had to use any other service, I probably wouldn't have upgraded.
 
 Again, for me, it was a trivial inconvenience. For someone else, it would be much more of a problem. Life and death, maybe, or at least money earned and value delivered. 
 
+
 ----------------------------
-
-I'm a software developer, and I just had a particularly bad experience with Stripe.
-
-It's only because I have such high esteem for your company and decision-making, I wanted to take the time to explain what happened, and in the right way.
-
-The "right way", to me, is one where I demonstrate my own skin-in-the-game, while also making it likely that you'll see this particular issue and perhaps fix it.
 
 I was just trying to hook up my Calendly account to my Stripe account. I'd finally pulled the plug on upgrading my account (in support of business I'm working on!) and of course wanted to route the funds through Stripe. 
 
@@ -81,4 +87,4 @@ I don't want to tweet it at Patric Collison and make it look like I'm trying to 
 
 But I also have so much other stuff I need to do, that I don't want to spend even more time figuring out how to get this to Stripe in the right way than I already have!
 
-- Josh
+\- Josh
