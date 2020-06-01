@@ -14,11 +14,11 @@ Hi there, Stripe!
 
 And that "measurable improvement" can be life and death with someone who has little enough margin in their life.
 
-Quoting from your [remote hub one year] piece:
+Quoting from Jay Shirley in [Stripe's remote engineering hub, one year in](https://stripe.com/blog/remote-hub-one-year):
 
 > ... We now refer to non-card payment options as “local payment methods”. This distinction recognizes and reminds us that while commerce is global, **the experience is local**.
 
-You care about the experience of individuals "at the margin". They are not many, but that does not mean their experience is less important to Stripe. In many ways, I believe, Stripe cares particularly deeply about the experience of those individuals. 
+The words I often hear you say translate to "Stripe cares about the experience of individuals _at the margins_, individuals many other organizations completely ignore."
 
 Easy example, quoting Patric Collison's comment [on this Hacker News thread](https://news.ycombinator.com/item?id=22936818)
 
