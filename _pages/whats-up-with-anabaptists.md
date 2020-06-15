@@ -69,25 +69,25 @@ Scroll down to `Persecutions and migrations`
 
 
 
-
+----------------------------------------
 
 I've got a few more interesting quotes from the book, this time as written by Weaver:
 
-Page 229, discussing why the 
+Page 229, discussing why there was so much conflict, and it's likely that _We modern folk do not understand why there was so much conflict_:
 
-If Anabaptists, Catholics, and Protestants shared as much in common as Snyder’s approach implies, it would then follow that neither side understood the issues at stake (pun intended!). 
-
-Those who were killing Anabaptists did not realize how much like themselves the Anabaptists were, and Anabaptists were giving up their lives for a faith that was quite close to that of their persecutors. 
-
-The implications that neither side understood the situation seems contradicted by the arguments of Peter Blickle, who said that the Peasants’ Reformation called for a restructuring of society that posed a clear challenge to the authorities, and that the authorities perceived that challenge. 
-
-It was this challenge to the authorities that provoked the violent response to the peasants that is called the Peasants’ War. 
-
-Anabaptists also posed a challenge to existing structures of church and society, even if a quite different challenge than that of the peasants. 
-
-Even when Anabaptists professed to be pacifists, their rejection of the state church and their rejection of the jurisdiction of political authorities in church matters were perceived as threats to the social order. 
-
-For the most part, Anabaptists were not martyred for a faith with great resemblances to Catholicism and Protestantism, but because Anabaptism posed an implied challenge to the existing structures.
+> If Anabaptists, Catholics, and Protestants shared as much in common as Snyder’s approach implies, it would then follow that neither side understood the issues at stake (pun intended!). 
+> 
+> Those who were killing Anabaptists did not realize how much like themselves the Anabaptists were, and Anabaptists were giving up their lives for a faith that was quite close to that of their persecutors. 
+> 
+> The implications that neither side understood the situation seems contradicted by the arguments of Peter Blickle, who said that the Peasants’ Reformation called for a restructuring of society that posed a clear challenge to the authorities, and that the authorities perceived that challenge. 
+> 
+> It was this challenge to the authorities that provoked the violent response to the peasants that is called the Peasants’ War. 
+> 
+> Anabaptists also posed a challenge to existing structures of church and society, even if a quite different challenge than that of the peasants. 
+> 
+> Even when Anabaptists professed to be pacifists, their rejection of the state church and their rejection of the jurisdiction of political authorities in church matters were perceived as threats to the social order. 
+> 
+> For the most part, Anabaptists were not martyred for a faith with great resemblances to Catholicism and Protestantism, but because Anabaptism posed an implied challenge to the existing structures.
 
 
 ### Other Quotes
