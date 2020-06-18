@@ -8,7 +8,7 @@ tags: [programming, turing]
 permalink: turing-backend-prep-01-intro
 ---
 
-This guide is a work-in-progress, so I hope you will reach out if you get stuck on anything. I'm in the Turing slack as `@josh_t`, or ping me via email at `thompsonjoshd` + google's popular email service. Or, get your Github practice on by [opening an issue](https://github.com/josh-works/josh-works.github.io/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) on the Github repo that backs this website. 
+This guide is a work-in-progress, so I hope you will reach out if you get stuck on anything. I'm in the Turing slack as `@josh_t`, or ping me via email at `joshthompson@hey.com`. 
 
 If you are working through this guide, and have a problem/hit a snag/get stuck/get really frustrated _I'd like to hear from you_. 
 

@@ -126,4 +126,4 @@ Once you've completed these seven steps, you're well on your way to de-linking d
 
 Updated 09/12/16 ([Thanks /u/notcrushingV16](https://www.reddit.com/r/climbing/comments/52fcvd/found_this_article_about_climbing_in_the_decking/d7juloj?context=10000))
 
-Feedback? Shoot an email to thompsonjoshd, using gmail's popular email service. 
+Feedback? Shoot an email to joshthompson@hey.com

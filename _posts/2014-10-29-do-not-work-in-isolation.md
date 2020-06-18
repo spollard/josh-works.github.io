@@ -40,8 +40,8 @@ To this end, I'm working on a small project over at www.belaybetter.com. The tas
 
 
 
-My biggest fear is that I'll reach out and no one will write back. I fear rejection. It's easier to "work" on this project in isolation. It's not scary to do that. But I know getting feedback from real people (silence is feedback) is far, far more helpful to me right now than additional isolated work. (If you lead climb, I'd love to talk to you - shoot me an email (thompsonjoshd,gmail) or 
-[tweet at me](https://twitter.com/thompsonjoshd) or something.)
+My biggest fear is that I'll reach out and no one will write back. I fear rejection. It's easier to "work" on this project in isolation. It's not scary to do that. But I know getting feedback from real people (silence is feedback) is far, far more helpful to me right now than additional isolated work. (If you lead climb, I'd love to talk to you - shoot me an email (joshthompson@hey.com) or 
+[tweet at me](https://twitter.com/josh-works) or something.)
 
 
 

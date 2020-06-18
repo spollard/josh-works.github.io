@@ -8,7 +8,7 @@ description: Schedule Office Hours with Josh Thompson!
 permalink: /office-hours
 ---
 
-If you'd like to chat with me about Turing, or software development, or career stuff, I'm quite pleased to do so. Just send an email to `thompsonjoshd` at Google's popular email service, and we'll set up a time to chat.
+If you'd like to chat with me about Turing, or software development, or career stuff, I'm quite pleased to do so. Just send an email to `joshthompson@hey.com`, and we'll set up a time to chat.
 
 This page is entirely cribbed from [robertheaton.com/office-hours](https://robertheaton.com/office-hours). I liked his offer and reasoning, and am spinning up the same. 
 
@@ -30,7 +30,7 @@ _If you're a member of a group that is underrepresented in the technology indust
 
 ## How do you sign up?
 
-Send me an email at `thompsonjoshd@gmail.com` with a few sentences on who you are and what you’d like to work on. I’ll email you right back with whether I think I can help, and we can get scheduling.
+Send me an email at `joshthompson@hey.com` with a few sentences on who you are and what you’d like to work on. I’ll email you right back with whether I think I can help, and we can get scheduling.
 
 ## What do I get out of this?
 
@@ -48,7 +48,7 @@ I'm a software developer. I've got a few years under my belt in both full-time a
 
 I’ve written a lot of about [programming](https://josh.works/tags#programming) and and [remote work](https://josh.works/tags#remote_work ) and [the Turing school](https://josh.works/tags#turing). 
 
-If you've read those posts and think I don't bite, drop me a line. Again, I'm `thompsonjoshd`, using the popular email service run by Google.
+If you've read those posts and think I don't bite, drop me a line. Again, I'm `joshthompson@hey.com`.
 
 
 ### What do I get out of this?
