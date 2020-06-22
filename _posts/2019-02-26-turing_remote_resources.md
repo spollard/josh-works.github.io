@@ -33,13 +33,13 @@ My goal was to telegraph competence to anyone I interacted with. So, one of my m
 
 No. I just type things on the internet, and make those easy to find. My email signature has a link to my website, which has a smattering of technical and non-technical posts, and my "about me" page makes sure to also telegraph competence. If you don't have a website, just hop onto Medium, and start writing some things. Here's examples of my "technical" posts:
 
-- [http://josh.works/block-value](http://josh.works/block-value)
-- [http://josh.works/metaprogramming-method-missing-01](http://josh.works/metaprogramming-method-missing-01)
-- [http://josh.works/blocks_and_closures](http://josh.works/blocks_and_closures)
-- [http://josh.works/first-pass-elixir-phoenix](http://josh.works/first-pass-elixir-phoenix)
-- [http://josh.works/elixir-phoenix-part-deux](http://josh.works/elixir-phoenix-part-deux)
+- [https://josh.works/block-value](https://josh.works/block-value)
+- [https://josh.works/metaprogramming-method-missing-01](https://josh.works/metaprogramming-method-missing-01)
+- [https://josh.works/blocks_and_closures](https://josh.works/blocks_and_closures)
+- [https://josh.works/first-pass-elixir-phoenix](https://josh.works/first-pass-elixir-phoenix)
+- [https://josh.works/elixir-phoenix-part-deux](https://josh.works/elixir-phoenix-part-deux)
 
-My "about" page is fairly friendly and comprehensive: [http://josh.works/about/](http://josh.works/about/)
+My "about" page is fairly friendly and comprehensive: [https://josh.works/about/](https://josh.works/about/)
 
 None of these posts are earth shattering (actually, they are *all* very basic) but it telegraphs:
 
