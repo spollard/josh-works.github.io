@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Remote Job Hunting Resources for Turing Grads and Anyone Else"
+title:  "Job hunting recommendations for early-career software developers"
 date:  2019-02-26 04:00:00 -0700
 crosspost_to_medium: true
 categories: [remote_work]
@@ -10,7 +10,9 @@ permalink: remote-job-resources
 
 _This is a collection of resources that come from a range of conversations I've had with Turing students. Some of it is specific to getting/working remotely, but most of it is (in my opinion) useful for any sort of role. Finally, I think "advice to others" is a tall order. All I know is things I did, and what seemed to correlate with good results. Correlation is not causation, etc._
 
-Other than this first section about finding remote-friendly jobs, everything below applies to _any_ job hunt. So, if you're not looking specifically for remote work, keep reading.
+Other than this first section about finding _remote-friendly_ jobs, everything below applies to any job hunt. So, even if you're not looking specifically for remote work, keep reading.
+
+This is a guide mostly about cold outreach.
 
 ## Where does one find remote-friendly jobs?
 
@@ -169,12 +171,44 @@ Write personalized, engaging emails to fifteen people, and you will *guaranteed*
 
 For another take on the same idea, read [Everyone thinks they’re hiring the top 1% (Joel Spolsky)](https://www.joelonsoftware.com/2005/01/27/news-58/). The numbers are far more favorable to you than you may be inclined to think.
 
-## My offer to you
+## FAQ
 
-If you email ten people, and don't get a response, ping me in slack. (@josh_t). I'll read over the emails you sent, and figure out how to tighten 'em up. 
+A guide like this leads to questions, of course. If your questions are not answered here, send them my way and I'll add them!
 
-If you've still not sent any cold emails, send me a doc containing the details you have for three companies you're interested in, as well as the contact person or contact email, and a draft of the email you'd like to send. 
+#### Who would you contact? Just the hiring managers, or does it make just as much sense to reach out to my potential peers.
 
-_I'll help you get the emails ready to send_. 
+I'd reach out to potential future peers first, with something like:
 
-_quick aside: in the year and a half since I've written this gist, it's been starred 11 times, forked four times, and at least fifteen people have personally reached out thanking me for putting this together. Not a **single person** has asked about help composing emails. Maybe all of y'all are great at writing emails and have cold outreach down pat, or maybe some of you **should** ask me for help but are not. This offer still stands._
+> Hi there, I'm doing some research on {your company}. Do you like the work that you do? Do you think it's likely you'll still be there in a year or two?
+
+And, if they say
+> No, I will not be here in a year
+
+That's a great spot to ask why. Maybe you don't want to join the team either!
+
+#### Any thoughts on best ways to get the right email address?
+
+Look up employees on LinkedIn; some of them will link out to twitter or personal websites or github or something on their linkedin page.
+
+Then start clicking around, trying to find a way to get in touch. (Github profile names are often the same as twitter handles, and often list a personal email address in the profile, for example)
+
+If they have their email address listed publicly, it's fair game to shoot them an email.
+
+#### Is there potential for cold outreach to do harm? Google, for instance, receives over 2 million applications per year. I could imagine this leading to feelings of frustration from HMs even when receiving a well-thought-out email.
+
+I am sure, but the vastly more probable outcome is you send them an email, and they don't write back.
+
+I always end these emails with:
+> No doubt you're super busy right now, so I'll bump this email up your inbox in a week or so if I don't hear back
+> - Josh
+
+and... a week later, if I don't hear back, I'll send a very short follow-up, and then leave it at that.
+
+I've done a lot of cold outreach, I've had plenty of non-responses, but never seen anything bad come from it.
+
+I've also worked with quite a few other people through the above process, and never seen bad results.
+
+It's a statistical guarantee that if you send enough of these, you'll eventually catch someone on a really bad day, but even then they'll probably just say:
+> don't email me
+
+and then you don't!
