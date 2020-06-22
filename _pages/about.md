@@ -27,23 +27,30 @@ I expect that my peace with life will be based not on how much I've worked, or h
 
 ## Theology
 
-I generally ascribe to the [Westminster Catechism](http://www.reformed.org/documents/WSC.html) (full disclosure, I couldn't spell catechism if it were not for spellcheck) and believe that about 2000 years ago, a man named Jesus lived, said things of enormous significance, died, and then rose again.
+About 2000 years ago, a man named Jesus lived, said things of enormous significance, died, and then rose again.
 
-You, too, have a theology. Statistically, it's probably _I don't care if there is/isn't a "god", but I wish people were not so terrible to each other._
+Surprisingly little about the above sentance is disputed in any circle, including academic circles full of people who _strongly dislike anything about Jesus today_.
 
-This is totally fine with me. I'm not writing about theology; I value when others lay out their _assumptions_ about the world, because that invariably impacts their _thoughts_ on the world.
+There are deep and profound implications in this event. [In this four-part series, Neil Shenvi outlines these implications quite nicely](https://shenviapologetics.com/why-should-we-believe-that-christianity-is-true-part-1-the-trilemma/)
 
-I, too must outline my assumptions about the world, so you can evaluate them, weigh them, glean any possible value from them, then discard the rest.
+Anyway, I don't write about theology much, but it feels reasonable to be up-front about my sources of influence, and my assumptions about the world. 
 
-Saying "I am a follower of Jesus Christ" comes with baggiage. For example: [The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity)
+I value when others lay out _their_ assumptions about the world, because that invariably impacts their _thoughts_ on the world.
 
-This book is about how the Evangelical church in Virgina used the Bible to justify slavery. 
+Saying "I am a follower of Jesus Christ" comes with baggage. 
 
-It was a travesty. 
+For example, as outlined in [The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity), the Evangelical church in Virgina spent many years using scripture to justify slavery. 
 
-As a starting point, I'd generally recommend reading [Confronting Christianity: 12 Hard Questions for the World's Largest Religion](https://www.goodreads.com/book/show/42248511-confronting-christianity)
+When I bring this book up with friends who are believers today, a common response is:
+> Yikes, that's pretty bad. Glad the church sorted it out!
 
+My concern is: _What else is the church so deeply wrong about today?_ 
 
+I've got lots of ideas. 😅
+
+Anyway, I've been recommending this book often, lately, as one of the few books about Christianity that I'm comfortable broadly endorsing to nearly anyone: [Confronting Christianity: 12 Hard Questions for the World's Largest Religion](https://www.goodreads.com/book/show/42248511-confronting-christianity)
+
+Questions? Send me an email!
 
 --------------------
 
