@@ -27,13 +27,23 @@ I expect that my peace with life will be based not on how much I've worked, or h
 
 ## Theology
 
-My theology is simple. I ascribe to the [Westminster Catechism](http://www.reformed.org/documents/WSC.html) (full disclosure, I couldn't spell catechism if it were not for spellcheck) and believe that about 2000 years ago, a man named Jesus lived, said things of enormous significance, died, and then rose again.
+I generally ascribe to the [Westminster Catechism](http://www.reformed.org/documents/WSC.html) (full disclosure, I couldn't spell catechism if it were not for spellcheck) and believe that about 2000 years ago, a man named Jesus lived, said things of enormous significance, died, and then rose again.
 
 You, too, have a theology. Statistically, it's probably _I don't care if there is/isn't a "god", but I wish people were not so terrible to each other._
 
 This is totally fine with me. I'm not writing about theology; I value when others lay out their _assumptions_ about the world, because that invariably impacts their _thoughts_ on the world.
 
 I, too must outline my assumptions about the world, so you can evaluate them, weigh them, glean any possible value from them, then discard the rest.
+
+Saying "I am a follower of Jesus Christ" comes with baggiage. For example: [The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity)
+
+This book is about how the Evangelical church in Virgina used the Bible to justify slavery. 
+
+It was a travesty. 
+
+As a starting point, I'd generally recommend reading [Confronting Christianity: 12 Hard Questions for the World's Largest Religion](https://www.goodreads.com/book/show/42248511-confronting-christianity)
+
+
 
 --------------------
 
@@ -76,7 +86,6 @@ This aforementioned intersection of software, and explaining, has led to a lot o
 Most of these people are enrolled, or considering enrolling, at the [Turing School of Software and Design](https://turing.io). 
 
 I've made [video walk-throughs for the entire "intro to Turing" prep material]([You can also look through the whole playlist](https://www.youtube.com/playlist?list=PLziI1EoC2-jdfrIdeqUNHYVTnq99uVm6I)), and a lot of the Ruby-focused material in the first quarter of the program. 
-
 
 I wrote a lot while at Turing. Some of that writing is published here, some are Github gists. [I built this collection]({{site.baseurl}}{% link _pages/turing.md %}) so I can easily point others to the same resources.
 
@@ -155,10 +164,9 @@ Comments/questions/criticisms? `joshthompson@hey.com`
 I'm other places on the internet, too:
 
 - [Twitter](https://twitter.com/josh_works)
-- [Instagram](https://www.instagram.com/josh.works/)
 - [Github](https://github.com/josh-works)
 - [Goodreads](https://www.goodreads.com/review/list/27372191?shelf=read&sort=date_read)
 - [LinkedIn](https://www.linkedin.com/in/joshworks/)
-- [RSS feed](https://josh.works/feed)
+- [RSS feed for this website](https://josh.works/feed)
 
 {% include newsletter.html %}
