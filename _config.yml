@@ -36,7 +36,6 @@ include: ['_pages']
 pages_list:
   about: '/about'
   archive: '/archive'
-  turing: '/turing'
   office hours: '/office-hours'
 
 
