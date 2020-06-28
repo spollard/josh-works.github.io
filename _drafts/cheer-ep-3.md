@@ -1,6 +1,6 @@
 ---
 layout: page
-title: On Cheer, Episode 3: Higher Education, College Sports, Cheerleading, Mass Media, Netflix, and Me: Oppressing the 2019 Navarrow Cheer Team
+title: "On Cheer, Episode 3: Higher Education, College Sports, Cheerleading, Mass Media, Netflix, and Me: Oppressing the 2019 Navarrow Cheer Team"
 status: draft
 type: post
 published: false
