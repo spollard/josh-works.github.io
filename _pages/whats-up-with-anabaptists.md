@@ -126,10 +126,13 @@ Here's a smattering of the literature I've begun, though I have not finished:
 
 ![so much reading on anabaptists](/images/2020-06-28-reading-list.jpg)
 
+---------------------------
 
-I don't want to keep sending this page to folks. Here's an easy way to 'engage in dialog':
+Hey there. Did you get to this page because I (Josh) sent you the URL? If so, punch your email in below. I want to keep this conversation rolling, but I don't want to be stuck re-asking everyone to visit this page.)
 
 <script async data-uid="4f0cd973a2" src="https://josh-thompson.ck.page/4f0cd973a2/index.js"></script>
+
+_Don't see an email signup form? You'll have to disable Javascript and reload the page. Sorry. I dislike Javascript-critical functionality as much as anyone, but I don't know a good technical work-around that gives me what I want without it._
 
 I want your feedback and challenges on what I write. You'll notice that I don't do comments, so I'd love for you to pop in your email address, and we'll chat through this as we go. 
 
