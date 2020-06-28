@@ -4,16 +4,30 @@ title:  "What's up with the Anabaptists?"
 date:  2020-06-14 06:00:00 -0700
 crosspost_to_medium: false
 categories: []
-description: I am baffled by the anabaptist religious tradition, and extremely intrigued. 
+description: I am baffled by the anabaptist religious tradition, and extremely intrigued. I'm researching, writing, and eagerly desire your input as I go.
 tags: []
 permalink: whats-up-with-anabaptists
 ---
 
-Here are the first ten sentances of a book that I read recently. 
+Hey there. Did you get to this page because I (Josh) sent you the URL? If so, punch your email in below. 
+
+I want to keep this conversation rolling, but I don't want to be stuck re-asking everyone to visit this page.)
+
+<script async data-uid="4f0cd973a2" src="https://josh-thompson.ck.page/4f0cd973a2/index.js"></script>
+
+_Don't see an email signup form? You'll have to disable Javascript and reload the page. Sorry. I dislike Javascript-critical functionality as much as anyone, but I don't know a good technical work-around that gives me what I want without it._
+
+If this is your first time on thtis page, ignore the email signup for now, keep reading, and I'll have another form at the bottom.
+
+I want your feedback and challenges on what I write. I don't do normal article comments, so I'd love for you to pop in your email address, and we'll chat through this as we go. 
+
+--------------------------------
+
+Here are the first ten sentances of a book that I read recently.
 
 I want to know if they strike you the same as they strike me.
 
-The book is authored by J Denny Weaver, and the foreward is written by William H Willimon. 
+The book is authored by J. Denny Weaver, an anabaptist scholar, and the foreward is written by William H. Willimon, a methodist bishop. 
 
 _After you read the these sentances, I'll provide a bit more context._
 
@@ -65,7 +79,7 @@ Scroll down to `Persecutions and migrations`
 
 > Roman Catholics and Protestants alike persecuted the Anabaptists, resorting to torture and execution in attempts to curb the growth of the movement. The Protestants under Zwingli were the first to persecute the Anabaptists, with Felix Manz becoming the first martyr in 1527
 
-> The persecution of Anabaptists was condoned by ancient laws of Theodosius I and Justinian I that were passed against the Donatists, which decreed the death penalty for any who practised rebaptism. Martyrs Mirror, by Thieleman J. van Braght, describes the persecution and execution of thousands of Anabaptists in various parts of Europe between 1525 and 1660.
+> The persecution of Anabaptists was condoned by ancient laws of Theodosius I and Justinian I that were passed against the Donatists, which decreed the death penalty for any who practised rebaptism. _Martyrs Mirror_, by Thieleman J. van Braght, describes the persecution and execution of thousands of Anabaptists in various parts of Europe between 1525 and 1660.
 
 
 
@@ -73,13 +87,13 @@ Scroll down to `Persecutions and migrations`
 
 I've got a few more interesting quotes from the book, this time as written by Weaver:
 
-Page 229, discussing why there was so much conflict, and it's likely that _We modern folk do not understand why there was so much conflict_:
+On page 229, Weaver discusses why "there was so much conflict" (AKA burning people at the stake and drowning people). He says it's overwhelmingly likely that _we modern folk who are quick to dismiss this conflict as arcane disagreements about baptism do not understand why there was so much conflict_:
 
 > If Anabaptists, Catholics, and Protestants shared as much in common as Snyder’s approach implies, it would then follow that neither side understood the issues at stake (pun intended!). 
 > 
-> Those who were killing Anabaptists did not realize how much like themselves the Anabaptists were, and Anabaptists were giving up their lives for a faith that was quite close to that of their persecutors. 
+> [snyder proposed that] those who were killing Anabaptists did not realize how much like themselves the Anabaptists were, and Anabaptists were giving up their lives for a faith that was quite close to that of their persecutors. 
 > 
-> The implications that neither side understood the situation seems contradicted by the arguments of Peter Blickle, who said that the Peasants’ Reformation called for a restructuring of society that posed a clear challenge to the authorities, and that the authorities perceived that challenge. 
+> The implications that neither side understood the situation seems contradicted by the arguments of [someone else], who said that the Peasants’ Reformation called for a restructuring of society that posed a clear challenge to the authorities, and that the authorities perceived that challenge. 
 > 
 > It was this challenge to the authorities that provoked the violent response to the peasants that is called the Peasants’ War. 
 > 
@@ -92,7 +106,7 @@ Page 229, discussing why there was so much conflict, and it's likely that _We mo
 
 ### Other Quotes
 
-_This is a few sentances from an appendix, answering the question "why do you refuse to talk about similarities between Anabaptists and other denominations"?_
+_Here are a few sentances from the appendix, answering the question "why do you refuse to talk about similarities between Anabaptists and other denominations"?_
 
 > Starting with points of agreement intrinsically favors the side or the group that represents the dominant perspective. 
 > 
@@ -126,15 +140,20 @@ Here's a smattering of the literature I've begun, though I have not finished:
 
 ![so much reading on anabaptists](/images/2020-06-28-reading-list.jpg)
 
+Since posting the above, I've re-read _Becoming Anabaptist_, and read (for the first time) _The Naked Anabaptist_, in addition to some other unrelated books.
+
+A thread is rapidly coalescing in my mind, and I need your help. So, lets continue this conversation via email, because so far, this is just _me_ writing words to _you_. I want you to be able to respond.
+
+
 ---------------------------
 
-Hey there. Did you get to this page because I (Josh) sent you the URL? If so, punch your email in below. I want to keep this conversation rolling, but I don't want to be stuck re-asking everyone to visit this page.)
+Now that you've read this far, if you're curious to keep digging (the story gets even better and more important):
 
 <script async data-uid="4f0cd973a2" src="https://josh-thompson.ck.page/4f0cd973a2/index.js"></script>
 
-_Don't see an email signup form? You'll have to disable Javascript and reload the page. Sorry. I dislike Javascript-critical functionality as much as anyone, but I don't know a good technical work-around that gives me what I want without it._
+_Don't see an email signup form? You'll have to disable Javascript and reload the page._
 
-I want your feedback and challenges on what I write. You'll notice that I don't do comments, so I'd love for you to pop in your email address, and we'll chat through this as we go. 
+I want your feedback and challenges on what I write. 
 
 
 
