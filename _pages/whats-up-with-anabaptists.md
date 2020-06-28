@@ -116,4 +116,23 @@ Another paragraph from the same appendix:
 
 I'd love your thoughts.
 
+## Update: 2020-06-28 
+
+_two weeks after sharing around what you've so far, I've done more digging, have some more updates_
+
+So, I've gone down a bit of a rabbit hole. 
+
+Here's a smattering of the literature I've begun, though I have not finished:
+
+![so much reading on anabaptists](/images/2020-06-28-reading-list.jpg)
+
+
+I don't want to keep sending this page to folks. Here's an easy way to 'engage in dialog':
+
+<script async data-uid="4f0cd973a2" src="https://josh-thompson.ck.page/4f0cd973a2/index.js"></script>
+
+I want your feedback and challenges on what I write. You'll notice that I don't do comments, so I'd love for you to pop in your email address, and we'll chat through this as we go. 
+
+
+
 
