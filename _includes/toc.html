@@ -1,3 +1,4 @@
+<h3 class="table-of-contents">Table of Contents</h3>
 {% capture tocWorkspace %}
     {% comment %}
         Version 1.0.12
@@ -35,7 +36,6 @@
     {% assign maxHeader = include.h_max | default: 3 %}
     {% assign nodes = include.html | split: '<h' %}
     {% assign firstHeader = true %}
-
     {% capture listModifier %}{% if orderedList %}1.{% else %}-{% endif %}{% endcapture %}
 
     {% for node in nodes %}
