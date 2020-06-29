@@ -32,7 +32,7 @@ Plus, Jekyll is written in Ruby, so it has lots of pieces I'm quite familiar wit
 
 I pulled from lots of articles others had written, to figure out all sorts of little tweaks. Here's the list that I drew most heavily from:
 
-### Jekyll Migration Resources
+### Initial Jekyll Migration Resources
 
 - [Using the Poole theme](http://joshualande.com/jekyll-github-pages-poole)
 - [Enabling SSL connections with Github pages and a custom domain](https://rck.ms/jekyll-github-pages-custom-domain-gandi-https-ssl-cloudflare/)
@@ -52,3 +52,15 @@ There are still some modifications I want to make, like how code snippets run of
 There's still plenty for me to learn with Jekyll, but I'm getting there.
 
 Until then, I'll probably be posting a lot more online. Since it's so easy.
+
+
+### Additional resources I've made use of since 2017
+
+Since switching to Jekyll in 2017, I've made additional changes. I'll list useful resources here as I go.
+
+- [Jekyll Pure Liquid Table of Contents](https://github.com/allejo/jekyll-toc) Auto-generate Table of Contents, _no javascript required_. So nice.
+- [Jekyll Pure Liquid Heading Anchors](https://github.com/allejo/jekyll-anchor-headings)
+
+### Misc other notes
+
+I recently made [this gist](https://gist.github.com/josh-works/a78f0f904af8b18123c2b9b48387722d) to help mod 1 backend Turing students get up and running on Jekyll. I'll convert that gist to a proper page on my website soon.
