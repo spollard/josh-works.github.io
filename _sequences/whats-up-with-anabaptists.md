@@ -1,6 +1,7 @@
 ---
 name: "what's up with the anabaptists"
 ck_url: https://app.convertkit.com/sequences/645696
+status: published
 last-updated: "2020-06-28"
 ---
 
@@ -46,6 +47,23 @@ It's ok if the answer is "not much". That's where I was when I started this.
 
 
 ### Email 2, send 4 days later.
+
+---
+status: draft
+
+---
+
+After reading [Becoming Anabaptst](), I was so curious to learn more.
+
+So, I ordered [The Naked Anabaptist]() by AUTHOR.
+
+Provocative reading, to be sure. 
+
+### Email 3, send 4 days later.
+
+I updated the `theology` section of [my about page](https://josh.works/about)
+
+
 
 
 

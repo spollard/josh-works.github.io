@@ -27,7 +27,7 @@ I expect that my peace with life will be based not on how much I've worked, or h
 
 ## Theology
 
-About 2000 years ago, a man named Jesus lived, said things of enormous significance, died, and then rose again.
+About 2000 years ago, a man named Jesus lived, said and did things of enormous significance, died, and then rose again.
 
 Surprisingly little about the above sentance is disputed in any circle, including academic circles full of people who _strongly dislike anything about Jesus today_.
 
@@ -41,12 +41,12 @@ Saying "I am a follower of Jesus Christ" comes with baggage.
 
 For example, as outlined in [The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity), the Evangelical church in Virgina spent many years using scripture to justify slavery. 
 
-When I bring this book up with friends who are believers today, a common response is:
+When I bring this book up with people who self-identify as followers of Christ today, a common response is:
 > Yikes, that's pretty bad. Glad the church sorted it out!
 
-My concern is: _What else is the church so deeply wrong about today?_ 
+My concern is: _I don't think the white church in America "sorted" any of this out, and the errors that led it to embrace slavery then are still alive and active today._ 
 
-I've got lots of ideas. 😅
+I'm not a lot of fun in many Christian circles. 😅
 
 Anyway, I've been recommending this book often, lately, as one of the few books about Christianity that I'm comfortable broadly endorsing to nearly anyone: [Confronting Christianity: 12 Hard Questions for the World's Largest Religion](https://www.goodreads.com/book/show/42248511-confronting-christianity)
 
@@ -72,7 +72,7 @@ I used to believe that personal relationships were of little value. I was a fool
 
 ## Programming and Software Development
 
-My day job is to solve problems, usually by writing code (or, really, reading a ton of it, and then writing a little bit).
+My day job is to solve problems, usually by reading a lot (code, design documents) and then writing more of the same.
 
 This reading and writing means I spend most of my day trying to do things that I don't currently know how to do.
 
