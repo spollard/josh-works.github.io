@@ -61,8 +61,41 @@ Provocative reading, to be sure.
 
 ### Email 3, send 4 days later.
 
+---
+status: draft
+subject: "Followers of Christ should not kill other followers of Christ"
+---
+
 I updated the `theology` section of [my about page](https://josh.works/about)
 
+I'm bumping the emphasis of 'follower of Christ', and deemphasizing identification with any specific theological tradition, though I still lean hard toward the Presbyterian church, and of course Kristi and I are active members of our church, [Denver Pres]().
+
+I am going to re-read a rather uncomfortable book I first read years ago:
+
+[The Origins of Proslavery Christianity: White and Black Evangelicals in Colonial and Antebellum Virginia](https://www.goodreads.com/book/show/2507760.The_Origins_of_Proslavery_Christianity)
+
+I'll toss some notes into this thread as I do. 
+
+Watching how the pandemic and then the george floyd protests and #BlackLivesMatter has spread across the nation, I keep thinking of a line in _The Naked Anabaptist_ which has stuck with me.
+
+Paraphrasing, the author said:
+
+> I have a poster on the wall of my office, quoting [someone] making a modest proposal:
+>
+>> Followers of Christ should not kill other followers of Christt
+
+Seems straight forward, right?
+
+The implications are profound. 
+
+- Josh
+
+### Email 4, sent 4 days later
+
+--- 
+status: draft
+subject: 
+--- 
 
 
 
