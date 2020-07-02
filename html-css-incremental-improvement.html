@@ -4,6 +4,7 @@ title: "A little CSS goes a long way"
 permalink: incremental-css
 ---
 
+
 <h1>A Little CSS Goes a Long Way</h1>
 
 <p><a href="/">by Josh Thompson</a></p>
@@ -12,7 +13,7 @@ permalink: incremental-css
 
 <a id="startOver" href="#startOver">start over again</a>
 
-<section id="start">
+<section id="start" class="step0">
   
 <p>I wanted to learn some basic styling. I've done back-end development most of my professional career, hardly ever had to weigh in on the front-end.</p>
 
@@ -23,8 +24,30 @@ permalink: incremental-css
 <p>So, I'm here to talk about styling, html, css, and javascript, but what is <a id="showContent" href="#content">more important than all of those things?</a></p>
 </section>
 
-<section id="content" class="hidden">
-  <p>I am visible now! Crazy that this is working.</p>
+<section id="content" class="step1 hidden">
+  <h1>Words! Feelings! Information!</h1>
+  <p>Certainly many websites deliver things besides words (Netflix, Youtube) but I'd argue most of stuff we do on the web comes down to reading text.</p>
+  <p>For example, you're reading this text right now</p>
+  <p>These words are sometimes called "content", but I would argue that labeling this as simple 'content' undervalues what is happening here.</p>
+  <p>See, people are <a href="https://en.wikipedia.org/wiki/Memetics">memetic</a></p>
+  <p>Without going too far into this, I'm broadly classifying this as "people are strongly influenced by ideas and beliefs, and ideas and beliefs can spread through a person's mind and a group of people just like a virus might."</p>
+  <p>But the best words, the most compelling ideas, if presented in an unreadable way, will fail to have an effect.</p>
+  <p>as a proof of concept, when is the last time you've found an idea, written in Thai, to shape your daily actions?</p>
+  <p>Probably never, unless you happen to be a Thai speaker.</p>
+  <p>Parenthetically, it causes me discomfort to think of all amazing ideas and stories in the world, that are amazing precicely because the author/story-teller has no knowledge of English.</p>
+  <p>I will never know these ideas, because we cannot converse directly with each other.</p>
+  <p>Anyway, we ought to care about legibility.</p>
+  <p>To that end, lets improve the styling here a little bit.</p>
+  
+  <p>in our styles.css document:</p>
+ 
+  <pre>
+    body {
+      margin: 0 auto;
+      max-width: 50em;
+    }
+
+  </pre>
 </section>
 
 <section>
