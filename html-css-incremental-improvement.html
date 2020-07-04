@@ -6,62 +6,81 @@ permalink: incremental-css
 
 
 <h1>A Little CSS Goes a Long Way</h1>
+<section id="start">
 
-<p><a href="/">by Josh Thompson</a></p>
+  <p><a href="/">by Josh Thompson</a></p>
 
-<p><em>heavily inspired by (or really copied from) <a href="https://jgthms.com/web-design-in-4-minutes/">Web Design in 4 Min (jgthms.com)</a></em></p>
+  <p><em>heavily inspired by and copied from <a href="https://jgthms.com/web-design-in-4-minutes/">Web Design in 4 Min (jgthms.com)</a></em></p>
 
-<a id="startOver" href="#startOver">start over again</a>
+  <p>I wanted to learn some basic styling. I've done back-end development most of my professional career, hardly ever had to weigh in on the front-end.</p>
 
-<section id="start" class="step0">
+  <p>But, over here on my own personal website, I've got a bunch of modifications I want to make.</p>
   
-<p>I wanted to learn some basic styling. I've done back-end development most of my professional career, hardly ever had to weigh in on the front-end.</p>
+  <p>Specifically, I want come up with a way to add footnotes and annotations to my own writing. Maybe something similar to how Nate Berkopec (<a href="https://www.nateberkopec.com/blog/2019/12/17/year-in-review.html">example</a>) or Tim Urban (<a href="https://waitbutwhy.com/2019/09/thinking-ladder.html">example</a>) does it. </p>
 
-<p>But, over here on my own personal website, I've got a bunch of modifications I want to make.</p>
-  
-<p>Specifically, I want come up with a way to add footnotes and annotations to my own writing. Maybe something similar to how Nate Berkopec (<a href="https://www.nateberkopec.com/blog/2019/12/17/year-in-review.html">example</a>) or Tim Urban (<a href="https://waitbutwhy.com/2019/09/thinking-ladder.html">example</a>) does it. </p>
-
-<p>So, I'm here to talk about styling, html, css, and javascript, but what is <a id="showContent" href="#content">more important than all of those things?</a></p>
+  <p>So, I'm here to talk about HTML, CSS, and JavaScript, but what is <a class="step" data-step="0" href="#content">more important than all of those things?</a></p>
 </section>
 
-<section id="content" class="step1 hidden">
-  <h1>Words! Feelings! Information!</h1>
+<section id="content" class="hidden">
+  <h2>Words, Ideas, and Memes</h2>
   <p>Certainly many websites deliver things besides words (Netflix, Youtube) but I'd argue most of stuff we do on the web comes down to reading text.</p>
   <p>For example, you're reading this text right now</p>
-  <p>These words are sometimes called "content", but I would argue that labeling this as simple 'content' undervalues what is happening here.</p>
-  <p>See, people are <a href="https://en.wikipedia.org/wiki/Memetics">memetic</a></p>
-  <p>Without going too far into this, I'm broadly classifying this as "people are strongly influenced by ideas and beliefs, and ideas and beliefs can spread through a person's mind and a group of people just like a virus might."</p>
-  <p>But the best words, the most compelling ideas, if presented in an unreadable way, will fail to have an effect.</p>
-  <p>as a proof of concept, when is the last time you've found an idea, written in Thai, to shape your daily actions?</p>
-  <p>Probably never, unless you happen to be a Thai speaker.</p>
-  <p>Parenthetically, it causes me discomfort to think of all amazing ideas and stories in the world, that are amazing precicely because the author/story-teller has no knowledge of English.</p>
-  <p>I will never know these ideas, because we cannot converse directly with each other.</p>
-  <p>Anyway, we ought to care about legibility.</p>
-  <p>To that end, lets improve the styling here a little bit.</p>
-  
-  <p>in our styles.css document:</p>
- 
+  <p>Let's improve the readability a little bit, by limiting the line length.</p>
+  <p>in our <code>styles.css</code> document:</p>
   <pre>
     body {
       margin: 0 auto;
       max-width: 50em;
     }
-
   </pre>
+  <p>(If you're on mobile, you won't see a difference)</p>
+  <p>It's important that words be easily read, and easily understood, as far as is possible.</p>
+  <p>These words are sometimes called "content", but I would argue that labeling this as simple 'content' undervalues what is happening here.</p>
+  <p>See, people are <a href="https://en.wikipedia.org/wiki/Memetics">memetic</a>.</p>
+  <p>I'm broadly defining "people are memetic" as <em>people are strongly influenced by ideas and beliefs, and ideas and beliefs can spread through a person's mind and a group of people just like a virus might.</em>
+  <p>But the best words, the most infectious ideas, if presented in an unreadable way, will fail to have an effect.</p>
+  
+  <p>คนใจดีไม่ควรฆ่าคนใจดี</p>
+  <p>What do you think of this idea? Is it compelling? Do you agree or disagree? What about edge cases? It's mostly true but not always?</p>
+  <p>Unless you happen to be a Thai speaker (or are quick with Google Translate) you have no idea if this is a "contageous" idea, a good idea, a bad idea, or anything else about it.</p>
+  <p>Parenthetically, it causes me discomfort to think of all amazing ideas and stories in the world, that are amazing precicely because the author/story-teller has no knowledge of English.</p>
+  <p>I will never know these ideas, because we cannot converse directly with each other.</p>
+  <p>Anyway, we ought to care about legibility.</p>
+  <p>Besides limiting the line length, we ought to 
+    <a class="step" data-step="1" href="#text-styling">style the text itself.</a></p>
 </section>
 
-<section>
-  test content 2
+<section id="text-styling" class="hidden">
+  <h2>Lose the serifs</h2>
+  I prefer a font without serifs, or "san-serif". Lets add to our <code>styles.css</code> the following:
+  
+  <pre>
+    body: {
+      font-family: "Helvetica", "Arial", sans-serif;
+    }
+  </pre>
+  
+  <p>But now, the text feels a little crowded, don't you think? Especially on long lines where the words wrap without line breaks. This paragraph is getting to be rather long, and it's feeling crowded already. If I had the audacity to make this paragraph multiple (long) sentances long, the way it would wrap would make it more than just a daunting block of text to wade into -- it would make it hard for the eye to follow along and avoid skipping up and down.</p>
+  <p><a class="step" data-step="2" href="#spacing">What to you need beyond a better font?</a></p>
 </section>
 
-<section>
-  test content 3
+<section id="spacing" class="hidden">
+  <h2>Text Spacing</h2>
+  <p>By adding a little whitespace here and there, the text can "breath".</p>
+  <p>I know die-hard readers out there would insist that the text should be dense, and the form factor doesn't matter.</p>
+    <a class="step" data-step="3" href="#color-and-contrast"></a>
 </section>
 
-<section>
-  test content 4
+<section id="colors-and-contrast" class="hidden">
+  <h2>Color and Contrast</h2>
+  <p>words</p>
+  <a class="step" data-step="4" href="#color-and-contrast"></a>
 </section>
 
 
+<br />
+<br />
+
+<em><a id="startOver" href="#startOver">start over again</a></em>
 
 

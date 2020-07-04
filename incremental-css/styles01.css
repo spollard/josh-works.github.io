@@ -1,27 +1,32 @@
-/* * {
-  border: dashed 1px;
-  border-color: black;  
-  color: red;
-} */
-
-/* 00 start */
-
-html.step0 {
-  border: dashed 1px;
-  border-color: black;
-  color: blue;
+/* Global/initial settings */
+.hidden {
+  display: none;
 }
 
-html.step1 #content {
-  display: block;
-  margin: 0 auto;
-  max-width: 50em;
-}
+/* 00 Start */
+
+
+
+/* 01 Centering */
 
 html.step1 #centering {
   display: block;
 }
 
-.hidden {
-  display: none;
+html.step1 header,
+html.step1 main {
+  margin: 0 auto;
+  max-width: 50em;
 }
+
+/* 02 Text Styling */
+
+html.step2 #font-family {
+  display: block;
+}
+
+html.step2 body {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+
