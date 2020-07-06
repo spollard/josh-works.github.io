@@ -14,11 +14,18 @@ You might be curious about [the Turing School of Software and Design](https://ww
 
 Over the years, I've answered a lot of questions via email about Turing. In an effort to save you (and me!) some time, I'm going to start porting over broad chunks of email correspondence here.
 
+[Turing announced that they're going remote for the rest of 2020, because Covid, _and_ that anyone who starts remotely can finish remotely](https://writing.turing.io/our-new-normal/). If you don't live in Denver, and are thinking about software development, this is a good time.
+
+I strongly recommend the back-end program, and can almost guarantee that you'll be successful in it, if you reach out to me before you start and we game-plan the strategy. I've personally helped hundreds of Turing students be successful. [This is my approach for how to be successful at Turing]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %}). 
+
+I have vastly less experience with the front-end curriculum, so if you decide on Turing but do the front-end program, you're mostly on your own. If something like Turing is a big risk to you, please do the back-end program. I will be able to provide much more help along the way. 
+
+
 ### FAQ/index
 
 Here's questions I've received via email, and their answers. 
 
-I've just copy/pasted chunks of emails, so I pardon spots of confusion of lack of context. Please let me know if you have additional questions, or am confused by something written below. I'll provide context if I can. 
+I've just copy/pasted chunks of emails, so I pardon spots of confusion of lack of context. Please let me know if you have additional questions, or am confused by something written below. I'll provide context if I can. Shoot me an email at `joshthompson@hey.com`
 
 - [Could you elaborate on what your life looked like right after you finished Turing?](#could-you-elaborate-on-what-your-life-looked-like-right-after-you-finished-turing)
 - [What was your first job? Did you feel supported by your employer?](#what-was-your-first-job-did-you-feel-supported-by-your-employer)
@@ -44,7 +51,9 @@ I've just copy/pasted chunks of emails, so I pardon spots of confusion of lack o
 
 _This is what I wrote in June 2019. I'm no longer at Proofpoint, but this is still worth sharing_
 
-Right after I finished Turing, I was very tired. I was worn out by the end of the program, and looking forward to recovery time. My wife works, and has been very supportive of this project, so I was extremely that we were in the black, even when I wasn't working. We had some travel planned for the east coast, and she'd recommended I string together some climbing trips while out there, so while she was doing some work and personal travel, I spent a few weeks alternating between rock climbing and doing some low-level job hunt and programming practice stuff.
+Right after I finished Turing, I was very tired. I was worn out by the end of the program, and looking forward to recovery time. My wife works, and has been very supportive of this project, so I was extremely fortunate that our financial situation was such that I didn't feel enormous pressure to immediately get a job after Turing.
+
+We had some travel planned for the East coast (friend's weddings), and since some of my favorite climbing areas are on the East coast, we decided that I would string together some climbing trips while out there, while she was doing some work and personal travel. I spent a few weeks alternating between rock climbing and doing some low-level job hunt and programming practice stuff.
 
 Partially because of my past sales experience, I felt comfortable on the job hunt. I'm good at email, and knew it was a matter of time. I wrote a gist which turned [into this blog post](https://josh.works/remote-job-resources), about this process.
 
