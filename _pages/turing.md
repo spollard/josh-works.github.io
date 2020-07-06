@@ -16,9 +16,17 @@ Over the years, I've answered a lot of questions via email about Turing. In an e
 
 [Turing announced that they're going remote for the rest of 2020, because Covid, _and_ that anyone who starts remotely can finish remotely](https://writing.turing.io/our-new-normal/). If you don't live in Denver, and are thinking about software development, this is a good time.
 
-I strongly recommend the back-end program, and can almost guarantee that you'll be successful in it, if you reach out to me before you start and we game-plan the strategy. I've personally helped hundreds of Turing students be successful. [This is my approach for how to be successful at Turing]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %}). 
+I strongly recommend the back-end program, and can almost guarantee that you'll be successful in it, if you reach out to me before you start and we game-plan the strategy. I've personally helped dozens of Turing students be successful, and indirectly, multiples of that. [This is my approach for how to be successful at Turing]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %}). 
+
+If you want to jump right in and see what kind of projects you'll complete _before Turing even starts_ head over to [this directory of exercises](https://github.com/turingschool/ruby-exercises).
 
 I have vastly less experience with the front-end curriculum, so if you decide on Turing but do the front-end program, you're mostly on your own. If something like Turing is a big risk to you, please do the back-end program. I will be able to provide much more help along the way. 
+
+More questions? I link to these below in various spots, but I would direct your attention to three resources:
+
+- [This podcast with a Turing grad - she quit college, attended Turing, and is working in the industry now](https://www.nateliason.com/podcast/bekah-lundy)
+- [This podcast episode with the founder of Turing, talking about what the school is, why it's so odd, and more](https://www.codenewbie.org/podcast/the-not-bootcamp)
+- [This list of reviews of Turing by Turing grads](https://www.coursereport.com/schools/turing#/reviews)
 
 
 ### FAQ/index
