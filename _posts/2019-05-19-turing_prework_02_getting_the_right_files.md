@@ -52,7 +52,7 @@ Throughout this whole process, I hope you maintain a sense of curiosity about th
 I've included a video walkthrough, starting from once you've cloned down the files:
 
 <div class="container">
-<iframe class="video" src="https://www.youtube.com/embed/BKqo2w0W7S0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube.com/embed/aeAkLxr5diE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
