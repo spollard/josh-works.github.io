@@ -57,3 +57,68 @@ Next, I don't think _most_ adults in America have the same lense on the world as
 - high-performing athletic communities (rather accomplished rock climbers)
 - Rationalist/effective altruism communities
 
+
+------------------
+
+Comments I'd share with highschoolers and a past version of me:
+
+### Learning something you don't want to learn is between "useless" and "harmful"
+
+### You will be forced to comply with the norms and expectations of those in authority
+
+This was my constant struggle in highschool. Play the game as well as you must until you're out of the house and independent. 
+
+### If you can convince those who have power over you to get your GED then drop out of highschool, do so
+
+### College is a catastrophic waste of time and money. Embrace the constraint of imagining a future where you're successful without college
+
+Most people that are 40 years old and up have an affinity to college. This is reasonable, based on their experience, but the world had changed dramatically since they were in school.
+
+As you're repeatedly told to go to college, thank them for their care for you (they want good things for you!) and then plan on not going to college. Don't make a big stink about it. You can say "I've not decided what college to go to" or "I've not decided what major I might choose" which allows you to be technically truthful, but they will infer from your words that you're going to college, and they'll stop pestering you. 
+
+### Start writing things down. Write online. 
+
+### I have mixed feelings on twitter... probably avoid?
+
+### Most people who read this will be or have been addicted to porn. Start planning on breaking that addiction.
+
+Read this: [A Science-Based Case for Ending the Porn Epidemic](https://amgreatness.com/2019/12/15/a-science-based-case-for-ending-the-porn-epidemic/) (from December, 2019. Modern porn is not your parent's dirty magazines)
+
+### Most of the world treats you like a child. You're not, but you don't yet have the power to force them to respect you. 
+
+Read the following books:
+
+- [The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure](https://www.goodreads.com/book/show/36556202-the-coddling-of-the-american-mind)
+- [How to Raise an Adult: Break Free of the Overparenting Trap and Prepare Your Kid for Success](https://www.goodreads.com/book/show/23168823-how-to-raise-an-adult)
+
+> Josh, these books are not written to me, they're written to my parents
+
+Correct. Your parents probably have not and will not read these books, so you're going to have to do their work for them. 
+
+Read those books, then read:
+
+[Getting to Yes: Negotiating Agreement Without Giving In](https://www.goodreads.com/book/show/313605.Getting_to_Yes)
+
+This is something I desperately wish I knew in highschool. Your parents (and mine!) are as uncertain about the world as you are. They have strong opinions about how things should be done, but they have far more power than you do. So, read this book on negotiation (It's widely regarded as the best book on the topic) and then start negotiating with your parents.
+
+The key piece of this negotiation is:
+
+> If you can help them get what you want, you can probably have a lot more of what you want. 
+
+So, they want a child that seems responsible, respectful, competent, driven, etc. You can demonstrate all of these traits to them by _effectively negotiating for your life to be more the way you want it to be_. 
+
+This advice might initially cause parents consternation, as it seems like I'm circumnavigating their authority by talking straight to you, and giving you tools to "manage" them. 
+
+Eh. The world is an unfriendly place, and ultimately this advice will promote a healthy relationship between you and then.
+
+### Start studying the general topic of "emotional intelligence"
+
+Observing, understanding, and influencing your own emotions will go far farther to influence your overall quality of life than nearly any other topic/accomplishment/product you will encounter in your life.
+
+Rich and successful people regularly feel such despair they dull their life with drugs, alcohol, sensation-seeking behaviors, and suicide. 
+
+Conversely, there are persons in the midst of such tragic circumstances literally nothing about their life seems desirable except the joy and peace they feel.
+
+This contrast is important. Why is it that poor people can be happy, and rich people take their own life?
+
+Until you understand the moving pieces... be concerned. 

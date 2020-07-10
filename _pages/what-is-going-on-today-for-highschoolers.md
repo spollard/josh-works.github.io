@@ -15,6 +15,11 @@ Dan Carlin said, paraphrasing:
 
 ## Resources
 
-
+- Waco documentary
+- Dust Bowl documentary
+- Vietnam War documentary
+- Dan Carlin's podcasts
+- Youtube, youtube, youtube
+- Write things online. Pseudonominously, if you'd like. 
 
 
