@@ -121,4 +121,53 @@ Conversely, there are persons in the midst of such tragic circumstances literall
 
 This contrast is important. Why is it that poor people can be happy, and rich people take their own life?
 
-Until you understand the moving pieces... be concerned. 
+Until you understand the implications of the contrast between these perspectives, be concerned, and don't commit too hard to someone else's plan for your life. 
+
+### The world is distinctly unfair
+
+### Injustice abounds. You've already experienced this. It's worse than any of us can fully appreciate.
+
+### If you're not content with your body composition, "calories in and calories out" is a discredited view of controlling weight.
+
+Read:
+
+- [The Case Against Sugar]
+- [James Clear Intermittent Fasting]
+- [Nerd Fitness Intermittent Fasting]
+
+### An overattachment to "stuff" may well ruin your finances and your life
+
+### Figuring out how to cook for yourself is surprisingly challenging
+
+I feel like I've finally figured out all my meals, tolerably well, in my 31st year.
+
+I always felt like I was an idiot for not knowing how to grocery shop efficiently and make cook well.
+
+I adopted intermittent fasting when I was 25, and went from three daily meals to two. (Lunch and dinner). That saved me a _lot_ of daily struggle around food.
+
+I also eat the exact same thing every day for lunch. Once a week I fill a gallon tupperware container with chopped veggies.
+
+- Carrots
+- Sweet potatoes
+- onions
+- peppers
+- garlic
+- anything else
+
+I scoop a bunch of it into a pan, dump in a lot of coconut oil and olive oil, sautée until soft, then add five or six eggs. 
+
+It's easy and quick, and you can find the necessary ingredients anywhere in the world.
+
+I also generally don't snack. I eat lunch, I eat dinner, and I eat almost nothing else. 
+
+Next, dinners... are hard. I felt shame about how hard it was for me to reliably plan for and grocery shop for dinners. 
+
+So, learn from people that seem to easily prepare healthy food for dinner. With a little bit of attentive work in this direction. Your health and your finances are in the balance.
+
+### Most people around you are bad with their money, so try to not be influenced by them
+
+- ynab
+- your money or your life
+- mister money moustache
+
+
