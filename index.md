@@ -9,33 +9,32 @@ I'm Josh. I do a mix of things, mostly related to software development, rock cli
 
 My wife and I are based in Golden, CO. 
 
-# Currently Working On:
+# What I'm working on right now
 
-_Helping early-career software developers become mid-career software developers months quicker than it would otherwise take._
+I'm working on helping early-career ruby/rails software developers more quickly grow their skills. 
 
-I'm working on resources to help early-career software developers more quickly feel confident and competent in their skills. 
+I'm doing this here: 
 
-I've got a few years years of professional development experience under my belt.
+**[--> https://intermediateruby.com/](https://intermediateruby.com/)**
 
-This amount of experience means I'm experienced enough that I can see the ideal end goal, in terms of skills and knowledge, but I'm new enough that I remember what it was like to still be pretty overwhelmed by most of what I had to do. 
+I'm working quite actively on it. 
 
-My basic goal is "time compression". 
+But I'm working on a lot more than just this. 
 
-Using resources I'm making, I want you to learn _almost_ as much as I know about a certain topic, but I want you to learn it in 1/10th the time it took me to learn it.
-
-So far, I'm focusing on Ruby/Rails specific topics. 
-
-You'll get about 1 email a week, straight from my keyboard to your inbox.
+If you want to tag along with me and get a bit emails that cover more than just software development punch in your email below! 
 
 <script async data-uid="b69af6ca8e" src="https://josh-thompson.ck.page/b69af6ca8e/index.js"></script>
 
+If you're not sure that you _want_ to follow along, but you're curious, take a look at this sample of things I've written below:
+
 -------------------------------------
 
-## Curated list of things I've written
+## Resources I've created
 
 I've got about 230 posts [in the archive]({{ site.baseurl }}{% link _pages/archive.md %}), which is too much for even _me_ to keep track of. 
 
 Here's a good starting point:
+
 
 ### Programming
 
@@ -44,15 +43,16 @@ Here's a good starting point:
 - [Pry-ing into a Stack Trace]({{ site.baseurl }}{% link _posts/2019-02-22-prying_into_a_stack_trace.md %})
 - [Some Lessons Learned While Preparing for Two Technical Talks]({{ site.baseurl }}{% link _posts/2019-03-19-preparing_to_give_technical_talks.md %})
 - [Troubleshooting Chinese Character Sets in MySQL]({{ site.baseurl }}{% link _posts/2019-04-21-chinese_charsets_in_mysql.md %})
+- [Turing Prep Chapter 1: Make Mod 1 Easier Than It Otherwise Would Be]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %})
 
 _[all posts tagged `programming` ->](https://josh.works/tags#programming)_
 
 
 ### Remote Work
 
+- [Remote Job Hunting Resources for Turing Grads and Anyone Else]({{ site.baseurl }}{% link _posts/2019-02-26-turing_remote_resources.md %})
 - [Whole Messages in Slack]({{ site.baseurl }}{% link _posts/2019-02-20-whole_messages_in_slack.md %})
 - [So you want to work remotely...]({{ site.baseurl }}{% link _posts/2015-09-21-so-you-want-to-work-remotely.md %})
-- [Remote Job Hunting Resources for Turing Grads and Anyone Else]({{ site.baseurl }}{% link _posts/2019-02-26-turing_remote_resources.md %})
 
 _[all posts tagged `remote_work` ->](https://josh.works/tags#remote_work)_
 
@@ -69,7 +69,7 @@ _[all posts tagged `remote_work` ->](https://josh.works/tags#remote_work)_
 - [How I take notes, AKA 'Add an Index to Your Notebook']({{ site.baseurl }}{% link _posts/2019-09-04-build-an-index-into-your-notebook.md %})
 
 
-### Misc Posts I Like
+### Miscellaneous Posts I Like
 
 - [How to ask questions of experts and gain more than just an answer]({{ site.baseurl }}{% link _posts/2017-05-29-ask-better-questions.md %})
 - [A little bit of slope makes up for a lot of y-intercept]({{ site.baseurl }}{% link _posts/2015-06-26-2015-6-25-a-little-bit-of-slope-makes-up-for-a-lot-of-y-intercept.md %})
