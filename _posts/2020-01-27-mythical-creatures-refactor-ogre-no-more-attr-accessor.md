@@ -9,6 +9,8 @@ tags: [mythical_creatures, refactoring, ruby, turing]
 permalink: mythical-creature-refactor-ogre
 ---
 
+{% include turing_prework_index.md %}
+
 More refactoring practice! 
 
 I was reading [Practical Object Oriented Design in Ruby](https://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330), and then was looking at a Turing student's work on the [`ogre` mythical creature](https://github.com/turingschool/ruby-exercises/blob/master/mythical-creatures/test/ogre_test.rb) when I realized this was a perfect chance to explain a little about some principles of Object-Oriented Design.
@@ -146,4 +148,5 @@ class Human
 end
 ```
 
+{% include turing_prework_index.md %}
 

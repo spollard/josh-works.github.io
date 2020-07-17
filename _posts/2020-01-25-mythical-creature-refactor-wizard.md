@@ -9,6 +9,8 @@ tags: [mythical_creatures, refactoring, ruby, turing]
 permalink: mythical-creature-refactor-wizard
 ---
 
+{% include turing_prework_index.md %}
+
 Today we're refactoring some code.
 
 I find it _extremely_ fruitful when others look over my code and help me clean it up. Quite a few Turing students have told me that the process of refactoring their own code with the help of someone who knows a bit more than them has been super helpful.
@@ -141,3 +143,5 @@ class Wizard
   end
 end
 ```
+
+{% include turing_prework_index.md %}

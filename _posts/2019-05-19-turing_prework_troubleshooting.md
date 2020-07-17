@@ -12,8 +12,6 @@ permalink: turing-backend-prep-troubleshooting-guide
 
 -------------------------------------------
 
-
-
 # Troubleshooting Common Errors
 
 Pretty much any time I hear the same question twice, I will try to add a section here for it, and make it as easily findable by future students as possible. Here's the questions I've got answered below:

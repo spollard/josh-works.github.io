@@ -55,24 +55,21 @@ I've included a video walkthrough, starting from once you've cloned down the fil
 Here's the repositories that you'll need to clone down:
 
 * [https://github.com/turingschool/ruby-exercises](https://github.com/turingschool/ruby-exercises)
-* [https://github.com/turingschool/enums-exercises](https://github.com/turingschool/enums-exercises)
 
 
 - "the repository" means "a collection of files and folders on Github.com"
 - "cloning it" means "copy those files and folders to your computer". 
 
-To do this, first visit this URL: https://github.com/turingschool/ruby-exercises
+To do this, first visit this URL: [https://github.com/turingschool/ruby-exercises](https://github.com/turingschool/ruby-exercises)
 
 click the "clone or download" button:
 
 ![clone repo](/images/2019-05-19-turing_prework_02_03.jpg)
 
-
 The URL you receive will look like one of these two options:
 
 - `https://github.com/turingschool/ruby-exercises.git`
 - `git@github.com:turingschool/ruby-exercises.git`
-
 
 It doesn't matter which one you use. To exercise your _technical sophistication_ muscles, you can read more on [the difference between HTTPS and SSH URLs here](https://help.github.com/articles/which-remote-url-should-i-use/)
 
@@ -131,8 +128,6 @@ $ cd strings
 
 $ ls
 ```
-
-
 When you call `ls` the last time, you should see `README.md` and `strings.rb`. 
 
 It will look a bit like this:
@@ -162,7 +157,6 @@ $ atom .
 Click the `README` file, and read it. 
 
 If you have problems opening atom, read the [Troubleshooting Errors: Cannot open atom from the terminal]({{ site.baseurl }}{% link _posts/2019-05-19-turing_prework_troubleshooting.md %}#cannot-open-atom-from-the-terminal) post
-
 
 ## 4. Run the file in your terminal. Resolve the error messages
 
@@ -207,7 +201,6 @@ If you want to see all of the gems installed on your computer already, you can r
 ```console
 gem list
 ```
-
 You can read more about [the `gem` command here](https://guides.rubygems.org/rubygems-basics/)
 
 If you get an error like this:
@@ -268,13 +261,12 @@ So, lets make the first test pass. Just watch the video where I do the first few
 Once you get the hang of it, try pausing the video and keep going on your own. Then unpause the video, compare the results, repeat. (But please do watch the video, at least this little section at [10:55 on using Pry from inside your tests](https://www.youtube.com/watch?v=BKqo2w0W7S0&t=654s))
 
 <div class="container">
-<iframe class="video" src="https://www.youtube.com/embed/BKqo2w0W7S0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube.com/embed/aeAkLxr5diE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ----------------------------------------------------
 
-Go ahead and finish this file. When you're done, [I've got walk-throughs for similar exercises dealing with arrays, hashes, and the ever-important nested collections]({{ site.baseurl }}{% link _posts/2019-06-09-turing_prework_arrays_hashes_nested_collections.md %}).
+Go ahead and finish this file. When you're done, move on to chapter 3!
 
-Alternatively, you can choose-your-own-adventure to the mythical creatures. Here's a [video walk-throughs of the a few of the mythical creatures]({{ site.baseurl }}{% link _posts/2019-05-31-turing_prework_03_mythical_creatures.md %})
-
+{% include turing_prework_index.md %}
 

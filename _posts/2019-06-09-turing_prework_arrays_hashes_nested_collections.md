@@ -123,3 +123,10 @@ I cover a lot of things in the video; here's the index:
 - [50:02 test_full_menu_price_for_olive_garden](https://www.youtube.com/watch?v=9AaElA4elDU&t=50m02s)
 - [53:51 it works! refactoring to use .reduce](https://www.youtube.com/watch?v=9AaElA4elDU&t=53m51s)
 - [1:03:00 explaining a gotcha with .reduce](https://www.youtube.com/watch?v=9AaElA4elDU&t=1h03m00s)
+
+
+-------------------
+
+When you're done, consider taking a look at some of the more advanced refactoring guides:
+
+{% include turing_prework_index.md %}

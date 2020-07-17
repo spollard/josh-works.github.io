@@ -195,6 +195,6 @@ Be swayed by other students who have worked through this guide and have felt ver
 
 ### What's next?
 
-Well, just click on over to part two:
+Well, just click on over to chapter 2:
 
-[Turing Prep Chapter 2: Your first passing tests!]({{ site.baseurl }}{% link _posts/2019-05-19-turing_prework_02_getting_the_right_files.md %})
+{% include turing_prework_index.md %}

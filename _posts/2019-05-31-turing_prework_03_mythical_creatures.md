@@ -102,7 +102,9 @@ IF YOU HAVE QUESTIONS! Email me, or ping me in the Turing slack channel (I'm `@j
 
 -----------------------------------
 
+When you're done, move on to chapter 4!
 
+{% include turing_prework_index.md %}
 
 
 
