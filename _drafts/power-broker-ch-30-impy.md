@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "The Power Broker, Chapter 43: Late Arrival"
-description: "This chapter from the Power Broker highlights what small groups can do, when they've got the right mix of many specific circumstances. Feels like now is a good time to bring attention to this theme."
+title:  "The Power Broker, Chapter 30: Robert Moses and Mayor Vincent R. Impellitteri"
+description: "This chapter from the Power Broker highlights how much power Robert Moses had over the mayors of New York City. This section talks about his relationship with a single mayor. The story is important _because_ no one has heard of it."
 date:  2020-01-31 06:00:00 -0700
 crosspost_to_medium: false
 categories: []
 tags: []
-permalink: power-broker-ch-43-how-three-people-brought-down-robert-moses
+permalink: power-broker-ch-30-impy
 image: /images/title_image.jpg
 ---
 
