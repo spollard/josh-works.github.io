@@ -22,6 +22,10 @@ I've had the most success getting email responses from a few places:
 2. Hacker News' `who's hiring` threads, like this one from December 2017: [https://news.ycombinator.com/item?id=15824597](https://news.ycombinator.com/item?id=15824597)
 3. [https://nomadlist.com/](https://nomadlist.com/)
 
+_add who's hiring tool_
+
+_add JS script to manually filter results_
+
 With the Hacker News `who's hiring` listings, they're often hundreds of entries long. I.E. hundreds of potential jobs. Use [this tool to filter and sort the results to find something that lines up well with you](https://kennytilton.github.io/whoishiring/). 
 
 
