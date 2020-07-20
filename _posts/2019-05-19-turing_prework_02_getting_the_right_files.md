@@ -26,12 +26,10 @@ Every time you encounter something unfamiliar, and google your way to an underst
 
 Technical sophistication aside, I've put [together a list of trouble-shooting steps]({{ site.baseurl }}{% link _posts/2019-05-19-turing_prework_troubleshooting.md %}) for errors various students have run into, and I've helped them resolve. If you hit a problem, check here to see if someone else has seen it too.
 
-If you don't see your error on this list, please ping me in Slack (`@josh_t`) (or email, if you're not in the Turing Slack) and we'll sort it out. Once it's all fixed, I'll update the troubleshooting guide.
-
 <!--more-->
 --------------------------
 
-### Objective for _this_ current post
+## Objective for this article
 
 1. figure out how to download the correct repositories
 1. use your terminal to explore what you've downloaded
@@ -43,26 +41,23 @@ If you don't see your error on this list, please ping me in Slack (`@josh_t`) (o
 
 Throughout this whole process, I hope you maintain a sense of curiosity about the steps involved. You'll encounter error messages, new terminology, shortcuts for moving around your terminal, and lots of new information around Ruby and testing and such. If you have not read part 1 of this guide, and the two books referenced therein, [now would be a great time to do so]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %}).
 
-I've included a video walkthrough, starting from once you've cloned down the files:
+I've included a video walkthrough of everything you need to get started:s
 
 <div class="container">
 <iframe class="video" src="https://www.youtube.com/embed/aeAkLxr5diE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
-# 1. Figure out how to download the correct repositories
+## 1. Clone the repository
 
-Here's the repositories that you'll need to clone down:
-
-* [https://github.com/turingschool/ruby-exercises](https://github.com/turingschool/ruby-exercises)
+Download the exercises: [https://github.com/turingschool/ruby-exercises](https://github.com/turingschool/ruby-exercises)
 
 
-- "the repository" means "a collection of files and folders on Github.com"
-- "cloning it" means "copy those files and folders to your computer". 
+Note: "the repository" means "a collection of files and folders on Github.com". "Cloning it" means "copy those files and folders to your computer". 
 
 To do this, first visit this URL: [https://github.com/turingschool/ruby-exercises](https://github.com/turingschool/ruby-exercises)
 
-click the "clone or download" button:
+Click the `Clone or download` button:
 
 ![clone repo](/images/2019-05-19-turing_prework_02_03.jpg)
 
@@ -74,6 +69,20 @@ The URL you receive will look like one of these two options:
 It doesn't matter which one you use. To exercise your _technical sophistication_ muscles, you can read more on [the difference between HTTPS and SSH URLs here](https://help.github.com/articles/which-remote-url-should-i-use/)
 
 Now, in your terminal, navigate to where you want these exercises to be downloaded. You probably have a `turing` directory in your home folder. 
+
+_Note: If you've not yet watched the video walk-through, I strongly suggest watching it. I used to have a bunch of instructions listed out below, but since writing them out here, I updated them [in this authoritive location](https://github.com/turingschool/ruby-exercises). I almost deleted the rest of this post in favor of the guide there, but I'm leaving it just in case I find out I need some portion of it later._
+
+_Here's how to find those instructions:_
+
+- _Head to the ruby exercises URL: [https://github.com/turingschool/ruby-exercises](https://github.com/turingschool/ruby-exercises)_
+- _Scroll down the page and follow the instructions._
+
+_When you're done with setting this up and have your first passing test, jump to the [what is minitest?](#5-learn-the-basics-of-minitest) section_
+
+
+--------------------------------------
+
+_Here's the original instructions:_
 
 Since I have a `turing` directory in _my_ home folder, I would use:
 
@@ -158,7 +167,7 @@ Click the `README` file, and read it.
 
 If you have problems opening atom, read the [Troubleshooting Errors: Cannot open atom from the terminal]({{ site.baseurl }}{% link _posts/2019-05-19-turing_prework_troubleshooting.md %}#cannot-open-atom-from-the-terminal) post
 
-## 4. Run the file in your terminal. Resolve the error messages
+## 4. Run the file in your terminal. Resolve gem-related error messages
 
 Run the file in your editor with:
 
@@ -212,7 +221,7 @@ ERROR:  While executing gem ... (Gem::FilePermissionError)
 
 I've got trouble-shooting instructions [in the troubleshooting guide]({{ site.baseurl }}{% link _posts/2019-05-19-turing_prework_troubleshooting.md %}#gem-install-pry-failing-with-you-do-not-have-permission)
 
-# 5. Learn the basics of Minitest
+## 5. Learn the basics of Minitest
 
 See the references to `minitest` at the top of the file? `minitest/autorun` and `minitest/pride`?
 
@@ -243,7 +252,7 @@ Awesome. If you can answer all of those questions, you've got your head wrapped 
 
 ------------------------------------------------------
 
-# 5. Run the file again, get a bunch of `SSSSSSSSS` printed out
+## 6. Run the file again, get a bunch of `SSSSSSSSS` printed out
 
 Wahoo! If you see a long string of `SSSSSSSSS`, you're doing great.
 
@@ -254,7 +263,7 @@ Here's what minitest results mean:
 - `F` means "failure". the test ran, but didn't pass.
 - `.` means "success". The test ran, and passed.
 
-# 6. and 7.: Make the whole file pass!
+## 7. Make the whole file pass!
 
 So, lets make the first test pass. Just watch the video where I do the first few tests.
 
@@ -266,7 +275,29 @@ Once you get the hang of it, try pausing the video and keep going on your own. T
 
 ----------------------------------------------------
 
-Go ahead and finish this file. When you're done, move on to chapter 3!
+Go ahead and finish this file. When you're done, do the other test files in that `data-types` directory. 
+
+Please read the `README.md` associated with every exercise.
+
+These exercises (in order) are:
+
+```shell
+data-types/strings/strings.rb # you just finished this one
+data-types/ints_and_floats.rb # do this next
+data-types/collections/arrays.rb # then this
+data-types/collections/hashes.rb # then this
+data-types/collections/nested-collections.rb  # then this
+data-types/advanced_nested_collections/nesting_test.rb # Then this. 
+```
+
+![next datatype](/images/2020-07-20-turing-int-and-float.jpg)
+
+If you finish all of these exercises, congratulations! Already this practice will serve you quite a lot. 
+
+A warning, though - the above exercises are quite challenging. Plan on spending a few days working on these exercises.
+
+When you're done, feel free to move to chapter 3!
+
 
 {% include turing_prework_index.md %}
 
