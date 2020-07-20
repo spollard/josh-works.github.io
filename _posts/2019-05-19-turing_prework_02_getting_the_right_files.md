@@ -29,7 +29,7 @@ Technical sophistication aside, I've put [together a list of trouble-shooting st
 <!--more-->
 --------------------------
 
-## Objective for this article
+# Seven steps to your first completed `ruby-exercise` lesson:
 
 1. figure out how to download the correct repositories
 1. use your terminal to explore what you've downloaded
@@ -46,6 +46,7 @@ I've included a video walkthrough of everything you need to get started:s
 <div class="container">
 <iframe class="video" src="https://www.youtube.com/embed/aeAkLxr5diE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 
 ## 1. Clone the repository
@@ -275,6 +276,8 @@ Once you get the hang of it, try pausing the video and keep going on your own. T
 
 ----------------------------------------------------
 
+# What next?
+
 Go ahead and finish this file. When you're done, do the other test files in that `data-types` directory. 
 
 Please read the `README.md` associated with every exercise.
@@ -292,11 +295,11 @@ data-types/advanced_nested_collections/nesting_test.rb # Then this.
 
 ![next datatype](/images/2020-07-20-turing-int-and-float.jpg)
 
-If you finish all of these exercises, congratulations! Already this practice will serve you quite a lot. 
+If you finish all of these `data-type` exercses, congratulations! Already this practice will serve you quite a lot. 
 
-A warning, though - the above exercises are quite challenging. Plan on spending a few days working on these exercises.
+A warning, though - these above exercises are quite challenging. Hit me up in the turing slack if you get stuck on anything. I'll help get you un-stuck, and will update this guide.
 
-When you're done, feel free to move to chapter 3!
+When you're done, feel free to move to chapter 3, dealing with objects in Ruby!
 
 
 {% include turing_prework_index.md %}
