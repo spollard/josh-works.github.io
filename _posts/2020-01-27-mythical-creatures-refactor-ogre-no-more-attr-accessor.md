@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Refactoring practice: Getting rid of `attr_accessors` in `ogre.rb`"
+title:  "Refactoring practice: Get rid of `attr_accessors` in `ogre.rb` in 2 minutes"
 description: "Refactor practice, in which we will refactor ogre.rb, learn more about Ruby, object-oriented design, and clean code"
 crosspost_to_medium: false
 date:  2020-01-27 06:00:00 -0700

@@ -21,16 +21,20 @@ These exercises will give you lots of practice with "object oriented" programmin
 
 This is a lot to wrap your head around, and "object oriented programming" is a topic that fills dozens of books, hundreds of conference talks, and you'll spend the rest of your life building a better understanding of. So don't feel any rush to grasp it all in the next ten minutes.
 
-Start with this guide: [LaunchSchool: The Object Model](https://launchschool.com/books/oo_ruby/read/the_object_model)
+Block out an hour or two to work through through this guide: [LaunchSchool: The Object Model](https://launchschool.com/books/oo_ruby/read/the_object_model)
 
-Read it carefully, but don't worry that it all won't make sense. Take notes, run the code examples. Take an hour on it. When you've gone through it once, tackle the first mythical creature.
+Read it carefully, but don't worry that it all won't make sense. Take notes, run the code examples, take your time. 
+
+**When, and only when, you've read through the above set of articles about `The Object Model` may you start to tackle the first mythical creature.**
+
+**Do not watch the following walk-through until you've read and run code from `The Object Model` linked above.**
 
 It can be tricky getting set up, so here's another video of the very first mythical creature:
 
 A quick aside - as you work through these exercises, and all of the exercises to come, you'll perhaps notice a constant tension between "results" vs. "process". Here's what I mean by this, explained in a conversation with a Turing student, working through this exact guide:
 
 They said:
->  [...] In other words, there is more than one way to achieve the result, so do I focus on process or product?  I am not expecting there to be a single “right” answer, but I am curious as to how Turing is going to evaluate us.  Are the steps used more important than the outcome?
+>  [...] In other words, there is more than one way to achieve the result, so do I focus on process or product?  I am not expecting there to be a single “right” answer, but I am curious as to how Turing is going to evaluate us. Are the steps used more important than the outcome?
 
 I responded with:
 
@@ -42,8 +46,9 @@ I responded with:
 > Obviously, as you grow your skill-set as a developer, you would be able to go back and improve prior bits of code you've written. It's rare to crank out a "perfect" project, no matter how small.
 >
 > So, optimize for learning, which basically means... when you find something that works, use it, but next time you come across a similar kind of challenge, you might use something slightly different.
+>
 > I don't know if any of this makes sense. It basically means
-> **don't sweat not getting exposed to every single ruby method, but be open to using new ones as situations arise, and you get more comfortable with the ones you know.**
+> **don't sweat not getting exposed to every single Ruby method, but be open to using new ones as situations arise, and you get more comfortable with the ones you know.**
 
 Or, in summary:
 
