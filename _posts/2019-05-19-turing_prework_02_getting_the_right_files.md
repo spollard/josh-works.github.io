@@ -295,11 +295,11 @@ data-types/advanced_nested_collections/nesting_test.rb # Then this.
 
 ![next datatype](/images/2020-07-20-turing-int-and-float.jpg)
 
-If you finish all of these `data-type` exercses, congratulations! Already this practice will serve you quite a lot. 
+Once you start on `collections`, go read the associated guide I wrote: [Arrays, Hashes, and Nested Collections](https://josh.works/turing-backend-prep-arrays-hashes-nested-collections)
 
-A warning, though - these above exercises are quite challenging. Hit me up in the turing slack if you get stuck on anything. I'll help get you un-stuck, and will update this guide.
+The chapters are a bit out of order. I'll fix that soon.
 
-When you're done, feel free to move to chapter 3, dealing with objects in Ruby!
+When you're done, feel free to move to the next chaptter, dealing with objects in Ruby!
 
 
 {% include turing_prework_index.md %}
