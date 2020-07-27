@@ -3,7 +3,7 @@ layout: post
 title:  "the `Medusa` mythical creature: part 1 (30 minutes)"
 description: "We build `medusa.rb` from scratch"
 crosspost_to_medium: false
-date:  2020-01-27 06:00:00 -0700
+date:  2020-07-20 06:00:00 -0700
 categories: [programming]
 tags: [mythical_creatures, refactoring, ruby, turing]
 permalink: mythical-creature-medusa-start

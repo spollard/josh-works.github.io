@@ -3,7 +3,7 @@ layout: post
 title:  "Refactoring practice: Medusa refactor part 2 (15 minutes)"
 description: "Refactor practice, in which we will refactor medusa.rb, learn more about Ruby, object-oriented design, and clean code"
 crosspost_to_medium: false
-date:  2020-01-27 06:00:00 -0700
+date:  2020-07-20 06:00:00 -0700
 categories: [programming]
 tags: [mythical_creatures, refactoring, ruby, turing]
 permalink: mythical-creature-refactor-medusa
