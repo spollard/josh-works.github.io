@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Refactoring practice: Medusa refactor part 2 (15 minutes)"
+title:  "`Medusa` mythical creature: part 2"
 description: "Refactor practice, in which we will refactor medusa.rb, learn more about Ruby, object-oriented design, and clean code"
 crosspost_to_medium: false
 date:  2020-07-20 06:00:00 -0700
@@ -18,7 +18,7 @@ Wow. I made this video months ago, forgot to make it findable.
 
 Watch/read [part 1]({{ site.baseurl }}{% link _posts/2020-07-20-medusa-start.md %}) if you've not already:
 
-
+Here's a walk-through for strategies and tactics to refactor the mythical creature we built last time. The refactored code is much improved, and your own understanding of your own code will be much improved as well.
 
 Part 2 is a 14 minute video, contains a _lot_ of information. Block out 30-40 minutes to work through it. 
 
