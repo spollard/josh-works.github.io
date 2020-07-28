@@ -66,20 +66,102 @@ permalink: incremental-css
 
 <section id="spacing" class="hidden">
   <h2>Text Spacing</h2>
-  <p>By adding a little whitespace here and there, the text can "breath".</p>
-  <p>I know die-hard readers out there would insist that the text should be dense, and the form factor doesn't matter.</p>
-    <a class="step" data-step="3" href="#color-and-contrast"></a>
+  <p>By adding a little whitespace here and there, the text can "breath". See how the long lines wrap with a little more space between them? It helps the eye follow along on the current line instead of jumping above or below.</p>
+  <p>I know some die-hard readers insist that the text should be dense, and the form factor doesn't matter, but this is my website, so I can do whatever I want. 😄</p>
+  
+  <pre>
+  body {
+    line-height: 1.5;
+    padding: 4em 1em;
+  }
+  
+  h2 {
+    margin-top: 1em;
+    padding-top: 1em;
+  }
+  </pre>
+  
+  <p>Now that we have spacing sorted, what might help present information in a more compelling and easily-digested way? That's right. <a class="step" data-step="3" href="#color-and-contrast">Modify the color and the contrast!</a>.</p>
 </section>
 
-<section id="colors-and-contrast" class="hidden">
+<section id="color-and-contrast" class="hidden">
   <h2>Color and Contrast</h2>
-  <p>words</p>
-  <a class="step" data-step="4" href="#color-and-contrast"></a>
+  <p>Now code blocks are set apart visually from the rest of the page.</p>
+  
+  <pre>
+    code,
+    pre {
+      background: #eee;
+    }
+
+    code {
+      padding: 2px 4px;
+      vertical-align: text-bottom;
+    }
+
+    pre {
+      padding: 1em;
+    }
+  </pre>
+  <a class="step" data-step="4" href="#style-those-links">Lets style the links</a>
+</section>
+
+
+<section id="style-those-links" class="hidden">
+  <h2>Style the Links</h2>
+  
+  The default link color isn't great, and it varies based on if you've clicked it before. Doesn't look great, so lets standardize our links on something that looks a bit nicer:
+  <p>Lets upgrade the links:</p>
+  
+  <pre>
+  a {
+    color: #268bd2;
+    text-decoration: none;
+  }
+
+  a:hover,
+  a:focus {
+    text-decoration: underline;
+  }
+  </pre>
+  
+  <p>Next <a class="step" data-step="5" href="#upgrade-code-blocks">lets upgrade our code blocks.</a></p>
+</section>
+
+
+<section id="upgrade-code-blocks" class="hidden">
+  <h2>Upgrade the code blocks</h2>
+  <p>The code blocks are still kinda bland. We can add subtle accents to the left side and bottom:</p>
+  
+  <pre>
+    html.step6 code,
+    html.step6 pre {
+      background: #f5f7f9;
+      border-bottom: 1px solid #d8dee9;
+      color: #a7adba;
+    }
+
+    html.step6 pre {
+      border-left: 2px solid #69c;
+    }
+  </pre>
+  <p>Reveal the next step: <a class="step" data-step="n" href="#next-section">clickable text for next section</a></p>
 </section>
 
 
 <br />
 <br />
+
+
+<section id="current-section" class="hidden">
+  <h2>Section Title</h2>
+  <p>Words about this section</p>
+  
+  <pre>
+  add code here
+  </pre>
+  <p>Reveal the next step: <a class="step" data-step="n" href="#next-section">clickable text for next section</a></p>
+</section>
 
 <em><a id="startOver" href="#startOver">start over again</a></em>
 
