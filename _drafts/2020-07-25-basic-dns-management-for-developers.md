@@ -64,6 +64,7 @@ TL;DR: this was my problem:
 
 ![relatively small mistake?](/images/2020-07-25-dns-02.jpg)
 
+
 ### Resources I'd looked at and not found helpful because they didn't explain it in basic-enough terms
 
 - [Troubleshooting custom domains and GitHub Pages](https://docs.github.com/en/github/working-with-github-pages/troubleshooting-custom-domains-and-github-pages)
