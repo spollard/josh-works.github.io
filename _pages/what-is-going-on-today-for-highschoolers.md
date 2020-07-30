@@ -41,3 +41,8 @@ Systemic racism is front and center these days. Here's some resources to build a
 Feels like most people venturing opinions on the world today are unaware of some or most of the ideas contained in these books and podcasts.
 
 You may certainly not agree with most of what you read (and indeed you absolutely should not agree with _all_ of it. I don't) but you'll be wiser for it.
+
+
+I wrote on similar things a while ago:
+
+[A message for high schoolers]({{ site.baseurl }}{% link _posts/2016-06-05-a-message-for-high-schoolers.md %})
