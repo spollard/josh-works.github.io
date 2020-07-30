@@ -171,3 +171,13 @@ So, learn from people that seem to easily prepare healthy food for dinner. With 
 - mister money moustache
 
 
+I wrote on similar things a while ago:
+
+[A message for high schoolers]({{ site.baseurl }}{% link _posts/2016-06-05-a-message-for-high-schoolers.md %})
+
+
+### Additional resources
+
+- [How to Take a Self-Directed Pandemic Gap Year in 2020-21](https://www.blakeboles.com/2020/05/pandemic-gap-year/)
+- [Better Than College: How to Build a Successful Life Without a Four-Year Degree](https://www.amazon.com/gp/product/0986011908/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=zerotuitcoll-20&linkId=1245eacb6dbe0199566324048e273037)
+- [ What Does it Mean to Be Educated?I](https://www.self-directed.org/tp/what-does-it-mean-to-be-educated/)
