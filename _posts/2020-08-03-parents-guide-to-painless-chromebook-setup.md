@@ -30,6 +30,30 @@ Here's the definition for the runbook _I_ will create:
 >
 > Runbooks can be in either electronic or in physical book form. Typically, a runbook contains procedures to begin, stop, supervise, and debug the <strike>system</strike> `situation`. It may also describe procedures for handling special requests and contingencies. An effective runbook allows other <strike>operators</strike> `people`, with prerequisite expertise, to effectively manage and troubleshoot a <strike>system</strike> `situation`. 
 
+### How I decided on a "runbook" instead of a "guide"
+
+A day after I announced the first version of this, a friend replied:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve got 90%ish of my laptop set-up in a single bash script. Would probably pay for the chromebook equivalent of that + documentation explaining what has been setup. Something that creates all of the necessary accounts and software and explains it....</p>&mdash; Jack Pincus (@jwpincus) <a href="https://twitter.com/jwpincus/status/1290721824418877441?ref_src=twsrc%5Etfw">August 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+He said:
+
+> I've got 90%ish of my laptop set-up in a single bash script. Would probably pay for the chromebook equivalent of that + documentation explaining what has been setup. Something that creates all of the necessary accounts and software and explains it....
+
+I replied with (essentially)
+
+> That's what I'm trying to do
+
+And then I used a word in my response that was a big `aha` moment:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">i don&#39;t think i&#39;ll be able to make it that clean of a process, but I&#39;m thinking more of a Runbook for a given situation.<br><br>- &quot;if this, that&quot;<br>- &quot;this portion is Very Important, the rest of this is not&quot;.<br>- pre-written scripts for common objections<br><br>etc.</p>&mdash; Josh Thompson (@josh_works) <a href="https://twitter.com/josh_works/status/1290767936739672064?ref_src=twsrc%5Etfw">August 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+And now I realized I'm building a runbook. That's what I'm building, so if you buy something, it'll be more-or-less an extremely sensitive and fraught topic.
+
+------------------------------------------ 
+
+
+
 
 I spent a few hours recently helping my 75-year-old mother-in-law reconnect her junky old Windows laptop to the internet. Across five phone calls, and many pictures of her computer screen, we got her internet working again. 
 
