@@ -9,6 +9,7 @@ description: "Upgrade your aging parent's clunky laptops to a Chromebook. A guid
 permalink: "/upgrade-parents-junky-old-laptop-to-chromebook"
 categories: [guides, in-laws]
 tags: [chromebook]
+image: "/images/2020-08-03-screen-01.JPG"
 ---
 
 I spent a few hours recently helping my 75-year-old mother-in-law reconnect her junky old Windows laptop to the internet. Across five phone calls, and many pictures of her computer screen, we got her internet working again. 
