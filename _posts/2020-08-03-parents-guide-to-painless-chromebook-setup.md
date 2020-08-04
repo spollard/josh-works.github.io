@@ -26,7 +26,7 @@ Wikipedia says a `runbook` is:
 
 Here's the definition for the runbook _I_ will create:
 
-> In <strike>a computer system or network</strike> life, a runbook is a compilation of routine procedures and operations that the <strike>system administrator or operator</strike> `individual` carries out. <strike>System administrators in IT departments and NOCs</strike> `People` use runbooks as a reference.
+> In <strike>a computer system or network</strike> `life`, a runbook is a compilation of routine procedures and operations that the <strike>system administrator or operator</strike> `individual` carries out. <strike>System administrators in IT departments and NOCs</strike> `People` use runbooks as a reference.
 >
 > Runbooks can be in either electronic or in physical book form. Typically, a runbook contains procedures to begin, stop, supervise, and debug the <strike>system</strike> `situation`. It may also describe procedures for handling special requests and contingencies. An effective runbook allows other <strike>operators</strike> `people`, with prerequisite expertise, to effectively manage and troubleshoot a <strike>system</strike> `situation`. 
 
