@@ -48,12 +48,10 @@ And then I used a word in my response that was a big `aha` moment:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">i don&#39;t think i&#39;ll be able to make it that clean of a process, but I&#39;m thinking more of a Runbook for a given situation.<br><br>- &quot;if this, that&quot;<br>- &quot;this portion is Very Important, the rest of this is not&quot;.<br>- pre-written scripts for common objections<br><br>etc.</p>&mdash; Josh Thompson (@josh_works) <a href="https://twitter.com/josh_works/status/1290767936739672064?ref_src=twsrc%5Etfw">August 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-And now I realized I'm building a runbook. That's what I'm building, so if you buy something, it'll be more-or-less an extremely sensitive and fraught topic.
-
 ------------------------------------------ 
 
 
-
+## Runbook Origin Story, aka 24 hours ago (Aug 3, 2020)
 
 I spent a few hours recently helping my 75-year-old mother-in-law reconnect her junky old Windows laptop to the internet. Across five phone calls, and many pictures of her computer screen, we got her internet working again. 
 
