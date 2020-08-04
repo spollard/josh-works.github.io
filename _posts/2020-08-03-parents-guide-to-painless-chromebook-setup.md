@@ -107,6 +107,7 @@ Here's the current planned detail of the guide, as it exists in my head right no
 - how to use all of this information to aid your own parents through a similar process
 
 ### The benefits you will receive from this guide
+
 - Help your parent(s) feel a sense of dignity and control through this process, even though it might feel like it's displacing an important, familiar thing needlessly
 - Remove a point of frustration that might be emotionally charged, thanks to issues related to maintaining competence and control over one's affairs. (I suspect I'll be looking for a `step-by-step guide to helping your aging parents stop driving` soon)
 - how to help your parent(s) use as much Gmail as they have to, while most likely using their primary email address with an `AOL` or `yahoo` or `comcast` email account. (and they get tons of spam in it :eyeroll: )
@@ -122,10 +123,12 @@ Here's the current planned detail of the guide, as it exists in my head right no
 >
 >> Hi, I'm Barb, and since I switched to this chromebook thing I spend 20 extra minuts a day facetiming with my grandkids! I love that!
 
-## Do not purchase if... (sorta an "anti-FAQ")
+## The un-faq
 
-- If your parents are familiar with the Apple ecosystem, because I have always used Android and MacOS, don't have an iPad or an iPhone. I feel strongly inclined to do MacOS.
-- If you don't want to use a Chromebook or learn a Windows operating system
+These are _diqualifying_ conditions. Do not purchase this guide if:
+
+- Your parents are familiar with the Apple ecosystem, because I have always used Android and MacOS, don't have an iPad or an iPhone. I feel strongly inclined to do MacOS.
+- You don't want to use a Chromebook or learn a Windows operating system
 - You expect a perfectly-polished, high-production-value product
 
 ----------------------
@@ -153,7 +156,7 @@ In the twitter poll, I gave options from $0 to $2000, so giving all those option
   </div>
 </div>
 
-### 2. Meaningful money, but if it saves me 5-25 hours and hard feelings and frustration, I'm all in ($500)
+### 2. Meaningful money, but if it saves you 5-25 hours and hard feelings and frustration, You're All In ($500)
 
 
 <div class="stripe_button_container">
@@ -171,7 +174,7 @@ In the twitter poll, I gave options from $0 to $2000, so giving all those option
   </div>
 </div>
 
-### 3. I expect non-trivial value from this but only have limited discressionary income ($100)
+### 3. You expect non-trivial value from this guide ($100)
 
 The cost of a quality tool or piece of software
 <div class="stripe_button_container">
@@ -189,7 +192,7 @@ The cost of a quality tool or piece of software
   </div>
 </div>
 
-### 4. What I might spend on dinner with a friend ($50)
+### 4. What You Might Spend on Dinner with a Friend ($50)
 <div class="stripe_button_container">
   <div class="button_container">
     <button
@@ -206,7 +209,7 @@ The cost of a quality tool or piece of software
 </div>
 
 
-### 5. Just send me the announcement blog post when you're done and giving it away ($0)
+### 5. Send You the announcement blog post when I'm done and giving it away ($0)
 
 <script async data-uid="79563b40c7" src="https://josh-thompson.ck.page/79563b40c7/index.js"></script>
 
@@ -219,20 +222,20 @@ Not exactly sure, but a detailed guide. Annotated screenshots, links, all that s
 
 Might do video walk-throughs. [Here's an example of how I do these](https://josh.works/mythical-creature-refactor-ogre).
 
-### What if I want my money back
+### What if you want your money back
 
 Then I 100% wanna give it to you. Just let me know and I'll send it right back, all fees included, between now and forever. 
 
-### I might want the $100, or $500, or $2000 verison, but don't know yet.
+### You might want the $100, or $500, or $2000 verison, but don't know which/if-any yet
 
 Yeah, totally get it. I'd say pop your email address into the $0 form, and reply to one of the emails when you feel so inclined. 
 
-### I have other questions I'd like to ask you
+### You have other questions I'd like to ask you
 
 Great! Pop your email in below; the very first email you'll get asks:
 
 > I'd really love to know what prompted your interest. Are you going through something similar right now? Do you think you might be doing something like this soon? Any advice or words of caution that you'd share?
 
-As 
+<script async data-uid="79563b40c7" src="https://josh-thompson.ck.page/79563b40c7/index.js"></script>
 
 {% include chromebook-guide-js.html %}
