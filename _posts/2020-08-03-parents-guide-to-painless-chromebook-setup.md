@@ -89,12 +89,9 @@ In the pole, someone expressed it might be worth as much as $2000, so I am inclu
 
 Maybe it's worth $1000 but you don't even have $5 to spend to acquire the guide. Whatever I end up creating, I'll make available to you. 
 
-Here's the spec sheet of the guide, as it exists in my head right now:
+---------------------
 
-## An outline of what I'll build and get to you:
-
-I decided that, for the both of us, we needed to get her a Chromebook. I'm convincing her, and I'm going to write a detailed guide.
-
+Here's the current planned detail of the guide, as it exists in my head right now:
 
 ### Questions I'll answer
 
@@ -112,10 +109,10 @@ I decided that, for the both of us, we needed to get her a Chromebook. I'm convi
 ### The benefits you will receive from this guide
 - Help your parent(s) feel a sense of dignity and control through this process, even though it might feel like it's displacing an important, familiar thing needlessly
 - Remove a point of frustration that might be emotionally charged, thanks to issues related to maintaining competence and control over one's affairs. (I suspect I'll be looking for a `step-by-step guide to helping your aging parents stop driving` soon)
-- how to help your parent(s) use as much Gmail as they have to, while most likely using their primary email address with an `AOL` or `yahoo` or `comcast` email account. (and they get tons of spam in it)
+- how to help your parent(s) use as much Gmail as they have to, while most likely using their primary email address with an `AOL` or `yahoo` or `comcast` email account. (and they get tons of spam in it :eyeroll: )
 - How to handle a password manager with them. Use or don't use Chrome/Firefox password tools?
 - Oh, 1Password? If you use 1Password, and have your parent's credentials in a 1Password vault that is shared with your siblings and/or in-laws, but you're the one who manages that account, what should you do? 
-- the above presumes that you came to have your parent's credentials _at their request_, how should you handle that?
+- the above presumes that you came to have your parent's credentials _at their request_, of course.
 - once it's set up, can it be easy enough to set up that they can unbox it themselves?
 - how much does it cost to ship a laptop through the mail, anyway? Is it safe? Legal?
 - Is it _actually_ possible to "easily" "remote in" and "fix things" for your parents? The reader might be skeptical of how "easy and simple" software often is, and is curious to know exactly what to expect.
