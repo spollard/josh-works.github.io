@@ -100,58 +100,70 @@ In the twitter poll, I gave options from $0 to $2000, so giving all those option
 ## 1. Money Is No Object ($2000)
 
 <div class="stripe_button_container">
-  <button
-    style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
-    id="checkout-button-sku_Hlof76lIQGPrOW"
-    role="link"
-    type="button">
-    Purchase ($2000)
-  </button>
+  <div class="button_container">
+    <button
+      class="stripe_button"
+      style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
+      id="checkout-button-sku_Hlof76lIQGPrOW"
+      role="link"
+      type="button">
+      Purchase ($2000)
+    </button>
 
-  <div id="error-message"></div>
+    <div id="error-message"></div>
+  </div>
 </div>
 
 ## 2. Meaningful money, but if it saves me 5-25 hours and hard feelings and frustration, I'm all in ($500)
 
 
 <div class="stripe_button_container">
-  <button
-    style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
-    id="checkout-button-sku_HlotwPoptCsYBY"
-    role="link"
-    type="button">
-    Purchase ($500)
-  </button>
+  <div class="button_container">
+    <button
+      class="stripe_button"
+      style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
+      id="checkout-button-sku_HlotwPoptCsYBY"
+      role="link"
+      type="button">
+      Purchase ($500)
+    </button>
 
-  <div id="error-message"></div>
+    <div id="error-message"></div>
+  </div>
 </div>
 
 ## 3. I expect non-trivial value from this but only have limited discressionary income ($100)
 
 The cost of a quality tool or piece of software
 <div class="stripe_button_container">
-  <button
-    style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
-    id="checkout-button-sku_HloZ1DXv53t7fT"
-    role="link"
-    type="button">
-    Purchase ($100)
-  </button>
+  <div class="button_container">
+    <button
+      class="stripe_button"
+      style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
+      id="checkout-button-sku_HloZ1DXv53t7fT"
+      role="link"
+      type="button">
+      Purchase ($100)
+    </button>
 
-  <div id="error-message"></div>
+    <div id="error-message"></div>
+  </div>
 </div>
 
 ## 4. What I might spend on dinner with a friend ($50)
 <div class="stripe_button_container">
-  <button
-    style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
-    id="checkout-button-sku_Hloz9JPn2QkUAQ"
-    role="link"
-    type="button">
-    Purchase ($50)
-  </button>
+  <div class="button_container">
+    <button
+      class="stripe_button"
+      style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
+      id="checkout-button-sku_Hloz9JPn2QkUAQ"
+      role="link"
+      type="button">
+      Purchase ($50)
+    </button>
 
-  <div id="error-message"></div>
+    <div id="error-message"></div>
+  </div>
 </div>
 
 
