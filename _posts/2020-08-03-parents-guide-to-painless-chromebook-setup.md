@@ -40,12 +40,39 @@ Months ago, I'd read things like:
 - [A chromebook for elderly people (reddit)](https://www.reddit.com/r/chromeos/comments/cdgq1q/a_chromebook_for_elderly_people/)
 - [People who bought a Chromebook for an elderly or tech illiterate parent/relative, what has yours and their experience been so far? (reddit, five years old! 😭)](https://www.reddit.com/r/chromeos/comments/34v0w2/people_who_bought_a_chromebook_for_an_elderly_or/)
 
+On this last one, read through this answer:
 
-I ended up convincing her in the course of the call to upgrade to a Chromebook! 
+> I convinced my wife and her two brothers to purchase the Asus Chromebox for their mother this past December for Christmas.
+> 
+> She had been complaining about how slow her desktop had been for years. Every year we all put money together to update something electronic for her. One year it was a camera, then she lost that camera (lol) so we got her another the next year. Then it was a Bluray player. The computer had been on the list for years.
+> 
+> In my family and circle's I am the "go to person" to fix computer or technology related problems. I never gave my self that title but unfortunately for me I'm stuck with it.
+> 
+> I don't know about you but I can't count how many times I've been asked to "fix", "speed up", or "I think I might have a virus, my computer is so slow can you take a look at it". What I have found over the years is that almost always there isn't a virus. The fix for all of those problems more times than not is you need a new machine. Your Sh** is old. And honestly I just grew tired of getting this from so many "tech illiterate" people.
+> 
+> Windows (I can't speak for Mac) is a pain to maintain. There are a lot of people who would say otherwise but unless you find that sort of thing easy, it just is.
+> 
+> So with all that (hopefully funny backstory) said I wanted to get my mother in law a Chrome device. And like I said we got the Asus Chromebox.
+> 
+> Let me tell you, it is by far my mother in laws favorite device we ever got her. We got it off of Amazon on black Friday. We paid $119.99 US and I bought an extra stick of ram from corsair I believe. That would upgrade the ram from 2gb to 4gb.
+> 
+> She no longer has a slow computer. It boots up in less than 10 seconds. Everything is saved and synced. No windows updates. No fragmented hard drives. No virus/malware. She can still play solitare via a chrome store app. It plays video's great when she sees them while looking at her facebook. The browser doesn't lag and isn't slow. ChomeOS updates automatically and is seamless. I know a lot of people that had their windows machines freeze while on a windows update. Essentially making their computer a brick, until someone like me comes and fixes it for them. If ChromeOS ever gets into trouble, it is as simple as doing a "powerwash" which is basically a factory reset and everything goes back to new. But since everything in ChromeOS is synced, as soon as you log back in everything is restored just how it was.
+> 
+> Chromebooks/boxes come with at least 100gb of online storage and Drive is "mounted" in chromeOS it's self so it acts just like if it were a hard drive in the computer. ChromeOS is incredibly simple. There aren't a lot of options menus. You can't get lost in the OS.
+> 
+> ChromeOS I would argue is amazing for tech illiterate people. I'm far from tech illiterate but ChromeOS has been an absolute breath of fresh air for me as well! There really isn't much of a learning curve, outside of understanding how to install/remove a chrome app or extension.
+> 
+> There are, however, some take-aways. For one you can not install any software like you would on windows or mac. There is one program my mother in law uses and I have found no way of a work around for her and the chromebox. Skype is not available right out of the box for ChromeOS. There is a a work around but requires using a program to convert the Android Version to work in ChromeOS.
+> 
+> I have lots more I could say, but I'm getting the evil eye from the wife, time to get off of Reddit!
+> 
+> I can't recommend a Chromebook/Box more, especially for non tech folks. And is wonderful for us who have to run tech support. Makes our job so much easier! I tell people to first examine their primary needs and research if they can be met with ChromeOS, before buying. Understand it's limitations. If you go into it knowing exactly what you are getting, then it is a wonderful experience.
+> 
+> I ended up convincing her in the course of the call to upgrade to a Chromebook! 
 
-Oops. 
+I'm sold. I just have to re-invent the wheel and figure out how much I need to spend, etc.
 
-**I need to figure out what Chromebook to get her, set it up for her, and help her be successful with it.**
+**I need to figure out what Chromebook to get her, set it up for her, and help her be successful with it. This can easily take many hours. I want my effort to be helpful to you.**
 
 -------------------
 
