@@ -38,6 +38,8 @@ I'd love for you to join:
 
 <script async data-uid="b69af6ca8e" src="https://josh-thompson.ck.page/b69af6ca8e/index.js"></script>
 
+_here's [a sample](https://ckarchive.com/b/27u2hohnplq6) of the kind of stuff you'll get_
+
 -------------------------------------
 
 ## Some of the other stuff and where to start
