@@ -14,7 +14,7 @@ image: "/images/2020-08-03-screen-01.JPG"
 
 I spent a few hours recently helping my 75-year-old mother-in-law reconnect her junky old Windows laptop to the internet. Across five phone calls, and many pictures of her computer screen, we got her internet working again. 
 
-As I did this, I live-tweeted the experience:
+As I did this, I live-tweeted the experience. It was about 20 tweets. A few pictures my mother-in-law sent me, and a poll.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My mother in law is frustrated that her internet wasn&#39;t working today. It&#39;s been broken all day. I&#39;ve called her a few times between other events to try to help debug it. <br><br>This is a screenshot I just received (via email) that she took *with her phone* <a href="https://t.co/5KnfCGZ2F4">pic.twitter.com/5KnfCGZ2F4</a></p>&mdash; Josh Thompson (@josh_works) <a href="https://twitter.com/josh_works/status/1290420667444338688?ref_src=twsrc%5Etfw">August 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
