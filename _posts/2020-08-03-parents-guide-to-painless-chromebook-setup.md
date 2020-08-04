@@ -135,11 +135,11 @@ I decided that, for the both of us, we needed to get her a Chromebook. I'm convi
 
 The poll got some answers, so I'm tossing up real-live purchase buttons to guage interest at your level of buy-in
 
-# Purchase Options
+## Purchase Options
 
 In the twitter poll, I gave options from $0 to $2000, so giving all those options below:
 
-## 1. Money Is No Object ($2000)
+### 1. Money Is No Object ($2000)
 
 <div class="stripe_button_container">
   <div class="button_container">
@@ -156,7 +156,7 @@ In the twitter poll, I gave options from $0 to $2000, so giving all those option
   </div>
 </div>
 
-## 2. Meaningful money, but if it saves me 5-25 hours and hard feelings and frustration, I'm all in ($500)
+### 2. Meaningful money, but if it saves me 5-25 hours and hard feelings and frustration, I'm all in ($500)
 
 
 <div class="stripe_button_container">
@@ -174,7 +174,7 @@ In the twitter poll, I gave options from $0 to $2000, so giving all those option
   </div>
 </div>
 
-## 3. I expect non-trivial value from this but only have limited discressionary income ($100)
+### 3. I expect non-trivial value from this but only have limited discressionary income ($100)
 
 The cost of a quality tool or piece of software
 <div class="stripe_button_container">
@@ -192,7 +192,7 @@ The cost of a quality tool or piece of software
   </div>
 </div>
 
-## 4. What I might spend on dinner with a friend ($50)
+### 4. What I might spend on dinner with a friend ($50)
 <div class="stripe_button_container">
   <div class="button_container">
     <button
@@ -209,33 +209,33 @@ The cost of a quality tool or piece of software
 </div>
 
 
-## 5. Just send me the announcement blog post when you're done and giving it away ($0)
+### 5. Just send me the announcement blog post when you're done and giving it away ($0)
 
 <script async data-uid="79563b40c7" src="https://josh-thompson.ck.page/79563b40c7/index.js"></script>
 
 
-# FAQ
+## FAQ
 
-## What all is included
+### What all is included
 
 Not exactly sure, but a detailed guide. Annotated screenshots, links, all that stuff. 
 
 Might do video walk-throughs. [Here's an example of how I do these](https://josh.works/mythical-creature-refactor-ogre).
 
-## What if I want my money back
+### What if I want my money back
 
 Then I 100% wanna give it to you. Just let me know and I'll send it right back, all fees included, between now and forever. 
 
-## I might want the $100, or $500, or $2000 verison, but don't know yet.
+### I might want the $100, or $500, or $2000 verison, but don't know yet.
 
 Yeah, totally get it. I'd say pop your email address into the $0 form, and reply to one of the emails when you feel so inclined. 
 
-## I have other questions I'd like to ask you
+### I have other questions I'd like to ask you
 
 Great! Pop your email in below; the very first email you'll get asks:
 
 > I'd really love to know what prompted your interest. Are you going through something similar right now? Do you think you might be doing something like this soon? Any advice or words of caution that you'd share?
 
-As questions pop up, I'll update this document accordingly.
+As 
 
 {% include chromebook-guide-js.html %}
