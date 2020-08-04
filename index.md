@@ -11,25 +11,36 @@ My wife and I are based in Golden, CO.
 
 # What I'm working on right now
 
+I am always interested in what people are working on _right now_. Maybe not urgently, but at least enoug that they think about it every week or two. If you have a project that you think I can help with, I'd love to hear about it: `joshthompson@hey.com`
+
+I am working on two things:
+
+## \#1 Building out `IntermediateRuby`
+
 I'm working on helping early-career ruby/rails software developers more quickly grow their skills. 
 
 I'm doing this here: 
 
 **[--> https://intermediateruby.com/](https://intermediateruby.com/)**
 
-I'm working quite actively on it. 
 
-But I'm working on a lot more than just this. 
+## \#2 Upgrading Your Parent's Junky Old Laptop to a Chromebook
 
-If you want to tag along with me and get a bit emails that cover more than just software development punch in your email below! 
+Check it out:
+
+**[--> Upgrading Your Parent's Junky Old Laptop to a Chromebook]({{ site.baseurl }}{% link _posts/2020-08-03-parents-guide-to-painless-chromebook-setup.md %})**
+
+------------------------------------
+
+If any of what's above (or what you read below) is of interest to you, I'll probably mention it sometime soon to folks who are following along via email:
+
+I'd love for you to join:
 
 <script async data-uid="b69af6ca8e" src="https://josh-thompson.ck.page/b69af6ca8e/index.js"></script>
 
-If you're not sure that you _want_ to follow along, but you're curious, take a look at this sample of things I've written below:
-
 -------------------------------------
 
-## Resources I've created
+## Some of the other stuff and where to start
 
 I've got about 230 posts [in the archive]({{ site.baseurl }}{% link _pages/archive.md %}), which is too much for even _me_ to keep track of. 
 
