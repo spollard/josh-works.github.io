@@ -91,13 +91,13 @@ Maybe it's worth $1000 but you don't even have $5 to spend to acquire the guide.
 
 Here's the spec sheet of the guide, as it exists in my head right now:
 
-# The Why/What/How Much
+## An outline of what I'll build and get to you:
 
-I decided that, for the both of us, we needed to get her a Chromebook. I'm convincing her, and I'm going to write a detailed guide, everything from:
+I decided that, for the both of us, we needed to get her a Chromebook. I'm convincing her, and I'm going to write a detailed guide.
 
-## What/why
 
-I'll answer questions like:
+### Questions I'll answer
+
 - When I recognized it was the right time to actually take action
 - How I phrased the pain-points so she would agree that it was a problem
 - How I used the time I spent debugging her problems convincing her that she should use a different type of laptop
@@ -109,7 +109,7 @@ I'll answer questions like:
 - how I tweak my plans based on her responses
 - how to use all of this information to aid your own parents through a similar process
 
-# The benefits you will receive from this guide
+### The benefits you will receive from this guide
 - Help your parent(s) feel a sense of dignity and control through this process, even though it might feel like it's displacing an important, familiar thing needlessly
 - Remove a point of frustration that might be emotionally charged, thanks to issues related to maintaining competence and control over one's affairs. (I suspect I'll be looking for a `step-by-step guide to helping your aging parents stop driving` soon)
 - how to help your parent(s) use as much Gmail as they have to, while most likely using their primary email address with an `AOL` or `yahoo` or `comcast` email account. (and they get tons of spam in it)
@@ -125,10 +125,11 @@ I'll answer questions like:
 >
 >> Hi, I'm Barb, and since I switched to this chromebook thing I spend 20 extra minuts a day facetiming with my grandkids! I love that!
 
-# Do not purchase the guide if:
+## Do not purchase if... (sorta an "anti-FAQ")
 
 - If your parents are familiar with the Apple ecosystem, because I have always used Android and MacOS, don't have an iPad or an iPhone. I feel strongly inclined to do MacOS.
 - If you don't want to use a Chromebook or learn a Windows operating system
+- You expect a perfectly-polished, high-production-value product
 
 ----------------------
 
@@ -208,25 +209,33 @@ The cost of a quality tool or piece of software
 </div>
 
 
-## 5. Just send me the announcement blog post when you're done and giving it away
+## 5. Just send me the announcement blog post when you're done and giving it away ($0)
 
 <script async data-uid="79563b40c7" src="https://josh-thompson.ck.page/79563b40c7/index.js"></script>
 
 
 # FAQ
 
-**What all is included**
+## What all is included
 
 Not exactly sure, but a detailed guide. Annotated screenshots, links, all that stuff. 
 
 Might do video walk-throughs. [Here's an example of how I do these](https://josh.works/mythical-creature-refactor-ogre).
 
-**What if I want my money back**
+## What if I want my money back
 
 Then I 100% wanna give it to you. Just let me know and I'll send it right back, all fees included, between now and forever. 
 
-**I might want the $100, or $500, or $2000 verison, but don't know yet.**
+## I might want the $100, or $500, or $2000 verison, but don't know yet.
 
 Yeah, totally get it. I'd say pop your email address into the $0 form, and reply to one of the emails when you feel so inclined. 
+
+## I have other questions I'd like to ask you
+
+Great! Pop your email in below; the very first email you'll get asks:
+
+> I'd really love to know what prompted your interest. Are you going through something similar right now? Do you think you might be doing something like this soon? Any advice or words of caution that you'd share?
+
+As questions pop up, I'll update this document accordingly.
 
 {% include chromebook-guide-js.html %}
