@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upgrading Your Parent's Junky Old Laptop to a Chromebook
+title: A Runbook for Upgrading Your Parent's Junky Old Laptop to a Chromebook
 status: published
 date:  2020-07-20 06:00:00 -0700
 type: page
@@ -11,6 +11,25 @@ categories: [guides, in-laws]
 tags: [chromebook]
 image: "/images/2020-08-03-screen-01.JPG"
 ---
+
+#### tl;dr: I'm creating a `runbook` for a very specific, delicate, and potentially time-consuming and emotionally-charged operation to `replace my 70-year-old newly-widowed mother-in-law's ancient desktop computer with a easy-for-me-to-manage Chromebook`
+
+Wikipedia says a `runbook` is:
+
+> In a computer system or network, a runbook is a compilation of routine procedures and operations that the system administrator or operator carries out. System administrators in IT departments and NOCs use runbooks as a reference.
+>
+> Runbooks can be in either electronic or in physical book form. Typically, a runbook contains procedures to begin, stop, supervise, and debug the system. It may also describe procedures for handling special requests and contingencies. An effective runbook allows other operators, with prerequisite expertise, to effectively manage and troubleshoot a system. 
+
+- [_source_](https://en.wikipedia.org/wiki/Runbook)
+
+
+
+Here's the definition for the runbook _I_ will create:
+
+> In <strike>a computer system or network</strike> life, a runbook is a compilation of routine procedures and operations that the <strike>system administrator or operator</strike> `individual` carries out. <strike>System administrators in IT departments and NOCs</strike> `People` use runbooks as a reference.
+>
+> Runbooks can be in either electronic or in physical book form. Typically, a runbook contains procedures to begin, stop, supervise, and debug the <strike>system</strike> `situation`. It may also describe procedures for handling special requests and contingencies. An effective runbook allows other <strike>operators</strike> `people`, with prerequisite expertise, to effectively manage and troubleshoot a <strike>system</strike> `situation`. 
+
 
 I spent a few hours recently helping my 75-year-old mother-in-law reconnect her junky old Windows laptop to the internet. Across five phone calls, and many pictures of her computer screen, we got her internet working again. 
 
@@ -72,7 +91,9 @@ On this last one, read through this answer:
 
 I'm sold. I just have to re-invent the wheel and figure out how much I need to spend, etc.
 
-**I need to figure out what Chromebook to get her, set it up for her, and help her be successful with it. This can easily take many hours. I want my effort to be helpful to you.**
+**I want (and will therefore create) a Runbook to figure out what Chromebook to get her, set it up for her, and help her be successful with it. This can easily take many hours. I want my effort to be helpful to you.**
+
+It won't be quite as straight forward as a bash script - think of it as a `Runbook for Humans`
 
 -------------------
 
