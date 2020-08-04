@@ -4,7 +4,7 @@ title: Upgrading Your Parent's Junky Old Laptop to a Chromebook
 status: published
 type: page
 published: true
-description: ""
+description: "Upgrade your aging parent's clunky laptops to a Chromebook. A guide by an empathetic Mac/Android-using software developer who loves his mother-in-law very much."
 permalink: "/upgrade-parents-junky-old-laptop-to-chromebook"
 ---
 
@@ -73,6 +73,8 @@ The poll got some answers, so I'm tossing up real-live purchase buttons to guage
 
 # Purchase Options
 
+In the twitter poll, I gave options from $0 to $2000, so giving all those options below:
+
 ## 1. Money Is No Object ($2000)
 
 
@@ -139,28 +141,6 @@ The cost of a quality tool or piece of software
 ## 5. Just send me the announcement blog post when you're done and giving it away
 
 <script async data-uid="79563b40c7" src="https://josh-thompson.ck.page/79563b40c7/index.js"></script>
-
-
------------------
-
-test
-<!-- Load Stripe.js on your website. -->
-<script src="https://js.stripe.com/v3"></script>
-
-<!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
-<button
-  style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
-  id="checkout-button-sku_HlpAsb3jbuTFm0"
-  role="link"
-  type="button">
-  test checkout 999
-</button>
-
-<div id="error-message"></div>
-
-
-
-------------
 
 
 {% include stripe_button_js.html %}
