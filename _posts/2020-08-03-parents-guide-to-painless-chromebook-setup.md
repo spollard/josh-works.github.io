@@ -1,11 +1,14 @@
 ---
-layout: page
+layout: post
 title: Upgrading Your Parent's Junky Old Laptop to a Chromebook
 status: published
+date:  2020-07-20 06:00:00 -0700
 type: page
 published: true
 description: "Upgrade your aging parent's clunky laptops to a Chromebook. A guide by an empathetic Mac/Android-using software developer who loves his mother-in-law very much."
 permalink: "/upgrade-parents-junky-old-laptop-to-chromebook"
+categories: [guides, in-laws]
+tags: [chromebook]
 ---
 
 I spent a few hours recently helping my 75-year-old mother-in-law reconnect her junky old Windows laptop to the internet. Across five phone calls, and many pictures of her computer screen, we got her internet working again. 
@@ -13,6 +16,25 @@ I spent a few hours recently helping my 75-year-old mother-in-law reconnect her 
 As I did this, I live-tweeted the experience:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My mother in law is frustrated that her internet wasn&#39;t working today. It&#39;s been broken all day. I&#39;ve called her a few times between other events to try to help debug it. <br><br>This is a screenshot I just received (via email) that she took *with her phone* <a href="https://t.co/5KnfCGZ2F4">pic.twitter.com/5KnfCGZ2F4</a></p>&mdash; Josh Thompson (@josh_works) <a href="https://twitter.com/josh_works/status/1290420667444338688?ref_src=twsrc%5Etfw">August 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+Part of the debugging process involved her taking pictures of her computer screen, because I couldn't tell what she was looking at. (I don't ever use a Windows operating system, so I was operating blind.)
+
+She was frustrated with it all, so I'd first suggested plugging-in/unplugging the router. It would be easier to walk her through that then the unfamiliar OS. 
+
+After it didnt work (and hours passed) we did this back and forth. She took a picture and emailed it to me.
+
+It took a few minutes to arrive, then I'd look at it, tell her what to click, and wait for another screenshot:
+
+![first picture](/images/2020-08-03-screen-01.JPG)
+
+about 15 minutes and another phone call later, I got this:
+
+![second picture](/images/2020-08-03-chromebook-rotated.JPG)
+
+All she ended up needing was to click her home wifi network and connect to it, per these screenshots. 
+
+-------------------
+
 
 Later that day, here's what happened:
 
@@ -77,70 +99,81 @@ In the twitter poll, I gave options from $0 to $2000, so giving all those option
 
 ## 1. Money Is No Object ($2000)
 
+<div class="stripe_button_container">
+  <button
+    style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
+    id="checkout-button-sku_Hlof76lIQGPrOW"
+    role="link"
+    type="button">
+    Purchase ($2000)
+  </button>
 
-<button
-  style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
-  id="checkout-button-sku_Hlof76lIQGPrOW"
-  role="link"
-  type="button">
-  Purchase ($2000)
-</button>
-
-<div id="error-message"></div>
+  <div id="error-message"></div>
+</div>
 
 ## 2. Meaningful money, but if it saves me 5-25 hours and hard feelings and frustration, I'm all in ($500)
 
 
+<div class="stripe_button_container">
+  <button
+    style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
+    id="checkout-button-sku_HlotwPoptCsYBY"
+    role="link"
+    type="button">
+    Purchase ($500)
+  </button>
 
-<button
-  style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
-  id="checkout-button-sku_HlotwPoptCsYBY"
-  role="link"
-  type="button">
-  Purchase ($500)
-</button>
-
-<div id="error-message"></div>
-
-<!-- button -->
+  <div id="error-message"></div>
+</div>
 
 ## 3. I expect non-trivial value from this but only have limited discressionary income ($100)
 
 The cost of a quality tool or piece of software
+<div class="stripe_button_container">
+  <button
+    style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
+    id="checkout-button-sku_HloZ1DXv53t7fT"
+    role="link"
+    type="button">
+    Purchase ($100)
+  </button>
 
-<button
-  style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
-  id="checkout-button-sku_HloZ1DXv53t7fT"
-  role="link"
-  type="button">
-  Purchase ($100)
-</button>
-
-<div id="error-message"></div>
-
-
-<!-- button -->
+  <div id="error-message"></div>
+</div>
 
 ## 4. What I might spend on dinner with a friend ($50)
+<div class="stripe_button_container">
+  <button
+    style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
+    id="checkout-button-sku_Hloz9JPn2QkUAQ"
+    role="link"
+    type="button">
+    Purchase ($50)
+  </button>
 
-<!-- Load Stripe.js on your website. -->
-<script src="https://js.stripe.com/v3"></script>
-
-<!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
-<button
-  style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
-  id="checkout-button-sku_Hloz9JPn2QkUAQ"
-  role="link"
-  type="button">
-  Purchase ($50)
-</button>
-
-<div id="error-message"></div>
+  <div id="error-message"></div>
+</div>
 
 
 ## 5. Just send me the announcement blog post when you're done and giving it away
 
 <script async data-uid="79563b40c7" src="https://josh-thompson.ck.page/79563b40c7/index.js"></script>
 
+
+# FAQ
+
+**What all is included**
+
+Not exactly sure, but a detailed guide. Annotated screenshots, links, all that stuff. 
+
+Might do video walk-throughs. [Here's an example of how I do these](https://josh.works/mythical-creature-refactor-ogre).
+
+**What if I want my money back**
+
+Then I 100% wanna give it to you. Just let me know and I'll send it right back, all fees included, between now and forever. 
+
+**I might want the $100, or $500, or $2000 verison, but don't know yet.**
+
+Yeah, totally get it. I'd say pop your email address into the $0 form, and reply to one of the emails when you feel so inclined. 
 
 {% include stripe_button_js.html %}
