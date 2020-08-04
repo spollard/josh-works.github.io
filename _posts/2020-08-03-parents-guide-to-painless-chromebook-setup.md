@@ -176,4 +176,4 @@ Then I 100% wanna give it to you. Just let me know and I'll send it right back, 
 
 Yeah, totally get it. I'd say pop your email address into the $0 form, and reply to one of the emails when you feel so inclined. 
 
-{% include stripe_button_js.html %}
+{% include chromebook-guide-js.html %}
