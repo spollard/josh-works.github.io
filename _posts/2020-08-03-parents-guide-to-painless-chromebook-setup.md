@@ -34,6 +34,19 @@ about 15 minutes and another phone call later, I got this:
 
 All she ended up needing was to click her home wifi network and connect to it, per these screenshots. 
 
+Months ago, I'd read things like:
+
+- [Secure browsing for elderly: chromebook or Windows 10 S (reddit)](https://www.reddit.com/r/chromeos/comments/h82m1d/secure_browsing_for_elderly_chromebook_or_windows/)
+- [A chromebook for elderly people (reddit)](https://www.reddit.com/r/chromeos/comments/cdgq1q/a_chromebook_for_elderly_people/)
+- [People who bought a Chromebook for an elderly or tech illiterate parent/relative, what has yours and their experience been so far? (reddit, five years old! 😭)](https://www.reddit.com/r/chromeos/comments/34v0w2/people_who_bought_a_chromebook_for_an_elderly_or/)
+
+
+I ended up convincing her in the course of the call to upgrade to a Chromebook! 
+
+Oops. 
+
+**I need to figure out what Chromebook to get her, set it up for her, and help her be successful with it.**
+
 -------------------
 
 
