@@ -74,4 +74,4 @@ _source: [@sarahdoingthing](https://twitter.com/sarahdoingthing/status/889082755
 
 **1** _I originally guessed (and still maintain) that you won't actually want compensation. You are intrinsically motivated to reduce the role of cancer in the modern world. But the world is awash in causes that want your money. If it was a problem that could be solved with the simple application of money, we would have rallied and solved it a long time ago._
 
-_But then I realized that if I just asked you to read a book.... you might see me as saying "here's a chance to educate yourself", and that's feels condiscending, which is emphatically not my goal. I, myself, am busy, and couldn't pour hours of carefully crafting a "pitch", so I'm seeing if I can offer to simply 'buy' a solution._
+_But then I realized that if I just asked you to read a book.... you might see me as saying "here's a chance to educate yourself", and that's feels condiscending, which is emphatically not my goal. I, myself, am busy, and couldn't pour hours of carefully crafting a "pitch", so I'm seeing if I can offer to simply 'buy' a solution. I'm already behind on other stuff I was trying to get done today!_
