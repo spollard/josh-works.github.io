@@ -186,6 +186,8 @@ In the twitter poll, I gave options from $0 to $2000, so giving all those option
 
 ### 1. Money Is No Object ($2000)
 
+You want an excellent runbook and value your time. 
+
 <div class="stripe_button_container">
   <div class="button_container">
     <button
@@ -202,6 +204,8 @@ In the twitter poll, I gave options from $0 to $2000, so giving all those option
 </div>
 
 ### 2. Meaningful money, but if it saves you 5-25 hours and hard feelings and frustration, You're All In ($500)
+
+You'd be spending one or two days of income to have a bullet-proof solution to upgrading your aging parent's laptops. The story from Reddit had you nodding along hard. _This is exactly what you experience and want_. But five years ago? What hardware do I need now? Can I dual-boot the operating system? How do I actually convince him/her/them to start using it?
 
 
 <div class="stripe_button_container">
@@ -221,7 +225,12 @@ In the twitter poll, I gave options from $0 to $2000, so giving all those option
 
 ### 3. You expect non-trivial value from this guide ($100)
 
-The cost of a quality tool or piece of software
+You probably have spent at least $100 on something that will deliver much less value to you than this guide will.
+
+If that's true, but this is not at $500 or $1000 problem to you, this would be your best bet. 
+
+Low cost, you'll get whatever I create. It's a cheap gamble that $100 could save you from "donating" $1000 in labor (10 hours @$100/hr) in six months.
+
 <div class="stripe_button_container">
   <div class="button_container">
     <button
@@ -238,6 +247,9 @@ The cost of a quality tool or piece of software
 </div>
 
 ### 4. What You Might Spend on Dinner with a Friend ($50)
+
+If you think you'd spend $20 but not $50, this guide might not be for you. It will be so good that $50 will be a screaming deal. 
+
 <div class="stripe_button_container">
   <div class="button_container">
     <button
@@ -256,16 +268,42 @@ The cost of a quality tool or piece of software
 
 ### 5. Send You the announcement blog post when I'm done and giving it away ($0)
 
+If you just want to follow along, never would have bought the guide if I charged $0.50, might find more value later, etc, I'd love to have you along. 
+
+I'll end up writing my process up carefully, and I'll certainly share it out when I'm done.
+
+Enter your email, and you'll get all that when it's available:
+
 <script async data-uid="79563b40c7" src="https://josh-thompson.ck.page/79563b40c7/index.js"></script>
 
 _if you cannot see the email collection form above, you will have to turn off your JavaScript blocker or [visit this page](https://josh-thompson.ck.page/79563b40c7) to submit an email address_
 
 
+---------------------------------------
+
 ## FAQ
+
+If your question isn't asked, shoot me a note at [@josh_works](https://twitter.com/josh_works) or `joshthompson@hey.com`. I'll answer it and update this list.
 
 ### What all is included
 
-Not exactly sure, but a detailed guide. Annotated screenshots, links, all that stuff. 
+A runbook for technical people who help their non-technical aging parents/family/friends with their technology problems. 
+
+Specifically, writing up how to help the following persona:
+
+- A 70 mother-in-law with good relationships with her kids/grandkids
+- extremely resistant to change
+- feels bad needing constant help from her family
+- the tech trouble reminds her that her husband died recently and she misses him
+- on good terms with the person using this runbook (you!)
+
+This runbook will rely on building/deepening trust between you and the recipient, and that requires having something to build on. I'm sure it'll be helpful even if the relationship is poor, but I wanted to mention it.
+
+A detailed guide with links to the exact product, tools, services that I use
+
+Lots of perspecive of how this is landing with my mother-in-law
+
+etc.
 
 Might do video walk-throughs. [Here's an example of how I do these](https://josh.works/mythical-creature-refactor-ogre).
 
