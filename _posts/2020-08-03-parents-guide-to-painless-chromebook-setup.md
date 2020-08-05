@@ -14,6 +14,8 @@ image: "/images/2020-08-03-screen-01.JPG"
 
 #### tl;dr: I'm creating a `runbook` for a very specific, delicate, and potentially time-consuming and emotionally-charged operation to `replace my 70-year-old newly-widowed mother-in-law's ancient desktop computer with a easy-for-me-to-manage Chromebook`
 
+["shut up and take my money" (aka `jump to pricing`)](#purchase-options)
+
 Wikipedia says a `runbook` is:
 
 > In a computer system or network, a runbook is a compilation of routine procedures and operations that the system administrator or operator carries out. System administrators in IT departments and NOCs use runbooks as a reference.
@@ -284,5 +286,7 @@ Great! Pop your email in below; the very first email you'll get asks:
 <script async data-uid="79563b40c7" src="https://josh-thompson.ck.page/79563b40c7/index.js"></script>
 
 _if you cannot see the email collection form above, you will have to turn off your JavaScript blocker or [visit this page](https://josh-thompson.ck.page/79563b40c7) to submit an email address_
+
+_feel free to reach out at `joshthompson@hey.com` if you've got questions_
 
 {% include chromebook-guide-js.html %}
