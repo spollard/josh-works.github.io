@@ -4,7 +4,7 @@ title: Mike Clayville Can Have A Huge Impact on Cancer Treatment and Prevention
 status: publish
 type: page
 published: true
-description: "Mike Clayville Can Have A Huge Impact on Cancer Treatment and Prevention. We cannot know if this is true until he reads 'Tripping Over the Truth: The Metabolic Theory of Cancer'"
+description: "We cannot know if this is true until he reads 'Tripping Over the Truth: The Metabolic Theory of Cancer'. I humbly request that he do just this."
 permalink: /mike-clayville-can-have-a-huge-impact-on-cancer
 image: "/images/2020-08-05-mike-clayville-01.jpg"
 ---
