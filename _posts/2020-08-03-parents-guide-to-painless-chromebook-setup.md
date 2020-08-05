@@ -256,6 +256,8 @@ The cost of a quality tool or piece of software
 
 <script async data-uid="79563b40c7" src="https://josh-thompson.ck.page/79563b40c7/index.js"></script>
 
+_if you cannot see the email collection form above, you will have to turn off your JavaScript blocker or [visit this page](https://josh-thompson.ck.page/79563b40c7) to submit an email address_
+
 
 ## FAQ
 
@@ -280,5 +282,7 @@ Great! Pop your email in below; the very first email you'll get asks:
 > I'd really love to know what prompted your interest. Are you going through something similar right now? Do you think you might be doing something like this soon? Any advice or words of caution that you'd share?
 
 <script async data-uid="79563b40c7" src="https://josh-thompson.ck.page/79563b40c7/index.js"></script>
+
+_if you cannot see the email collection form above, you will have to turn off your JavaScript blocker or [visit this page](https://josh-thompson.ck.page/79563b40c7) to submit an email address_
 
 {% include chromebook-guide-js.html %}
