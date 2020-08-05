@@ -9,7 +9,7 @@ permalink: /mike-clayville-can-have-a-huge-impact-on-cancer
 image: "/images/2020-08-05-mike-clayville-01.jpg"
 ---
 
-I wrote this as if I could get an email read specifically and intently by Mike Clayville. I didn't wait until I finished writing this that I realized I have no credible/reliable delivery mechanism. I'm requesting help to get this to Mike. I don't think I'm more than two "hops" from him.
+_note: I wrote this as if I could get an email read specifically and intently by Mike Clayville. I didn't wait until I finished that I realized I have no credible/reliable delivery mechanism. I'm requesting help to get this to Mike. If you're the right person, **you can ask Mike to read this, and he will**._
 
 Hi Mike,
 
