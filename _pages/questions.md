@@ -10,6 +10,8 @@ image: "/images/2019-09-20-stripe-01.jpg"
 
 _inspired by Patrick collion's `/questions`: [https://patrickcollison.com/questions](https://patrickcollison.com/questions)_
 
+_If you have thoughts on moving any of these questions towards solutions, or think some book/resource/idea should be included on this page, please get in touch._
+
 ## What are non-traditional 'pass the hat' scripts for the tech community?
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A common theme of stories of interesting people is the ridiculous amounts of leverage, for good or ill, of presence or absence of a small amount of money or some social resource early followed by compounding.<br><br>Not a new insight, but one which I think we probably underappreciate.</p>&mdash; Patrick McKenzie (@patio11) <a href="https://twitter.com/patio11/status/1281423121564659712?ref_src=twsrc%5Etfw">July 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
