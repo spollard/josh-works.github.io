@@ -6,7 +6,7 @@ type: page
 published: true
 description: "Mike Clayville Can Have A Huge Impact on Cancer Treatment and Prevention. We cannot know if this is true until he reads 'Tripping Over the Truth: The Metabolic Theory of Cancer'"
 permalink: /mike-clayville-can-have-a-huge-impact-on-cancer
-image: "images/mike-banner.jpg"
+image: "/images/mike-banner.jpg"
 ---
 
 I wrote this as if I could get an email read specifically and intently by Mike Clayville. I didn't wait until I finished writing this that I realized I have no credible/reliable delivery mechanism. I'm requesting help to get this to Mike. I don't think I'm more than two "hops" from him.
