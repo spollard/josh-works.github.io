@@ -61,7 +61,7 @@ This is my quickest possible solution. I had limited time today, this is the bes
 
 \- Josh
 
-PS I'll pay other people to read the book too. At least $25, until I run through $1000. Let me know.
+PS I'll pay other people to read the book too. At least $25, until I run through $1000. Let me know. `joshthompson@hey.com` or [@josh_works (Twitter)](https://twitter.com/josh_works)
 
 PPS This is so janky, this whole format. Here's my plea for this format of getting this read seriously by Mike:
 
