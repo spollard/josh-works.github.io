@@ -11,5 +11,8 @@
 }
 
 footer {
-  margin-bottom: 2rem;
+  p { 
+    text-align: center;
+    font-size: $small-font-size;
+  }
 }
