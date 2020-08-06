@@ -37,9 +37,9 @@ Which means you would not find it unbelievable that an established institution m
 
 There is precedent  of industry opposing (in creative ways) inputs if their <strike>revenue</strike> <strike>stability</strike> <strike>control of industry</strike> <strike>relationship with regulatory bodies</strike> broadly-defined "interests" might be <strike>negatively</strike> effected. 
 
-**You are well-positioned, for a variety of reasons, to make a potentially enormous impact on the state of cancer research, cancer prevention, etc. 
+**You are well-positioned, for a variety of reasons, to make a potentially enormous impact on the state of cancer research, cancer prevention, etc.**
 
-The exact reasons you could have such an impact requires additional context, all of which is explained in this book: [Tripping Over the Truth: The Metabolic Theory of Cancer](https://www.goodreads.com/book/show/23496164-tripping-over-the-truth)**
+**The exact reasons you could have such an impact requires additional context, all of which is explained in this book: [Tripping Over the Truth: The Metabolic Theory of Cancer](https://www.goodreads.com/book/show/23496164-tripping-over-the-truth)**
 
 ----------------------------------
 

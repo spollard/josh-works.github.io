@@ -5,7 +5,7 @@ type: page
 published: false
 description: "Questions that keep me up at night"
 permalink: /questions
-image: "/images/2019-09-20-stripe-01.jpg"
+image: "images/2019-09-20-stripe-01.jpg"
 ---
 
 _inspired by Patrick collion's `/questions`: [https://patrickcollison.com/questions](https://patrickcollison.com/questions)_
