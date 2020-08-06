@@ -3,10 +3,15 @@ layout: page
 title: Dear Ecco, You have an important UX problem
 status: draft
 type: page
-published: false
+published: true
 description: ""
 permalink: "/ecco-please-add-in-stock-notifications-via-email"
 ---
+
+_note, this page was first created May 31. I kept running out of time to finish it, wanting to come back to it and update it more, then a month passed. July 18. 6 weeks. Now it's Aug 6. I need to start getting this to Ecco, else a year will pass and I'll completely forget about it._
+
+_I'm sharing this letter privately. It's "public", but just to facilitate others giving me feedback on it._
+
 
 My wife and I just _almost_ had a fight over shoes, because I'd found [these Ecco shoes](https://us.ecco.com/ecco-collin-2.0-sneaker-536274.html?dwvar_536274_color=52664&dwvar_536274_size=39) months ago, wanted to order them, and they were out of my size. 
 
