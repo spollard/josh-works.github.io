@@ -11,21 +11,25 @@ image: "/images/2020-08-05-mike-clayville-01.jpg"
 
 _note: I wrote this as if I could get an email read specifically and intently by Mike Clayville. I didn't wait until I finished that I realized I have no credible/reliable delivery mechanism. I'm requesting help to get this to Mike. If you're the right person, **you can ask Mike to read this, and he will**._
 
+_2020-08-06 update: I'm slowly going to share this with more people who might be able to get it to Mike Clayville. I will take this page down as soon as I have reason to believe Mike has seen it._
+
 Hi Mike,
 
 Something interesting just happened.
 
-Patrick Collison is one of 17 people I follow on Twitter, so I read this tweet:
+I just read this tweet:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">As we expand our portfolio of products and services, and work to power a growing cast of global companies, we&#39;re delighted to add Mike Clayville to the team: <a href="https://t.co/7dgwDIVcah">https://t.co/7dgwDIVcah</a>. <a href="https://t.co/eNmVuLxHFb">pic.twitter.com/eNmVuLxHFb</a></p>&mdash; Patrick Collison (@patrickc) <a href="https://twitter.com/patrickc/status/1291103130420015104?ref_src=twsrc%5Etfw">August 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 _[Stripe Newsroom: Stripe hires Mike Clayville as Chief Revenue Officer](https://stripe.com/newsroom/news/mike-clayville)_
 
-I read it. I've never heard of you until 10 minutes ago, but it looks like Stripe just make a _great_ investment in convincing you to apply your problem-solving abilities to what they are trying to do in the world. 
+I read the linked press release. I've never heard of you until 10 minutes ago, but it looks like Stripe just make a _great_ investment in convincing you to apply your problem-solving abilities to what they are trying to do in the world. 
 
-I skimmed the release, and a sentance jumped out at me. It may have seemed unimportant to most people.
+I skimmed the release, and a sentance jumped out at me. It may have seemed unimportant to most people:
 
 ![Outside of work, Mike is passionate about cancer research and serves as a board member of Fred Hutchinson Cancer Research Center](/images/2020-08-05-mike-clayville-01.jpg)
+
+> Outside of work, Mike is passionate about cancer research and serves as a board member of Fred Hutchinson Cancer Research Center
 
 My wife and I have been personally affected by cancer.
 
@@ -35,7 +39,7 @@ If Stripe just convinced you to join their team, you are likely to feel intellec
 
 Which means you would not find it unbelievable that an established institution might not welcome innovation, _even though they state that they welcome innovation_.
 
-There is precedent  of industry opposing (in creative ways) inputs if their <strike>revenue</strike> <strike>stability</strike> <strike>control of industry</strike> <strike>relationship with regulatory bodies</strike> broadly-defined "interests" might be <strike>negatively</strike> effected. 
+There is precedent  of industry opposing (in creative ways) inputs if their <strike>revenue</strike> <strike>stability</strike> <strike>control of industry</strike> <strike>relationship with regulatory bodies</strike> broadly-defined "interests" might be <strike>negatively</strike> affected. 
 
 **You are well-positioned, for a variety of reasons, to make a potentially enormous impact on the state of cancer research, cancer prevention, etc.**
 
