@@ -49,7 +49,7 @@ There is precedent  of industry opposing (in creative ways) inputs if their <str
 
 I've considered how I might convince you to invest the time of reading this book to explore if there might be even a fraction of a possibility that what I am right.
 
-I'll pay $5000 to an organization of your choice (including the Fred Hutchinson Cancer Research Center) if you read this book. Half now, half when you're done. <sup>1</sup>
+I'll pay $5000 to an organization of your choice (including the Fred Hutchinson Cancer Research Center) if you read this book. Half now, half when you're done.<sup>[1](#footnotes)</sup>
 
 I'm not asking that you take any specific action beyond reading the book. 
 
@@ -67,10 +67,9 @@ This is my quickest possible solution. I had limited time today, this is the bes
 
 \- Josh
 
-PS I'll pay other people to read the book too. If you're one step removed from Mike Clayville, I'll make a $500 donation to an organization of your choice. Half when you start, half when you finish. Let me know. `joshthompson@hey.com` or [@josh_works (Twitter)](https://twitter.com/josh_works). If you're more removed from Mike, I'll still make a donation. $50 to an org of your choice, or I'll pay you $50 directly. Your call.
+PS: I'll pay other people to read the book too. If you're one step removed from Mike Clayville, I'll make a $500 donation to an organization of your choice. Half when you start, half when you finish. Email me at `joshthompson@hey.com` or [@josh_works (Twitter)](https://twitter.com/josh_works) to kick it off. If you're more removed from Mike, I'll still make a donation. $50 to an org of your choice, or I'll pay you $50 directly. Your call.
 
-PPS I know this whole format is unconventional. Here's my plea for this format of getting this read seriously by Mike:
-
+PPS: I know this whole format is unconventional. Here's why I captured this sentiment in this email-as-blog-post format:
 
 ![write it now](/images/2020-07-21-write-it-now.jpg)
 _source: [@sarahdoingthing](https://twitter.com/sarahdoingthing/status/889082755203518464?s=20)_
@@ -80,8 +79,8 @@ I'm extremely time-constrained, and put together the quickest/highest-impact str
 
 ### Footnotes
 
-**1** _I originally guessed (and still maintain) that you won't actually want compensation. You are intrinsically motivated to reduce the role of cancer in the modern world. But the world is awash in causes that want your money. If it was a problem that could be solved with the simple application of money, we would have rallied and solved it a long time ago._
+1 _As I first wrote this, I guessed (and still maintain) that you won't actually want compensation. You are intrinsically motivated to reduce the role of cancer in the modern world. But the world is awash in causes that want your money. If it was a problem that could be solved with the simple application of money, we would have rallied and solved it a long time ago._
 
-_But then I realized that if I just asked you to read a book you might see me as saying "here's a chance to educate yourself", and that's feels condescending, which is emphatically not my goal. You are uniquely situated, by virtue of your position, to do something about this book, if you find it compelling. I, myself, am busy, and couldn't pour hours of carefully crafting a "pitch", so I'm seeing if I can offer to simply 'buy' myself a solution. I'm already behind on other stuff I was trying to get done today!_
+_But then I realized that if I just asked you to read a book you might see me as saying "here's a chance to educate yourself", and that's feels condescending, which is emphatically not my goal. You are uniquely situated, by virtue of your position on the board of a cancer research institution, to do something about this book, if you find it compelling._
 
 _Evidence of reading the book is easy. Email me a screenshot of the receipt or book or some evidence that you're obtaining it. (`joshthompson@hey.com`). Then email me again when you've finished. I'll make donations when I receive both emails._
