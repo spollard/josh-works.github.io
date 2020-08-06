@@ -61,7 +61,7 @@ You can find it here:
 
 I've hopefully evidenced good intent and skin in the game. I am happy to discuss this more on a call, even if just an explanation of why you should spend ten or twenty hours reading the book.
 
-[--> Schedule a call](https://calendly.com/joshthompson/skin-in-the-game)
+[--> Set up a call to discuss why I'm willing to donate $5000 to get you to read a book](https://calendly.com/joshthompson/skin-in-the-game)
 
 This is my quickest possible solution. I had limited time today, this is the best I can put together. I hope to talk soon.
 
