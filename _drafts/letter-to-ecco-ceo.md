@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dear Ecco, You have an important UX problem
-status: draft
+status: published
 type: page
 published: true
 description: ""

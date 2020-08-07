@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dear Stripe, You Have A (Minor) UX Problem
-status: published
+status: publish
 type: page
 published: true
 description: ""
