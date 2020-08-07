@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thank You!
-status: published
+status: publish
 type: page
 published: true
 description: "Thank you for purchasing my course. I hope it's super helpful to you!"
@@ -10,15 +10,19 @@ permalink: /success
 
 ![highest of fives](http://giphygifs.s3.amazonaws.com/media/QN6NnhbgfOpoI/giphy.gif)
 
-Thanks for purchasing my guide!
+You purchased something!
+
+This is probably a way bigger deal to me than it is to you. I love to build useful things, but I try to work in a minimum-increment-of-usefulness of "meaningful amount of money".
+
+That means try to work on problems that are painful enough that someone will pay for a solution.
 
 I'm _thrilled_ that you did that. I'm pretty confident that you'll be thrilled with what you purchased, but I'm honored and humbled that you've chosen to give _me_, this random guy on the internet, your hard-earned cash. 
 
-That said, in exchange for this money, you'll be getting huge amounts of your time back, so I think it's a fair trade. 😀
+There's a few different purchase options that will leave you on this page.
 
-Check your email; you should have an email from `thompsonjoshd@gmail.com` in your inbox soon. The tool I use to send emails checks for purchases - and sends the emails - every fifteen minutes, so you will have an email from me (`thompsonjoshd@gmail.com`) between now and fifteen minutes from now.
+You might receive an automatic email from me in the next few minutes. If it's more of a one-off project, you'll get a personal email from me next time I'm at my laptop.
 
-Anyway, this email will have the course, as well as additional information about working through the material, and more.
+If you get an email from me, it'll be from `thompsonjoshd@gmail.com` or `josh@josh.works`. 
 
 ![no you rock](https://media.giphy.com/media/wFOC9RazP97i0/giphy.gif)
 
