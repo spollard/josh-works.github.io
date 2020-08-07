@@ -1,10 +1,17 @@
 ---
 layout: post
-title:  "Cultivate the Skill of Undivided Attention, or 'Deep Work'"
+title:  "Love Your Enemies"
 date:  2019-09-07 06:00:00 -0700
 crosspost_to_medium: false
 categories: [notes]
-description: "Guest Post for letterstoanewdeveloper.com, on 'topic'"
-tags: [guest_post]
-permalink: letters-to-a-new-developer-deep-work
+description: "Thoughts on the hardest verse in Scripture"
+tags: []
+permalink: love-your-enemies-is-the-hardest-injunction
 ---
+
+[Gollum & the Outstretched Hand - Matthew 5 (Grace Anglican Church)](https://pca.st/8mcnpjae)
+
+by Rev. Ethan Magness, Rector
+
+This sermon is profound.
+
