@@ -118,12 +118,15 @@ Normally, that's a good aversion to have. For this particular situation, you'll 
 ### 1. Draft the opening/closing
 
 ```
-Hi there,         # I find it easier to strike a natural tone when thinking relatively informally. 
-                  # So, I draft documents, even if they'll end up being formal, informally. 
+Hi there,         
+# I find it easier to strike a natural tone when thinking relatively
+# informally. So, I draft documents, even if they'll end up being 
+# formal, informally. 
              
              
-Sincerely,        # Yes, I write the closing right after the opening.
+Sincerely, 
 - Boss's name, Title, Company
+# Yes, I write the closing right after the opening.
 ```
 
 ### 2. Provide 1 general introduction/context sentance
@@ -131,8 +134,10 @@ Sincerely,        # Yes, I write the closing right after the opening.
 ```
 Hi there,
 
-# Establish the relationship. This helps readers contextualize what comes next
-I met {person I am recommending} {n months ago} because {internship|coffee meeting|event|etc }.
+# Establish the relationship. This helps readers contextualize 
+# what comes next
+I met {person I am recommending} {n months ago} because 
+ {internship|coffee meeting|event|etc}.
 
 Sincerely,
 - Boss's name, Title, Company
@@ -145,11 +150,13 @@ This is the first uncomfortable sentance you'll have to write:
 ```
 Hi there,
 
-I met {Josh} {a few months ago} because {he and I crossed paths at a local Ruby meetup}.
+I met {Josh} {a few months ago} because {he and I crossed paths
+at a local Ruby meetup}.
 
-# No gushing required. A claim of "I would hire this person if I could" is plenty strong social signaling. 
-
-I wish I could hire him myself, but don't have the budget and work lined up to utilize him to his full potential. 
+# No gushing required. A claim of "I would hire this 
+# person if I could" is plenty strong social signaling. 
+I wish I could hire him myself, but don't have the budget and work
+lined up to utilize him to his full potential. 
 
 Sincerely,
 - Boss's name, Title, Company
@@ -162,21 +169,30 @@ This can be hard to think of an anecdote. It might take a few attempts to feel g
 ```
 Hi there,
 
-I met {Josh} {a few months ago} because {he and I crossed paths at a local Ruby meetup}.
+I met {Josh} {a few months ago} because {he and I crossed paths 
+at a local Ruby meetup}.
 
-I wish I could hire him myself, but don't have the budget and work lined up to utilize him to his full potential. 
+I wish I could hire him myself, but don't have the budget and work 
+lined up to utilize him to his full potential. 
 
 # add a punchy positive story
-When he started at {company}, one of the first things he did was make many updates to our onboarding documentation. 
+When he started at {company}, one of the first things he did was 
+make many updates to our onboarding documentation. 
 
-It was rather out-of-date, and the team hadn't had new hires in a while. 
+It was rather out-of-date, and the team hadn't had new hires in a 
+while. 
 
-Any time he ran into friction or trouble, he would hunt down the answer, and immediately update the documentation so the next person would have a smoother process.
+Any time he ran into friction or trouble, he would hunt down the 
+answer, and immediately update the documentation so the next 
+person would have a smoother process.
 
-Sure enough, the next hire spent half the time he did getting up and running.
+Sure enough, the next hire spent half the time he did getting 
+up and running.
 
-# If possible, generalize from that story to a stable attribute that informs your work:
-He brings a similar attention to detail and thoughtfullness about "the next person" to all of the work that he does. 
+# If possible, generalize from that story to a stable attribute 
+# that informs your work:
+He brings a similar attention to detail and thoughtfullness about 
+"the next person" to all of the work that he does. 
 
 Sincerely,
 - Boss's name, Title, Company
@@ -187,22 +203,33 @@ Sincerely,
 ```
 Hi there,
 
-I met {Josh} {a few months ago} because {he and I crossed paths at a local Ruby meetup}.
+I met {Josh} {a few months ago} because {he and I crossed paths 
+at a local Ruby meetup}.
 
-I wish I could hire him myself, but don't have the budget and work lined up to utilize him to his full potential. 
+I wish I could hire him myself, but don't have the budget and work 
+lined up to utilize him to his full potential. 
 
-When he started at {company}, one of the first things he did was make many updates to our onboarding documentation. 
+# add a punchy positive story
+When he started at {company}, one of the first things he did was 
+make many updates to our onboarding documentation. 
 
-It was rather out-of-date, and the team hadn't had new hires in a while. 
+It was rather out-of-date, and the team hadn't had new hires in a 
+while. 
 
-Any time he ran into friction or trouble, he would hunt down the answer, and immediately update the documentation so the next person would have a smoother process.
+Any time he ran into friction or trouble, he would hunt down the 
+answer, and immediately update the documentation so the next 
+person would have a smoother process.
 
-Sure enough, the next hire spent half the time he did getting up and running.
+Sure enough, the next hire spent half the time he did getting 
+up and running.
 
-He brings a similar attention to detail and thoughtfullness about "the next person" to all of the work that he does. 
+He brings a similar attention to detail and thoughtfullness about 
+"the next person" to all of the work that he does. 
 
-# An offer to provide evidence is functionally the same as evidence, so:
-I'd be happy to answer any follow-up questions you might have about Josh. Feel free to email me at `email`
+# `An offer to provide evidence` is functionally the same as 
+# `evidence`, so:
+I'd be happy to answer any follow-up questions you might have 
+about Josh. Feel free to email me at `email`
 
 Sincerely,
 - Boss's name, Title, Company
