@@ -46,28 +46,29 @@ It's _the risk of a bad hire_.
 
 How much does it cost to make a bad hire?
 
-I would conservatively estimate that it costs $100,000 and nine months of your life:
+I would conservatively estimate that it costs $100,000 and nine months of your life. Here's how the math works from a hiring manager's point of view:
 
-1. 1 month and 10 hours of labor at $75/hr to find/interview the candidate (the hiring manager would prefer to be doing _literally anything else but hiring_)
-2. Extend an offer, wait two or three more weeks (the team is currently short-staffed, and has been for a long time. That's why they're hiring you.)
+1. Spend a month and 25 hours of labor dev team manager labor to find/interview the candidate(s) and winnow the applicants down to someone to make an offer.  (the hiring manager would prefer to be doing _literally anything else but hiring_.) 
+2. Extend an offer, wait 2-6 more weeks before the new candidate starts. It can be painful to wait another six weeks, because the team is currently short-staffed, and has been for a long time. That's why they're hiring!
 3. Start date! Start paying $150,000/yr or $3000/week for your shiny new employee. 
-4. Pay $12,000 for the first month of them working, figuring out your dev environment, ticket management, who knows what parts of the codebase, and a few easy bug fixes
-5. Start getting nervous. Employee not batting it out of the park like you'd hoped. Maybe still onboarding, give it another month (and $12,000).
-6. OK. Three months in and $36,000 in payroll later, you're pretty sure there's a problem.
+4. Pay $12,000 for the first month of them working, figuring out your dev environment, ticket management, who knows what parts of the codebase, and a few easy bug fixes.
+5. Start getting nervous. Employee not batting it out of the park like you'd hoped. Maybe still onboarding, give it another month (and $12,000 in payroll expense).
+6. OK. Three months in and another $36,000 in payroll later, you're pretty sure there's a problem.
 7. Start the pre-Performance Improvement Plan work. Talk to their team, their manager, them. Why is it not working? Why is the team _working slower_ with this new team member, instead of working faster? _Not only are you wasting five figures of payroll, the rest of your expensive dev team is producing less as well!_
 8. Pre-PIP work is over. Another $5k in payroll gone forever. Now it's time to give the formal PIP, which everyone knows is "beginning the firing process"
 9. Two more months and $24,000 in payroll later, you fire the employee. 
 10. You feel relief with having gotten rid of the bad employee. You're thrilled that you can get back to normal work.
+11. Check the clock and balance sheet. It took you nine months and $100k to get to where you were at step 1. 
 
 Add up the time/expense:
 
-1. 1 month trying to find a candidate
-2. 7-8 months (and $84K-$96k) to hire, trial them, try to help them be successful, give up on that plan, and fire them
-3. Many hours spent thinking about this specific problem, talking with others about it
+1. 1-2 months to to find/hire a candidate.
+2. 7-8 months (and $84K-$96k) to hire, trial them, try to help them be successful, give up on that plan, and fire them.
+3. Many hours spent thinking about this specific problem, talking with others about it.
 
-there's nine months of your life. That's 9 months of time, sure, but it's also 9 months of _opportunity cost_. What if you'd hired a great candidate? they'd be rapidly approaching their first year on the job, and everyone would be happy about it. 
+There's nine months of your life. That's 9 months of time, sure, but it's also 9 months of [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost). What if you'd hired a great candidate? They'd be rapidly approaching their first year on the job, and everyone would be happy about it, instead of this disaster you've had to deal with. 
 
-Here's the really scary part. To large organizations, _wasting $100k is meaningless_. The entire organization would be most annoyed at having _lost the time of a productive software developer_. They don't care that they may as well have burnt a pile of money, _they're annoyed that their competitor is getting new features out the door and gaining marketshare and the future of their $x,000,000 company hangs in the balance_. 
+Here's the really scary part: To large organizations (1000+ employees), _wasting $100k is meaningless compared to the wasted time and mis-directed effort_. The entire organization is more annoyed at having _lost the time of a productive software developer_. They don't care that they lit a giant pile of money on fire, _they're annoyed that their competitor is getting new features out the door and gaining marketshare and the future of their $x,000,000 company hangs in the balance_. 
 
 Oh, and the good managers, not only do they want to be wise with money and build features/gain market-share...
 
