@@ -82,7 +82,7 @@ You want to work for a kind and empathetic manager. (They're not common, but the
 So, tailor your letter to speak to the concerns of a kind and empathetic manager. This manager would:
 
 - Want to see you do well
-- Want to see you developer your skills and competencies
+- Want to see you develop your skills and competencies
 - Want you to make meaningful contributions to the product
 - Want a healthy team dynamic
 - Want you to voice concerns and observations as relevant
@@ -150,13 +150,13 @@ This is the first uncomfortable sentence you'll have to write:
 ```
 Hi there,
 
-I met {Josh} {a few months ago} because {he and I crossed paths
+I met {Zaniyah} {a few months ago} because {she and I crossed paths
 at a local Ruby meetup}.
 
 # No gushing required. A claim of "I would hire this 
 # person if I could" is plenty strong social signaling. 
-I wish I could hire him myself, but don't have the budget and work
-lined up to utilize him to his full potential. 
+I wish I could hire them myself, but don't have the budget and work
+lined up to utilize them to their full potential. 
 
 Sincerely,
 - Boss's name, Title, Company
@@ -169,30 +169,30 @@ This can be hard to think of an anecdote. It might take a few attempts to feel g
 ```
 Hi there,
 
-I met {Josh} {a few months ago} because {he and I crossed paths 
+I met {Zaniyah} {a few months ago} because {she and I crossed paths 
 at a local Ruby meetup}.
 
-I wish I could hire him myself, but don't have the budget and work 
-lined up to utilize him to his full potential. 
+I wish I could hire her myself, but don't have the budget and work 
+lined up to utilize her to their full potential. 
 
 # add a punchy positive story
-When he started at {company}, one of the first things he did was 
+When she started at {company}, one of the first things she did was 
 make many updates to our onboarding documentation. 
 
 It was rather out-of-date, and the team hadn't had new hires in a 
 while. 
 
-Any time he ran into friction or trouble, he would hunt down the 
+Any time she ran into friction or trouble, she would hunt down the 
 answer, and immediately update the documentation so the next 
 person would have a smoother process.
 
-Sure enough, the next hire spent half the time he did getting 
+Sure enough, the next hire spent half the time she did getting 
 up and running.
 
 # If possible, generalize from that story to a stable attribute 
 # that informs your work:
-He brings a similar attention to detail and thoughtfullness about 
-"the next person" to all of the work that he does. 
+She brings a similar attention to detail and thoughtfullness about 
+"the next person" to all of the work that she does. 
 
 Sincerely,
 - Boss's name, Title, Company
@@ -203,33 +203,33 @@ Sincerely,
 ```
 Hi there,
 
-I met {Josh} {a few months ago} because {he and I crossed paths 
+I met {Zaniyah} {a few months ago} because {she and I crossed paths 
 at a local Ruby meetup}.
 
-I wish I could hire him myself, but don't have the budget and work 
-lined up to utilize him to his full potential. 
+I wish I could hire her myself, but don't have the budget and work 
+lined up to utilize her to his full potential. 
 
 # add a punchy positive story
-When he started at {company}, one of the first things he did was 
+When she started at {company}, one of the first things she did was 
 make many updates to our onboarding documentation. 
 
 It was rather out-of-date, and the team hadn't had new hires in a 
 while. 
 
-Any time he ran into friction or trouble, he would hunt down the 
+Any time she ran into friction or trouble, she would hunt down the 
 answer, and immediately update the documentation so the next 
 person would have a smoother process.
 
-Sure enough, the next hire spent half the time he did getting 
+Sure enough, the next hire spent half the time she did getting 
 up and running.
 
-He brings a similar attention to detail and thoughtfullness about 
-"the next person" to all of the work that he does. 
+She brings a similar attention to detail and thoughtfullness about 
+"the next person" to all of the work that she does. 
 
 # `An offer to provide evidence` is functionally the same as 
 # `evidence`, so:
 I'd be happy to answer any follow-up questions you might have 
-about Josh. Feel free to email me at `email`
+about Zaniyah. Feel free to email me at `email`
 
 Sincerely,
 - Boss's name, Title, Company
