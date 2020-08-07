@@ -129,7 +129,7 @@ Sincerely,
 # Yes, I write the closing right after the opening.
 ```
 
-### 2. Provide 1 general introduction/context sentance
+### 2. Provide 1 general introduction/context sentence
 
 ```
 Hi there,
@@ -145,7 +145,7 @@ Sincerely,
 
 ### 3. Say a complementary thing about yourself.
 
-This is the first uncomfortable sentance you'll have to write:
+This is the first uncomfortable sentence you'll have to write:
 
 ```
 Hi there,
@@ -198,7 +198,7 @@ Sincerely,
 - Boss's name, Title, Company
 ```
 
-### 5. Add a sentance offering to speak further about you
+### 5. Add a sentence offering to speak further about you
 
 ```
 Hi there,
