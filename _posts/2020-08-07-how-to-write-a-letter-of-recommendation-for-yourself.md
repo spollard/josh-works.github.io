@@ -228,3 +228,5 @@ If you've been tasked wit writing your own letter of recommendation and it's sup
 
 
 _I'm not an expert on this kind of thing, but I always like finding templates others have given for how they do things. Don't think that this is the Right Way or (heaven forbid) The Only Way. This is just how I do it. If you'd got a resource that has helped you, tell me about it and I'll update this post with a link to it!_
+
+Lastly, if you got value from this blog post, I can probably deliver value to you again. Punch your email in below and I'll let you know when I write other posts, or do a big update to an existing post.
