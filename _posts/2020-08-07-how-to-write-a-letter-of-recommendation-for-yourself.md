@@ -107,7 +107,7 @@ Quoting myself:
 >
 > [...]
 > 
-> When you can walk someone down the path from “Hire me” to “I’ll help you make $$$,$$$/year more than you would otherwise”, if the the amount you'll make them is 3x your annual salary, you’re in a pretty good place. 
+> When you can walk someone down the path from “Hire me” to “I’ll help you make `$x00,000/year` more than you would otherwise”, _you're talking their language_. You're _telegraphing_ that you understand their concerns without ever stating their concern explicitly.
 
 To bring it full circle, here's how I would go about _drafting_ a CEO's Letter of Recommendation _for me_. If you find this idea uncomfortable, don't worry about it. That's a sign of psychological health, that you don't love putting flattering words _about yourself_ into other people's mouths. 
 
