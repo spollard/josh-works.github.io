@@ -1,5 +1,13 @@
 ---
-
+layout: post
+title:  "How To Write A Letter of Recommendation for Yourself"
+description: "Do you get along well with your boss? Did they offer you write you a letter of recommendation, AND THEN ASKED YOU TO DRAFT IT???"
+date:  2020-08-06 06:00:00 -0700
+crosspost_to_medium: false
+categories: [career]
+tags: [career, jobs]
+permalink: how-to-write-a-letter-of-recommendation-for-yourself
+image: /images/title_image.jpg
 ---
 
 I meet regularly with early-career software developers. A few recurring meetings, 1x/week, plus ad-hoc calls as needed with others.
@@ -11,6 +19,18 @@ A question came up recently:
 > He said he'd write me a letter of recommendation, and asked me to draft it for him.
 >
 > How do I write my own letter of recommendation, for my first real software development job?
+
+Feels like a trap, huh?
+
+![who are you?](/images/office-hours-tufts.jpeg)
+
+[_source_](https://admissions.tufts.edu/blogs/jumbo-talk/post/the-office-hours/)
+
+Or, maybe they know you. They know you _too well_
+
+![untrustworthy](images/recommendation-warning.jpg)
+
+[_source_](https://blacklawyermagic.wordpress.com/)
 
 I explained a few concepts that we wanted to "speak to" in the letter. I'll explain.
 
@@ -162,9 +182,7 @@ Sincerely,
 - Boss's name, Title, Company
 ```
 
-### 5. Add a sentance offering to speak further about you:
-
-
+### 5. Add a sentance offering to speak further about you
 
 ```
 Hi there,
@@ -207,3 +225,6 @@ You're solving a big problem for your boss, in writing this letter. **That is wh
 Done! 
 
 If you've been tasked wit writing your own letter of recommendation and it's super intimidating, get in touch and I'll help you out. Writing the first one is the hardest, it gets easier as you go.
+
+
+_I'm not an expert on this kind of thing, but I always like finding templates others have given for how they do things. Don't think that this is the Right Way or (heaven forbid) The Only Way. This is just how I do it. If you'd got a resource that has helped you, tell me about it and I'll update this post with a link to it!_
