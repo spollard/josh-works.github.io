@@ -251,7 +251,7 @@ You're solving a big problem for your boss, in writing this letter. **That is wh
 
 Done! 
 
-If you've been tasked wit writing your own letter of recommendation and it's super intimidating, get in touch and I'll help you out. Writing the first one is the hardest, it gets easier as you go.
+If you've been tasked with writing your own letter of recommendation and it's super intimidating, get in touch and I'll help you out. Writing the first one is the hardest, it gets easier as you go.
 
 
 _I'm not an expert on this kind of thing, but I always like finding templates others have given for how they do things. Don't think that this is the Right Way or (heaven forbid) The Only Way. This is just how I do it. If you'd got a resource that has helped you, tell me about it and I'll update this post with a link to it!_
