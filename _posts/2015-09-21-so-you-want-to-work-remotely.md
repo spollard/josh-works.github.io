@@ -11,6 +11,8 @@ meta: {}
 permalink: so-you-want-to-work-remotely
 ---
 
+## Josh's "rules" for getting a sweet remote job
+
 A few weeks ago, I met a fantastic guy who is contemplating next steps for work. He is great at what he does, and is thinking about what direction to go in his life. He's young, and thought working remotely sounded pretty cool. I agreed, and then spent the next week or two thinking about what's required to work remotely. 
 
 Here's the email I sent trying to explain all of this.
@@ -31,7 +33,7 @@ First, there’s the matter of framing how you go about working remotely. Obviou
 So, if I can make up the imaginary **Josh’s Rules of Getting a Remote Job**, this is what they’d be:
 
 
-## Rule 1: Getting a remote job is exactly the same as getting a regular job, but a little harder
+### Rule 1: Getting a remote job is exactly the same as getting a regular job, but a little harder
 
 
 Companies that hire remotely tend to be younger, agile-er, and smaller. So every employee matters. Making a bad hire can be catastrophic in terms of
@@ -43,7 +45,7 @@ The average person talks about all the reasons that they’re qualified to do th
 
 > Of course this person wants to work at my company. I have a kick-ass, quickly growing company and pay my employees well. **I am looking for more than "just" a willing person.**
 
-## Rule 2: A top-performing employee approaches a job opportunity the same way a consultant approaches a possible gig.
+### Rule 2: A top-performing employee approaches a job opportunity the same way a consultant approaches a possible gig.
 
 First, qualify the opportunity. Is this something that you could do well?
 
@@ -67,7 +69,7 @@ By the way - none of this should be construed as a suggestion to "make up BS". T
 
 This is another topic for another time, though. Just know that _you need to focus on the value you provide to a company._
 
-#### Rule 3: A top-performing employee has concrete numbers and stories showing their skill. 
+### Rule 3: A top-performing employee has concrete numbers and stories showing their skill. 
 
 You’ll be asked about your prior experience at your current job. Don’t just say “I did {job} at {company}”. That’s boring. That makes you a risky hire. 
 
@@ -75,7 +77,7 @@ You’ll say something like
 
 > When I was a {position} at {company}, I was tasked with {responsibility}. Not only did I do that task well, but I took on a few side projects to increase the effectiveness of the team, and decrease the friction of some processes. For example… {story showing how you made improvements that impacted the business, with figures to back it up}.
 
-#### Rule 4: Your online persona is the primary thing that will get you hired. Craft a good one. 
+### Rule 4: Your online persona is the primary thing that will get you hired. Craft a good one. 
 
 When you see a job opportunity go by, you don’t just submit a resume and let it go. You find the person in charge of hiring, or someone on the team, or the company CEO, and you send them a short email. In that email, you make it easy for them to discover how competent and skilled you are. 
 
