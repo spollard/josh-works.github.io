@@ -162,7 +162,7 @@ With that write-up, you can either pay me for the fixes, or hand it off to your 
 
 I do hope to set this up. 
 
-Before roadmapping, I'd want to schedule a 60-minute call to even see if this roadmapping session would make sense, for $250. You can schedule and pay for that  here: 
+Before roadmapping, I'd want to schedule a 60-minute call to even see if this roadmapping session would make sense, for $150. You can schedule and pay for that  here: 
 
 [https://calendly.com/joshthompson/ecco-intake-call](https://calendly.com/joshthompson/ecco-intake-call)
 
