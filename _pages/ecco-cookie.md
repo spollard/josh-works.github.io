@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Supporting Documentation for Ecco Proposal
-status: draft
+status: publish
 type: page
-published: false
+published: true
 description: ""
 permalink: "/ecco-cookie"
 ---

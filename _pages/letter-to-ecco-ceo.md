@@ -8,9 +8,9 @@ description: ""
 permalink: "/ecco-please-add-in-stock-notifications-via-email"
 ---
 
-_note, this page was first created May 31. I kept running out of time to finish it, wanting to come back to it and update it more, then a month passed. July 18. 6 weeks. Now it's Aug 6. I need to start getting this to Ecco, else a year will pass and I'll completely forget about it._
+_Note: I started this on May 31, 2020. I updated it July 18, after another poor experience with the website. Now it's August, and I've still not finished this. I don't want a year to pass and to completely forget this ever happened._
 
-_I'm sharing this letter privately. It's "public", but just to facilitate others giving me feedback on it._
+_I'm sharing this letter privately. It's "public", but just to facilitate others giving me feedback on it, for now_
 
 
 My wife and I just _almost_ had a fight over shoes, because I'd found [these Ecco shoes](https://us.ecco.com/ecco-collin-2.0-sneaker-536274.html?dwvar_536274_color=52664&dwvar_536274_size=39) months ago, wanted to order them, and they were out of my size. 
@@ -21,11 +21,11 @@ So, I forgot about it. Then, my wife and I ordered some clothes for me from H&M,
 
 Now I've spent 40 minutes of my Sunday, dealing with fallout from not knowing when these shoes will be available.
 
-<!-- 2020-07-18 update -->
+## 2020-07-18 update, or 6 weeks after drafting the first version of this document
 
-update, 2020-07-18: I started this proposal May 31st, 2020. I'd spent a few hours on it and then it fell off the priority list. I then remembered that I'd wanted to check back with Ecco shoes and see if the shoe was available. If you'd like to verify that this is true, [here's the GET request] your team can use to lookup my session. 
+I started this proposal May 31st, 2020. I'd spent a few hours on it and then it fell off the priority list. I then remembered that I'd wanted to check back with Ecco shoes and see if the shoe was available. If you'd like to verify that this is true, [here's the GET request] your team can use to lookup my session. 
 
-It'll be from Golden, Colorado from my laptop showing the state of my current cart on the Ecco website. You can track my behavior on the site and see that I added the shoe to the cart. It will have been at about 2020-07-18, 8:30p Saturday night, Mountain Time.
+It'll be from Golden, Colorado from my laptop showing the state of my current cart on the Ecco website. You can track my behavior on the site and see that I added the shoe to the cart. It will have been at about 2020-07-18, 8:30p Saturday night, Mountain Time. [Here's the cookie]({{ site.baseurl }}{% link _pages/ecco-cookie.md %}), if you want to look up.
 
 Anyway, here's what just happened:
 
@@ -39,9 +39,18 @@ Here's the error:
 
 ![Ecco shoe size picker](/images/2020-07-18-ecco-size-chooser.jpg)
 
-Here's the functionality that I _wish_ you had:
+Here's the functionality that I _wish_ you had, and what would have prevented me from making the error I _almost_ made:
 
 ![H&M's size picker](/images/2020-07-18-ecco-hm-size-guide.jpg)
+
+How sad I would have been to now have spent _hours_ trying to find the right shoes, thinking I'd gotten them, and then to obtain the wrong size?
+
+I'd probably give up on Ecco shoes forever.
+
+I _know_ Ecco cares that I have _good_ experiences with your company, not bad ones. 
+
+So, I want to take a chance to highlight what happened. I suspect if I didn't tell you this story, yopu
+
 
 Ecco's lack of functionality combines two problems:
 
@@ -71,15 +80,19 @@ Please help other customers (and their spouses) experience the same joy!
 
 <!-- end 2020-07-18 update -->
 
+---------------------------------
+
+_Back to what I wrote on May 31st_
+
 My minor inconvenience might easily represent you losing out an an extra 1% of sales/year, or an extra $13 million USD.
-
-I could fix this problem for you for $130,000. 
-
-How'd I arrive at this price?
+ 
+How'd I arrive at this figure?
 
 From your [2018 annual report](http://media.ecco.com/GroupCommunication/ECCO-Annual-Report-2018/#/) shows 
 
-Your opening of the Annual Report states:
+Math...
+
+In the same report, you state:
 
 > Entrepreneurship is deeply rooted in the ECCO culture... but we no longer have the agility of a start-up. 
 
@@ -87,12 +100,11 @@ That said, you see innovation across a number of portions of your business.
 
 Only some of those portions are related to your e-commerce and omni-channel options for consumers.
 
-
 Your mission is brilliant. 
 
-I can help your company add at least 1.5% to your bottom line, which is $15 million dollars, by adding a small button to your website that says "notify me when this product is available in this size"
+I think your company might company add at least 1.5% to the bottom line, which is $15 million dollars, by adding a small button to your website that says "notify me when this product is available in this size"
 
-Send them an email with a link when the product comes into stock. 
+You'd then send them an email with a link when the product comes into stock. 
 
 It will look like this:
 
@@ -100,11 +112,18 @@ It will look like this:
 
 ------------------------------------
 
-# Update
 
-As I've looked more at your company over these last few minutes, I grow increasingly interested in seeing you succeed in the world! I'd rather your company grow by 20% next year than Nike, for instance. 
+As I've looked more at your company over these last few minutes, I grow increasingly interested in seeing you succeed in the world! 
 
-I think this proposal, and the ways we'd use it to build trust between you and your customers, would lead to substantial growth in your business, and represent an opportunity to draw a meaningful differentiator between you and the faceless, souless, giant American shoe companies. 
+I hope Ecco grows by 20% in the next few quarters, _especially if you can take market share from Nike, Adidas, and other souless brands_
+
+I can help you do this. I'm a software developer by trade, but the best solutions I've built always span a number of domains.
+
+I want to help you build trust with potential customers, build that trust so they become paying customers, and then maintain that trust so that they not only stay paying customers, but bring their friends along as well.
+
+There's a lot to discuss.  
+
+I think this potential solution, if we get to implement, and the ways we'd use it to build trust between you and your customers, would lead to substantial growth in your business, and represent an opportunity to draw a meaningful differentiator between you and the faceless, souless, giant American shoe companies. 
 
 I don't want to do this feature in a way that just works, and helps get you an extra 2% revenue in shoe sales from men who dislike shoe-shopping so much that they just want the damn shoe whenever it's available. 
 
@@ -130,9 +149,10 @@ That is from [Slim Fit Easy-iron Shirt](https://www2.hm.com/en_us/productpage.07
 
 I can do this fix, but it's a lot of money, and you need to make sure that you, me, _and your entire team_ are completely aligned.
 
-I'd love to chat more about this. I charge $10,000 for a roadmapping session.
+I'd love to chat more about this. We'd schedule a roadmapping session:
 
-Roadmapping sessions:
+**Roadmapping session**
+
 - Take place under an NDA
 - where we'd schedule calls over a day (or meet in person, depending on when we get this scheduled)
 - allow detailed exploration of the problem, in a question and answer format, and I'll find _exactly_ what the work is that needs to be done to deliver the most value to your business. 
