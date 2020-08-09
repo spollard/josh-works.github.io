@@ -34,6 +34,7 @@ Below this curated list is a full list of the ~240 posts available on my website
 
 - [62 Lessons Learned after one year of full time travel]({{ site.baseurl }}{% link _posts/2016-05-30-62-lessons-learned-after-year-of-full-time-travel.md %})
 - [What I've learned from cooking in 36 kitchens in the last year]({{ site.baseurl }}{% link _posts/2016-05-09-what-ive-learned-from-cooking-in-36-kitchens-in-the-last-year.md %})
+- [12 Lessons Learned While Publishing Something Every Day for a Month]({{ site.baseurl }}{% link _posts/2016-06-05-12-lessons-learned-while-publishing-someone-every-day-for-a-month.md %})
 - [Hidden Damages of the Introvert vs. Extrovert "debate"]({{ site.baseurl }}{% link _posts/2014-07-22-hidden-damages-of-the-intovert-vs-extrovert-debate.md %})
 - [Overcome (some) barriers in work with this magic phrase]({{ site.baseurl }}{% link _posts/2016-05-10-overcome-some-barriers-in-work-with-this-magic-phrase.md %})
 - [About working remotely at Litmus with Pajamas.io]({{ site.baseurl }}{% link _posts/2016-03-16-my-interview-with-pajamasio.md %})
