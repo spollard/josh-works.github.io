@@ -98,11 +98,4 @@ _[all posts tagged `remote_work` ->](https://josh.works/tags#remote_work)_
 
 ------------------
 
-_If any of what's above (or what you read below) is of interest to you, you'll probably like my emails. I_ ❤️ _learning in public._
-
-<script async data-uid="b69af6ca8e" src="https://josh-thompson.ck.page/b69af6ca8e/index.js"></script>
-
-_here's [a sample](https://ckarchive.com/b/27u2hohnplq6) of the kind of stuff you'll get_
-
-
-
+{% include newsletter.html %}

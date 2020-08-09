@@ -25,7 +25,6 @@ Wikipedia says a `runbook` is:
 - [_source_](https://en.wikipedia.org/wiki/Runbook)
 
 
-
 Here's the definition for the runbook _I_ will create:
 
 > In <strike>a computer system or network</strike> `life`, a runbook is a compilation of routine procedures and operations that the <strike>system administrator or operator</strike> `individual` carries out. <strike>System administrators in IT departments and NOCs</strike> `People` use runbooks as a reference.
@@ -282,7 +281,7 @@ Enter your email, and you'll get all that when it's available:
 
 <script async data-uid="79563b40c7" src="https://josh-thompson.ck.page/79563b40c7/index.js"></script>
 
-_if you cannot see the email collection form above, you will have to turn off your JavaScript blocker or [visit this page](https://josh-thompson.ck.page/79563b40c7) to submit an email address_
+_if you don't see the subscribe form above, [click here](https://josh-thompson.ck.page/79563b40c7)._
 
 
 ---------------------------------------
