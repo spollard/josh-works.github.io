@@ -34,6 +34,8 @@ We open with Eric talking:
 
 ## Eric Weinstein's words
 
+_Josh: I'm quoting Eric from the podcast episode now. These are all his words, or his recounting of his conversation with his wife/others:_
+
 For the last month I’ve spent nearly all of my time at home with my family and many of the better thoughts I’ve been exploring during this time are due to my collaborator and wife, Pia Malaney.
 
 Pia is the economist who currently runs CIGS, the [Center for Innovation, Growth and Society](https://cigs-inet.org/), which she co-founded with INET, the Institute for New Economic Thinking. 
