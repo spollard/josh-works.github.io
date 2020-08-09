@@ -182,9 +182,9 @@ The poll got some answers, so I'm tossing up real-live purchase buttons to guage
 
 ## Purchase Options
 
-In the twitter poll, I gave options from $0 to $2000, so giving all those options below:
+In the twitter poll, I gave options from $0 to $2000, so giving all those options below. For the record, this is _prepurchasing_ options. I've not built anything yet, other than some notes floating around my laptop. I use "someone put money down" as an expression of strong interest. 
 
-### 1. Money Is No Object ($2000)
+### 1. Money Is No Object ($1900)
 
 You want an excellent runbook and value your time. 
 
@@ -196,14 +196,14 @@ You want an excellent runbook and value your time.
       id="checkout-button-sku_Hlof76lIQGPrOW"
       role="link"
       type="button">
-      Purchase ($2000)
+      Pre-purchase ($1900)
     </button>
 
     <div id="error-message"></div>
   </div>
 </div>
 
-### 2. Meaningful money, but if it saves you 5-25 hours and hard feelings and frustration, You're All In ($500)
+### 2. Meaningful money, but if it saves you 5-25 hours and hard feelings and frustration, You're All In ($495)
 
 You'd be spending one or two days of income to have a bullet-proof solution to upgrading your aging parent's laptops. The story from Reddit had you nodding along hard. _This is exactly what you experience and want_. But five years ago? What hardware do I need now? Can I dual-boot the operating system? How do I actually convince him/her/them to start using it?
 
@@ -216,20 +216,24 @@ You'd be spending one or two days of income to have a bullet-proof solution to u
       id="checkout-button-sku_HlotwPoptCsYBY"
       role="link"
       type="button">
-      Purchase ($500)
+      Pre-purchase ($495)
     </button>
 
     <div id="error-message"></div>
   </div>
 </div>
 
-### 3. You expect non-trivial value from this guide ($100)
+### 3. You expect non-trivial value from this guide ($99)
 
-You probably have spent at least $100 on something that will deliver much less value to you than this guide will.
+You probably have spent at least $99 on something that will deliver much less value to you than this guide will.
 
-If that's true, but this is not at $500 or $1000 problem to you, this would be your best bet. 
+If that's true, but this is not at $495 or $1900 problem to you, this would be your best bet. 
 
-Low cost, you'll get whatever I create. It's a cheap gamble that $100 could save you from "donating" $1000 in labor (10 hours @$100/hr) in six months.
+Low cost, you'll get whatever I create. It's a cheap gamble that $99 could save you from "donating" many thousands of dollars over the next six months.
+
+```
+20 (scarce, non-work, nights-and-weekend) hours @$100/hr = $2000
+```
 
 <div class="stripe_button_container">
   <div class="button_container">
@@ -239,14 +243,14 @@ Low cost, you'll get whatever I create. It's a cheap gamble that $100 could save
       id="checkout-button-sku_HloZ1DXv53t7fT"
       role="link"
       type="button">
-      Purchase ($100)
+      Pre-purchase ($99)
     </button>
 
     <div id="error-message"></div>
   </div>
 </div>
 
-### 4. What You Might Spend on Dinner with a Friend ($50)
+### 4. What You Might Spend on Dinner with a Friend ($49)
 
 If you think you'd spend $20 but not $50, this guide might not be for you. It will be so good that $50 will be a screaming deal. 
 
@@ -258,7 +262,7 @@ If you think you'd spend $20 but not $50, this guide might not be for you. It wi
       id="checkout-button-sku_Hloz9JPn2QkUAQ"
       role="link"
       type="button">
-      Purchase ($50)
+      Pre-purchase ($49)
     </button>
 
     <div id="error-message"></div>
@@ -266,11 +270,13 @@ If you think you'd spend $20 but not $50, this guide might not be for you. It wi
 </div>
 
 
-### 5. Send You the announcement blog post when I'm done and giving it away ($0)
+### 5. Send You The Guide When I'm Done ($0)
 
-If you just want to follow along, never would have bought the guide if I charged $0.50, might find more value later, etc, I'd love to have you along. 
+If you just want to follow along, or are on the fence about the value of what I'll make, punch your email in below.
 
-I'll end up writing my process up carefully, and I'll certainly share it out when I'm done.
+I'll end up writing my process up carefully, and I'll certainly share it out when I'm done. I am good at writing detailed guides that save people dozens of hours and large amounts of frustration. I'll share the guide when I'm done, and I'll send updates as I go. I love to work in public; if you subscribe and follow along, you'll get to see what I'm building as I go, and I'd love to get your input along the way. 
+
+And if down the road you decide it's worth paying for, you'll have the option.
 
 Enter your email, and you'll get all that when it's available:
 

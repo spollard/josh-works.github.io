@@ -35,7 +35,7 @@ include: ['_pages']
 # seems to need `jekyll build` to catch updates on localhost
 pages_list:
   about: '/about'
-  archive: '/archive'
+  blog: '/blog'
   office hours: '/office-hours'
 
 
