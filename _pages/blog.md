@@ -12,7 +12,7 @@ He was using Postman to send params to an endpoint he was working on, and was ge
 
 It just so happened that I'd run into nearly the exact problem in the `griddler` and `griddler-mailgun` gems, and documented the debugging process. He and I were using Ruby and Rails. Turns out the exact problem I'd identified (incorrectly casing a param title, `From:` vs. `from:`) was what was happening to him. This blog post saved him a few hours of work:
 
-- [Exploring source code via Griddler and Griddler-Mailgun]({{ site.baseurl }}{% link _posts/2019-06-08-exploring_griddler_and_griddler_mailgun_source_code.md %})
+[--> Exploring source code via Griddler and Griddler-Mailgun]({{ site.baseurl }}{% link _posts/2019-06-08-exploring_griddler_and_griddler_mailgun_source_code.md %})
 
 If you're a software developer working in Ruby, trying to send/receive email from your application, the above post might be _desperately_ useful. Otherwise, probably not so much.
 
