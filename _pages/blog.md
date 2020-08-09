@@ -6,15 +6,21 @@ permalink: /blog
 
 ## Featured Articles
 
-A few months ago, a friend reached out with an _extremely_ specific problem. He was trying to Postman to send params to an endpoint he was working on, and was getting inexplicable stack traces from a third-party library. 
+A few months ago, a friend reached out with an _extremely_ specific problem. 
 
-It just so happened that I'd run into nearly the exact problem in the `griddler` and `griddler-mailgun` gems, and documented the debugging process:
+He was using Postman to send params to an endpoint he was working on, and was getting inexplicable stack traces from a third-party library. 
+
+It just so happened that I'd run into nearly the exact problem in the `griddler` and `griddler-mailgun` gems, and documented the debugging process. He and I were using Ruby and Rails. Turns out the exact problem I'd identified (incorrectly casing a param title, `From:` vs. `from:`) was what was happening to him. This blog post saved him a few hours of work:
 
 - [Exploring source code via Griddler and Griddler-Mailgun]({{ site.baseurl }}{% link _posts/2019-06-08-exploring_griddler_and_griddler_mailgun_source_code.md %})
 
 If you're a software developer working in Ruby, trying to send/receive email from your application, the above post might be _desperately_ useful. Otherwise, probably not so much.
 
-Here's a grab-bag of the posts I'm most proud of. I don't value them for how many pageviews they get or how useful they are to _most_ people, I evaluate them by how much value they deliver to a very narrowly-defined group of people. This list is entirely arbitrary, and changes occasionally.
+Why do I mention this all? 
+
+I've listed posts below that I am proud of. I don't value them for how many pageviews they get or how useful they are to _most_ people, I evaluate them by how much value they deliver to a very narrowly-defined group of people. This list is entirely arbitrary, and changes occasionally. 
+
+Below this curated list is a full list of the ~240 posts available on my website. 
 
 ### Programming-related
 
