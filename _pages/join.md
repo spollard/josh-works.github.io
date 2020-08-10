@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Orthogonal Notes"
+title:  "The Interdependent Newsletter"
 date:  2020-08-02 06:00:00 -0700
 crosspost_to_medium: false
 categories: []
@@ -9,19 +9,33 @@ tags: []
 permalink: join
 ---
 
-Definition of _orthogonal_
+# ✉️ Interdependent Newsletter ✉️
 
-> 1. intersecting or lying at right angles In orthogonal cutting, the cutting edge is perpendicular to the direction of tool travel.
-> 2. having perpendicular slopes or tangents at the point of intersection orthogonal curves
+I was casting about a punchy title for my newsletter. That's what the cool kids do, right?
 
-[source](https://www.merriam-webster.com/dictionary/orthogonal)
+_in·​ter·​de·​pen·​dent \| \ ˌin-tər-di-ˈpen-dənt_
 
-Once a week, I send out long-form notes on things that are top-of-mind for me. 
+**Definition of _interdependent_:**
 
-Currently, I'm thinking (and writing) on _The Power Broker: Robert Moses and the Fall of New York_.
+> dependent upon one another, mutually dependent 
+> 
+> Usage:
+> - interdependent statistical variables
+> - the interdependent gyrations of double suns 
+> - the interrelationships between social groupings were reciprocal and interdependent.
+> - In an interdependent world, every nation is dependent upon every other.
 
-<script async data-uid="b69af6ca8e" src="https://josh-thompson.ck.page/b69af6ca8e/index.js"></script>
+[interdependent (Merriam-Webster)](https://www.merriam-webster.com/dictionary/interdependent)
 
-I can only promise that it'll be somewhat eclectic writing, and likely to be _very_ interesting to some small subset of the population.
+Many seemingly isolated phenomena are _interdependent_ with other phenomena. 
 
-I encourage you to sign up and make judicious use of the `unsubscribe` button down the road.
+We, as people, are _interdependent_. We depend upon each other. 
+
+I think this concept _might_ be a unifying thread of what I write about, but only time will tell.
+
+Currently, I'm thinking (and writing) on one of the best books ever written: [The Power Broker: Robert Moses and the Fall of New York](https://www.goodreads.com/book/show/1111.The_Power_Broker).
+
+I promise that it'll be somewhat eclectic writing, and likely to be _very_ interesting to some small subset of the population.👇👇👇
+
+{% include newsletter_no_preamble.html %}
+
