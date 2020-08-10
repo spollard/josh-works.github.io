@@ -6,24 +6,17 @@ permalink: /blog
 
 ## Featured Articles
 
-A few months ago, a friend reached out with an _extremely_ specific problem. 
-
-He was using Postman to send params to an endpoint he was working on, and was getting inexplicable stack traces from a third-party library. 
-
-It just so happened that I'd run into nearly the exact problem in the `griddler` and `griddler-mailgun` gems, and documented the debugging process. He and I were using Ruby and Rails. Turns out the exact problem I'd identified (incorrectly casing a param title, `From:` vs. `from:`) was what was happening to him. This blog post saved him a few hours of work:
-
-[--> Exploring source code via Griddler and Griddler-Mailgun]({{ site.baseurl }}{% link _posts/2019-06-08-exploring_griddler_and_griddler_mailgun_source_code.md %})
-
-If you're a software developer working in Ruby, trying to send/receive email from your application, the above post might be _desperately_ useful. Otherwise, probably not so much.
-
-Why do I mention this all? 
-
-I've listed posts below that I am proud of. I don't value them for how many pageviews they get or how useful they are to _most_ people, I evaluate them by how much value they deliver to a very narrowly-defined group of people. This list is entirely arbitrary, and changes occasionally. 
-
 Below this curated list is a full list of the ~240 posts available on my website. 
 
 ### Programming-related
 
+I learn by writing things down, and refer to my own writing regularly to refresh my memory on how to do something. 
+
+Here's a smattering of the programming-related posts I've written.
+
+_note: I also run [https://intermediateruby.com/](https://intermediateruby.com/), where I'm helping early-career software developers grow as quickly as possible into mid-career software developers. If you think you might benefit from this, click the link and check it out!_
+
+- [Exploring source code via Griddler and Griddler-Mailgun]({{ site.baseurl }}{% link _posts/2019-06-08-exploring_griddler_and_griddler_mailgun_source_code.md %})
 - [How to ask questions of experts and gain more than just an answer]({{ site.baseurl }}{% link _posts/2017-05-29-ask-better-questions.md %})
 - [Pry Tips and Tricks]({{ site.baseurl }}{% link _posts/2018-05-07-pry_tips_tricks.md %})
 - [Rails Migration: When you can’t add a uniqueness constraint because you already have duplicates]({{ site.baseurl }}{% link _posts/2018-09-28-rails_migrations_add_unique_constraint_with_existing_duplicates.md %})
@@ -31,6 +24,8 @@ Below this curated list is a full list of the ~240 posts available on my website
 - [Playing with the HTTP send/response cycle in Ruby, without Faraday ("HTTP Yeah You Know Me" project)]({{ site.baseurl }}{% link _posts/2017-04-07-playing-with-the-http-sendresponse-cycle-in-ruby.md %})
 
 ### Non-programming Miscelaneous 
+
+"Programming" is a narrow domain. I vastly prefer to think of myself as a problem solver who sometimes uses code. Here's a collection of writings from the last ~10 years I've been writing. Most of it is from before I became a software developer.
 
 - [62 Lessons Learned after one year of full time travel]({{ site.baseurl }}{% link _posts/2016-05-30-62-lessons-learned-after-year-of-full-time-travel.md %})
 - [What I've learned from cooking in 36 kitchens in the last year]({{ site.baseurl }}{% link _posts/2016-05-09-what-ive-learned-from-cooking-in-36-kitchens-in-the-last-year.md %})
@@ -45,6 +40,8 @@ Below this curated list is a full list of the ~240 posts available on my website
 
 ### Annual Reviews
 
+I've done annual reviews for the last few years. I enjoy reading _other_ people's annual reviews, so I'll make it easy for others to find mine, if this is their cup of 🍵.
+
 - [2019 Annual Review]({{ site.baseurl }}{% link _posts/2020-01-31-2019-annual-review.md %})
 - [2018 Annual Review]({{ site.baseurl }}{% link _posts/2019-05-05-2018_review.md %})
 - [2017 Annual Review]({{ site.baseurl }}{% link _posts/2018-01-01-2017_review.md %})
@@ -53,13 +50,15 @@ Below this curated list is a full list of the ~240 posts available on my website
 
 ### On Books
 
+I read. A lot. 
+
 - [30 Books I Recommend Most Often]({{ site.baseurl }}{% link _posts/2018-05-17-recommended_reading.md %})
 - [2018 Reading Review & Recommendations]({{ site.baseurl }}{% link _posts/2019-02-25-2018_books.md %})
 - [Recommended books from 2017]({{ site.baseurl }}{% link _posts/2018-01-15-2017_books.md %})
 - [2016 - Biggest Lesson, Most Dangerous Books]({{ site.baseurl }}{% link _posts/2017-01-11-2016-biggest-lesson-most-dangerous-books.md %})
 - [Book Notes: 'The Case Against Sugar' by Gary Taube]({{ site.baseurl }}{% link _posts/2019-08-12-notes-gary-taubes-case-against-sugar.md %})
 
-
+-------------------------
 
 ## All Blog Posts (`ORDER BY date_published DESC`)
 {% for post in site.posts %}
