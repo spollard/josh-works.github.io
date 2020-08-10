@@ -31,7 +31,7 @@ Many seemingly isolated phenomena are _interdependent_ with other phenomena.
 
 We, as people, are _interdependent_. We depend upon each other. 
 
-I think this concept _might_ be a unifying thread of what I write about, but only time will tell.
+This concept is a unifying thread of what I write about.
 
 Currently, I'm thinking (and writing) on one of the best books ever written: [The Power Broker: Robert Moses and the Fall of New York](https://www.goodreads.com/book/show/1111.The_Power_Broker).
 
