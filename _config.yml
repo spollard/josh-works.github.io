@@ -36,7 +36,7 @@ include: ['_pages']
 pages_list:
   about: '/about'
   blog: '/blog'
-  office hours: '/office-hours'
+  ☕️ with josh: '/coffee-with-josh'
 
 
 # Assets
