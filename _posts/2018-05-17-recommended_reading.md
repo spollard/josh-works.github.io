@@ -8,10 +8,11 @@ tags: [books, reading]
 permalink: recommended-reading
 ---
 
+## Introduction
+
 I like to read, and I often recommend books to others.
 
-The recommendations below are entirely non-fiction, but have provided great value to me in very specific ways.
-
+These are a collection of books that come up in conversation more often than others.
 
 I mention some books "pair well" with other books, just as certain wines pair well with a certain foods. The ideas contained within certain books may compliment (or contrast) the ideas listed in the "pairs with" book.
 <!--more-->
@@ -439,3 +440,32 @@ A [GoodReads review](https://www.goodreads.com/review/show/132588792?book_show_a
 > * Mexico City's 1985 earthquake
 > * the World Trade Center attacks of 2001
 > * Hurricane Katrina and its aftermath.
+
+### [Seeing like a State](https://www.goodreads.com/book/show/20186.Seeing_Like_a_State)
+
+I cannot do justice to this book, so I'll quote extensively from  [Slate Star Codex's](http://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/) review. (You should really just read the review, then the book.)
+
+> _Seeing Like A State_ is the book G.K. Chesterton would have written if he had gone into economic history instead of literature. Since he didn’t, James Scott had to write it a century later. The wait was worth it.
+>
+> Scott starts with the story of “scientific forestry” in 18th century Prussia. Enlightenment rationalists noticed that peasants were just cutting down whatever trees happened to grow in the forests, like a chump. They came up with a better idea: clear all the forests and replace them by planting identical copies of Norway spruce (the highest-lumber-yield-per-unit-time tree) in an evenly-spaced rectangular grid. Then you could just walk in with an axe one day and chop down like a zillion trees an hour and have more timber than you could possibly ever want.
+>
+> This went poorly. The impoverished ecosystem couldn’t support the game animals and medicinal herbs that sustained the surrounding peasant villages, and they suffered an economic collapse. The endless rows of identical trees were a perfect breeding ground for plant diseases and forest fires. And the complex ecological processes that sustained the soil stopped working, so after a generation the Norway spruces grew stunted and malnourished. Yet for some reason, everyone involved got promoted, and “scientific forestry” spread across Europe and the world.
+>
+> And this pattern repeats with suspicious regularity across history, not just in biological systems but also in social ones.
+>
+> [...]
+>
+> Suppose you’re a premodern king, maybe one of the Louises who ruled France in the Middle Ages. You want to tax people to raise money for a Crusade or something. Practically everyone in your kingdom is a peasant, and all the peasants produce is grain, so you’ll tax them in grain. Shouldn’t be too hard, right? You’ll just measure how many pints of grain everyone produces, and…
+>
+> > The pint in eighteenth-century Paris was equivalent to 0.93 liters, whereas in Seine-en-Montane it was 1.99 liters and in Precy-sous-Thil, an astounding 3.33 liters. The aune, a measure of length used for cloth, varied depending on the material(the unit for silk, for instance, was smaller than that for linen) and across France there were at least seventeen different aunes.
+>
+> Okay, this is stupid. Just give everybody evenly-sized baskets, and tell them that baskets are the new unit of measurement.
+>
+> > Virtually everywhere in early modern Europe were endless micropolitics about how baskets might be adjusted through wear, bulging, tricks of weaving, moisture, the thickness of the rim, and so on. In some areas the local standards for the bushel and other units of measurement were kept in metallic form and placed in the care of a trusted official or else literally carved into the stone of a church or the town hall. Nor did it end there. How the grain was to be poured (from shoulder height, which packed it somewhat, or from waist height?), how damp it could be, whether the container could be shaken down, and finally, if and how it was to be leveled off when full were subjects of long and bitter controversy.
+>
+> Huh, this medieval king business is harder than you thought. Maybe you can just leave this problem to the feudal lords?
+>
+> > Thus far, this account of local measurement practices risks giving the impression that, although local conceptions of distance, area, volume, and so on were different from and more varied than the unitary abstract standards a state might favor, they were nevertheless aiming at objective accuracy. This impression would be false. […]
+
+[Just read the review](http://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/)
+
