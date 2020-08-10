@@ -13,21 +13,10 @@ I like to read, and I often recommend books to others.
 The recommendations below are entirely non-fiction, but have provided great value to me in very specific ways.
 
 
-I've got ~30 book recommendations grouped into following categories:
-
-- [Thinking Well](#thinking-well)
-- [Politics](#politics)
-- [Buildings and Urbanism](#buildings-and-urbanism)
-- [Theology](#theology)
-- [Parenting](#parenting)
-- [Relationships](#relationships-and-emotions)
-- [Money](#money)
-- [Uncomfortable books](#uncomfortable-books)
-
 I mention some books "pair well" with other books, just as certain wines pair well with a certain foods. The ideas contained within certain books may compliment (or contrast) the ideas listed in the "pairs with" book.
 <!--more-->
 
-# Thinking Well
+## Thinking Well
 
 As humans, we do a lot of thinking <sup>[citation needed]</sup>. And, when we're not thinking, we're living off of habit, and should think a bit about our habits. We underestimate large risks (driving) and over-estimate small risks (terrorism, kidnapping).
 
@@ -80,7 +69,7 @@ Pursuing the skill of "deep work" will have a compounding effect on the rest of 
 
 
 
-# Politics
+## Politics
 
 I'm a fan of the idea of shrinking the political sphere. Politics is where everyone has a rightful sense of ownership of the issue (we all pay taxes, after all) and where the outcomes can be influenced _literally by who yells the loudest_. It's embarrassing that the way we organize ourselves relies entirely upon coercion, but for now, that's what it is. I look forward to when our dominant political institutions go the way of the church at the end of the medieval ages.
 
@@ -166,7 +155,7 @@ If you find yourself resisting reading such a book, knowing that it might de-sti
 
 I first read this book in 2013 or so, and re-read it in 2017, and found it to be less compelling the second time through, but still, on the whole, of value.
 
-# Buildings and Urbanism
+## Buildings and Urbanism
 
 To me, traditional architecture is irrelevant. Architects build buildings for other architects, not for people.
 
@@ -205,7 +194,7 @@ Quoting from [this excellent review on GoodReads](https://www.goodreads.com/revi
 
 This book discusses the tension between "chaos" and "order" in a way that pairs very well with _Seeing like a State_. It pairs well with _Antifragile_, as well, as Jacobs talks about small bets, organic growth, and the dangers of "cataclysmic money" and top-down growth and planning.
 
-# Theology
+## Theology
 
 Every person is a functional theologian. "Theology" is defined as:
 
@@ -255,35 +244,8 @@ If you happen to care about what the Bible says, you'll quickly recall that ther
 
 This book will point you in the right direction. It's served me well.
 
-### [The Secret Thoughts of an Unlikely Convert: An English Professor's Journey Into Christian Faith](https://www.goodreads.com/book/show/14741290-the-secret-thoughts-of-an-unlikely-convert)
 
-The author of this book chronicles her extremely reluctant encounter with Christianity, and the pain and wounding that came about therein.
-
-From a [GoodReads review](https://www.goodreads.com/review/show/553341153?book_show_action=true&from_review_page=1):
-
-> Honestly, I wasn't expecting much. From first couple of chapters, I saw the transformation of a former feminist/lesbian English professor to Christ-embracing, sinner who was now redeemed. The chapters unpacked the clashing world views for Butterfield and how a rejection of her old self and acceptance of Christ meant the utter destruction of her life pillars. From resigning her privileged position as a college professor to faithfully engaging the roles of a pastor's wife, Butterfield exemplified the radical nature of conversion. Throughout the book, it was clear that unlike the neatly fashioned conversion stories whispered into the mic's in the suburban youth ministries of today, a real conversion--one wrecked by an encounter with Christ--changed lives and those around them.
-
-### [Extravagant Grace: God's Glory Displayed in Our Weakness](https://www.goodreads.com/book/show/18184844-extravagant-grace)
-
-If you were raised in "the church", chances are good you got really heavy doses of shame served to you much of your life. Shame has been my constant companion for as long as I can remember.
-
-My ideal solution was always "fix myself, do everything perfectly, or change my rubric for myself so I'm living a functionally perfect life".
-
-Spoiler: this doesn't work.
-
-_Extravagant Grace_ is based on John Newton's writings, and I found it to be immensely valuable to me when I read it. There are fair claims that the book leans too far in the direction of "it's OK to wallow in your sin", but I respectfully disagree with those claims.
-
-If you are prone to heap shame upon yourself or others, this might be of value to you.
-
-### [12 ways your phone is changing you](https://www.goodreads.com/book/show/31804439-12-ways-your-phone-is-changing-you)
-
-From a [GoodReads review](https://www.goodreads.com/review/show/1978037057):
-
-> [The author's] writing in this book is in top form. He weaves words like Batman weaves punches. What I loved most about this book is that it shows the problem and gives a biblical solution to it WITHOUT being legalistic. He evens calls out all the technology haters and shows them why they are wrong to hate God's good gifts just because people use them for evil.
->
-> This book drips joy from the very first pages. John Piper's forward is great. Hearing the poll stats/metrics and what that means is heartbreaking. [The author's] sections on FOMO, vices, and loneliness are some of his best. But his chapter on harshness is a must read for everyone who engages on social media, especially for people who like to involve themselves in discernment or watchdog blogs, accounts, or sites.
-
-# Parenting
+## Parenting
 
 I'm not a parent. I'm sure once I have kids I'll have a different set of books to recommend.
 
@@ -301,7 +263,9 @@ It's got a few dozen suggested (and illustrated) games that are appropriate for 
 
 A surprisingly practical and immediately relevant read for anyone who has kids. I plan on re-reading it once I have a child of my own.
 
-# Relationships and Emotions
+### [How to Raise an Adult: Break Free of the Overparenting Trap and Prepare Your Kid for Success](https://www.goodreads.com/book/show/23168823-how-to-raise-an-adult)
+
+## Relationships and Emotions
 
 Most of the books in this section are written by Christians, and adopt a christian perspective of relationships, which is:
 
@@ -323,38 +287,6 @@ If that seems discouraging, you've not yet seen how the gospel redeems _all_ of 
 ### [When Sinners Say "I Do": Discovering the Power of the Gospel for Marriage](https://www.goodreads.com/book/show/1451719.When_Sinners_Say_I_Do_)
 
 This is a short, digestible, practical book. Again, written for Christians.
-
-### [Boundaries: When to Say Yes, How to Say No to Take Control of Your Life](https://www.goodreads.com/book/show/944267.Boundaries)
-
-Written by a Christian, but quite applicable even without adopting the author's starting assumptions.
-
-From one of the [reviewers](https://www.goodreads.com/questions/694330-i-want-to-read-this-book-but-i-m/answers/444361-i-m-not-a-practicing):
-
-> I'm not a practicing Christian so I tend to skim over the biblical parts but I can't deny that this book is super solid in terms of the wisdom it has to offer. I'm really enjoying it.
-
-The book's own blurb:
-
-> Having clear boundaries is essential to a healthy, balanced lifestyle.
->
-> A boundary is a personal property line that marks those things for which we are responsible.
->
-> In other words, boundaries define who we are and who we are not. Boundaries impact all areas of our lives:
->
-> - Physical boundaries help us determine who may touch us and under what circumstances
-> - Mental boundaries give us the freedom to have our own thoughts and opinions
-> - Emotional boundaries help us to deal with our own emotions and disengage from the harmful, manipulative emotions of others
-> - Spiritual boundaries help us to distinguish God's will from our own and give us renewed awe for our Creator
->
-> Often, Christians focus so much on being loving and unselfish that they forget their own limits and limitations. When confronted with their lack of boundaries, they ask:
-> - Can I set limits and still be a loving person?
-> - What are legitimate boundaries?
-> - What if someone is upset or hurt by my boundaries?
-> - How do I answer someone who wants my time, love, energy, or money?
-> - Aren't boundaries selfish?
-> - Why do I feel guilty or afraid when I consider setting boundaries?
->
-> Dr. Henry Cloud and Dr. John Townsend offer biblically-based answers to these and other tough questions, showing us how to set healthy boundaries with our parents, spouses, children, friends, co-workers, and even ourselves.
-
 
 ### [Difficult Conversations: How to Discuss What Matters Most](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
 
@@ -390,7 +322,7 @@ Simple example: There is a world of difference between _being_ angry, and _feeli
 
 This book has served Kristi and I both quite well.
 
-# Money
+## Money
 
 Money is... complicated. It's easy to have too little, to have too much, or to not manage wisely the money you do have. It's an emotionally charged topic, and there's not a lot of good examples out there of people having a good relationship with it.
 
@@ -426,11 +358,11 @@ From a [GoodReads review](https://www.goodreads.com/review/show/62830471?book_sh
 
 You won't find a single recommendation to track every penny you spend, or to build a budget. Most people can't be bothered to set one up, but instead of feel guilt about this, just build a "conscious spending plan".
 
-# Uncomfortable books
+## Uncomfortable books
 
 I include this section for books that hold uncomfortable ideas for broad sections of the population. If you find yourself in total agreement with the arguments in one of these books, great! Pick another book off of this list. It'll make you uncomfortable.
 
-### [The Problem of Political Authority](https://www.goodreads.com/book/show/15794037-the-problem-of-political-authority)
+### [The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey](https://www.goodreads.com/book/show/15794037-the-problem-of-political-authority)
 
 This book (its technically a textbook written by a professor from Colorado University - Boulder) argues that "political" authority cannot be arrived at from first principles, and building institutions upon a foundation of one group legally exercising coercion against another might be legal (in the same way that slavery used to be "legal") but it's not moral.
 
