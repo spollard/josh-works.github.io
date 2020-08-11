@@ -30,7 +30,7 @@ I'm going to recommend you use [this sophisticated little search tool for the ma
 
 Go ahead, Click the link. Then type `ruby`. It'll look like this:
 
-![Filter the results](/images/2020-08-10 at 11.10 PM.jpg)
+![Filter the results](/images/search-hn-job-postings.gif)
 
 Most people in the world have not heard of "hacker news", other than reading in the news when Equifax gets hacked (again) (and again) (and again).
 
