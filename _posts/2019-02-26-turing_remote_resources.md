@@ -32,9 +32,9 @@ Go ahead, Click the link. Then type `ruby`. It'll look like this:
 
 ![Filter the results](/images/search-hn-job-postings.gif)
 
-Most people in the world have not heard of "hacker news", other than reading in the news when Equifax gets hacked (again) (and again) (and again).
+Most people in the world have not heard of "hacker news", other than reading in the `news` when Equifax gets `hacked` (again) (and again) (and again).
 
-If it's unfamiliar to you, it's basically "Reddit for tech people". It's got a distinctive layout, and has one of the craziest implementations of tables in HTML I've ever seen. 
+If it's unfamiliar to you, it's basically `Reddit for tech people`. It's got a distinctive layout, and has one of the craziest implementations of tables-based HTML I've ever seen. 
 
 There are many different posts that go by on tech Reddit. One of the monthly recurring posts is a "Who's hiring this month" kind of post. Here's the thread for July 2020:
 
