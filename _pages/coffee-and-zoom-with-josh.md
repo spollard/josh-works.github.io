@@ -44,5 +44,24 @@ The _actual_ problem is:
 
 We live in an interesting world. [Reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail).
 
+
+811
+
+### On the software side of things, this talk has generated a lot of conversation
+
+I gave a 35 minute talk at Boulder Ruby titled `Combining 'The Business" and Improving the Performance of a Rails App'`. 
+
+It's about how software developers at an individual level can bring about good things for themselves _and_ the business that employes them. 
+
+It weaves some principles, stories, tutorials, and quite a few jokes. 
+
+_update: whoa! The group laughs 8 times in the first 2.5 minutes! I just counted. This talk might actually be worth watching. You're statistically likely to enjoy it._
+
+I'd love to chat about anything loosely related to what's covered in that talk.
+
+- [Move Slow And Improve Things (Boulder Ruby Group)]({{ site.baseurl }}{% link _pages/boulder_ruby_group.md %})
+
+------------------------------
+
 Schedule the thing: 👉 [Book a time (Calendly)](https://calendly.com/joshthompson/coffee-with-josh)
 
