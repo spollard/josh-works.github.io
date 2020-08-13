@@ -20,5 +20,6 @@ _[graph here](https://www.strongtowns.org/journal/2019/6/26/striding-toward-walk
 
 ### Resources
 
+
 - [Striding Toward Walkability? 5 Insights About Walkable Urban Places](https://www.strongtowns.org/journal/2019/6/26/striding-toward-walkability-5-insights-about-walkable-urban-places)
 - [Want to make housing more affordable? Start by designing neighborhoods, not just buildings.](https://www.strongtowns.org/journal/2020/6/11/affordable-housing)
