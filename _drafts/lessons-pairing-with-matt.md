@@ -46,6 +46,14 @@ As I do the 2nd pass, I'll also start jotting down more detailed notes.
 
 If something happens in the video that requires a more detailed analysis, I'll provide at least the bones of it now.
 
+### 2. 3rd pass, re-watch video, add more comments if necessary.
+
+I tried to get away with just a single pass through the video, but I think it's worth re-watching and making further changes at least one more time.
+
+I think this is because it takes so long to get through the video the first time, by the time you finish and take a break, come back, the beginning of the video feels like it's in need of big updates again. 
+
+I don't know why this is the case, I just know I exported/uploaded the video to Youtube, and immediately realized I'd missed key components and re-edited the beginning of the video. (and of course had to re-export from iMovie, re-upload to YouTube.)
+
 ### 3. 3rd pass, watching the finished video
 
 Sometimes the video is ready to go after the 2nd pass. On this series, I've felt that it's taken me forever to edit the videos, but I think I could do it in three passes. Some I've done a lot more, but the value-add of additional passes is low.
