@@ -10,32 +10,52 @@ permalink: my-thoughts-on-erics-thoughts-on-pias-thoughts
 image: /images/title_image.jpg
 ---
 
-## Context
+## Context for two sentances
 
-This episode was released on April 21, which means Eric had all these thoughts sometime mid-April. 
+It's August 8, 2020.
 
-[The Portal ep 31: Ryan Holliday](https://play.pocketcasts.com/podcasts/93e73600-7ea8-0137-f540-17da1cd0d495)
+The news is full of coronavirus, schools, employment, police brutality, a vaccine, elections, _so much politics_, China, Tik-Tok, the Twitter-dm-hack-bitcoin-scam-or-was-it-dm-content hack happened. 
 
-This is a portion of the episode, before Ryan starts. This is Eric recounting a conversation he had with his wife, Pia Malaney. 
+_Tiger King_, _Cheer_, _Filthy Rich_ are some of the most-watched shows in America, run on Netflix. _Hamilton_ came out on Disney+ six weeks ago, and I've not heard about civil unrest, protests, riots or anything in a week or so. 
 
-Pia's comments hit hard. Eric said something interesting. Maybe it was interesting only to me:
+My wife and I are trying to buy a house in Denver. We just looked at a small property that was adorable for many reasons, closely related to the themes expounded upon in [Strong Towns](https://www.strongtowns.org/), [Granola Shotgun](https://granolashotgun.com/), and [Order Without Design: How Markets Shape Cities](https://www.goodreads.com/book/show/39644188-order-without-design).
 
-> It occurred to me [...] that the two older generations of Americans who are to duke it out in the race for the Presidency shared a single purpose:
+The property will likely sell to someone for $500,000, but we feel strongly that it does not justify this price, and we will therefore not purchase it. 
+
+---------------------------
+
+This quote I want you to read comes from a podcast episode recorded April 21. I listened to the podcast episode a few days ago. 
+
+I've never really listened to any Eric Weinstein before, but the guest was an author I find interesting. I've read two of the author's books twice, and I rarely re-read books. 
+
+Here's the whole episode: [The Portal ep 31: Ryan Holliday](https://play.pocketcasts.com/podcasts/93e73600-7ea8-0137-f540-17da1cd0d495)
+
+Before the episode starts, though, Eric Weinstein shares a thought he had. I found it striking, and wanted to see if others might find it striking as well. 
+
+Here's what he said:
+
+> It occurred to me [...] that the two older generations of Americans who are to duke it out in the race for the Presidency share a single purpose:
 > 
-> Their common goal [is] to "stop the future from arriving at essentially any cost to future generations", so that they could live out the remaining days in as close to the style to which they’d become accustomed in childhood and young adulthood as was actually possible.
+> Their common goal [is]: stop the future from arriving at essentially any cost to future generations
 
-I found this interesting, wanted to share with some friends, so I tried to find a transcript, and found [this](https://moses.land/transcript-ryan-holiday-and-eric-weinstein-on-the-portal-episode-31/) machine-generated transcript. It was a giant blob of text, no line breaks, no formatting, so I've edited that version for reading clarity here. I've made a few modifications for clarity.
+> The purpose for this goal is: that they could live out their remaining days in as close to the style to which they’d become as accustomed to [in the 50's through 70s] as is actually possible.
 
-I inject my own thoughts as we go, all clearly marked.
+This quote maybe wouldn't have stuck out to me in isolation, but I'd heard it after some context building he did. 
 
-We open with Eric talking:
+So, I'll share that context with you, so you can consider the above quote in context. 
+
+I tried to find a transcrip of this episode, and found [this](https://moses.land/transcript-ryan-holiday-and-eric-weinstein-on-the-portal-episode-31/) machine-generated transcript. It was a giant blob of text, no line breaks, no formatting, so I've edited that version here. 
+
+As I edited it, I've made a few modifications for clarity _and I inject my own thoughts_. I mark my own thoughts clearly, but it seems the easiest way to share the context.
+
 
 -----------------
 
-## Eric Weinstein's words
+## 3 minutes from the opening of _The Portal, Episode 31_
 
 _Josh: I'm quoting Eric from the podcast episode now. These are all his words, or his recounting of his conversation with his wife/others:_
 
+**Eric (00:02:27)**
 For the last month I’ve spent nearly all of my time at home with my family and many of the better thoughts I’ve been exploring during this time are due to my collaborator and wife, Pia Malaney.
 
 Pia is the economist who currently runs CIGS, the [Center for Innovation, Growth and Society](https://cigs-inet.org/), which she co-founded with INET, the Institute for New Economic Thinking. 
@@ -50,9 +70,10 @@ I don’t know. Maybe I’m dense, but I didn’t catch it the first time so I a
 
 "All of them?" I replied with the slightly teasing voices. I assumed she was speaking with hyperbole. 
 
-> Yes, pretty much all of them .
+Without an ounce of self doubt in a voice that I have learned to fear over many years of collaboration, she said brightly: 
 
-She said brightly, and without an ounce of self doubt in a voice that I have learned to fear over many years of collaboration. 
+> Why yes, pretty much all of them.
+
 
 She continued: 
 
@@ -101,28 +122,32 @@ _The description is: `The Ending of Usual Suspects when agent Kujan finds out wh
 
 _back to Eric:_
 
+**Eric (00:04:20)**
+
 All of these seemingly disparate phenomena were suddenly revealed as closely related:
 
 - Americans were actually calling for their own surveillance only they were calling it "contact tracing". 
-- The retail apocalypse which had been building slowly suddenly became a matter of a government decree creating an ever more imposing monopoly for the world’s now richest human. [Jeff Bezos/Amazon]
+- The retail apocalypse which had been building slowly suddenly became a matter of a government decree creating an ever more imposing monopoly for the world’s now richest human.
 - He in turn, owns and controls the only paper to take down a US president, consolidating control over our sense-making apparatus. 
-- Most supposedly "essential" face-to-face office work was revealed to be illusory as easily monitored-and-recorded telecommuting replaced the high-carbon commute 
+- Most supposedly "essential" face-to-face office work was revealed to be illusory, as easily monitored-and-recorded telecommuting replaced the high-carbon commute
 - the demand for fossil fuels in turn evaporated pushing oil futures into radical states of contango. 
-- Social distancing solved the problem of unwanted #MeTo toxic male touch a sexless Zoom dating put the hurt on Netflix and chilling. 
+- Social distancing solved the problem of unwanted #MeTo toxic male touch a sexless Zoom dating put the hurt on "Netflix and chilling". 
 - Indeed, nearly UBI-like payments were going out to newly-unemployed former workers who were expected to sit at home on couches, as universities effectively all-but-confessed that they could deliver the same value through distance learning by not rebaiting extortionary tuition. 
-- China, through an emasculated World Health Organization seemingly began inducing our own US institutions like the CDC and Surgeon General’s office to impart deadly magical thinking to Americans about the ineffectiveness of masks for healthy people. 
+- China, through an emasculated World Health Organization, seemingly began inducing our own US institutions like the CDC and Surgeon General’s office to impart deadly "magical thinking" to Americans about the ineffectiveness of masks for healthy people. 
 
 This all came as if some kind of twisted revenge for the [Boxer Rebellion](https://en.wikipedia.org/wiki/Boxer_Rebellion) where Chinese believe swords and martial arts made them invulnerable to Western high-tech warfare. 
 
-Spontaneous protests broke out in cities across the country, as mass protesters fought mysterious rules that communicated that one may _not_ peaceably assemble in contradition to the First Amendment. 
+Spontaneous protests broke out in cities across the country, as masked protesters fought mysterious rules that communicated that one may _not_ peaceably assemble, in contradition to the First Amendment. 
 
-We were also not allowed to contradict public health authorities who are clearly covering for a level of Baby Boomer and Silent Generation incompetence to keep the manufacturer and storage of essential goods and services, within national boundaries and out of the hands of strategic rivals who think nothing of blatantly lying to us in matters of life, death and statistics. 
+We were also not allowed to contradict public health authorities, who are clearly covering for a level of Baby Boomer and Silent Generation incompetence to keep the manufacturer and storage of essential goods and services within national boundaries and out of the hands of strategic rivals who think nothing of blatantly lying to us in matters of life, death and statistics. 
 
 I reasoned, however, that there were clearly too many different things happening in such a situation, for the sudden arrival of the future to lack a single ideology. 
 
-And so it occurred to me and to Peter Thiel as well, who I called immediately, that the two older generations of Americans who were to duke it out in the race for the presidency shared a single purpose.
+**Eric (00:6:28)**
 
-Their common goal was "to stop the future from arriving at essentially any cost to future generations so that they could live out the remaining days in as close to the style to which they’d become accustomed in childhood and young adulthood as was actually possible."
+And so it occurred to me (and to Peter Thiel as well, who I called immediately) that the two older generations of Americans who were to duke it out in the race for the presidency shared a single purpose.
+
+Their common goal was "to stop the future from arriving at essentially any cost to future generations" so that they could live out the remaining days in as close to the style to which they’d become accustomed in childhood and young adulthood as was actually possible.
 
 And what did they use to accomplish this? Well, it was a combination of three ingredients: 
 
@@ -168,3 +193,6 @@ Any worldwide crisis of sufficient depth would have done it.
 
 The world has always been caught up in escalating plagues, wars, depressions and conflicts. The Coronavirus was ushering in the future simply because it was the first piece of early 20th-century-scale bad luck to fall into our new millennium characterized as it is by fragility.
 
+-------------------------
+
+End of transcript. 

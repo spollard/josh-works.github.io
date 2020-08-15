@@ -64,6 +64,8 @@ I export the video from iMovie, upload it to youtube.
 
 I then watch the exported video in VLC player, and add detailed timestamp notes.
 
+I also refine the notes I'm pairing with the video. Lots of pausing and moving between video and the lesson.
+
 I try to make sure that something of note happens every minute or two.
 
 Youtube added a really nice feature recently that projects the listed timestamps into video "chapters" or something.
