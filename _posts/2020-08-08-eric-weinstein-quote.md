@@ -74,7 +74,6 @@ Without an ounce of self doubt in a voice that I have learned to fear over many 
 
 > Why yes, pretty much all of them.
 
-
 She continued: 
 
 > Let’s start with 
@@ -195,4 +194,6 @@ The world has always been caught up in escalating plagues, wars, depressions and
 
 -------------------------
 
-End of transcript. 
+I've got some thoughts that I'll jot down at some point. 
+
+But as I collect my thoughts, how about you? What's your gut reaction to this?
