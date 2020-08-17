@@ -14,17 +14,19 @@ image: /images_2020/2020-08-16zoning-is-racist-01.jpg
 
 ## A Warning and a Request
 
-In a moment, I'm going to link to two Twitter threads. These threads set the context for the document I've spent a few hours converting from PDF to something that can be easily read. 
+In the next section, I'm going to provide context for this 1922 document. Along the way, I'm going to link to two Twitter threads. These threads set the context for the document I've spent a few hours converting from PDF to something that can be easily read. Please read the threads. 
 
-This article is ultimatly a story about _power_. Most people that have true power, power that can shape entire cities and how billions of dollars get spent, don't run around waving flags saying "I'm ludicrously powerful and there's nothing you can do about it."
+This article is ultimatly a story about _power_. Most people that have _true_ power, power that can shape entire cities and how billions of dollars get spent, don't run around telling everyone "I'm ludicrously powerful and there's nothing you can do about it."
 
 They hide their power under layers of misdirection and distraction, and they make it look like they're less powerful than they actually are. 
 
-I'm going to make the point that many laws that drive daily decisions _today_ come _directly_ from the document you're about to read. If you expect to quickly skim this document on your phone, but not really read it all the way through, maybe save this tab for another time. 
+I'm going to make the point that many laws that drive daily decisions _today_ come _directly_ from the document you're about to read, and this document was written by people with _true_ power.
 
-This is about 7000 words. It's not great to consume on a smartphone. 
+This entire post is about 9000 words. If you expect to quickly skim this document on your phone, maybe save this tab for when you've got a larger screen to work with. 
 
-If you're in a position to exercises influence over laws and public opinion (reporter, politician, internet-person-with-some-influence), and your skin crawls as you read this document, please get in touch with me: [@josh_works](https://twitter.com/josh_works). The fact that you're reading this document is evidence that there is a lot we can do about this.
+If you're in a position to exercises influence over laws and public opinion (internet-person-with-some-influence, reporter, politician), and your skin crawls as you read this document, please get in touch with me: [@josh_works](https://twitter.com/josh_works). 
+
+The fact that you're reading this document is evidence that there is a lot we can do about this.
 
 
 ## My (Josh's) introduction to the Atlanta Zone Plan of 1922
