@@ -12,6 +12,23 @@ permalink: full-copy-of-1922-atlanta-zone-plan
 image: /images_2020/2020-08-16zoning-is-racist-01.jpg
 ---
 
+## A Warning and a Request
+
+In a moment, I'm going to link to two Twitter threads. These threads set the context for the document I've spent a few hours converting from PDF to something that can be easily read. 
+
+This article is ultimatly a story about _power_. Most people that have true power, power that can shape entire cities and how billions of dollars get spent, don't run around waving flags saying "I'm ludicrously powerful and there's nothing you can do about it."
+
+They hide their power under layers of misdirection and distraction, and they make it look like they're less powerful than they actually are. 
+
+I'm going to make the point that many laws that drive daily decisions _today_ come _directly_ from the document you're about to read. If you expect to quickly skim this document on your phone, but not really read it all the way through, maybe save this tab for another time. 
+
+This is about 7000 words. It's not great to consume on a smartphone. 
+
+If you're in a position to exercises influence over laws and public opinion (reporter, politician, internet-person-with-some-influence), and your skin crawls as you read this document, please get in touch with me: [@josh_works](https://twitter.com/josh_works). The fact that you're reading this document is evidence that there is a lot we can do about this.
+
+
+## My (Josh's) introduction to the Atlanta Zone Plan of 1922
+
 Two days ago, I read this blog post: [Racial Zoning: Segregation and the U.S. Federal Government](https://www.blackfeminisms.com/zoning/).
 
 It quoted a few times from a document. The document was written in 1922, and lives online as a PDF. I'd like to make a document accessible. It's a dangerous, foul, powerful document. It's exceptional. It's an example of what it looks like for a dominant socio-economic group to use carefululy-sculpted political power to increase it's own dominance. 
@@ -39,11 +56,10 @@ I wanted the text to be searchable, though. I've tweeted about it a lot, in thes
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I missed a piece in this &quot;R-1 White District&quot; and &quot;R-2 Colored District&quot; narrative outlined in Atlanta&#39;s 1922 zoning plan.<br><br>The central piece of Witten&#39;s racist zoning plan was &quot;the encroachment of the colored&quot; in white neighborhoods. <a href="https://t.co/2gWMdsaEb8">https://t.co/2gWMdsaEb8</a> <a href="https://t.co/mej9ILqNOK">pic.twitter.com/mej9ILqNOK</a></p>&mdash; Josh Thompson (@josh_works) <a href="https://twitter.com/josh_works/status/1295034724658737152?ref_src=twsrc%5Etfw">August 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-I feel like every single sentance from this short document is important. I'm copying it below, with graphs and pictures as it originally appeared. 
+Every sentance from this short document is as important as they are horrible. It's like reading some speech by Hitler. Every sentance deserves commentary, deserves to be challenged and refuted. 
 
-It's a horrible document, though. It's like reading some speech by Hitler. Every sentance deserves commentary. So, I'll be sprinkling footnotes throughout. 
+I don't yet have time to add notes on _every_ sentance, but I've sprinkled some footnotes throughout. (fifteen by my last count)
 
-For full context, I recommend skimming through the above threads. I'm making the point that many laws that drive daily decisions _today_ come _directly_ from the document you're about to read. 
 
 It's critical to point out that _most_ of the document "seems OK"[^these-footnotes-will-be-important]. You'll hear similar language as what's in this document in city meetings around the nation every day. What I want to provide is a little context for where that language came from, _and I want to baggiage that comes when someone uses that language_. 
 
@@ -82,11 +98,11 @@ This system of zoning allows a very small group of people to force their views o
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">BAY AREA- My boyfriend was walking to his car when he witnessed a woman in his neighborhood yelling racial slurs at a Latino man walking his dog. My bf called her to stop and proceeded to walk to his car. She was waiting for him up the hill and started to attack him verbally <a href="https://t.co/JsqpqqFP5T">pic.twitter.com/JsqpqqFP5T</a></p>&mdash; taurus queen 🏹 (@milkteamamacita) <a href="https://twitter.com/milkteamamacita/status/1295151461001658368?ref_src=twsrc%5Etfw">August 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 -------------------------------------------
 
-# The Atlanta Zone Plan: Report Outlining a Tentative Zone Plan for Atlanta, by Richard H. Whitten, Consultant to City Planning Commission (1922)
+## The Atlanta Zone Plan: Report Outlining a Tentative Zone Plan for Atlanta, by Richard H. Whitten, Consultant to City Planning Commission (1922)
 
 _copied from [this online resource](https://babel.hathitrust.org/cgi/pt?id=osu.32435003851870)_
 
-## Introduction
+### Introduction
 
 ### Purpose of Zoning
 
