@@ -14,36 +14,39 @@ image: /images_2020/2020-08-16zoning-is-racist-01.jpg
 
 ## A Warning and a Request
 
-In the next section, I'm going to provide context for this 1922 document. Along the way, I'm going to link to two Twitter threads. These threads set the context for the document I've spent a few hours converting from PDF to something that can be easily read. Please read the threads. 
+In a moment, you'll be able to read the full text of a 1922 marketing pamphlet. First, I need to provide some context. 
+
+Along the way, I'm going to link to two Twitter threads. These threads set the context for this pamphlet I've converted from PDF to something that you can read. Please read the threads. 
 
 This article is ultimatly a story about _power_. Most people that have _true_ power, power that can shape entire cities and how billions of dollars get spent, don't run around telling everyone "I'm ludicrously powerful and there's nothing you can do about it."
 
 They hide their power under layers of misdirection and distraction, and they make it look like they're less powerful than they actually are. 
 
-I'm going to make the point that many laws that drive daily decisions _today_ come _directly_ from the document you're about to read, and this document was written by people with _true_ power.
+This 100 year old marketing brochure influences your daily experiences _today_. Powerful people wrote that document. 
 
-This entire post is about 9000 words. If you expect to quickly skim this document on your phone, maybe save this tab for when you've got a larger screen to work with. 
+This entire post is about 9000 words. If you expect to skim this document on your phone, instead save this tab for when you've got a larger screen to work with. 
 
 If you're in a position to exercises influence over laws and public opinion (internet-person-with-some-influence, reporter, politician), and your skin crawls as you read this document, please get in touch with me: [@josh_works](https://twitter.com/josh_works). 
 
 The fact that you're reading this document is evidence that there is a lot we can do about this.
 
 
-## My (Josh's) introduction to the Atlanta Zone Plan of 1922
+## Context for the Atlanta Zone Plan of 1922
 
-Two days ago, I read this blog post: [Racial Zoning: Segregation and the U.S. Federal Government](https://www.blackfeminisms.com/zoning/).
+Two days ago, I read this blog post: [Racial Zoning: Segregation and the U.S. Federal Government (blackfeminisms.com)](https://www.blackfeminisms.com/zoning/).
 
-It quoted a few times from a document. The document was written in 1922, and lives online as a PDF. I'd like to make a document accessible. It's a dangerous, foul, powerful document. It's exceptional. It's an example of what it looks like for a dominant socio-economic group to use carefululy-sculpted political power to increase it's own dominance. 
+This article quotes a document. The then-mayor of Atlanta authored the document, along with some other individuals. 
+It lives online as a PDF. 
+
+I'd like to make a document accessible. It's a dangerous, foul, powerful document. It's exceptional. It's an example of what it looks like for a dominant socio-economic group to use carefululy-sculpted political power to increase it's own dominance. 
 
 Here's the document:
 
 [The Atlanta Zone Plan: Report Outlining a Tentative Zone Plan for Atlanta, by Richard H. Whitten, Consultant to City Planning Commission (1922)](https://babel.hathitrust.org/cgi/pt?id=osu.32435003851870&view=2up&seq=2)
 
-The document was written in 1922 by racists, and it is a marketing document for the legal regime they rely upon to perpetuate their racism.
-
 It also is a critically shaping document. Perhaps as relevant today as the US Constitution. Perhaps more important than the US Constitution.  
 
-I _strongly_ recommend reading the document. It's only 18 pages, with lots of diagrams, like this:
+I _strongly_ recommend reading the document. It's a quick read, 18 pages, with lots of diagrams, like this:
 
 ![zoning is racist](/images_2020/2020-08-16zoning-is-racist-01.jpg)
 
@@ -58,46 +61,8 @@ I wanted the text to be searchable, though. I've tweeted about it a lot, in thes
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I missed a piece in this &quot;R-1 White District&quot; and &quot;R-2 Colored District&quot; narrative outlined in Atlanta&#39;s 1922 zoning plan.<br><br>The central piece of Witten&#39;s racist zoning plan was &quot;the encroachment of the colored&quot; in white neighborhoods. <a href="https://t.co/2gWMdsaEb8">https://t.co/2gWMdsaEb8</a> <a href="https://t.co/mej9ILqNOK">pic.twitter.com/mej9ILqNOK</a></p>&mdash; Josh Thompson (@josh_works) <a href="https://twitter.com/josh_works/status/1295034724658737152?ref_src=twsrc%5Etfw">August 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-Every sentance from this short document is as important as they are horrible. It's like reading some speech by Hitler. Every sentance deserves commentary, deserves to be challenged and refuted. 
+It's critical to point out that _most_ of the document "seems OK"[^these-footnotes-will-be-important]. You'll hear similar language as what's in this document in city meetings around the nation every day. 
 
-I don't yet have time to add notes on _every_ sentance, but I've sprinkled some footnotes throughout. (fifteen by my last count)
-
-
-It's critical to point out that _most_ of the document "seems OK"[^these-footnotes-will-be-important]. You'll hear similar language as what's in this document in city meetings around the nation every day. What I want to provide is a little context for where that language came from, _and I want to baggiage that comes when someone uses that language_. 
-
-When they say things that come from this document, you can contentedly think to yourself
-
-> Ah, they're unknowingly quoting racists who hated Black people and wanted to bring back chattel slavery
-
-I'd like to make a plea for kindness and gentlessness, though. 
-
-If I act like everyone who supports the modern zoning regime is a racist that wants to bring back chattel slavery, I'll be an extremely inneffective advocate for change. 
-
-I think most people land in the right place. I've spoken with people that would describe themselves as neighborhood conservationists, community minded, they desire to be free of the meddling influence of others, the state, and nusiance. 
-
-_They simply desire to perserve institutions and structures that they like, and make modifications to those they don't like._
-
-If you think
-
-> Gosh, that sure sounds similar to my goals in the world
-
-You'd be right. If you consider yourself to be a `#YIMBY`, and you consider `#NIMBY` people to all be evil and immoral, _you are making things worse, not better_.
-
-I struggle with this, sometimes. I've spent years stewing in the unpleasent intersection of chattel slavery, institutionalized racism, and zoning. When my aunt says:
-
-> Oh, I wouldn't want my neighbors to just build their house right against the property line
-
-My blood pressure spikes. I know where that setback requirement came from, and why it exists. 
-
-My aunt is the progressive's progressive. She hates any whiff of racism, and votes for the politician that will have the best impact on reducing systemic injustice against marginalized and victimized groups. 
-
-So when I hear her repeat ideas that were first popularized by racists, as they rolled out a regime of massive injustice, I have to be careful; she is a potentially powerful ally to the cause of reducing injustice. If I act like she's a racist and judge her, or try to convince her of something that I cannot easily give words to, I make things worse, not matter. 
-
-Please - as you read this document and notice how often you hear these kinds of concerns brought up by white property owners resisting changes to zoning codes, please consider that they property owners didn't create this system. 
-
-This system of zoning allows a very small group of people to force their views on the world. Bring those you used to disagree with into the fold, so that when you come across someone like this, you can just let them talk all they want. Every time they open their mouth, they drive away supporters, so much better than you ever could:
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BAY AREA- My boyfriend was walking to his car when he witnessed a woman in his neighborhood yelling racial slurs at a Latino man walking his dog. My bf called her to stop and proceeded to walk to his car. She was waiting for him up the hill and started to attack him verbally <a href="https://t.co/JsqpqqFP5T">pic.twitter.com/JsqpqqFP5T</a></p>&mdash; taurus queen 🏹 (@milkteamamacita) <a href="https://twitter.com/milkteamamacita/status/1295151461001658368?ref_src=twsrc%5Etfw">August 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 -------------------------------------------
 
 ## The Atlanta Zone Plan: Report Outlining a Tentative Zone Plan for Atlanta, by Richard H. Whitten, Consultant to City Planning Commission (1922)
@@ -136,7 +101,13 @@ Zoning will prevent the destruction of the comfort and value of your home throug
 
 ### Illustration 1
 
-A mechanic buys a home for his family in a newly developed residence subdivision. He and his neighbors plant trees and shrubs and make the section a quiet and attractive home neighborhood. Then the adjoining house changes hands and the new owner thinking only of his own immediate advantage builds a small grocery store projecting to the sidewalk line and surrounds it with a litter of boxes and barrels. Our mechanic who has invested his entire savings, $3500, in his home and given a first mortgage lien for the remainder of the purchase price would like to move away and offers his home for sale but finds that it will now bring but half the amount he paid for it and his entire savings, $3500, have been lost. He is forced to remain where he is. Not only his home but all the homes in the block are deppreciated in value; as a result the owners are discouraged; the yards are neglected and the property allowed to run down 
+A mechanic buys a home for his family in a newly developed residence subdivision. He and his neighbors plant trees and shrubs and make the section a quiet and attractive home neighborhood. 
+
+Then the adjoining house changes hands and the new owner thinking only of his own immediate advantage builds a small grocery store projecting to the sidewalk line and surrounds it with a litter of boxes and barrels. 
+
+Our mechanic who has invested his entire savings, $3500, in his home and given a first mortgage lien for the remainder of the purchase price would like to move away and offers his home for sale but finds that it will now bring but half the amount he paid for it and his entire savings, $3500, have been lost. 
+
+He is forced to remain where he is. Not only his home but all the homes in the block are depreciated in value; as a result the owners are discouraged; the yards are neglected and the property allowed to run down 
 
 This nice, quiet home section has been ruined and the savings of the home owners wiped out. This is an example of what is happening in one block after another all over the city. Is this the way to encourage thrift or promote home ownership?
 
@@ -144,7 +115,9 @@ This nice, quiet home section has been ruined and the savings of the home owners
 
 ### Illustration 2
 
-Mr. Smith has purchased a home in an attractive neighborhood. All of the homes have large well kept yards. Mr. Smith believes that children, like plants, must have plenty of sun light and room in which to grow. The location selected seems an ideal one in which to live and raise his family. But there is a vacant lot next door. A speculative builder estimates that he can buy that lot, erect a four story, sixteen suite apartment house thereon, rent the apartments, sell to some investor and clean up a handsome profit for himself. 
+Mr. Smith has purchased a home in an attractive neighborhood. All of the homes have large well kept yards. 
+
+Mr. Smith believes that children, like plants, must have plenty of sun light and room in which to grow. The location selected seems an ideal one in which to live and raise his family. But there is a vacant lot next door. A speculative builder estimates that he can buy that lot, erect a four story, sixteen suite apartment house thereon, rent the apartments, sell to some investor and clean up a handsome profit for himself. 
 
 The apartment house is erected and is quickly rented and sold. 
 
@@ -172,7 +145,7 @@ An ice manufacturer picks this block as a good location for his new ice plant. T
 
 Added to this, there is the continuous noise arising from the operation of the plant. The en tiredistrict is now undesirable for residence purposes. Property values fall and other small shops and industries take advantage of the low prices to secure locations for their operations. 
 
-The area becomes blighted.[^blite]
+The area becomes blighted.
 
 It is spoiled for residence use and being without railroad track facilities is of little value for industrial purposes. 
 
@@ -192,7 +165,7 @@ Zoning divides the land area of the city into residence, business and industrial
 
 Zoning prevents the development of great blighted areas near the heart of the city. Unless some definite limit is fixed to the distance to which business may spread out from the central business area one block after another is abandoned by the resident owners until great areas are affected that will never be needed for business and the typical blighted district results. 
 
-St. Louis has one of the best examples of this wasteful development.[^st-lewis-was-screamingly-racist]
+St. Louis has one of the best examples of this wasteful development.
 
 Zoning will centralize local business in well-defined local business centers. This will facilitate the transaction of business. It will improve land and rental values in the business sections, while at the same time conserving values in the residence sections.
 
@@ -251,17 +224,19 @@ Consequently, each portion of the city is in some one of the six classes of use 
 
 ### RESIDENCE DISTRICTS 
 
-<!-- TODO: check this section -->
 THE two classes of residence districts are:
 
 - Class UI or dwelling house district. 
 - Class U2 or apartment house district. 
 
-A building arranged for more than two families may not be constructed in a dwelling house houses are beneficial, they should not be allowed to drive out the private homes in all sections of the city. Carefully limited but adequate areas are allowed for apartment house developement. The dwelling house districts, from which apart ment houses are excluded, will include the larger portion of the entire area of Atlanta.
+A building arranged for more than two families may not be constructed in a dwelling house district. One of the chief purposes of the zone plan is to preserve Atlanta as a city of homes.
 
-district. One of the chief purposes of the zone plan is to preserve Atlanta as a city of homes. While a certain number of apartment
+While a certain number of apartment houses are beneficial, they should not be allowed to drive out the private homes in all sections of the city. Carefully limited but adequate areas are allowed for apartment house developement. The dwelling house districts, from which apartment houses are excluded, will include the larger portion of the entire area of Atlanta[^apartments-are-banned].
 
-Trade and industry are excluded from the residence districts. Churches, schools, libra ries, etc., are permitted in the residence districts. Hospitals, sanitariums and institutional build ings are permitted in those blocks of the resi dence districts already occupied by similar build ings. They will also be permitted in other locations with the approval of the board of zoning appeals.
+Trade and industry are excluded from the residence districts[^trade-is-banned]. Churches, schools, libraries, etc., are permitted in the residence districts. Hospitals, sanitariums and institutional buildings are permitted in those blocks of the residence districts already occupied by similar buildings. They will also be permitted in other locations with the approval of the board of zoning appeals.
+
+[^apartments-are-banned]: Translation: This zoning plan bans apartment buildings from most of the city.
+[^trade-is-banned]: Translation: This zoning plan bans _all_ commercial activity from most of the city.
 
 ### RACE ZONING
 
@@ -291,7 +266,7 @@ There are four classes of business and industrial districts:
 
 In the local retail store (class U3) district retail stores, offices and small shops for custom work or for the making of articles to be sold at retail on the premises are permitted. The uses permitted in the residence districts are also permitted in the local retail business district. 
 
-Public garages, light manufacturing and bulk storage are excluded from the local retail business district. This district is suitable chiefly for the smaller retail centers adjacent to the resident tial sections. The attempt has been to provide small areas for neighborhood stores at half-mile intervals throughout the resident sections[^a-prediction]. 
+Public garages, light manufacturing and bulk storage are excluded from the local retail business district. This district is suitable chiefly for the smaller retail centers adjacent to the resident tial sections. The attempt has been to provide small areas for neighborhood stores at half-mile intervals throughout the resident sections. 
 
 The commercial (class U4) district regulations permit in addition to all uses permitted in the local retail business district, light manufacturing of a non-nuisance character and also public garages, bulk storage and wholesale business. The commercial districts will include most of the central business sections and some of the local business sections along the main traffic arteries and street car lines. 
 
@@ -310,9 +285,6 @@ A manufacturer of food preparations may be seriously injured by the location nea
 It is only by carefully grading the various trade and industrial uses according to their comparative freedom from nuisance characteristics that an orderly and efficient development of the city can be secured.
 
 The zoning regulations also provide that such special uses as a cemetery, crematory, aviation field, sewage disposal plant or refuse dump may be located only on application to and with the approval of the board of zoning appeals.
-
-[^a-prediction]: Would it be awkward if we found that modern zoning permits "local retail" in about half-mile increments? I think that would be awkward.
-
 
 ### HEIGHT DISTRICTS
 
@@ -429,9 +401,5 @@ Zoning is a first essential to the securing of a measure of orderliness in the b
 
 
 [^they-mayor-was-in-on-it]: Only now did I realize _the mayor_ signed his name on this document. This document is explicitely racist, and the mayor was certainly not trying to [move the Overton window](https://en.wikipedia.org/wiki/Overton_window). That means nothing in this proposal would jepordize the mayor's political future. _This is a plan by racists and for racists_. 
-
-[^blite]: Ah, "blite". I'll expand on this another time, but for now, know that "blite" doesn't just "happen", politically powerful people create blite in order to benefit from the sale or purchase of the land. There's a whole ecosystem around dealing with "blited" properties, and people get rich if they're good at creating blite. Oh, and it always hurts minorities and non-socio-economically-dominant groups. 
-
-[^st-lewis-was-screamingly-racist]: St. Lewis had horrific race relations. Skim through [Civic Improvements and segregation policies (Wikipedia)](https://en.wikipedia.org/wiki/History_of_St._Louis#Decline_of_the_inner_city_and_urban_renewal:_1905%E2%80%931980). Take a look at [the land clearence for the St. Lewis Arch](https://en.wikipedia.org/wiki/History_of_St._Louis#/media/File:St._Louis_riverfront_after_demolition_for_Gateway_Arch_(1942).jpg). Do you think it was rich white people who lost their land, or perhaps Black people? This kind of land clearence is virtually guaranteed to go along with "blite removal", "condemnation", and mass evictions using threats of violence made credible by local police departments which were often just [slave patrols](https://lawenforcementmuseum.org/2019/07/10/slave-patrols-an-early-form-of-american-policing/).
 
 [^these-footnotes-will-be-important]: Things are often not what they seem. This document is a marketing pamphlet, and much of the interest I have in it comes from how the authors carefully cultivated a certain perception of what they wanted to do, for a variety of reasons. _It is intended to be bland and acceptible to the sensibilities of the politically dominant group of the time_
