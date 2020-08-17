@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Full Copy of 'The Atlanta Zone Plan' from 1922
+title: "Full Copy of 'The Atlanta Zone Plan' from 1922"
 permalink: 1922-atlanta-zoning-plan-with-comments
 published: true
 crosspost_to_medium: false
-date: 2020-08-17 06:00:00 -0700
+date: 2020-08-17 05:00:00 -0700
 description: "I found an incredible document written in 1922. It informs everything about our modern world, yet crumples on itself under the most cursory examination. Lets take a look."
 categories: [racism]
 tags: [zoning, racism]
@@ -45,7 +45,7 @@ It's a horrible document, though. It's like reading some speech by Hitler. Every
 
 For full context, I recommend skimming through the above threads. I'm making the point that many laws that drive daily decisions _today_ come _directly_ from the document you're about to read. 
 
-It's critical to point out that _most_ of the document seems OK. You'll hear similar language as what's in this document in city meetings around the nation every day. What I want to provide is a little context for where that language came from, _and I want to destroy the moral high-ground appropriated by those who use that language_. 
+It's critical to point out that _most_ of the document "seems OK"[^these-footnotes-will-be-important]. You'll hear similar language as what's in this document in city meetings around the nation every day. What I want to provide is a little context for where that language came from, _and I want to baggiage that comes when someone uses that language_. 
 
 When they say things that come from this document, you can contentedly think to yourself
 
@@ -55,8 +55,31 @@ I'd like to make a plea for kindness and gentlessness, though.
 
 If I act like everyone who supports the modern zoning regime is a racist that wants to bring back chattel slavery, I'll be an extremely inneffective advocate for change. 
 
-I think most people land in the right place, and they care about their neighorhood.
+I think most people land in the right place. I've spoken with people that would describe themselves as neighborhood conservationists, community minded, they desire to be free of the meddling influence of others, the state, and nusiance. 
 
+_They simply desire to perserve institutions and structures that they like, and make modifications to those they don't like._
+
+If you think
+
+> Gosh, that sure sounds similar to my goals in the world
+
+You'd be right. If you consider yourself to be a `#YIMBY`, and you consider `#NIMBY` people to all be evil and immoral, _you are making things worse, not better_.
+
+I struggle with this, sometimes. I've spent years stewing in the unpleasent intersection of chattel slavery, institutionalized racism, and zoning. When my aunt says:
+
+> Oh, I wouldn't want my neighbors to just build their house right against the property line
+
+My blood pressure spikes. I know where that setback requirement came from, and why it exists. 
+
+My aunt is the progressive's progressive. She hates any whiff of racism, and votes for the politician that will have the best impact on reducing systemic injustice against marginalized and victimized groups. 
+
+So when I hear her repeat ideas that were first popularized by racists, as they rolled out a regime of massive injustice, I have to be careful; she is a potentially powerful ally to the cause of reducing injustice. If I act like she's a racist and judge her, or try to convince her of something that I cannot easily give words to, I make things worse, not matter. 
+
+Please - as you read this document and notice how often you hear these kinds of concerns brought up by white property owners resisting changes to zoning codes, please consider that they property owners didn't create this system. 
+
+This system of zoning allows a very small group of people to force their views on the world. Bring those you used to disagree with into the fold, so that when you come across someone like this, you can just let them talk all they want. Every time they open their mouth, they drive away supporters, so much better than you ever could:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BAY AREA- My boyfriend was walking to his car when he witnessed a woman in his neighborhood yelling racial slurs at a Latino man walking his dog. My bf called her to stop and proceeded to walk to his car. She was waiting for him up the hill and started to attack him verbally <a href="https://t.co/JsqpqqFP5T">pic.twitter.com/JsqpqqFP5T</a></p>&mdash; taurus queen 🏹 (@milkteamamacita) <a href="https://twitter.com/milkteamamacita/status/1295151461001658368?ref_src=twsrc%5Etfw">August 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 -------------------------------------------
 
 # The Atlanta Zone Plan: Report Outlining a Tentative Zone Plan for Atlanta, by Richard H. Whitten, Consultant to City Planning Commission (1922)
@@ -392,3 +415,5 @@ Zoning is a first essential to the securing of a measure of orderliness in the b
 [^blite]: Ah, "blite". I'll expand on this another time, but for now, know that "blite" doesn't just "happen", politically powerful people create blite in order to benefit from the sale or purchase of the land. There's a whole ecosystem around dealing with "blited" properties, and people get rich if they're good at creating blite. Oh, and it always hurts minorities and non-socio-economically-dominant groups. 
 
 [^st-lewis-was-screamingly-racist]: St. Lewis had horrific race relations. Skim through [Civic Improvements and segregation policies (Wikipedia)](https://en.wikipedia.org/wiki/History_of_St._Louis#Decline_of_the_inner_city_and_urban_renewal:_1905%E2%80%931980). Take a look at [the land clearence for the St. Lewis Arch](https://en.wikipedia.org/wiki/History_of_St._Louis#/media/File:St._Louis_riverfront_after_demolition_for_Gateway_Arch_(1942).jpg). Do you think it was rich white people who lost their land, or perhaps Black people? This kind of land clearence is virtually guaranteed to go along with "blite removal", "condemnation", and mass evictions using threats of violence made credible by local police departments which were often just [slave patrols](https://lawenforcementmuseum.org/2019/07/10/slave-patrols-an-early-form-of-american-policing/).
+
+[^these-footnotes-will-be-important]: Things are often not what they seem. This document is a marketing pamphlet, and much of the interest I have in it comes from how the authors carefully cultivated a certain perception of what they wanted to do, for a variety of reasons. _It is intended to be bland and acceptible to the sensibilities of the politically dominant group of the time_
