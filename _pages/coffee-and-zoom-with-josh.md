@@ -20,7 +20,7 @@ I'm still intentionally trying to hang out with people I don't yet know, so I'd 
 
 Schedule something convenient to you:
 
-[--> Book a time (Calendly)](https://calendly.com/joshthompson/coffee-with-josh)
+[--> Book a time (Calendly)](https://calendly.com/joshthompson/coffee)
 
 [^byoc]: You'll have to provide your own ☕️ or 🍵 or 🍺 or 🍷
 
@@ -81,6 +81,6 @@ I'd love to chat about anything loosely related to what's covered in that talk.
 
 Lets get coffee! 
 
-### 👉 [Book a time (Calendly)](https://calendly.com/joshthompson/coffee-with-josh)
+### 👉 [Book a time (Calendly)](https://calendly.com/joshthompson/coffee)
 
 
