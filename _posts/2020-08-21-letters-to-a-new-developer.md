@@ -1,15 +1,17 @@
 ---
 layout: post
 title:  "Cultivate the Skill of Undivided Attention, or 'Deep Work'"
-date:  2019-09-07 06:00:00 -0700
-crosspost_to_medium: false
-categories: [notes]
-description: "Guest Post for letterstoanewdeveloper.com, on 'topic'"
-tags: [guest_post]
+date:  2020-08-20 06:00:00 -0700
+crosspost_to_medium: true
+published: true
+categories: [software_development]
+description: "Guest Post for Letters to a New Developer, about cultivating undivided attention."
+tags: [guest_post, programming]
 permalink: letters-to-a-new-developer-deep-work
+image: /images/title_image.jpg
 ---
 
-_this is cross-posted from [Letters to a New Developer](https://letterstoanewdeveloper.com/), where Dan kindly accepted this as a guest post._
+_Dan Moore is always welcoming to guest authors; he accepted something I wrote: [Cultivate the Skill of Undivided Attention, or "Deep Work" (Letters to a New Developer)](https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-of-undivided-attention-or-deep-work/). It ended up on [Hacker News](https://news.ycombinator.com/item?id=22646839) with 100 comments. I wrote this back in December 2019, forgot to post here until now._
 
 Dear New Developer,
 
