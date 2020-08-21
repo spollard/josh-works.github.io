@@ -13,6 +13,8 @@ image: /images/title_image.jpg
 
 _Dan Moore is always welcoming to guest authors; he accepted something I wrote: [Cultivate the Skill of Undivided Attention, or "Deep Work" (Letters to a New Developer)](https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-of-undivided-attention-or-deep-work/). It ended up on [Hacker News](https://news.ycombinator.com/item?id=22646839) with 100 comments. I wrote this back in December 2019, forgot to post here until now._
 
+_Dan published a book by the title [Letters to a New Developer](https://letterstoanewdeveloper.com/2020/08/17/letters-to-a-new-developer-the-book/). This letter is in it, but don't let that disuade you. The book is full of great insights from developers of all experience levels._
+
 Dear New Developer,
 
 You _know_ that there's a chasm between your skill level and that of the mythical "senior software developer". 
