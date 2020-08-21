@@ -6,6 +6,7 @@ type: page
 published: true
 meta: {}
 permalink: boulder_ruby_group
+image: "images_2020/2020-08-21 at 9.08 AM.jpg"
 ---
 
 ## Move Slow and Improve Things: Performance Improvement in a Rails App
