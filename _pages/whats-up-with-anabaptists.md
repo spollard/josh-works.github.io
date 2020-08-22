@@ -9,14 +9,9 @@ tags: []
 permalink: whats-up-with-anabaptists
 ---
 
-Hey there. Did you get to this page because I (Josh) sent you the URL? 
+Hey there. Did you get to this page because I (Josh) just sent you the URL? 
 
-If this is your first time on this page, ignore the email signup for now, keep reading, and I'll have another form at the bottom.
-
-<script async data-uid="4f0cd973a2" src="https://josh-thompson.ck.page/4f0cd973a2/index.js"></script>
-
-_Don't see an email signup form? You'll have to disable Javascript and reload the page. Sorry. I dislike Javascript-critical functionality as much as anyone, but I don't know a good technical work-around that gives me what I want without it._
-
+Great! Welcome. This is a page I share infrequently, though it is, obviously, public. Read on. If you decide you want to keep chatting about this with me, there's a form at the bottom for a very, very small email list. Currently there's like 4 people on it.
 
 --------------------------------
 
