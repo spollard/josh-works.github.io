@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-no-anchor
 title: Blog
 permalink: /blog
 ---

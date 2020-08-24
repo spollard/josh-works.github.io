@@ -10,7 +10,7 @@ layout: default
   <p class="entry-tags">tag(s): {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags#{{ tag | cgi_escape | downcase }}" title="Posts tagged {{ tag }}" rel="tag">{{ tag | downcase }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor %}</p>
   
   {% include toc.html html=content %}
-  {% include anchor_headings.html html=content anchorBody="#" %}
+  {% include anchor_headings.html html=content anchorBody="#" anchorClass="anchor"%}
   {% include share.html %}
 </article>
 
