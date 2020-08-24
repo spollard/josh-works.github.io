@@ -26,7 +26,7 @@ Personal preference is certainly part of the difference... but I think it's not 
 
 This is a bit of a "how Josh uses Slack" post. It might pair well with PSPDFKit's [How to Use Slack and Not Go Crazy ](https://pspdfkit.com/blog/2018/how-to-use-slack-and-not-go-crazy/).
 
-# Slack settings (aka "Silence the Beast")
+## Slack settings (aka "Silence the Beast")
 
 Slack's default notification settings will _ruin you_. 
 
@@ -52,7 +52,7 @@ This means I can be in many channels, and never even know there's conversation h
 
 ![mute all the things](/images/2019-04-12 at 5.53 AM.png)
 
-# "You There?" and other messages to never send
+## "Are you there?" and other messages to never send
 
 A while back, [I learned about "whole values" in Ruby objects]( {{ site.baseurl }}{% link _posts/2018-10-12-primitive_obsession_and_exceptional_values.md %}).
 
@@ -105,15 +105,15 @@ Here's a message (part of a longer note) I sent to someone I was working on a pr
 
 > Also - I am a _massive_ fan of asynchronous, independent work, so anytime you happen to get slack messages from me, please _don't_ feel any pressure to reply. I try to send "whole messages", that don't require much real-time back-and-forth, and don't have any expectations of quick replies.
 
-## Miscellaneous other preferences
+### Miscellaneous other preferences
 
 These are some other "rules" and patterns I've arrived at when it comes to using Slack:
 
-### Be biased towards using channels for _topics_, and not just _groups of people_
+#### Be biased towards using channels for _topics_, and not just _groups of people_
 
 The only channel I try to stay 100% up-to-date-with is my team channel. It's nice having topical channels, as it's easy to know where to go to have conversation on a given topic, rather than topical conversations bleeding into general channels. 
 
-### Be biased towards using public channels, so relevant parties can join/leave them as needed
+#### Be biased towards using public channels, so relevant parties can join/leave them as needed
 
 A private channel makes you feel a bit locked into it. If you leave it, and need to add something to _that_ channel, you need to be re-invited. So, we all have healthy [fomo](https://www.urbandictionary.com/define.php?term=Fomo) and choose to never leave the channel. This cuts against the general pattern of Slack, and makes it just a smidge more intrusive in the day-to-day. 
 
@@ -122,7 +122,7 @@ A private channel makes you feel a bit locked into it. If you leave it, and need
 That's fine. There are certainly times that you might not need the whole company up in your business. But these are few and far between, and _how often do_ YOU _go prowling in other team's channels?_. My guess is "not that often". 
 
 
-### Fill out your Slack profile
+#### Fill out your Slack profile
 
 Before Wombat was acquired, I had about 230 coworkers. Now I have 2500. It's _desperately_ useful for me to know who works on what team and on what product, if I get a message out of the blue from someone, or if I need to send someone a message. 
 
@@ -134,7 +134,7 @@ As a case study of how time consuming it is when this information is missing - I
 
 A few minutes later, after looking said person up in our company directory (not finding them) I turned to LinkedIn - turns out this person was a developer on another product. This information obviously shaped my answer in a _different_ direction. 
 
-### Close Slack now and again
+#### Close Slack now and again
 
 If I really want to go heads-down on something, and am feeling tons of friction and distraction, I can just enter "monk mode". I'll quit Slack, block every website except what's defined in a whitelisted, pre-determined list (Github, Jira, StackOverflow, language documentation, etc) and will "lock myself in" to a problem for an hour or so. 
 
