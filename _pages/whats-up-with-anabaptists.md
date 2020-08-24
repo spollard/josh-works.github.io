@@ -9,21 +9,24 @@ tags: []
 permalink: whats-up-with-anabaptists
 ---
 
-Hey there. Did you get to this page because I (Josh) just sent you the URL? 
+Hey there. Did you get to this page because I (Josh) sent you the URL? 
 
-Great! Welcome. This is a page I share infrequently, though it is, obviously, public. Read on. If you decide you want to keep chatting about this with me, there's a form at the bottom for a very, very small email list. Currently there's like 4 people on it.
+Great! Welcome. This is a page I share infrequently, and it's not linked from anywhere else on this website. 
+
+Read on. If you decide you want to keep chatting about this with me, there's a form at the bottom for a small email list.  There's less than 10 people on it.
+
 
 --------------------------------
 
-Here are the first ten sentances of a book that I read recently.
+Below are the first ten sentances of a book that I've read.
 
 I want to know if they strike you the same as they strike me.
 
-The book is authored by J. Denny Weaver, an anabaptist scholar, and the foreward is written by William H. Willimon, a methodist bishop. 
+J. Denny Weaver, an anabaptist scholar, wrote the book, and William H. Willimon, a Methodist bishop, wrote the forward. Prior 
 
 _After you read the these sentances, I'll provide a bit more context._
 
-Here's how Willimon introduces the audience to Weaver's book, titled _Becoming Anabaptist: The Origin and Significance of Sixteenth-Century Anabaptism_:
+### The first ten sentences of [Becoming Anabaptist: The Origin and Significance of Sixteenth-Century Anabaptism](https://www.goodreads.com/book/show/1659306.Becoming_Anabaptist):
 
 > Here is a book that is against just about everything we believe in.
 > 
@@ -41,7 +44,7 @@ Here's how Willimon introduces the audience to Weaver's book, titled _Becoming A
 > 
 > To subvert the present ecclesiastical order, Weaver on nearly every page of this book lures us into a respectful discussion of how Anabaptists got here and what they believe. Typical of the Mennonites I have known, _he politely reassures us that he is a pacifist Christian who bears us no harm, then hands us a ticking bomb._
 
-_emphasis mine_
+_Emphasis mine_
 
 What's you're gut reaction right now? These ten sentances are strongly worded. Unexpectedly so.
 
@@ -77,11 +80,19 @@ Scroll down to `Persecutions and migrations`
 
 ----------------------------------------
 
+### Other quotes
+
 I've got a few more interesting quotes from the book, this time as written by Weaver:
 
-On page 229, Weaver discusses why "there was so much conflict" (AKA burning people at the stake and drowning people). He says it's overwhelmingly likely that _we modern folk who are quick to dismiss this conflict as arcane disagreements about baptism do not understand why there was so much conflict_:
+On page 229, Weaver addresses a modern response to the early history of the Anabaptists
 
-> If Anabaptists, Catholics, and Protestants shared as much in common as Snyder’s approach implies, it would then follow that neither side understood the issues at stake (pun intended!). 
+ > Why was there was so much conflict anyway, like burning people at the stake and state-and-church-enforced drownings
+ 
+He thinks that some of the modern scholarship completely misses the fundamental differences between the Anabaptists and state/church environment in which they lived.
+
+He says it's overwhelmingly likely that we modern folk who dismiss this conflict as "arcane disagreements about baptism" **do not understand the root of the issue**:
+
+> If Anabaptists, Catholics, and Protestants shared as much in common as [other modern scholar's] approach implies, it would then follow that neither side understood the issues at stake (pun intended!). 
 > 
 > [snyder proposed that] those who were killing Anabaptists did not realize how much like themselves the Anabaptists were, and Anabaptists were giving up their lives for a faith that was quite close to that of their persecutors. 
 > 
@@ -143,7 +154,7 @@ Now that you've read this far, if you're curious to keep digging (the story gets
 
 <script async data-uid="4f0cd973a2" src="https://josh-thompson.ck.page/4f0cd973a2/index.js"></script>
 
-_Don't see an email signup form? You'll have to disable Javascript and reload the page._
+_If you don't see the subscribe form above, [click here](https://josh-thompson.ck.page/4f0cd973a2)._
 
 I want your feedback and challenges on what I write. 
 
