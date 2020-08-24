@@ -38,7 +38,7 @@ As a counterpoint, imagine you had terrible question-asking skills. In what aspe
 
 Exactly! Questions matter.
 
-### Traits of a bad question
+## Traits of a bad question
 
 Lets rollplay a bit. If you're a student at Turing, and you have a friend considering attending Turing, and they sent you an email with the following sentence, how would you feel?
 
@@ -66,7 +66,7 @@ All of these questions were these one-liners, dropped into a public channel, whe
 
 All of these questions are bad because they assume the other person (the expert) is willing to ask further clarifying questions, or get wrapped into a conversation or pairing without any additional context.
 
-### Traits of a good question
+## Traits of a good question
 
 Since we're solving a hard problem, it's reasonable to assume that the person helping us will also agree that it is a tricky problem. Even if it's not "tricky", they will need to "load up" the problem space into their head to understand what's going on.
 
