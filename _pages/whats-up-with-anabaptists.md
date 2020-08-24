@@ -26,7 +26,9 @@ J. Denny Weaver, an anabaptist scholar, wrote the book, and William H. Willimon,
 
 _After you read the these sentances, I'll provide a bit more context._
 
-### The first ten sentences of [Becoming Anabaptist: The Origin and Significance of Sixteenth-Century Anabaptism](https://www.goodreads.com/book/show/1659306.Becoming_Anabaptist):
+### First Ten Sentences of _Becoming Anabaptist_
+
+ Here's the first 10 sentences of [Becoming Anabaptist: The Origin and Significance of Sixteenth-Century Anabaptism](https://www.goodreads.com/book/show/1659306.Becoming_Anabaptist)
 
 > Here is a book that is against just about everything we believe in.
 > 
