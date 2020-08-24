@@ -17,7 +17,7 @@ permalink: better-questions
 >
 
 
-# Why do questions matter?
+## Why do questions matter?
 
 Without getting too philosophical, the process of formulating questions and finding answers to them is a big part of what makes us human.
 
