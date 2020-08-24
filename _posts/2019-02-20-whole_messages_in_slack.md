@@ -86,16 +86,19 @@ Lots of messages in Slack don't have to be synchronous.
 
 Here's some examples.
 
-them (this was the first time I've "spoken" with this person): 
+The following was the first time I had ever "spoken" with this person, who works two time-zones away: 
+
+Them:
 > Hi there. Got a minute for a question? 
 
-me, about 40 minutes later: 
+me, about 40 minutes later, because I was working and often go extended periods of time without looking at Slack: 
+
 > can you provide more context?
 
 they provided a _tiny_ bit more context, and I replied with: 
 > go ahead and ask the question. I'll answer when I can. We're doing a deploy right now, but no harm in asking. (I'm a fan of "whole messages", so you should go ahead and fire off as long of a question as you want, link to tickets, screenshots, whatever, and I'll follow up when I can.)
 
-When I'm composing a message to someone, I try to provide all of the information they need in a single message. I'll often preface it with something like:
+When I'm composing a message to someone, I try to follow my own advice to [ask better questions]({{ site.baseurl }}{% link _posts/2017-05-29-ask-better-questions.md %}) by providing all the information they need in a single message. I'll often preface it with something like:
 
 > Hey {so and so} - this is not urgent, and I don't want a response until it's convenient for you. To that end, I'll provide further context and my specific question.
 
