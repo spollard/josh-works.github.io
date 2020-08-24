@@ -74,7 +74,7 @@ That's totally fine. If you read them and think:
 
 > This is interesting. I didn't even know anyone noticed such things. It makes no difference to me if I do these things, so I'll lean in the direction of Josh's preference, even if its just to make his life a little easier.
 
-Then my goal wildly accomplished.
+Then my goal is wildly accomplished.
 
 ### Send whole messages
 
