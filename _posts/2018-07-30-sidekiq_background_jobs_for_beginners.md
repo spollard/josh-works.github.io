@@ -46,7 +46,7 @@ You'll notice that when sending emails via the app, nothing is happening on [htt
 ![redis](/images/2018-07-25_redis.jpg)
 
 
-# Convert a non-background-job to a background job
+## Convert a non-background-job to a background job
 
 The essence of a background job is to do stuff _in the background_, without making the Rails app sit around doing all the work. 
 
@@ -57,7 +57,7 @@ Lets make this a background job:
 1. create the job. (you can use `rails generate job <job_name>`, per the [ActiveJob docs](https://edgeguides.rubyonrails.org/active_job_basics.html#create-the-job))
 2. Call the `notify user job` from the controller, instead of calling the `user notifier` directly.
 
-### Make the job
+## Make the job
 
 We'll hand-roll this. Make `app/jobs/send_user_gif_job.rb`.
 
@@ -74,7 +74,7 @@ end
 
 (Deviated slightly from the docs with `ActiveJob::Base`. I'm working with Rails 4.2)
 
-### Make a test
+## Make a test
 
 Working through the [rubyonrails.org docs on testing jobs](https://edgeguides.rubyonrails.org/testing.html#testing-jobs), I'll set up the following:
 
@@ -101,7 +101,7 @@ Unfortunately, this test passes. :(
 
 After taking a look at the [testing Sidekiq](https://github.com/mperham/sidekiq/wiki/Testing) docs, I've got some ideas. 
 
-### Messed up Sidekiq?
+## Messed up Sidekiq?
 
 After a bit of playing in the `rails console`, I had a bunch of bad jobs that Sidekiq was trying to process. Every time I started Sidekiq, it broke with a stack trace for "uninitialized constant", for a job/class/worker that didn't exist. 
 
@@ -118,7 +118,7 @@ As usual, I found the answer [on Stack Overflow](https://stackoverflow.com/a/472
 
 After clearing out the queue, I can run Sidekiq just fine. 
 
-### Reworked the test and worker
+## Rework the test and worker
 
 These are _workers_ and not _jobs_. `ActiveJob` _jobs_ live in `/jobs`. So, if you want a _worker_, don't put it in the `/jobs` directory, put it in the `/workers` directory. 
 
@@ -181,7 +181,7 @@ def setup
 end
 ```
 
-### Making Sidekiq do stuff via the Rails Console
+## Making Sidekiq do stuff via the Rails Console
 
 Since the tests don't push _actual_ jobs to Sidekiq, I don't see any indication that anything interesting is happening in Sidekiq web, or Redis, or the Sidekiq terminal window. :(
   
@@ -239,7 +239,7 @@ This is what it looks like, in the logs and sidekiq web, running the jobs from t
 
 So, cool. My job still isn't doing anything, but at least it's running. I guess.
 
-### Restart Sidekiq when you make a change to a worker
+## Restart Sidekiq when you make a change to a worker
 
 It makes sense that the Sidekiq worker test might assert JUST that jobs get queued correctly. 
 
@@ -288,7 +288,7 @@ And you'll see nothing, until Sidekiq pushes jobs to Redis, and reads from it:
 
 Here's those lines, formatted for easier reading:
 
-#### lpush
+### lpush
 
 ```ruby
 1532784329.095661 [0 127.0.0.1:53832] lpush queue:default 
@@ -303,7 +303,7 @@ Here's those lines, formatted for easier reading:
   }
 ```
 
-#### hset
+### hset
 
 ```ruby
 1532784332.778327 [0 127.0.0.1:53803] hset MacBook-Pro-6715.local:32134:cc8d1568c5c6:workers ow3kb5tjc 
@@ -330,7 +330,7 @@ By the way, Redis is a bit cleaner if you run the server as a background process
 To stop Redis, just do `redis-cli shutdown`
 
 
-### What does/does not occur
+## What does/does not occur
 
 So, how can we be sure that our Sidekiq job is actually firing? Lets see what it looks like, using this worker _with_ Sidekiq, and without. 
 
@@ -356,7 +356,7 @@ Here's how I can see a job using `Worker.new.perform` doesn't "hit" sidekiq:
 
 The Rails server just sits for a while, and redis and Sidekiq seem clueless of the event? 
 
-### Conclusion
+## Conclusion
 
 One of the bugs I was working with, the root of the problem was the worker/job seemed to not be requeuing when it failed. I spent time touching up the worker, and logging around the specific error (it was a timeout on an internal API endpoint), but even after rescuing the timeout, the job wasn't happening again. 
 
@@ -368,7 +368,7 @@ Anyway, I'm content that I understand the basic difference between `Worker.perfo
 
 
 
-### Resources 
+## Resources 
 
  - [Turing Sidekiq lesson](http://backend.turing.io/module3/lessons/intro_to_background_workers)
  - [Testing async emails, the Rails 4.2+ way](https://www.engineyard.com/blog/testing-async-emails-rails-42)
