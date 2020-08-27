@@ -2,6 +2,7 @@
 layout: page
 title:  "Bloom's 2-sigma problem"
 date:  2020-06-14 06:00:00 -0700
+published: true
 crosspost_to_medium: false
 categories: []
 description: 
