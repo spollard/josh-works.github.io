@@ -1,0 +1,24 @@
+---
+layout: incremental
+title: "Playing with D3"
+permalink: d3
+---
+
+<h2>Second D3 example</h2>
+<div class="example" id="example-2">
+  <div id="observablehq-324428bf"></div>
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@d3/learn-d3-by-example.js?v=3";
+const inspect = Inspector.into("#observablehq-324428bf");
+(new Runtime).module(define, name => name === "d3" ? inspect() : undefined);
+</script>
+</div>
+
+<h2>First D3 example</h2>
+<div class="example" id="example-1">
+  
+</div>
+
+
+
