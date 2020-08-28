@@ -144,7 +144,7 @@ Sincerely,
 - Boss's name, Title, Company
 ```
 
-### 3. Say a complementary thing about yourself.
+### 3. Say a complementary thing about yourself
 
 This is the first uncomfortable sentence you'll have to write:
 
