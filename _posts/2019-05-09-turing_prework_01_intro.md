@@ -11,20 +11,34 @@ permalink: turing-backend-prep-01-intro
 
 ## Why this series exists
 
-This guide is a work-in-progress, so I hope you will reach out if you get stuck on anything. I'm in the Turing slack as `@josh_t`, or ping me via email at `joshthompson@hey.com`. 
+I intend for this series to be _after_ finishing Turing's [Mod 0 program](https://mod0.turing.io/) and [Mod 0 capstone](https://github.com/turingschool-examples/module_0_capstone)
 
-I intend for this series to be started _after_ finishing Turing's [Mod 0 program](https://mod0.turing.io/) and [Mod 0 capstone](https://github.com/turingschool-examples/module_0_capstone)
-
-If you don't have enough time to work through these resources, no problem. This is simply a guide to make Turing _a little easier than it otherwise will be_. Most Turing students have done just fine without these resources. 
+If you don't have enough time to work through these resources, no problem. This is a guide to make Turing _a little easier than it otherwise will be_. Most Turing students have done fine without these resources. 
 
 This collection of articles is a guide that will make Turing's mod 1 _much_ easier than it otherwise would be.
 
-We'll do this by working on, (and completing) a few dozen small Ruby exercises. 
+We'll do this by working on, (and completing) small Ruby exercises. 
 
 You might be thinking: 
-> Josh. This already sounds like a lot of work. I just finished my prework, and I know Turing's gonna be brutal. Why should I do all of this _optional_ work, instead of enjoying my last few days of freedom?
+> Josh. This already sounds like a lot of work. I finished my prework, and I know Turing's gonna be brutal. Why should I do this _optional_ work, instead of enjoying my last days of freedom?
 
-Good question. The answer is a digression and tortured analogy on the topics of:
+Good question, reader. If you spend 10 hours on this material, between now and when Turing starts, you'll be a standard deviation improved from your baseline. 
+
+A standard deviation would move someone from 50th percentile to 84th percentile, or it would move someone from 25th percentile to 50th percentile. 
+
+If you think you can spend _more_ than ten hours on this work (perhaps you've stumbled across this resource weeks/months before Turing's starting) you'll see more than a standard deviation improvement. If you put 20+ hours into this, you'll be in the top 20% of the cohort. 1/4th of students who enter Turing will have to repeat mod 1 or mod 2, so if you think it's even remotely possible you could be in that group, the 20+ hours you invest in these resources will save you at least 250 hours of study, $5000, and you'll graduate six weeks earlier than you otherwise would. 
+
+> Josh, this isn't convincing to me. I don't want to do this extra work.
+
+OK. That's on you. I have no idea how to make my case stronger than I already have. If you can think of points that would make my suggestions more compelling, please let me know. 
+
+## Time Commitment
+
+I'm not sure how much time this will all take. Like I said, 10 hours will make a big difference, 20 hours will permanently change your Turing experience. Budget 20 hours ± 5 hrs. You could do this in a long weekend, or a few evenings in a week, but you'll get the most time if you spread your efforts across at least two weeks, to give the material time to stew and soak in.
+
+## OK, I'm sold. I'll spend the time you suggest. Where do I get started?
+
+Good question. The answer involves a long digression and tortured analogy on the topics of:
 - screwdrivers
 - how to learn hard things
 - why you should do drills 

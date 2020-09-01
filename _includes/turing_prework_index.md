@@ -1,4 +1,4 @@
-#### Turing Prep Series Index
+### Turing Prep Series Index
 
 - [Chapter 1: Make Mod 1 Easier Than It Otherwise Would Be]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %}) {% if page.url == "/turing-backend-prep-01-intro" %} _**you are here**_ {% endif %} 
 - [Chapter 2: Your first passing tests!]({{ site.baseurl }}{% link _posts/2019-05-19-turing_prework_02_getting_the_right_files.md %}) {% if page.url == "/turing-backend-prep-02-first-tests-and-making-them-pass" %} _**you are here**_ {% endif %} 
