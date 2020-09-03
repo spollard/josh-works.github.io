@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Full Copy of 'The Atlanta Zone Plan' from 1922"
-permalink: 1922-atlanta-zoning-plan-with-comments
 published: true
 crosspost_to_medium: false
 date: 2020-08-17 05:00:00 -0700
@@ -14,13 +13,15 @@ image: /images_2020/2020-08-16zoning-is-racist-01.jpg
 
 ## A Warning and a Request
 
-In a moment, you'll be able to read the full text of a 1922 marketing pamphlet. First, I need to provide some context. 
+In a moment, you will read the full text of a 1922 marketing pamphlet. First, I need to provide some context. 
 
-Along the way, I'm going to link to two Twitter threads. These threads set the context for this pamphlet I've converted from PDF to something that you can read. Please read the threads. 
+Along the way, I link to two Twitter threads I wrote. 
 
-This article is ultimatly a story about _power_. Most people that have _true_ power, power that can shape entire cities and how billions of dollars get spent, don't run around telling everyone "I'm ludicrously powerful and there's nothing you can do about it."
+These threads set the context for this pamphlet I've converted from PDF to something that you can read. Please read the threads. 
 
-They hide their power under layers of misdirection and distraction, and they make it look like they're less powerful than they actually are. 
+This story is about _power_. Most people that have _true_ power, power that can shape entire cities and how billions of dollars get spent, don't run around telling everyone "I'm ludicrously powerful and there's nothing you can do about it."
+
+These ludicrously powerful people hide their power under layers of misdirection and distraction, and they make it look like they're less powerful than they actually are. 
 
 This 100 year old marketing brochure influences your daily experiences _today_. Powerful people wrote that document. 
 
@@ -33,31 +34,32 @@ The fact that you're reading this document is evidence that there is a lot we ca
 
 ## Context for the Atlanta Zone Plan of 1922
 
-Two days ago, I read this blog post: [Racial Zoning: Segregation and the U.S. Federal Government (blackfeminisms.com)](https://www.blackfeminisms.com/zoning/).
+Two days ago, I read a blog post, titled `Racial Zoning: Segregation and the U.S. Federal Government`, posted on  (blackfeminisms.com)](https://www.blackfeminisms.com/zoning/).
 
-This article quotes a document. The then-mayor of Atlanta authored the document, along with some other individuals. 
-It lives online as a PDF. 
+I'll share a quote from the article:
+
+> President Warren G. Harding instructed [future president but then] Secretary of Commerce Herbert Hoover to form an advisorty committee on zoning in 1921. He then tasked the committee with the job of creating a model zoning law. 
+
+It is this model zoning law, and a marketing document associated with it, that I am linking to below.
 
 I'd like to make a document accessible. It's a dangerous, foul, powerful document. It's exceptional. It's an example of what it looks like for a dominant socio-economic group to use carefululy-sculpted political power to increase it's own dominance. 
 
-Here's the document:
+It's titled:
 
-[The Atlanta Zone Plan: Report Outlining a Tentative Zone Plan for Atlanta, by Richard H. Whitten, Consultant to City Planning Commission (1922)](https://babel.hathitrust.org/cgi/pt?id=osu.32435003851870&view=2up&seq=2)
+[The Atlanta Zone Plan: Report Outlining a Tentative Zone Plan for Atlanta](https://babel.hathitrust.org/cgi/pt?id=osu.32435003851870)
 
-It also is a critically shaping document. Perhaps as relevant today as the US Constitution. Perhaps more important than the US Constitution.  
+It also is a critically shaping document. I'm adding footnotes to the article, to draw connections between these words from 1922, and law that is in effect _today_, that drives decisions millions of people make every day.
 
-I _strongly_ recommend reading the document. It's a quick read, 18 pages, with lots of diagrams, like this:
+Read the document. 
 
-![zoning is racist](/images_2020/2020-08-16zoning-is-racist-01.jpg)
+I mentioned two important twitter threads, which provide context for what you're about to read. Here they are:
 
-I wanted the text to be searchable, though. I've tweeted about it a lot, in these two threads:
-
-**First Twitter Thread**
+### Context Twitter Thread \#1
 
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">1/20 Thoughts on Denver&#39;s zoning and systemic racism. <br><br>Here&#39;s a screenshot from <a href="https://twitter.com/CityofDenver?ref_src=twsrc%5Etfw">@CityofDenver</a>&#39;s zoning map on <a href="https://t.co/Tzx271JS8u">https://t.co/Tzx271JS8u</a>.<br><br>This is textbook Euclidean Zoning, AKA &quot;Single-Use Zoning&quot;.<br><br>The problems of this form of zoning are well-known:<a href="https://t.co/WqiklxjB4h">https://t.co/WqiklxjB4h</a> <a href="https://t.co/7RDaFJlttS">pic.twitter.com/7RDaFJlttS</a></p>&mdash; Josh Thompson (@josh_works) <a href="https://twitter.com/josh_works/status/1294726871574179840?ref_src=twsrc%5Etfw">August 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
-**Second Twitter Thread**
+### Context Twitter Thread \#2
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I missed a piece in this &quot;R-1 White District&quot; and &quot;R-2 Colored District&quot; narrative outlined in Atlanta&#39;s 1922 zoning plan.<br><br>The central piece of Witten&#39;s racist zoning plan was &quot;the encroachment of the colored&quot; in white neighborhoods. <a href="https://t.co/2gWMdsaEb8">https://t.co/2gWMdsaEb8</a> <a href="https://t.co/mej9ILqNOK">pic.twitter.com/mej9ILqNOK</a></p>&mdash; Josh Thompson (@josh_works) <a href="https://twitter.com/josh_works/status/1295034724658737152?ref_src=twsrc%5Etfw">August 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
@@ -65,13 +67,13 @@ It's critical to point out that _most_ of the document "seems OK"[^these-footnot
 
 -------------------------------------------
 
-## The Atlanta Zone Plan: Report Outlining a Tentative Zone Plan for Atlanta, by Richard H. Whitten, Consultant to City Planning Commission (1922)
+## The Atlanta Zone Plan: Report Outlining a Tentative Zone Plan for Atlanta
+
+_by Richard H. Whitten, Consultant to City Planning Commission (1922)_
 
 _copied from [this online resource](https://babel.hathitrust.org/cgi/pt?id=osu.32435003851870)_
 
-### Introduction
-
-### Purpose of Zoning
+### Introduction: Purpose of Zoning
 
 Zoning will prevent the destruction of the comfort and value of your home through the erection nearby of a:
 
@@ -99,15 +101,17 @@ Zoning will prevent the destruction of the comfort and value of your home throug
 
 ## FIVE ILLUSTRATIONS OF THE NEED FOR ZONING
 
+_Note from Josh: Each of these illustrations are complex. They interleave facts and misdirection, I have a lot I could say about each sentance, but I'll restrain myself until later in the document, as much as possile._
+
 ### Illustration 1
 
 A mechanic buys a home for his family in a newly developed residence subdivision. He and his neighbors plant trees and shrubs and make the section a quiet and attractive home neighborhood. 
 
-Then the adjoining house changes hands and the new owner thinking only of his own immediate advantage builds a small grocery store projecting to the sidewalk line and surrounds it with a litter of boxes and barrels. 
+Then the adjoining house changes hands and the new owner (thinking only of his own immediate advantage) builds a small grocery store projecting to the sidewalk line and surrounds it with a litter of boxes and barrels. 
 
-Our mechanic who has invested his entire savings, $3500, in his home and given a first mortgage lien for the remainder of the purchase price would like to move away and offers his home for sale but finds that it will now bring but half the amount he paid for it and his entire savings, $3500, have been lost. 
+Our mechanic who has invested his entire savings, $3500 [$54,000 in 2020 dollars], in his home and given a first mortgage lien for the remainder of the purchase price would like to move away and offers his home for sale but finds that it will now bring but half the amount he paid for it and his entire savings, $3500, have been lost. 
 
-He is forced to remain where he is. Not only his home but all the homes in the block are depreciated in value; as a result the owners are discouraged; the yards are neglected and the property allowed to run down 
+He is forced to remain where he is. Not only his home but all the homes in the block are depreciated in value; as a result the owners are discouraged; the yards are neglected and the property allowed to run down.
 
 This nice, quiet home section has been ruined and the savings of the home owners wiped out. This is an example of what is happening in one block after another all over the city. Is this the way to encourage thrift or promote home ownership?
 
@@ -123,19 +127,23 @@ The apartment house is erected and is quickly rented and sold.
 
 It rents well because it is in a section of private homes and has the benefit of the lawns and open spaces about the adjoining houses. But the value of Mr. Smith's home is practically destroyed. His light and air is cut off by the huge bulk of the apartment house. 
 
-The quiet and comfort of the entire block for privateresidence purposes has been largely destroyed. 
+The quiet and comfort of the entire block for private residence purposes has been largely destroyed. 
 
 Each home owner fears that a similar apartment building may be constructed next door to him. Those who can, sell out or move away and rent their homes for any purpose or use that offers. 
 
-Apartment houses are needed but is it necessary to permit them to scatter indiscriminately throughout the private home sections? If Atlanta is to be preserved as a city of homes we must protect the home owner by establishing definite limits beyond which the apartment house may not spread.
+Apartment houses are needed but is it necessary to permit them to scatter indiscriminately throughout the private home sections? If Atlanta is to be preserved as a city of homes we must protect the home owner by establishing definite limits beyond which the apartment house may not spread[^burying-the-lede].
+
+[^burying-the-lede]: The plan buries the lede. They are going to soon propose creating `R-1 White Districts` (which ban apartment buildings) and `R-2 Colored Districts` which permit small apartment buildings. The author also argues that a principle purpose of this zoning plan is to prevent the encroachment of Black people on White neighborhoods. 
 
 ### Illustration 3
 
 A number of large apartment houses have been erected in a block in a section near the center of the city that is being generally developed for apartment house purposes. There is a large vacant lot in the block and a speculative builder determines that in consequence of the demand for garage storage space in this apartment-house neighborhood he can make a good profit by building a public garage on the vacant lot. 
 
-The garage is built and the noise and traffic incident to its operation makes the entire block undesirable for residence purposes. The tenants of the nearby apartment houses move out and the vacant suites are only again rented at a rate that means an enormous loss to the owners. 
+The garage is built and the noise and traffic incident to its operation makes the entire block undesirable for residence purposes. The tenants of the nearby apartment houses move out and the vacant suites are only again rented at a rate that means an enormous loss to the owners[^this-is-encouraged-by-zoning]. 
 
 Zoning is just as essential for the protection of the apartment-house owner as it is for the protection of the home owner.
+
+[^this-is-encouraged-by-zoning]: I actually agree with this assessment. Living next door to a parking garage is unpleasent and damages property values. Ironically, our modern zonign paradigm _forces_ the creation of parking garages where they would otherwise never exist, and forces the harms it claims to defend against.
 
 ### Illustration 4
 
@@ -143,41 +151,49 @@ Here is a large area that has been built up quite uniformly with small homes. Th
 
 An ice manufacturer picks this block as a good location for his new ice plant. The plant is built and becomes the ice distributing center for a large area. The delivery teams are stabled at the plant, and early each morning the rumbling of the wagons and the shouts of the teamsters make sleep for the nearby residents impossible. 
 
-Added to this, there is the continuous noise arising from the operation of the plant. The en tiredistrict is now undesirable for residence purposes. Property values fall and other small shops and industries take advantage of the low prices to secure locations for their operations. 
+Added to this, there is the continuous noise arising from the operation of the plant. The entire district is now undesirable for residence purposes[^unless-the-workers-can-live-there]. Property values fall and other small shops and industries take advantage of the low prices to secure locations for their operations.
 
 The area becomes blighted.
 
 It is spoiled for residence use and being without railroad track facilities is of little value for industrial purposes. 
 
+[^unless-the-workers-can-live-there]: Long commutes are expensive, harmful to the environment, pocketbook, and soul. How nice would it be to live next to where you work? If I read Illustration 4 with the perspective of someone who works at the ice plant, I would be a big fan of being able to live near where I worked.
+
 ### Illustration 5
 
-A ten story office and store building is erected at the corner of the best business block in the central business section of the city. The building is a financial success: the ground floor is rented for retail store purposes and the upper floors, being light and airy, bring good rentals. Its success, however, leads to the erection of a sixteen story building across the street from one of its frontages, a twenty story building across the street from the other frontage and of sixteen to twenty-four story buildings on both sides and in the rear. 
+A ten story office and store building is erected at the corner of the best business block in the central business section of the city. The building is a financial success: the ground floor is rented for retail store purposes and the upper floors, being light and airy, bring good rentals. 
 
-The offices being darkened by the higher buildings are forced to use artificial light throughout the entire day and are rentable only at a fraction of the former amounts. The building no longer earns a fair return on the investment. As the competition in building height proceeds a large proportion of the office floors of each building in this entire section are so darkened as to make the returns from the rentals insufficient to cover the investment. 
+Its success, however, leads to the erection of a sixteen story building across the street from one of its frontages, a twenty story building across the street from the other frontage and of sixteen to twenty-four story buildings on both sides and in the rear. 
+
+The offices, being darkened by the higher buildings are forced to use artificial light throughout the entire day and are rentable only at a fraction of the former amounts. 
+
+The building no longer earns a fair return on the investment. As the competition in building height proceeds a large proportion of the office floors of each building in this entire section are so darkened as to make the returns from the rentals insufficient to cover the investment[^office-buildings]. 
 
 Unless office building heights are strictly limited the result is bound to be disastrous to the investors as well as injurious to the health and comfort of the clerks working in the darkened offices.
 
+[^office-buildings]: I laughed a little as I read this. I'm sure in 1922 a 20-story building was rather large and uncommon. I think we've all grown up with enough tall buildings that we can reject this assessment as categorically false, based on our lived experience. Every urban area has tall buildings (50 stories, 100 stories tall!) and the adjacent buildings go **up** in value, not down.
+
 ## WHAT ZONING IS AND DOES
 
-Zoning is a conscious, intelligent effort to direct the building of the city in accord with a well-considered plan. Like good housekeeping it provides a place for everything and tries to keep everything in its place. Like good industrial management it plans for an orderly growth and expansion of the plant.
+_Josh: We're getting closer to the author's revealing their true colors. Just keep in mind the authors have a strong preference to keep black people out of white neighborhoods._
 
-Zoning divides the land area of the city into residence, business and industrial districts and prevents the erection of business and industrial buildings in the residence districts or of industrial buildings in the business districts. 
+Zoning is a conscious, intelligent effort to direct the building of the city in accord with a well-considered plan[^conscious-intelligent-plan]. Like good housekeeping it provides a place for everything and tries to keep everything in its place. Like good industrial management it plans for an orderly growth and expansion of the plant.
 
-Zoning prevents the development of great blighted areas near the heart of the city. Unless some definite limit is fixed to the distance to which business may spread out from the central business area one block after another is abandoned by the resident owners until great areas are affected that will never be needed for business and the typical blighted district results. 
+Zoning divides the land area of the city into residence, business and industrial districts and prevents the erection of business and industrial buildings in the residence districts or of industrial buildings in the business districts[^prohibit-businesses]. 
 
-St. Louis has one of the best examples of this wasteful development.
+Zoning prevents the development of great blighted areas near the heart of the city. Unless some definite limit is fixed to the distance to which business may spread out from the central business area one block after another is abandoned by the resident owners until great areas are affected that will never be needed for business and the typical blighted district results[^white-flight]. 
 
-Zoning will centralize local business in well-defined local business centers. This will facilitate the transaction of business. It will improve land and rental values in the business sections, while at the same time conserving values in the residence sections.
+St. Louis has one of the best examples of this wasteful development[^st-lewis].
 
-Zoning will keep the apartments out of the private house sections. The coming of the apartment drives out the private home. Only by setting definite limits to the spread of the apartment can the city be preserved as a city of homes.
+Zoning will centralize local business in well-defined local business centers. This will facilitate the transaction of business. It will improve land and rental values in the business sections, while at the same time conserving values in the residence sections[^zoning-enforces-sprawl].
 
-apartment can the city be preserved as a city of homes.
+Zoning will keep the apartments out of the private house sections. The coming of the apartment drives out the private home. Only by setting definite limits to the spread of the apartment can the city be preserved as a city of homes[^apartments-means-black-peaple].
 
-Zoning will prevent congestion of population. In addition to confining tenement house construction to certain areas, zoning will prevent excessive crowding even in the tenement areas. This will be accomplished by requiring a minimum number of square feet of lot area for each family for which the tenement is arranged.
+Zoning will prevent congestion of population. In addition to confining tenement house construction to certain areas, zoning will prevent excessive crowding even in the tenement areas. This will be accomplished by requiring a minimum number of square feet of lot area for each family for which the tenement is arranged[^minimum-lot-size].
 
-Zoning is essential to preserve the morale of the various neighborhoods or communities into which the city is divided. Zoning creates confidence that the existing character of the neighborhood will be preserved. Such confidence is essential to the improvement of the area and to the maintenance of a vigorous civic pride and spirit.
+Zoning is essential to preserve the morale of the various neighborhoods or communities into which the city is divided. Zoning creates confidence that the existing character of the neighborhood will be preserved[^neighborhood-character]. Such confidence is essential to the improvement of the area and to the maintenance of a vigorous civic pride and spirit.
 
-Zoning requires each owner so to use his property as not to injure his neighbor. Without zoning the individual owner is powerless to prevent the destruction of the value of his property. Only by submitting to some restriction on his power to do with his own just as he pleases is he himself able to obtain protection. Zoning is a practical application of the Golden Rule to the use of property. 
+Zoning requires each owner so to use his property as not to injure his neighbor. Without zoning the individual owner is powerless to prevent the destruction of the value of his property[^such-tricky-wording]. Only by submitting to some restriction on his power to do with his own just as he pleases is he himself able to obtain protection. Zoning is a practical application of the Golden Rule to the use of property. 
 
 Zoning enforces a certain degree of co-operation among property owners for their mutual advantage and protection. A certain degree of uniformity in the development of a block or area is beneficial to all owners. This is the meaning of restrictive covenants in all better-class residential developments. Zoning applies the principle of the restrictive covenant in so far as it can be used to promote public as distinct from purely private ends.
 
@@ -208,6 +224,25 @@ Zoning promotes the health and comfort of the people. Orderly city growth cannot
 The New York Zoning Commission said: 
 
 > The necessity for reducing the stress and strain of city life is becoming more and more apparent. This is essential if the city is to be a place in which our heritage of health and vitality is to be used, conserved and handed down to succeeding generations instead of being abused and exhausted.
+
+[^conscious-intelligent-plan]: We could re-word this sentance to: `Zoning is a conscious, intelligent effort to <strike>direct</strike> enforce the building of the city in accord with a <strike>well-considered</strike> racist plan.`
+
+[^prohibit-businesses]: screenshot zoning codes from Denver that show restrictions of commercial activity in residential zones
+
+[^white-flight]: The author is describing a phenomina known as "white flight", but without labeling it as such. 
+
+[^st-lewis]: St. Lewis has horrific history around racism. I'll add links here soon. Just know that alarm bells should be going off in your head, as you read this reference to St. Lewis. 
+
+[^zoning-enforces-sprawl]: The authors are arguing for "Euclidean zoning". There's no question that Euclidean zoning encourages sprawl and car-dependence, accomplishing the exact opposite of what the authors say zoning will accomplish. [My first twitter thread](#context-twitter-thread-1) goes into this phenomina in some detail.
+
+[^apartments-means-black-peaple]: Remember that the authors associate apartment buildings and black people. They should have written `Zoning will keep the Blacks out of the White neighborhoods. The coming of the Black drives out the White. Only by setting definite limits to the spread of the Blacks can the city be preserved as a city of Whites.` 
+
+[^minimum-lot-size]: This sentiment is what gives us "minimum lot size requirements", which are, again, _everywhere_ in modern zoning codes. (screenshots? I can add screenshots) Oh, and this is where our density limits come from. 
+
+[^neighborhood-character]: This sentance is why so many "pro-density" advocates claim that anyone who mentions 'preserving neighborhood character' is racist. They're wrong - neighborhood character is an AMAZING thing to preserve, but our modern form of zoning just happens to be a pretty bad way of going about it. Neighborhoods can be preserved even as they adapt to the needs of the people that live there, as everyone becomes better off and more satisfied with where they live.
+
+[^such-tricky-wording]: Of course we should not injure others. This sentance is tricky because what it's really saying is `Without zoning the White owner is powerless to prevent a black person from modifying their property as they see fit.`
+
 
 ## OUTLINE OF TENTATIVE ZONE PLAN
 
