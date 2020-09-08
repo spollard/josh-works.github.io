@@ -438,3 +438,32 @@ Zoning is a first essential to the securing of a measure of orderliness in the b
 [^they-mayor-was-in-on-it]: Only now did I realize _the mayor_ signed his name on this document. This document is explicitely racist, and the mayor was certainly not trying to [move the Overton window](https://en.wikipedia.org/wiki/Overton_window). That means nothing in this proposal would jepordize the mayor's political future. _This is a plan by racists and for racists_. 
 
 [^these-footnotes-will-be-important]: Things are often not what they seem. This document is a marketing pamphlet, and much of the interest I have in it comes from how the authors carefully cultivated a certain perception of what they wanted to do, for a variety of reasons. _It is intended to be bland and acceptible to the sensibilities of the politically dominant group of the time_
+
+
+# Zoning and Policing
+
+The US is currently talking about the proper role of police in the nation. 
+
+In [this article](https://projects.tampabay.com/projects/2020/investigations/police-pasco-sheriff-targeted/intelligence-led-policing/), the theme is that police are harrassing residents. You don't have to read the whole article, just notice how they use code violations to harrass residents, _including issuing mandatory court appearences, and if the person failed to show up or pay the fine, the police would arrest them_:
+
+> If the targets, their family members or associates wouldn’t speak to deputies or answer questions, STAR team deputies were told to look for code enforcement violations like faded mailbox numbers, a forgotten bag of trash or overgrown grass, Rodgers said.
+> The father of one Sheriff’s Office target was fined over the numbers posted on his house. The numbers were there, the document notes in the top-right, but a nearby light made them hard to see. The form indicates the father had to attend a mandatory court hearing. Pasco Sheriff’s Office
+> 
+> “We would literally go out there and take a tape measure and measure the grass if somebody didn’t want to cooperate with us,” he said.
+> 
+> Rodgers said people sometimes would fail to pay the fine, which would result in a warrant being issued for their arrest.
+> 
+> “We’d get them one way or another,” he said.
+> 
+> Rodgers said the tactics made him and many of his colleagues uneasy. He thought the strategy was both ineffective and unethical, he said. But when he raised concerns, he said, a supervisor threatened to strip him of his rank and send him back to patrol.
+
+![What a disaster](/images_2020/citation1-2x.jpg "The father of one Sheriff’s Office target was fined over the numbers posted on his house. The numbers were there, the document notes in the top-right, but a nearby light made them hard to see. The form indicates the father had to attend a mandatory court hearing.")
+_The father of one Sheriff’s Office target was fined over the numbers posted on his house. The numbers were there, the document notes in the top-right, but a nearby light made them hard to see. The form indicates the father had to attend a mandatory court hearing._
+
+I'm trying to find the specific regulation referenced in `Lack of Posted Address, C.O. 82-29`. I found the references to `C.O. 530`, like this:
+
+![wow that's a lot of rules to follow](/images_2020/2020-09-03-9.42.01 AM.png)
+
+Source: [Pasco County, Florida Chapter 500 Zoning Standards](https://www.pascocountyfl.net/1331/Chapter-500-Zoning-Standards). Click the link. There are 31 separate PDFs you'd have to download and examine to understand JUST THIS SECTION of the zoning codes. 
+
+I cannot find section `82-29` of the zoning code, that this particular person violated. Closest I've gotten is [82: Roads and Bridges](https://library.municode.com/fl/pasco_county/codes/code_of_ordinances?nodeId=PTICOOR_CH82ROBR_ARTIINGE)
