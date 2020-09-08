@@ -38,6 +38,8 @@ rm -rf fonts
 
 Update iTerm to use one of the new fonts:
 
+`Profiles > Text > Font (Meslo LG M DZ for Powerline)`
+
 ![iterm settings](/images_2020/2020-08-12 at 1.56 PM.jpg)
 
 open up this file: `~/.oh-my-zsh/themes/agnoster.zsh-theme`
@@ -46,7 +48,7 @@ or do `atom ~/.oh-my-zsh`
 
 Atom open up the themes directory, and open up `agnoster.zsh-theme`
 
-comment out the existing line that says PROMPT, and paste in:
+comment out the existing line that says `PROMPT` on line 230, and paste in:
 
 ```
 PROMPT='$(build_prompt) 
