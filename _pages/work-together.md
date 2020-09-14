@@ -7,14 +7,17 @@ permalink: /work-together
 image: ""
 ---
 
-You have meaningful problems. I've got a history of helping people increase their own capacity to solve meanintful problems.
+You have meaningful problems. I've got a history of helping people increase their own capacity to solve meaninful problems.
 
 _testamonials_
+
 <!-- TODO testamonials, folks I've helped get raises for, change jobs, work through tricky work situations, figure out how to capture value from the work they're already doing, etc> -->
 
-## One-off 'consulting'/rubber-duck debugging
+## Rubber-Duck Debugging and Roadmapping Sessions
 
-Yep. I do lots of one-offs. I generally call these "roadmapping sessions". At the end of our chat (over coffee, lunch, beers, whatever) you'll have things to mull over over the next few weeks as you think on the big problems you're facing. I'll always send over a list of resources that seem relevant, possible next steps, etc. 
+I do lots of one-off conversations.
+
+At the end of our chat (over Zoom or IRL) you'll have things to mull over over the next few weeks as you think on the big problems you're facing. I'll always send over a list of resources that seem relevant, possible next steps, etc. 
 
 Sometimes these next steps require you to go ask some questions of others, think for a few days/weeks, and then we discuss it again, or we don't.
 
