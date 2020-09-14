@@ -7,11 +7,10 @@ permalink: /work-together
 image: ""
 ---
 
-I love to solve _meaningful_ problems, with a high value-per-effort-unit ratio. All possible arrangements of working together in a meaningful way go through a one-off "roadmapping" session. If it makes sense to do recurring work, that'll become clear on the other end. 
+You have meaningful problems. I've got a history of helping people increase their own capacity to solve meanintful problems.
 
-I'd say 95% of these roadmapping/rubber-duck debugging sessions don't lead to recurring work, but everyone is always massively better off. 
-
-<testamonials, folks I've helped get raises for, change jobs, work through tricky work situations, figure out how to capture value from the work they're already doing, etc>
+_testamonials_
+<!-- TODO testamonials, folks I've helped get raises for, change jobs, work through tricky work situations, figure out how to capture value from the work they're already doing, etc> -->
 
 ## One-off 'consulting'/rubber-duck debugging
 
