@@ -9,7 +9,7 @@ image: ""
 
 You have meaningful problems. I've got a history of helping people increase their own capacity to solve meaninful problems.
 
-_testamonials_
+It's probably worth both of our time to chat more about this. 
 
 <!-- TODO testamonials, folks I've helped get raises for, change jobs, work through tricky work situations, figure out how to capture value from the work they're already doing, etc> -->
 
@@ -35,11 +35,11 @@ So, I'm making available for _myself_ a way to get guilt-free, really enjoyable 
 
 Each price links to the relevant Calendly page, where you'll pick a time, Zoom or somewhere in Denver, and make a payment (or not) via Stripe. 
 
-[$250](https://calendly.com/joshthompson/roadmapping)
-[$50](https://calendly.com/joshthompson/roadmapping-50)
-[$0](https://calendly.com/joshthompson/coffee)
+- [$250](https://calendly.com/joshthompson/roadmapping)
+- [$50](https://calendly.com/joshthompson/roadmapping-50)
+- [$0](https://calendly.com/joshthompson/coffee)
 
-Why do I have "expensive", "cheap", and "free" options, all side-by-side? If you're wondering, pick one of and ask me to explain. _It's totally fine if it's the free one_. 
+Why do I have "expensive", "cheap", and "free" options, all side-by-side? If you're wondering, pick one of and ask me to explain. Guess which one comes offers signing NDAs? _It's totally fine if it's the free one_. 
 
 
 ## Retainers
