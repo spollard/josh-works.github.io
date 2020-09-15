@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Golden City Council
-permalink: /golden/
+permalink: /golden
 ---
 
 
