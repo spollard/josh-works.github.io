@@ -7,63 +7,56 @@ permalink: /work-together
 image: ""
 ---
 
-You have meaningful problems. I've got a history of helping people increase their own capacity to solve meaninful problems.
+You have meaningful problems. I enjoy hearing about them and brain-storming on them.
 
-It's probably worth both of our time to chat more about this. 
+This isn't a "sales" page. It's likely you and I have already swapped emails, phone calls, possibly had coffee/drinks together, Zoom calls, or maybe a few years ago I said something that stuck in your head and you want to explore it some more.
 
-<!-- TODO testamonials, folks I've helped get raises for, change jobs, work through tricky work situations, figure out how to capture value from the work they're already doing, etc> -->
+Either you or I have a suspicion that we should talk a bit more directly about the problem at hand.
 
-## Rubber-Duck Debugging and Roadmapping Sessions
+So here's how to book that direct discussion. You'll book an hour of my time, you might pay me for it (if you're interested in an ongoing work arrangement where money changes hand, I'd encourage a paid roadmapping session), and then we'll talk.
 
-I do lots of one-off conversations.
+I'll deliver you 10x in value as you spend on the session. 
+
+## Roadmapping Sessions
+
 
 At the end of our chat (over Zoom or IRL) you'll have things to mull over over the next few weeks as you think on the big problems you're facing. I'll always send over a list of resources that seem relevant, possible next steps, etc. 
 
-Sometimes these next steps require you to go ask some questions of others, think for a few days/weeks, and then we discuss it again, or we don't.
-
-Basically, this is the cost of picking my brain on something. 
-
-> Josh, why isn't this free? It seems strange that you're literally selling an hour of time for so much money.
-
-Are you a conscientous person? I am. "High Empathy" is what some people might label me with. I most like to work with high-empathy people. So, if I know someone who's skilled at their craft, and I want to ask them a question, I feel bad if I send them my question, out of the blue, and don't first make sure they know that I value who they are, I appreciate what they've done, I promise I'll work hard to implement whatever they tell me, etc.
-
-It's an incredible amount of work, and it means I talk to people much less frequently than I might otherwise. 
-
-I wish I could just pay them $50 for an hour of their time, while we have an enjoyable, wide-ranging conversation focused on _my_ problems. I wish I was in a position to pay them hundreds of dollars for their time, but I don't have that kind of spending money. 
-
-So, I'm making available for _myself_ a way to get guilt-free, really enjoyable time with me, in the same way I wish I could access other people's "brains". I've got $250, $50, and $0 options. I'm equally thrilled to be on my end of all three of those price points. If you wish you could pay me $250, but feel bad that you can only pay $50 or $0, _please book the $0 session ASAP and stop feeling bad!_ 
-
 Each price links to the relevant Calendly page, where you'll pick a time, Zoom or somewhere in Denver, and make a payment (or not) via Stripe. 
 
-- [$250](https://calendly.com/joshthompson/roadmapping)
-- [$50](https://calendly.com/joshthompson/roadmapping-50)
+- [$250](https://calendly.com/joshthompson/roadmapping) (Please only pay this if you're using a company credit card)
+- [$50](https://calendly.com/joshthompson/roadmapping-50) 
 - [$0](https://calendly.com/joshthompson/coffee)
 
-Why do I have "expensive", "cheap", and "free" options, all side-by-side? If you're wondering, pick one of and ask me to explain. Guess which one comes offers signing NDAs? _It's totally fine if it's the free one_. 
+Why do I have "expensive", "cheap", and "free" options, all side-by-side? If you're wondering, pick book a session (any session!) and ask me to explain. _Hint: Which one offers an NDA?_
+
 
 
 ## Retainers
 
 I do retainers, billed monthly at the beginning of the term.  
 
-I aim for a monthly payment amount of ~$1000-5000. 
+I aim for a monthly payment amount of ~$1000-5000, and of course I am to deliver multiples of that cost in value (5-10x, minimum). 
 
 > Why not say $25k or $50k, Josh. Don't you want to earn more than $5k/month?
 
-I have a cap of $5k because that's a quite modest amount of money to the organizations and teams I serve. They have a team of engineers, each costing $12k/month, minimum. A team of five is going through $60k/month in payroll. Paying $5k/month to improve retention, feature delivery, and more? Any sane person would jump at the opportunity. They just have to know if I'm trustworthy and/or can deliver what I say I'll deliver, but again, such a small cost, it's no big deal to try me out for a few months. 
+I have a cap of $5k because that's a quite modest amount of money to the organizations and teams I best work with. 
 
-So, they bring me in at $5k/month for a few months, and I'm not doing any "diving save" for their organization. I'm there to help them move long-term numbers, like:
-- Help their newest software developers become stronger engineers in less time than otherwise.
-- Boost retention of engineers at all levels of the organization
-- Unblock amorpheous and weird cross-team communication problems that are slowing down your feature delivery and increasing tech debt. (AKA you're validating [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law).)
+They have a team of engineers, each costing $12k/month, minimum. A team of five is going through $60k/month in payroll. 
+
+For a very modest fee, I deliver improvements around employee retention, [Conways Law](https://en.wikipedia.org/wiki/Conway%27s_law), and ultimately, _I help you and your team deliver more value to your employers, your customers, and yourselves._
+
+Someone evaluating me for this opportunity - they just have to know if I'm trustworthy and/or can deliver what I say I'll deliver, but again, at such a small cost as a $250 roadmapping session, it's easy to see if this is a possibility. 
 
 I don't know for sure that I can do all this. You wouldn't believe me if I said I did, anyway. But in some specific situations, I can. And if it's at all possible that I could deliver this value for your team, ultimately hundreds of thousands of dollars of value, it's worth spending an hour and $250 of not-your-money to find out. 
 
-Book the session here, using your company's credit card: [https://calendly.com/joshthompson/roadmapping](https://calendly.com/joshthompson/roadmapping).
+Learn more about the session (and schedule it if you want) here:
 
-If you don't have a company credit card or a way to get this expense reimbursed, please book a session at $50 [here](https://calendly.com/joshthompson/roadmapping-50).
+👉 **[Book roadmapping session (regular price)](https://calendly.com/joshthompson/roadmapping).**
 
-If you think it's strange that I have two prices for what seems to be a very similar service, please book a call at whatever price seems appropriate, and we'll discuss it soon[^free-option]!
+Alternatively, if $250 is a bit steep but you still want to talk, I'd love to do so:
+
+👉 **[Book roadmapping session (discount)](https://calendly.com/joshthompson/roadmapping-50).[^free-option]**
 
 
 [^free-option]: I have a free option, too. 😉 Check out my "grab a coffee with me" open invite: [https://calendly.com/joshthompson/coffee](https://calendly.com/joshthompson/coffee). And yes, right above, I do this for $250. Are you curious why this might be? Book a session, ask me why. 
