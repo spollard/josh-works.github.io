@@ -1,29 +1,51 @@
 ---
 layout: post
-title: Terminal Setup
-categories:
-tags:
+title:  "My terminal setup"
+description: "My basic terminal setup. This is a draft post, very much WIP."
+date:  2017-12-26 06:00:00 -0700
+crosspost_to_medium: false
+categories: [programming]
+tags: [bash, zsh, terminal-setup]
 permalink: terminal-setup
+image: /images/title_image.jpg
 ---
 
+_note: this is a draft. Please ping me in slack/email with questions, spots where this is unclear. I'll answer your question, and update this post._
 
-Install iTerm
+Here's some quick notes on how I have my terminal setup. 
+
+First, I use Zsh. If you're on a new Macbook Pro, you also are using Zsh. 
+
+
+## Install iTerm
+
+If you're using `Terminal.app`, head to [https://iterm2.com/index.html](https://iterm2.com/index.html) and click the "download" button. Install the app. 
+
+## Install `oh my zsh`
 
 Install `oh my zsh`:
+
+Head to [https://ohmyz.sh/](https://ohmyz.sh/) and follow their installation instructions, which is
+
+> Run the following command in your terminal:
 
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
+## Edit ~/.zshrc`
+
 Open up `~/.zshrc` in Atom. We'll use it a few times.
 
 Line 10 or 11, change the `theme` value to `agnoster`
 
-github.com/agnoster/agnoster-zsh-theme
+[github.com/agnoster/agnoster-zsh-theme](github.com/agnoster/agnoster-zsh-theme)
 
-You'll have to install the Patched Solarized Fonts:
+Head to the repo and follow the installation instructions, which touch on:
 
-github.com/powerline/fonts
+### Install the Patched Solarized Fonts:
+
+[github.com/powerline/fonts](github.com/powerline/fonts)
 
 ```
 # clone
@@ -36,7 +58,7 @@ cd ..
 rm -rf fonts
 ```
 
-Update iTerm to use one of the new fonts:
+### Update iTerm to use one of the new fonts
 
 `Profiles > Text > Font (Meslo LG M DZ for Powerline)`
 
