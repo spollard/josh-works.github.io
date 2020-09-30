@@ -78,8 +78,41 @@ A few quotes in particular jumped out at me:
 
 > As simple as Mister Rogers’ Neighborhood looked and sounded, every detail in it was the product of a tremendously careful, academically informed process.
 
+-------------------
+
+Now I'm wondering about the financial success of his show. 
+
+### Wikipedia: Fred Rogers
+
+[link](https://en.wikipedia.org/wiki/Fred_Rogers)
+
+The show was popular:
+
+> by 2016 it was the third-longest running program in PBS history
+
+Ah, here's how involved he was:
+
+> According to King, the process of putting each episode of Mister Rogers' Neighborhood together was "painstaking"[59] and Rogers' contribution to the program was "astounding". Rogers wrote and edited all the episodes, played the piano and sang for most of the songs, wrote 200 songs and 13 operas, created all the characters (both puppet and human), played most of the major puppet roles, hosted every episode, and produced and approved every detail of the program.
+
+He had two stages to the show:
+
+> n 1975 Rogers stopped producing Mr. Rogers' Neighborhood to focus on adult programming. [...] In 1979, after an almost five-year hiatus, Rogers returned to producing the Neighborhood; King calls the new version "stronger and more sophisticated than ever"
+
+Ahhh.... influence, and storytelling:
+
+> Even though Rogers was not yet nationally known, he was chosen to testify because of his ability to make persuasive arguments and to connect emotionally with his audience. The clip of Rogers' testimony, which was televised and has since been viewed by millions of people on the internet, helped to secure funding for PBS for many years afterwards.
+
+Lets watch the clip, or queue it up for later at least. He starts to speak at 0:20:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fKy7ljRr0AA?start=20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I _will_ watch this video, just not quite right now. 
+
+Oh, and he's from Pittsburgh. I went to school near there, just finished working remotely for a company in Pittsburgh. I loved visiting the city.
+
 ## Optional Next Steps
 
 1. I could read [Good Neighbor: The Life and Work of Fred Rogers](https://www.amazon.com/Good-Neighbor-Life-Work-Rogers/dp/1419735160/ref=sr_1_2?dchild=1&keywords=the+good+neighbor&qid=1601501543&sr=8-2)
 2. Actually watch some Mr. Rogers clips. I'm tempted to do that anyway, now. 
 3. Any recommended youtube videos?
+
