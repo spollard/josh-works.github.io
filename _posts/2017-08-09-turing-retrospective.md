@@ -70,11 +70,9 @@ I expand on this concept below, but I have a "slow but thorough" learning style.
 
 If I didn't have the time to dig deep into something, I'd skip it, and aim to complete the projects.
 
-If I were going to re-do my module three prework, I'd work through these resources, very carefully:
+If I were going to re-do my module three prework, I'd work through this tutorial three times in a row:
 
-- [https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one)
-- [http://apionrails.icalialabs.com/book/chapter_one](http://apionrails.icalialabs.com/book/chapter_one)
-- [https://www.codeschool.com/courses/surviving-apis-with-rails](https://www.codeschool.com/courses/surviving-apis-with-rails)
+[Build a RESTful JSON API With Rails 5 - Part One (DigitalOcean Tutorial)](https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-one)
 
 I'd find some node/express/deep dives into JavaScript before module four started. I felt a bit behind there as well.
 
