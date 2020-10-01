@@ -17,10 +17,18 @@ So here's how to book that direct discussion. You'll book an hour of my time, yo
 
 I'll deliver you 10x in value as you spend on the session. 
 
+<div class="testamonial" markdown='1'>
+
+![andrew brown](/images_2020/andrew-brown.jpg "Andrew Brown")
+<span>Andrew Brown</span>
+
+I was interviewing for a new job. I know Josh loves the topic of salary negotiations, so I gave him a call and he coached me through the process. 
+
+One week and two phone calls later, I got the job **and I’d negotiated a $15k/year raise over what the company claimed was the highest they could go.**
+
+</div>
+
 ## Roadmapping Sessions
-
-
-At the end of our chat (over Zoom or IRL) you'll have things to mull over over the next few weeks as you think on the big problems you're facing. I'll always send over a list of resources that seem relevant, possible next steps, etc. 
 
 ### How It Works
 
@@ -31,15 +39,13 @@ At the end of our chat (over Zoom or IRL) you'll have things to mull over over t
 1. We meet (IRL or Zoom) and chat about this
 1. I take detailed notes, and follow up afterwords
 
-These roadmapping sessions are an entry-way to any other work arrangements too. 
+These roadmapping sessions are the jumping off point to all other work arrangements. 
 
-
-#### 👉 [$250 Roadmapping Session](https://calendly.com/joshthompson/roadmapping) (Please only pay this if you're using a company credit card)
+#### 👉 [$250 Roadmapping Session](https://calendly.com/joshthompson/roadmapping) (Please select this option only if you're using a company credit card)
 #### 👉 [$50 Roadmapping Session](https://calendly.com/joshthompson/roadmapping-50) 
 #### 👉 [$0 ☕️🍺 chat](https://calendly.com/joshthompson/coffee)
 
 Why do I have "expensive", "cheap", and "free" options, all side-by-side? If you're wondering, pick book a session (any session!) and ask me to explain. _Hint: Which one offers an NDA?_
-
 
 
 ## Retainers

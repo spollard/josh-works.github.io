@@ -126,7 +126,7 @@ I know most of you will not read the book, despite my strong suggestion and humb
 
 If you're not going to read the book, you don't get to question my methodology for the rest of this guide. Accept the following truth:
 
-*To learn hard things, you need to build mental models of the hard thing, and to build this mental model,  you need practice and repetition.*
+*To learn hard things, you need to build mental models of the hard thing, and to build this mental model,   you need practice and repetition.*
 
 Any individual or team that performs at a high level is on board with the value of "drilling" important things. Fire drills, drills for sports teams, drilling to practice something you'll be tested on - all of these are ways to make sure not only that you know how to do the right task, but _you can't get that task wrong_. 
 
