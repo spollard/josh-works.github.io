@@ -14,7 +14,49 @@ image: "/images/2020-08-03-screen-01.JPG"
 
 #### tl;dr: I'm creating a `runbook` for a very specific, delicate, and potentially time-consuming and emotionally-charged operation to `replace my 70-year-old newly-widowed mother-in-law's ancient desktop computer with a easy-for-me-to-manage Chromebook`
 
-["shut up and take my money" (aka `jump to pricing`)](#purchase-options)
+Update: I posted to [r/ChromeOS](https://www.reddit.com/r/chromeos/comments/it2fn2/how_much_should_i_spend_to_get_a_solid_chromebook/) this question:
+
+**How much should I spend to get a solid Chromebook for aging mother-in-law?**
+
+> My mother-in-law is almost 75. Her husband managed the computer stuff for her, and he died in January.
+> 
+> I'm the tech-savvy son in law who gets the phone calls to help her connect to the WiFi again, or help her print stuff.
+> 
+> I'd love to buy her a chromebook - I think it'll serve her well, be easy for her to use, and will make it way easier for me to help her with computer things.
+> 
+> Money isn't an object, per se. I'm willing to spend $700 on a good machine if that's what does the job.
+> 
+> But even if I am to spend that amount, I still don't know where to start.
+> 
+> So, do any of you have aging parents who you've gotten setup with a Chromebook?
+> 
+> What laptop did you get? Are you happy with it? Any regrets or things you wish you did differently?
+
+Here's results from the thread:
+
+My MIL has simple needs:
+
+She has simple needs:
+- Facebook
+- ~facetime/hangouts/zoom~ facetime won't be possible on a Chromebook. No problem
+- AOL email (AOL is horrible)
+- banking and stuff
+- read her kids' instagrams, Tumblrs, etc
+- print stuff
+
+Printing could be tricky:
+
+> I'd be cautious about getting a Chromebook if printing is a requirement. I've not had much luck getting Chrome OS to recognise printers and I have to transfer PDFs to another machine. I've tried with two HP printers which work fine on Windows and Ubuntu, but your mileage may vary if she has a different model of printer.
+
+But then:
+
+> If your printer is Google Cloud Print compatible then its super easy.
+
+Oh, yeah, but _of course_ [Google is sunsetting Google Cloud Print in 3 months](https://www.theverge.com/2019/11/22/20977888/google-cloud-print-shut-down-date-support). 🙄
+
+So... we'll see. I'll buy something, might end up replacing her printer too. 
+
+
 
 Wikipedia says a `runbook` is:
 

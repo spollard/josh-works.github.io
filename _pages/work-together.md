@@ -17,19 +17,35 @@ So here's how to book that direct discussion. You'll book an hour of my time, yo
 
 I'll deliver you 10x in value as you spend on the session. 
 
+<div class="testamonial" markdown='1'>
+
+![andrew brown](/images_2020/andrew-brown.jpg "Andrew Brown")
+<span>Andrew Brown</span>
+
+I was interviewing for a new job. I know Josh loves the topic of salary negotiations, so I gave him a call and he coached me through the process. 
+
+One week and two phone calls later, I got the job **and I’d negotiated a $15k/year raise over what the company claimed was the highest they could go.**
+
+</div>
+
 ## Roadmapping Sessions
 
+### How It Works
 
-At the end of our chat (over Zoom or IRL) you'll have things to mull over over the next few weeks as you think on the big problems you're facing. I'll always send over a list of resources that seem relevant, possible next steps, etc. 
+1. You click the link below (read 'em all, if you want. They all go to different Calendly pages)
+1. You answer some questions
+1. You confirm the date/time, pay via Calendly/Stripe
+1. I'll email you some follow-up questions to help build context before we actually chat
+1. We meet (IRL or Zoom) and chat about this
+1. I take detailed notes, and follow up afterwords
 
-Each price links to the relevant Calendly page, where you'll pick a time, Zoom or somewhere in Denver, and make a payment (or not) via Stripe. 
+These roadmapping sessions are the jumping off point to all other work arrangements. 
 
-- [$250](https://calendly.com/joshthompson/roadmapping) (Please only pay this if you're using a company credit card)
-- [$50](https://calendly.com/joshthompson/roadmapping-50) 
-- [$0](https://calendly.com/joshthompson/coffee)
+#### 👉 [$250 Roadmapping Session](https://calendly.com/joshthompson/roadmapping) (Please select this option only if you're using a company credit card)
+#### 👉 [$50 Roadmapping Session](https://calendly.com/joshthompson/roadmapping-50) 
+#### 👉 [$0 ☕️🍺 chat](https://calendly.com/joshthompson/coffee)
 
 Why do I have "expensive", "cheap", and "free" options, all side-by-side? If you're wondering, pick book a session (any session!) and ask me to explain. _Hint: Which one offers an NDA?_
-
 
 
 ## Retainers
@@ -52,11 +68,11 @@ I don't know for sure that I can do all this. You wouldn't believe me if I said 
 
 Learn more about the session (and schedule it if you want) here:
 
-👉 **[Book roadmapping session (regular price)](https://calendly.com/joshthompson/roadmapping).**
+👉 **[Book roadmapping session (regular price)](https://calendly.com/joshthompson/roadmapping)**
 
 Alternatively, if $250 is a bit steep but you still want to talk, I'd love to do so:
 
-👉 **[Book roadmapping session (discount)](https://calendly.com/joshthompson/roadmapping-50).[^free-option]**
+👉 **[Book roadmapping session (discount)](https://calendly.com/joshthompson/roadmapping-50)[^free-option]**
 
 
 [^free-option]: I have a free option, too. 😉 Check out my "grab a coffee with me" open invite: [https://calendly.com/joshthompson/coffee](https://calendly.com/joshthompson/coffee). And yes, right above, I do this for $250. Are you curious why this might be? Book a session, ask me why. 
