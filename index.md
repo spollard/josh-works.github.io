@@ -13,6 +13,16 @@ AKA projects I have recently shipped, or am in the midst of shipping:
 
 {% include newsletter.html %}
 
+I'm interested in:
+- group-decision-making-as-infrastructure
+- authority & enforcement structores
+- [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law)
+- Building (and losing!) trust (at an individual or institutional level)
+- Urban forms as platforms for reducing oppression
+- Helping under-paid people negotiatiate for better compensation packages (I'm at ~$150k/yr in improve salaries, spread uneavenly across about 20 people).
+
+And so much more. 
+
 -------------------------------------
 
 ## Start Here
