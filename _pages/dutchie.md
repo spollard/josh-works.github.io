@@ -9,7 +9,7 @@ image: ""
 
 👋 Hi there, Dutchie. 
 
-You've got a bunch of open engineering roles, and I _think_ I could be a really good fit for one of them.
+You've got a bunch of [open roles](https://dutchie.com/careers). Seventeen, as of October 13th. Most are in Engineering, but you've got a few Sales and Success roles. I _think_ I could be a good fit for one of the engineering roles, _or_ a role that doesn't quite exist.
 
 I'm reaching out because I had a lovely call recently with Chris Hough, a very experienced software developer at Dutchie who works remotely from Boulder. He and I spoke mostly about his experience helping early-career software developers grow in their skills. This is a topic very near-and-dear to my heart. I run https://intermediateruby.com/, and am continying to add resources to help early-career software developers more quickly become solid "mid-level" developers[^intermediate-ruby-resources]. 
 
