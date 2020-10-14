@@ -5,6 +5,7 @@ ruby '2.5.8'
 gem "jekyll", ">= 3.7"
 gem 'figaro'
 gem 'html-proofer'
+gem "kramdown", ">= 2.3.0"
 
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
