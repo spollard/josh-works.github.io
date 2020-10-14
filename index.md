@@ -3,62 +3,29 @@ layout: default
 title: Home
 ---
 
-# Welcome!
+# Currently working on, or thinking about:
 
-I'm Josh. I do a mix of things, mostly related to software development, rock climbing, and helping software developers and rock climbers be better at what they do. 
+AKA projects I have recently shipped, or am in the midst of shipping:
 
-My wife and I are based in Golden, CO. 
+- I am building [intermediateruby.com](https://intermediateruby.com/). It's a work-in-progress, lots to come
+- [A technically-inclined millenial's guide to managing their aging parent's laptop](https://josh.works/upgrade-parents-junky-old-laptop-to-chromebook)
+- Legalizing an authentic and beautiful style of building buildings in Golden, CO. (It's a long story. Punch in your email address below to figure out what I'm talking about.)
 
-# What I'm working on right now 🕐
-
-Two things:
-
-## Current Project \#1 `IntermediateRuby`
-
-I'm working on helping early-career Ruby/Rails software developers more quickly grow their skills. 
-
-I'm doing this here: 
-
-**[--> https://intermediateruby.com/](https://intermediateruby.com/)**
-
-I'm almost done with my first 5-part (😱) series. I paid a very kind and super-senior Rails Dev (👋 [Matt Swanson](https://twitter.com/_swanson/status/1258868684921147395)) to pair with me through an OSS bug fix. I recorded the whole session, and am breaking it up into short lessons with _very_ detailed accompanying notes. 
-
-I'm not done yet, but already I'm _really_ pleased with how it's turning out.
-
-[--> Jekyll Bug Fix with Matt: Part 0 - Series Introduction](https://intermediateruby.com/make-oss-contributions-part-0-introduction)
-
-
-## Current Project \#2 `Upgrade Your Aging Parent's Junky Old Laptop to a Chromebook: A Guide For Technical People`
-
-_Here's the origin story:_
-
-I spent a few hours recently helping my 75-year-old mother-in-law reconnect her junky old Windows laptop to the internet. Across five phone calls, and many pictures of her computer screen, we got her internet working again. 
-
-As I did this, I live-tweeted the experience. It was about 20 tweets. A few pictures my mother-in-law sent me, and a poll.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My mother in law is frustrated that her internet wasn&#39;t working today. It&#39;s been broken all day. I&#39;ve called her a few times between other events to try to help debug it. <br><br>This is a screenshot I just received (via email) that she took *with her phone* <a href="https://t.co/5KnfCGZ2F4">pic.twitter.com/5KnfCGZ2F4</a></p>&mdash; Josh Thompson (@josh_works) <a href="https://twitter.com/josh_works/status/1290420667444338688?ref_src=twsrc%5Etfw">August 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-This has been a painful process for both of us. I'm my family's "tech person", and I'm going to document the process by which I upgrade my mother-in-law's old Windows-something-or-another to a Chromebook. 
-
-I learn and work in public. If my situation is at all similar to your situation, please follow the link and punch in your email, or hit one of the pre-purchase buttons! 
-
-**[--> Upgrading Your Parent's Junky Old Laptop to a Chromebook]({{ site.baseurl }}{% link _posts/2020-08-03-parents-guide-to-painless-chromebook-setup.md %})**
+{% include newsletter.html %}
 
 -------------------------------------
 
-## Other Things I've Written
+## Start Here
 
-I've written north of [240 blog posts]({{ site.baseurl }}{% link _pages/blog.md %}), which is too much for even _me_ to keep track of. 
+I've written a lot. If you want a good starting point, check out the following topics:
 
-Here's some possible places to start:
 
-### Turing
+### The Turing School of Software and Design
 
 I like the Turing School of Software and Design. It's how I got my start in software. I work extensively with future/current Turing students, and many alumn on job-hunting, salary negotiation, job success-type topics. 
 
-- [Turing Prep Chapter 1: Make Mod 1 Easier Than It Otherwise Would Be]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %})
-- [A Large Collection of Thoughts and Resources about the Turing School]({{ site.baseurl }}{% link _pages/turing.md %})
-- [Build a Personal Website in Jekyll - A Detailed Guide For First-Timers]({{ site.baseurl }}{% link _posts/2020-08-06-setting-up-basic-jekyll-site-for-turing-backend-students.md %})
+- [Turing Prep Chapter 1 of 8: Make Mod 1 Easier Than It Otherwise Would Be]({{ site.baseurl }}{% link _posts/2019-05-09-turing_prework_01_intro.md %})
+- [Build a Personal Website in Jekyll - A Detailed Guide For Ambitious Backend Mod 1 Students]({{ site.baseurl }}{% link _posts/2020-08-06-setting-up-basic-jekyll-site-for-turing-backend-students.md %})
 
 ### Programming (Ruby/Rails focused)
 

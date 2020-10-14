@@ -15,7 +15,16 @@ Either you or I have a suspicion that we should talk a bit more directly about t
 
 So here's how to book that direct discussion. You'll book an hour of my time, you might pay me for it (if you're interested in an ongoing work arrangement where money changes hand, I'd encourage a paid roadmapping session), and then we'll talk.
 
-I'll deliver you 10x in value as you spend on the session. 
+I'll deliver you 10x in value as you spend on the session. The topics vary, but based on your spot in the world, are likely consistent with others in your "cohort".
+
+- **Early-career Employees:** Career-related growth, or how to dovetail career and "non-career" growth goals side by side. How to most quickly level up your skills, understand how you deliver business value, etc.
+- **Early-career Managers/Team Leads:** (IC's or Managers) How to discuss/make visible the business value you deliver. How to protect yourself and your team from the organization. How to improve the organization _by_ protecting yourself/your team.
+- **Early-stage Founders:** Targeted and expensive problem-solving, when you don't have the resources or the network to quickly and responsibly make that full-time hire at a cost of $200,000/yr and 25% of your already-scarce discressionary work-hours. 
+- **Anyone who works (or wants to work) directly with other companies:** How to position your value to the company, deliver more value, get paid more and ultimately get more power to exert influence in the world.
+
+Don't take my word for it. Here's a smattering of quotes. I'd like to highlight that these are people from _very different walks of life_, and a large part of my ability to deliver value to anyone is the fact that I understand key motivations for a wide range of persons, including people/groups traditionally considered to be at odds with each other.
+
+## 
 
 <div class="testamonial" markdown='1'>
 
@@ -25,8 +34,15 @@ I'll deliver you 10x in value as you spend on the session.
 I was interviewing for a new job. I know Josh loves the topic of salary negotiations, so I gave him a call and he coached me through the process. 
 
 One week and two phone calls later, I got the job **and I’d negotiated a $15k/year raise over what the company claimed was the highest they could go.**
-
 </div>
+
+<div class="testamonial" markdown='1'>
+
+
+Josh is the 💩.
+</div>
+
+
 
 ## Roadmapping Sessions
 
